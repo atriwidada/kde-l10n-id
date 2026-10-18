@@ -1,0 +1,309 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# SPDX-FileCopyrightText: 2018, 2019, 2020, 2022, 2024, 2025 Wantoyo <wantoyek@gmail.com>
+# Linerly <linerly@protonmail.com>, 2022.
+# Aziz Adam Adrian <4.adam.adrian@gmail.com>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-11-17 16:19+0000\n"
+"PO-Revision-Date: 2025-03-15 05:34+0700\n"
+"Last-Translator: Wantoyo <wantoyek@gmail.com>\n"
+"Language-Team: https://t.me/Localizations_KDE_Indonesia\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 24.12.1\n"
+
+#: package/contents/ui/LocationsFixedView.qml:39
+#, kde-format
+msgctxt ""
+"@label:chooser Tap should be translated to mean touching using a touchscreen"
+msgid "Tap to choose your location on the map."
+msgstr "Ketuk untuk memilih lokasi Anda di peta."
+
+#: package/contents/ui/LocationsFixedView.qml:40
+#, kde-format
+msgctxt ""
+"@label:chooser Click should be translated to mean clicking using a mouse"
+msgid "Click to choose your location on the map."
+msgstr "Kelik untuk memilih lokasi Anda di peta."
+
+#: package/contents/ui/LocationsFixedView.qml:78
+#: package/contents/ui/LocationsFixedView.qml:103
+#, kde-format
+msgid "Zoom in"
+msgstr "Zoom perbesar"
+
+#: package/contents/ui/LocationsFixedView.qml:222
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Modified from <link url='https://commons.wikimedia.org/wiki/File:"
+"World_location_map_(equirectangular_180).svg'>World location map</link> by "
+"TUBS / Wikimedia Commons / <link url='https://creativecommons.org/licenses/"
+"by-sa/3.0'>CC BY-SA 3.0</link>"
+msgstr ""
+"Dimodifikasi dari <link url='https://commons.wikimedia.org/wiki/File:"
+"World_location_map_(equirectangular_180).svg'>World location map</link> oleh "
+"TUBS / Wikimedia Commons / <link url='https://creativecommons.org/licenses/"
+"by-sa/3.0'>CC BY-SA 3.0</link>"
+
+#: package/contents/ui/LocationsFixedView.qml:235
+#, kde-format
+msgctxt "@label: textbox"
+msgid "Latitude:"
+msgstr "Garis lintang:"
+
+#: package/contents/ui/LocationsFixedView.qml:261
+#, kde-format
+msgctxt "@label: textbox"
+msgid "Longitude:"
+msgstr "Garis bujur:"
+
+#: package/contents/ui/main.qml:98
+#, kde-format
+msgid "The blue light filter makes the colors on the screen warmer."
+msgstr "Filter cahaya biru membuat warna pada layar menghangat."
+
+#: package/contents/ui/main.qml:109
+#, kde-format
+msgid "Switching times:"
+msgstr "Waktu peralihan:"
+
+#: package/contents/ui/main.qml:111
+#, kde-format
+msgid "Always off"
+msgstr "Selalu mati"
+
+#: package/contents/ui/main.qml:112
+#, kde-format
+msgid "Sunset and sunrise at current location"
+msgstr "Matahari tenggelam dan matahari terbit di lokasi saat ini"
+
+#: package/contents/ui/main.qml:113
+#, kde-format
+msgid "Sunset and sunrise at manual location"
+msgstr "Matahari tenggelam dan matahari terbit di lokasi tertentu"
+
+#: package/contents/ui/main.qml:114
+#, kde-format
+msgid "Custom times"
+msgstr "Waktu kustom"
+
+#: package/contents/ui/main.qml:115
+#, kde-format
+msgid "Always on night color"
+msgstr "Selalu pada warna malam"
+
+#: package/contents/ui/main.qml:167
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The device's location will be periodically updated using GPS (if available), "
+"or by sending network information to <link url='https://location.services."
+"mozilla.com'>Mozilla Location Service</link>."
+msgstr ""
+"Lokasi peranti ini akan dideteksikan menggunakan GPS (jika tersedia), atau "
+"dengan mengirimkan informasi jaringan ke <a href=\"https://location.services."
+"mozilla.com\">Mozilla Location Service</a>."
+
+#: package/contents/ui/main.qml:186
+#, kde-format
+msgid "Day color temperature:"
+msgstr "Suhu warna siang:"
+
+#: package/contents/ui/main.qml:229 package/contents/ui/main.qml:288
+#, kde-format
+msgctxt "Color temperature in Kelvin"
+msgid "%1K"
+msgstr "%1K"
+
+#: package/contents/ui/main.qml:233 package/contents/ui/main.qml:292
+#, kde-format
+msgctxt "Night colour red-ish"
+msgid "Warm"
+msgstr "Hangat"
+
+#: package/contents/ui/main.qml:239 package/contents/ui/main.qml:298
+#, kde-format
+msgctxt "No blue light filter activated"
+msgid "Cool (no filter)"
+msgstr "Dingin (tanpa filter)"
+
+#: package/contents/ui/main.qml:239 package/contents/ui/main.qml:298
+#, kde-format
+msgctxt "Night colour blue-ish"
+msgid "Cool"
+msgstr "Dingin"
+
+#: package/contents/ui/main.qml:245
+#, kde-format
+msgid "Night color temperature:"
+msgstr "Suhu warna malam:"
+
+#: package/contents/ui/main.qml:309
+#, kde-format
+msgid "Latitude: %1°   Longitude: %2°"
+msgstr "Garis lintang: %1°   Garis bujur: %2°"
+
+#: package/contents/ui/main.qml:319
+#, kde-format
+msgid "Begin night color at:"
+msgstr "Awal warna malam pukul:"
+
+#: package/contents/ui/main.qml:332 package/contents/ui/main.qml:355
+#, kde-format
+msgid "Input format: HH:MM"
+msgstr "Format input: JJ:MM"
+
+#: package/contents/ui/main.qml:342
+#, kde-format
+msgid "Begin day color at:"
+msgstr "Awal warna siang pukul:"
+
+#: package/contents/ui/main.qml:364
+#, kde-format
+msgid "Transition duration:"
+msgstr "Durasi transisi:"
+
+#: package/contents/ui/main.qml:373
+#, kde-format
+msgid "%1 minute"
+msgid_plural "%1 minutes"
+msgstr[0] "%1 menit"
+msgstr[1] "%1 menit"
+
+#: package/contents/ui/main.qml:386
+#, kde-format
+msgid "Input minutes - min. 1, max. 600"
+msgstr "Menit input - men. 1, maks. 600"
+
+#: package/contents/ui/main.qml:404
+#, kde-format
+msgid "Error: Transition time overlaps."
+msgstr "Error: Waktu transisi tumpang tindih."
+
+#: package/contents/ui/main.qml:426
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Locating…"
+msgstr "Pelokasian..."
+
+#: package/contents/ui/TimingsView.qml:32
+#, kde-format
+msgid ""
+"Color temperature begins changing to night time at %1 and is fully changed "
+"by %2"
+msgstr ""
+"Suhu warna berubah ke waktu malam pada pukul %1 dan berubah penuh "
+"berdasarkan %2"
+
+#: package/contents/ui/TimingsView.qml:39
+#, kde-format
+msgid ""
+"Color temperature begins changing to day time at %1 and is fully changed by "
+"%2"
+msgstr ""
+"Suhu warna berubah ke waktu siang pada pukul %1 dan berubah penuh "
+"berdasarkan %2"
+
+#, fuzzy
+#~| msgid "This is what Night Color will look like when active."
+#~ msgid "This is what day color temperature will look like when active."
+#~ msgstr "Seperti inilah tampilan Warna Malam saat aktif."
+
+#, fuzzy
+#~| msgid "This is what Night Color will look like when active."
+#~ msgid "This is what night color temperature will look like when active."
+#~ msgstr "Seperti inilah tampilan Warna Malam saat aktif."
+
+#, fuzzy
+#~| msgid "Activate Night Color"
+#~ msgid "Activate blue light filter"
+#~ msgstr "Aktifkan Warna Malam"
+
+#~ msgid "Turn on at:"
+#~ msgstr "Nyalakan pada:"
+
+#~ msgid "Turn off at:"
+#~ msgstr "Padamkan pada:"
+
+#~ msgid "Night Color begins changing back at %1 and ends at %2"
+#~ msgstr "Awal Warna Malam kembali berubah pada %1 dan selesai pada %2"
+
+# Perlu tinjauan
+#~ msgid "Error: Morning is before evening."
+#~ msgstr "Error: Pagi menjelang petang."
+
+#~ msgid "Detect Location"
+#~ msgstr "Deteksikan Lokasi"
+
+#~ msgid ""
+#~ "The device's location will be detected using GPS (if available), or by "
+#~ "sending network information to <a href=\"https://location.services."
+#~ "mozilla.com\">Mozilla Location Service</a>."
+#~ msgstr ""
+#~ "Lokasi perangkat ini akan dideteksikan menggunakan GPS (jika tersedia), "
+#~ "atau dengan mengirimkan informasi jaringan ke <a href=\"https://location."
+#~ "services.mozilla.com\">Mozilla Location Service</a>."
+
+#~ msgid "Night Color begins at %1"
+#~ msgstr "Awal Warna Malam pada pukul %1"
+
+#~ msgid "Color fully changed at %1"
+#~ msgstr "Warna secara penuh berubah pada pukul %1"
+
+#~ msgid "Normal coloration restored by %1"
+#~ msgstr "Pewarnaan normal dipulihkan kembali pada pukul %1"
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "Wantoyo"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "wantoyek@gmail.com"
+
+#~ msgid "Night Color"
+#~ msgstr "Warna Malam"
+
+#~ msgid "Roman Gilg"
+#~ msgstr "Roman Gilg"
+
+#~ msgid " K"
+#~ msgstr " K"
+
+#~ msgid "Operation mode:"
+#~ msgstr "Mode operasi:"
+
+#~ msgid "Automatic"
+#~ msgstr "Otomatis"
+
+#~ msgid "Times"
+#~ msgstr "Waktu"
+
+#~ msgid "Constant"
+#~ msgstr "Konstan"
+
+#~ msgid "Sunrise begins:"
+#~ msgstr "Awal matahari terbit:"
+
+#~ msgid "(Input format: HH:MM)"
+#~ msgstr "(Format input: JJ:MM)"
+
+#~ msgid "Sunset begins:"
+#~ msgstr "Awal matahari terbenam:"
+
+#~ msgid "...and ends:"
+#~ msgstr "...dan berakhir:"
+
+#~ msgid "Manual"
+#~ msgstr "Manual"
+
+#~ msgid "(HH:MM)"
+#~ msgstr "(JJ:MM)"

@@ -1,0 +1,937 @@
+#
+# Arif Budiman <arifpedia@gmail.com>, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-25years-kde-org 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-12-22 02:01+0000\n"
+"PO-Revision-Date: 2023-08-16 09:17+0700\n"
+"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
+"Language-Team: Indonesian <kde-i18n-doc@kde.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#: config.yaml:0
+msgid "KDE"
+msgstr "KDE"
+
+#: config.yaml:0
+msgid "Celebrate with us 25 years of awesomeness"
+msgstr "Rayakan bersama kami 25 tahun yang luar biasa"
+
+#: config.yaml:0 i18n/en.yaml:7
+msgid "Activities"
+msgstr "Aktivitas"
+
+#: config.yaml:0
+msgid "Plasma"
+msgstr "Plasma"
+
+#: config.yaml:0
+msgid "History"
+msgstr "Sejarah"
+
+#: config.yaml:0
+msgid "Support"
+msgstr "Dukungan"
+
+#: config.yaml:0
+msgid "Merch"
+msgstr "Pernak-pernik"
+
+#. home.history.gallery.202125thanniversary
+#: content/_index.md:0 i18n/en.yaml:201
+msgid "KDE's 25th Anniversary"
+msgstr "Ulang Tahun KDE yang ke-25"
+
+#. home.description
+#: i18n/en.yaml:2
+msgid ""
+"KDE is 25 years old! Come celebrate with us, attend our talks, join our "
+"offline meetups, check out the history of the project — and play with some "
+"of historic landmark desktops and software, and get some really cool merch!"
+msgstr ""
+"KDE telah berusia 25 tahun! Mari rayakan bersama kami, hadiri diskusi kami, "
+"bergabunglah dengan pertemuan luring kami, simak sejarah proyek ini - dan "
+"cobalah bermain dengan beberapa desktop dan perangkat lunak bersejarah, dan "
+"dapatkan beberapa pernak-pernik yang sangat keren!"
+
+#. home.activities.description
+#: i18n/en.yaml:9
+msgid ""
+"<p>Join our fireside talks and meet other KDE friends and enthusiasts.</p>\n"
+"<p><b>NOTE:</b> Links to the actual talks will appear here shortly before "
+"each chat starts.</p>"
+msgstr ""
+"<p>Bergabunglah dengan obrolan hangat kami dan temui teman dan penggemar KDE "
+"lainnya.</p>\n"
+"<p><b>CATATAN:</b> Tautan ke sesi obrolan akan muncul di sini sesaat sebelum "
+"obrolan dimulai.</p>"
+
+#. home.activities.fireside
+#: i18n/en.yaml:16
+msgid "Fireside Chats"
+msgstr "Obrolan Hangat"
+
+#. home.activities.fireside.1
+#: i18n/en.yaml:18
+msgid "October 14, at 17:00 UTC: KDE e.V. Board"
+msgstr "14 Oktober, pukul 17:00 UTC: Dewan KDE e.V."
+
+#. home.activities.fireside.1.description
+#: i18n/en.yaml:20
+msgid ""
+"Aleix, Lydia, Eike, Adriaan and Neofytos are the KDE volunteers that run "
+"[KDE e.V.](https://ev.kde.org/), the foundation that supports the KDE "
+"Community in all organizational, financial and legal matters. In this "
+"fireside chat we sit down with all five of them to talk about KDE's history, "
+"achievements and where they think KDE is headed. We will also dive into what "
+"it means to support the KDE Community for almost 25 years."
+msgstr ""
+"Aleix, Lydia, Eike, Adriaan dan Neofytos adalah para sukarelawan KDE yang "
+"menjalankan [KDE e.V.](https://ev.kde.org/), sebuah yayasan yang mendukung "
+"Komunitas KDE dalam segala hal yang berhubungan dengan organisasi, keuangan "
+"dan hukum. Dalam obrolan ringan kali ini, kami duduk bersama mereka berlima "
+"untuk membicarakan sejarah KDE, pencapaian, dan kemana arah KDE. Kami juga "
+"akan membahas tentang apa artinya mendukung Komunitas KDE selama hampir 25 "
+"tahun."
+
+#. home.activities.fireside.2
+#: i18n/en.yaml:27
+msgid "October 15, at 18:00 UTC: Jeri Ellsworth"
+msgstr "15 Oktober, pukul 18:00 UTC: Jeri Ellsworth"
+
+#. home.activities.fireside.2.description
+#: i18n/en.yaml:29
+msgid ""
+"Jeri Ellsworth, self-taught electronics engineer, race driver, and maker and "
+"inventor supreme, will give us a glimpse into her latest project: [Tilt 5]"
+"(https://www.tiltfive.com/), an augmented reality system for collaborative "
+"tabletop gaming. Yes, it is awesome as it sounds."
+msgstr ""
+"Jeri Ellsworth, insinyur elektronik otodidak, pembalap, dan pembuat serta "
+"penemu terkemuka, akan memberi kita gambaran sekilas tentang proyek "
+"terbarunya: [Tilt 5](https://www.tiltfive.com/), sebuah sistem realitas "
+"tertambah untuk permainan meja kolaboratif. Ya, ini sangat mengagumkan "
+"seperti kedengarannya."
+
+#. home.activities.fireside.3
+#: i18n/en.yaml:34
+msgid "October 23, at 15:00 UTC: Massimo Stella"
+msgstr "23 Oktober, pukul 15:00 UTC: Massimo Stella"
+
+#. home.activities.fireside.3.description
+#: i18n/en.yaml:36
+msgid ""
+"Massimo Stella of Kdenlive will talk about how KDE's video editor came to "
+"be, where it is now and what we can look forward to in the future of open "
+"source film-making."
+msgstr ""
+"Massimo Stella dari Kdenlive akan berbicara tentang bagaimana editor video "
+"KDE muncul, di mana posisinya sekarang dan apa yang dapat kita nantikan di "
+"masa depan dalam pembuatan film berbasis sumber terbuka."
+
+#. home.activities.fireside.4
+#: i18n/en.yaml:40
+msgid "October 25, at 17:00 UTC: Matthias Ettrich"
+msgstr "25 Oktober, pukul 17:00 UTC: Matthias Ettrich"
+
+#. home.activities.fireside.4.description
+#: i18n/en.yaml:42
+msgid ""
+"25 years ago Matthias Ettrich sent a now [famous email](https://groups."
+"google.com/g/de.comp.os.linux.misc/c/SDbiV3Iat_s/m/zv_D_2ctS8sJ?pli=1) to "
+"the de.comp.os.linux.misc news group. In that message, Matthias asked "
+"developers to join him in building a Kool Desktop Environment (and a set of "
+"apps to match), all geared towards end users. We will chat with Matthias "
+"about how KDE started, dig into the details and fascinating anecdotes that "
+"shaped the project and our community in its early days, and discover his "
+"perspective on what has become of his vision since then."
+msgstr ""
+"25 tahun yang lalu Matthias Ettrich mengirimkan sebuah email yang sekarang "
+"menjadi terkenal (https://groups.google.com/g/de.comp.os.linux.misc/c/"
+"SDbiV3Iat_s/m/zv_D_2ctS8sJ?pli=1) ke grup berita de.comp.os.linux.misc. "
+"Dalam pesan tersebut, Matthias mengajak para pengembang untuk bergabung "
+"dengannya dalam membangun sebuah Kool Desktop Environment (dan seperangkat "
+"aplikasi yang sesuai), yang ditujukan untuk pengguna akhir. Kami akan "
+"berbincang-bincang dengan Matthias tentang bagaimana KDE dimulai, menggali "
+"detail dan anekdot menarik yang membentuk proyek dan komunitas kami di masa-"
+"masa awal, dan menemukan perspektifnya tentang apa yang telah terjadi pada "
+"visinya sejak saat itu."
+
+#. home.activities.fireside.registration
+#: i18n/en.yaml:51
+msgid "Register here"
+msgstr "Daftar disini"
+
+#. home.activities.fireside.ifregistered
+#: i18n/en.yaml:53
+msgid "The room opens shortly before the beginning of the talk."
+msgstr "Ruangan dibuka sesaat sebelum acara dimulai."
+
+#. home.activities.fireside.access
+#: i18n/en.yaml:55
+msgid "Access room"
+msgstr "Ruang akses"
+
+#. home.activities.meetups
+#: i18n/en.yaml:58
+msgid "Meetups"
+msgstr "Pertemuan"
+
+#. home.activities.meetups.description
+#: i18n/en.yaml:60
+msgid ""
+"Let's celebrate KDE's 25th Anniversary together! Join the meetups and get "
+"together with fellow Community members, make friends, and explore similar "
+"interests. Events are happening, both online and in-person! You can join the "
+"in-person events in Berlin, Malaga, Barcelona, Nurnberg, or Valencia or host "
+"your own event in your city and meet for coffee or drinks."
+msgstr ""
+"Mari rayakan Hari Jadi KDE yang ke-25 bersama-sama! Bergabunglah dalam acara "
+"pertemuan dan berkumpul dengan sesama anggota Komunitas, menjalin "
+"pertemanan, dan mengeksplorasi minat yang sama. Berbagai acara sedang "
+"berlangsung, baik secara online maupun langsung! Anda dapat bergabung dengan "
+"acara langsung di Berlin, Malaga, Barcelona, Nurnberg, atau Valencia atau "
+"mengadakan acara Anda sendiri di kota Anda dan bertemu untuk minum kopi atau "
+"minuman."
+
+#. home.activities.meetups.more
+#: i18n/en.yaml:67
+msgid "Find a meetup near you!"
+msgstr "Temukan acara pertemuan di dekat Anda!"
+
+#. home.activities.AMA
+#: i18n/en.yaml:70
+msgid "Reddit AMA"
+msgstr "Reddit AMA"
+
+#. home.activities.AMA.description
+#: i18n/en.yaml:72
+msgid ""
+"Nate Graham (developer and author of _This Week in KDE_), Aleix Pol "
+"(President of KDE), and Lydia Pintscher (Vice President) will be answering "
+"all your questions on [Reddit](https://reddit.com/r/kde) live on Sunday, "
+"October 17th at 16:00 UTC. Don't miss it!"
+msgstr ""
+"Nate Graham (pengembang dan penulis _This Week in KDE_), Aleix Pol (Presiden "
+"KDE), dan Lydia Pintscher (Wakil Presiden) akan menjawab semua pertanyaan "
+"Anda di [Reddit](https://reddit.com/r/kde) secara langsung pada hari Minggu, "
+"17 Oktober pukul 16:00 UTC. Jangan sampai ketinggalan!"
+
+#. home.activities.AMA.end
+#: i18n/en.yaml:77
+msgid ""
+"But you can still visit [KDE's subreddit](https://reddit.com/r/kde) and "
+"receive up to date news, interact with KDE contributors, and participate in "
+"lively discussions!"
+msgstr ""
+"Namun, Anda masih bisa mengunjungi [subreddit KDE](https://reddit.com/r/kde) "
+"dan mendapatkan berita terbaru, berinteraksi dengan kontributor KDE, dan "
+"berpartisipasi dalam diskusi yang hidup!"
+
+#. home.activities.AMA.button
+#: i18n/en.yaml:81
+msgid "Visit r/kde"
+msgstr "Kunjungi r/kde"
+
+#. home.Plasma
+#: i18n/en.yaml:84
+msgid "Plasma - 25th Anniversary Edition"
+msgstr "Plasma - Edisi Ulang Tahun ke-25"
+
+#. home.Plasma.description
+#: i18n/en.yaml:86
+msgid ""
+"<p>In time to celebrate KDE's birthday, Plasma renews its looks performance "
+"and speed. You get a new wallpaper, an updated theme, extra speed, increased "
+"reliability and new features.</p>\n"
+"<p>Find out about all the details that make the new Plasma so deserving of "
+"this 25th Anniversary on <a href='https://kde.org/announcements/"
+"plasma/5/5.23.0/'>the release's announcement page</a>.</p>"
+msgstr ""
+"<p>Dalam rangka merayakan ulang tahun KDE, Plasma memperbaharui penampilan "
+"dan kecepatannya. Anda mendapatkan wallpaper baru, tema yang diperbarui, "
+"kecepatan ekstra, peningkatan keandalan, dan fitur-fitur baru.</p>\n"
+"<p>Cari tahu tentang semua detail yang membuat Plasma baru sangat layak "
+"untuk merayakan ulang tahun ke-25 ini di <a href='https://kde.org/"
+"announcements/plasma/5/5.23.0/'>halaman pengumuman rilis</a>.</p>"
+
+#. home.plasma.see-announcement
+#: i18n/en.yaml:95
+msgid "See Announcement"
+msgstr "Lihat Pengumuman"
+
+#. home.history
+#: i18n/en.yaml:98
+msgid "The History of KDE"
+msgstr "Sejarah KDE"
+
+#. home.history.description
+#: i18n/en.yaml:100
+msgid ""
+"The history of KDE is a fascinating one. In this section, apart from "
+"learning about how things started (and how they are going), you will be able "
+"to see what things looked like as they evolved and actually test-drive some "
+"of KDE's most iconic desktops through the ages."
+msgstr ""
+"Sejarah KDE adalah sejarah yang menarik. Pada bagian ini, selain mempelajari "
+"tentang bagaimana segala sesuatunya dimulai (dan bagaimana perjalanannya), "
+"Anda akan dapat melihat seperti apa perkembangannya dan mencoba beberapa "
+"desktop KDE yang paling ikonik selama bertahun-tahun."
+
+#. home.history.VMs
+#: i18n/en.yaml:106
+msgid "Historic Desktops"
+msgstr "Desktop Historis"
+
+#. home.history.VMs.description
+#: i18n/en.yaml:108
+msgid ""
+"Download and try historic versions of Plasma and KDE on easy to run virtual "
+"machines."
+msgstr ""
+"Unduh dan cobalah versi historis Plasma dan KDE pada mesin virtual yang "
+"mudah dijalankan."
+
+#. home.history.VMs.kde1
+#: i18n/en.yaml:111
+msgid "KDE 1: 1998 - 2000. Coming soon"
+msgstr "KDE 1: 1998 - 2000. Segera hadir"
+
+#. home.history.VMs.kde2
+#: i18n/en.yaml:113
+msgid "KDE 2: 2000 - 2002. Coming soon"
+msgstr "KDE 2: 2000 - 2002. Segera hadir"
+
+#. home.history.VMs.kde3
+#: i18n/en.yaml:115
+msgid "KDE 3: 2002 - 2008"
+msgstr "KDE 3: 2002 - 2008"
+
+#. home.history.VMs.kde4
+#: i18n/en.yaml:117
+msgid "Plasma 4: 2008 - 2014"
+msgstr "Plasma 4: 2008 - 2014"
+
+#. home.history.VMs.kde5
+#: i18n/en.yaml:119
+msgid "Plasma 5: 2014 - 2017"
+msgstr "Plasma 5: 2014 - 2017"
+
+#. home.history.VMs.instructions
+#: i18n/en.yaml:121
+msgid "Instructions"
+msgstr "Petunjuk"
+
+#. home.history.VMs.instructions.description
+#: i18n/en.yaml:123
+msgid ""
+"<ol> <li>Download and Install <a href='https://www.virtualbox.org/wiki/"
+"Downloads'>VirtualBox</a> on your computer</li> <li>Right-click on the icons "
+"below and choose <i>Save link as...</i> to download the VBox images to your "
+"computer</li> <li>Navigate to where you downloaded the images and click on "
+"them</li> <li>Choose to open them with VirtualBox</li> </ol>"
+msgstr ""
+"<ol> <li>Unduh dan Pasang <a href='https://www.virtualbox.org/wiki/"
+"Downloads'>VirtualBox</a> pada komputer Anda</li> <li>Klik kanan pada ikon "
+"di bawah ini dan pilih <i>Simpan tautan sebagai...</i> untuk mengunduh citra "
+"VBox ke komputer Anda</li> <li>Arahkan ke tempat Anda mengunduh citra dan "
+"klik di atasnya</li> <li>Pilih untuk membukanya dengan VirtualBox</li> </ol>"
+
+#. home.history.VMs.credentials
+#: i18n/en.yaml:132
+msgid "Credentials"
+msgstr "Kredensial"
+
+#. home.history.VMs.credentials.description
+#: i18n/en.yaml:134
+msgid ""
+"<ul> <li><b>User name:</b> kde</li> <li><b>User Password:</b> kdeproject</"
+"li> <li><b>Root Password:</b> kdeproject</li> </ul> <p>VB images very kindly "
+"created by Hélio Castro.</p>"
+msgstr ""
+"<ul> <li><b>User name:</b> kde</li> <li><b>User Password:</b> kdeproject</"
+"li> <li><b>Root Password:</b> kdeproject</li> </ul> <p>Citra VB dibuat "
+"dengan sangat baik oleh Hélio Castro.</p>"
+
+#. home.history.timeline
+#: i18n/en.yaml:142
+msgid "The KDE Timeline"
+msgstr "Linimasa KDE"
+
+#. home.history.timeline.description
+#: i18n/en.yaml:144
+msgid ""
+"<p>As is well known, the Universe was born 14 billion years ago. Then "
+"nothing much happened until KDE popped into existence on the 14th of October "
+"of 1996... That's when stuff really kicked off.</p>\n"
+"<p>Delve deep into KDE's history at our updated KDE Timeline.</p>"
+msgstr ""
+"<p>Seperti diketahui, alam semesta lahir 14 milyar tahun yang lalu. Kemudian "
+"tidak banyak yang terjadi hingga KDE muncul pada tanggal 14 Oktober 1996... "
+"Saat itulah segala sesuatunya benar-benar dimulai.</p>\n"
+"<p>Lihat lebih jauh ke dalam sejarah KDE di Linimasa KDE yang telah kami "
+"perbaharui.</p>"
+
+#. home.history.timeline.link
+#: i18n/en.yaml:150
+msgid "Visit the timeline"
+msgstr "Kunjungi linimasa"
+
+#. home.history.gallery
+#: i18n/en.yaml:154
+msgid "Gallery"
+msgstr "Galeri"
+
+#. home.history.gallery.description
+#: i18n/en.yaml:156
+msgid "Check out what things were like across the 25 years of KDE's existence."
+msgstr "Lihat apa saja yang terjadi selama 25 tahun keberadaan KDE."
+
+#. home.history.gallery.CTA
+#: i18n/en.yaml:159
+msgid ""
+"Have you got pictures or videos of the KDE Community you would like to show "
+"the world? <a href='mailto:press@kde.org'>Write to us!</a> We'd love to "
+"display your contribution in our gallery!"
+msgstr ""
+"Apakah Anda memiliki foto atau video Komunitas KDE yang ingin Anda tunjukkan "
+"kepada dunia? <a href='mailto:press@kde.org'>Kirimkan kepada kami!</a> Kami "
+"ingin menampilkan kontribusi Anda di galeri kami!"
+
+#. home.history.gallery.biggerimage
+#: i18n/en.yaml:163
+msgid "Right click on an image to see a bigger version."
+msgstr "Klik kanan pada gambar untuk melihat versi yang lebih besar."
+
+#. home.history.gallery.1996KDE1
+#: i18n/en.yaml:166
+msgid ""
+"The first version of KDE, KDE 1.0, running here on Mandrake Linux - 1996. "
+"Thanks to Manuel Alberto  Ascencio Ramirez."
+msgstr ""
+"Versi pertama KDE, KDE 1.0, berjalan di Mandrake Linux - 1996. Terima kasih "
+"kepada Manuel Alberto Ascencio Ramirez."
+
+#. home.history.gallery.1997kdeone
+#: i18n/en.yaml:169
+msgid ""
+"'KDE One', probably the first KDE event. Held in Arnsberg, Germany in 1997"
+msgstr ""
+"'KDE One', merupakan acara KDE yang pertama. Diadakan di Arnsberg, Jerman "
+"pada tahun 1997"
+
+#. home.history.gallery.1999kdetwo
+#: i18n/en.yaml:172
+msgid "The 'KDE Two' event was held in Erlangen, Germany, in 1999"
+msgstr "Acara 'KDE Two' diselenggarakan di Erlangen, Jerman, pada tahun 1999"
+
+#. home.history.gallery.1999konqi
+#: i18n/en.yaml:174
+msgid "Konqi made his debut in 1999"
+msgstr "Konqi memulai debutnya pada tahun 1999"
+
+#. home.history.gallery.2002KDE3
+#: i18n/en.yaml:176
+msgid ""
+"Initial release of KDE 3 on SuSE - 2002. Thanks to Manuel Alberto Ascencio "
+"Ramirez."
+msgstr ""
+"Rilis awal KDE 3 di SuSE - 2002. Terima kasih kepada Manuel Alberto Ascencio "
+"Ramirez."
+
+#. home.history.gallery.2005wikipedia
+#: i18n/en.yaml:179
+msgid ""
+"Jimmy Wales, founder of Wikipedia, and Matthias Ettrich, founder of KDE, in "
+"2005"
+msgstr ""
+"Jimmy Wales, pendiri Wikipedia, dan Matthias Ettrich, pendiri KDE, pada "
+"tahun 2005"
+
+#. home.history.gallery.2007amarokdevsprint
+#: i18n/en.yaml:182
+msgid "Amarok Dev Sprint 2007"
+msgstr "Amarok Dev Sprint 2007"
+
+#. home.history.gallery.2008KDE4
+#: i18n/en.yaml:184
+msgid ""
+"Initial release of KDE 4 on Kubuntu - 2008. Thanks to Manuel Alberto "
+"Ascencio Ramirez."
+msgstr ""
+"Rilis awal KDE 4 di Kubuntu - 2008. Terima kasih kepada Manuel Alberto "
+"Ascencio Ramirez."
+
+#. home.history.gallery.2010akademy
+#: i18n/en.yaml:187
+msgid ""
+"Akademy 2010 in Bilbao, Spain. [Source](https://www.flickr.com/photos/"
+"palazio/4595340538/). Thanks Gorka Palazio."
+msgstr ""
+"Akademy 2010 di Bilbao, Spanyol. [Sumber](https://www.flickr.com/photos/"
+"palazio/4595340538/). Terima kasih Gorka Palazio."
+
+#. home.history.gallery.2015plasma-sprint
+#: i18n/en.yaml:191
+msgid "Plasma Sprint 2015"
+msgstr "Plasma Sprint 2015"
+
+#. home.history.gallery.2015conf
+#: i18n/en.yaml:193
+msgid "conf.kde.in 2015"
+msgstr "conf.kde.in 2015"
+
+#. home.history.gallery.2015lakademy
+#: i18n/en.yaml:195
+msgid "LAkademy 2015"
+msgstr "LAkademy 2015"
+
+#. home.history.gallery.2016qtcon
+#: i18n/en.yaml:197
+msgid "QtCon 2016 in Berlin, Germany."
+msgstr "QtCon 2016 di Berlin, Jerman."
+
+#. home.history.gallery.2020Akademy
+#: i18n/en.yaml:199
+msgid "1st (very successful) online Akademy (2020)"
+msgstr "Akademi online pertama (sangat sukses) (2020)"
+
+#. home.history.inthewild
+#: i18n/en.yaml:204
+msgid "KDE in the Wild"
+msgstr "KDE di Alam Bebas"
+
+#. home.history.inthewild.description
+#: i18n/en.yaml:206
+msgid ""
+"KDE's desktop and its applications have popped up in quite a few weird "
+"places over the years. From the _Hadron Collider_ to _Heroes_, KDE has made "
+"its way into all sorts of industries, organizations, films and TV shows. "
+"Here are just a few of KDE's most notable star moments:"
+msgstr ""
+"Desktop KDE dan aplikasinya telah muncul di beberapa tempat yang aneh selama "
+"bertahun-tahun. Dari _Hadron Collider_ hingga _Heroes_, KDE telah masuk ke "
+"berbagai macam industri, organisasi, film, dan acara TV. Berikut ini adalah "
+"beberapa momen penting KDE yang paling terkenal:"
+
+#. home.history.inthewild.CTA
+#: i18n/en.yaml:211
+msgid ""
+"Have you seen other instances of KDE running in an interesting place or on a "
+"TV show or in a movie? <a href='mailto:press@kde.org'>Let us know</a>! If "
+"possible, send us a pic too, so we can share it with the rest of the world."
+msgstr ""
+"Pernahkah Anda melihat contoh lain dari KDE yang berjalan di tempat yang "
+"menarik atau di acara TV atau film? <a href='mailto:press@kde.org'>Beritahu "
+"kami!</a> Jika memungkinkan, kirimkan juga fotonya kepada kami, agar kami "
+"dapat membagikannya ke seluruh dunia."
+
+#. home.history.inthewild.ligo
+#: i18n/en.yaml:216
+msgid ""
+"2018 - KDE 4 at [LIGO Hanford Observatory](https://www.ligo.caltech.edu/WA) "
+"(big screen). [Source](https://twitter.com/LIGOWA/"
+"status/1068552370013913089). Thanks Tóth Bálint."
+msgstr ""
+"2018 - KDE 4 di [LIGO Hanford Observatory](https://www.ligo.caltech.edu/WA) "
+"(layar lebar). [Sumber](https://twitter.com/LIGOWA/"
+"status/1068552370013913089). Terima kasih Tóth Bálint."
+
+#. home.history.inthewild.nasa
+#: i18n/en.yaml:221
+msgid ""
+"2019 - The first images from Mars sent by NASA's InSight lander were "
+"displayed to the world using KDE 4. Image courtesy of NASA."
+msgstr ""
+"2019 - Gambar pertama dari Mars yang dikirim oleh pendarat InSight NASA "
+"ditampilkan ke dunia menggunakan KDE 4. Gambar milik NASA."
+
+#. home.history.inthewild.sincrotron
+#: i18n/en.yaml:225
+msgid ""
+"2019 - In the ALBA Synchrotron, located near Barcelona, Spain, they shoot "
+"electrons along an accelerator to produce light for studies in different "
+"fields. Photo by Sergi Blanch-Torné. [Source](https://dot.kde.org/2019/07/19/"
+"powered-plasma-alba-synchrotron-barcelona-spain)."
+msgstr ""
+"2019 - Di ALBA Synchrotron, yang terletak di dekat Barcelona, Spanyol, "
+"mereka menembakkan elektron di sepanjang akselerator untuk menghasilkan "
+"cahaya untuk penelitian di berbagai bidang. Foto oleh Sergi Blanch-Torné. "
+"[Sumber](https://dot.kde.org/2019/07/19/powered-plasma-alba-synchrotron-"
+"barcelona-spain)."
+
+#. home.history.inthewild.cern
+#: i18n/en.yaml:230
+msgid ""
+"2014 - Plasma is used extensively throughout CERN, the place where the World "
+"Wide Web and the Large Hadron Collider were born. In this case, we see KDE 4 "
+"being used at a control station for a particle accelerator at Adlershof "
+"Technology Park, Germany. Photo courtesy of Thomas Weissel."
+msgstr ""
+"2014 - Plasma digunakan secara luas di seluruh CERN, tempat di mana World "
+"Wide Web dan Large Hadron Collider lahir. Dalam kasus ini, kita melihat KDE "
+"4 digunakan di stasiun kontrol untuk akselerator partikel di Adlershof "
+"Technology Park, Jerman. Foto milik Thomas Weissel."
+
+#. home.history.inthewild.nerc
+#: i18n/en.yaml:236
+msgid ""
+"2021 - NERC's Space Geodesy Facility fires lasers at satellites to check "
+"their position to a high degree of precision. Scientists use a wide range of "
+"KDE software products on their workstations, including Plasma and Konsole. "
+"[Source](https://youtu.be/vdvIY0CJaXw)."
+msgstr ""
+"2021 - Fasilitas Geodesi Antariksa NERC menembakkan laser ke satelit untuk "
+"memeriksa posisi mereka dengan tingkat presisi yang tinggi. Para ilmuwan "
+"menggunakan berbagai macam produk perangkat lunak KDE di workstation mereka, "
+"termasuk Plasma dan Konsole. [Sumber](https://youtu.be/vdvIY0CJaXw)."
+
+#. home.history.inthewild.kerala
+#: i18n/en.yaml:243
+msgid ""
+"2017 - KDE's software, including the Plasma desktop, is used extensively "
+"throughout Kerala's educational system and is preinstalled on laptops pupils "
+"use. [Source](https://kite.kerala.gov.in/KITE/index.php/welcome/"
+"gallery_view/15)."
+msgstr ""
+"2017 - Perangkat lunak KDE, termasuk desktop Plasma, digunakan secara luas "
+"di seluruh sistem pendidikan Kerala dan sudah terinstal di laptop yang "
+"digunakan siswa. [Sumber](https://kite.kerala.gov.in/KITE/index.php/welcome/"
+"gallery_view/15)."
+
+#. home.history.inthewild.24
+#: i18n/en.yaml:248
+msgid ""
+"2003 - The good guys (as long as you consider CIA operatives \"good\") got "
+"to use KDE 3.0 in _24_ and it helped them to correctly identify who is "
+"probably the busiest spy in the agency, one Mr Jack Bauer, as he entered the "
+"HQ in Season 3, Episode 1. Source: Netflix. Thanks Eike Hein."
+msgstr ""
+"2003 - Orang-orang baik (selama Anda menganggap agen CIA \"baik\") dapat "
+"menggunakan KDE 3.0 di _24_ dan membantu mereka untuk mengidentifikasi "
+"dengan tepat, orang yang mungkin merupakan mata-mata paling sibuk di agensi "
+"tersebut, yaitu Mr Jack Bauer, saat ia memasuki markas besar pada Season 3, "
+"Episode 1. Sumber: Netflix. Terima kasih Eike Hein."
+
+#. home.history.inthewild.heroes
+#: i18n/en.yaml:253
+msgid ""
+"2006 - The wildly popular series _Heroes_ showed a character using KDE 3 "
+"apps and themes (Kicker, KMenu applet, Kopete, KMix, Keramik) in an episode "
+"that featured an intense chat session. [Source and more pics](http://www."
+"eikehein.com/kde/heroes/). Thanks Eike Hein."
+msgstr ""
+"2006 - Serial _Heroes_ yang sangat populer menunjukkan karakter yang "
+"menggunakan aplikasi dan tema KDE 3 (Kicker, applet KMenu, Kopete, KMix, "
+"Keramik) dalam sebuah episode yang menampilkan sesi obrolan yang intens. "
+"[Sumber dan foto-foto lainnya](http://www.eikehein.com/kde/heroes/). Terima "
+"kasih Eike Hein."
+
+#. home.history.inthewild.dexter
+#: i18n/en.yaml:258
+msgid ""
+"2006 - KDE 3 pops up again in the also popular, albeit darker, _Dexter_ in "
+"season 1, episode 8, running on the laptop of a dodgy psychiatrist. Source: "
+"Amazon Prime. Thanks Aaron Seigo."
+msgstr ""
+"2006 - KDE 3 muncul lagi dalam serial yang juga populer, meskipun lebih "
+"gelap, _Dexter_ di musim 1, episode 8, yang berjalan di laptop seorang "
+"psikiater yang cerdik. Sumber: Amazon Prime. Terima kasih Aaron Seigo."
+
+#. home.history.inthewild.gravity
+#: i18n/en.yaml:262
+msgid ""
+"2013 - Alfonso Cuarón's smash hit movie _Gravity_, starring Sandra Bullock "
+"and George Clooney, may have had wonky physics, but its visual production "
+"was impeccable, thanks, in part, to Plasma 4, seen here running the software "
+"used by the visual effects artists. [Source and more pics](https://blogs.kde."
+"org/2014/02/09/kde-plasma-movies). Thanks Eike Hein."
+msgstr ""
+"2013 - Film sukses Alfonso Cuarón, _Gravity_, yang dibintangi oleh Sandra "
+"Bullock dan George Clooney, mungkin memiliki fisika yang janggal, namun "
+"produksi visualnya sangat sempurna, sebagian berkat Plasma 4, yang terlihat "
+"di sini menjalankan perangkat lunak yang digunakan oleh para seniman efek "
+"visual. [Sumber dan foto-foto lainnya](https://blogs.kde.org/2014/02/09/kde-"
+"plasma-movies). Terima kasih Eike Hein."
+
+#. home.history.inthewild.thehobbit
+#: i18n/en.yaml:268
+msgid ""
+"2014 - Weta Digital's animation unit used KDE Plasma to produce motion "
+"capture for The Hobbit: The Desolation of Smaug. Next time you see some "
+"dwarves rolling down the river you can be assured that the smooth animation "
+"was done with Plasma 4. [Source](https://youtu.be/U_usC2EQcDo)."
+msgstr ""
+"2014 - Unit animasi Weta Digital menggunakan KDE Plasma untuk memproduksi "
+"motion capture untuk film The Hobbit: The Desolation of Smaug. Berikutnya "
+"saat Anda melihat beberapa kurcaci berguling-guling di sungai, Anda dapat "
+"yakin bahwa animasi yang halus itu dibuat dengan Plasma 4. [Sumber](https://"
+"youtu.be/U_usC2EQcDo)."
+
+#. home.history.inthewild.avatar
+#: i18n/en.yaml:273
+msgid ""
+"2019 - From Middle Earth to Pandora: KDE's Plasma desktop and tools were "
+"also used during the filming of James Cameron's _Avatar_. [Source](https://"
+"youtu.be/bibZyMjY2K4?t=1975)."
+msgstr ""
+"2019 - Dari Bumi Tengah ke Pandora: Desktop dan alat bantu Plasma KDE juga "
+"digunakan selama pembuatan film _Avatar_ karya James Cameron. [Sumber]"
+"(https://youtu.be/bibZyMjY2K4?t=1975)."
+
+#. home.support
+#: i18n/en.yaml:278
+msgid "Support KDE!"
+msgstr "Dukung KDE!"
+
+#. home.support.description
+#: i18n/en.yaml:280
+msgid ""
+"<p>Like many Free Software projects, at KDE we rely on volunteers and "
+"donations to carry out our work. Volunteers develop, contribute media, "
+"translate, promote, and help implement KDE software. Donations help us with "
+"all the operational costs of running a non-profit with thousands of members."
+"</p>\n"
+"<p>You can find out how volunteers work together and monetary resources are "
+"allocated by taking a look at our <a href='https://ev.kde.org/"
+"reports/'>yearly reports</a>.</p>\n"
+"<p>You can contribute too! Here are some ways you can help us:</p>"
+msgstr ""
+"<p>Seperti kebanyakan proyek Perangkat Lunak Bebas, di KDE kami mengandalkan "
+"sukarelawan dan donasi untuk menjalankan pekerjaan kami. Para relawan "
+"mengembangkan, menyumbangkan media, menerjemahkan, mempromosikan, dan "
+"membantu mengimplementasikan perangkat lunak KDE. Donasi membantu kami "
+"dengan semua biaya operasional untuk menjalankan organisasi nirlaba dengan "
+"ribuan anggota.</p>\n"
+"<p>Anda dapat mengetahui bagaimana para sukarelawan bekerja sama dan sumber "
+"daya keuangan dialokasikan dengan melihat <a href='https://ev.kde.org/"
+"reports/'>laporan tahunan</a> kami.</p>\n"
+"<p>Anda juga dapat berkontribusi! Berikut adalah beberapa cara yang dapat "
+"Anda lakukan untuk membantu kami:</p>"
+
+#. home.support.25425
+#: i18n/en.yaml:292
+msgid "\"25 for 25\" Fundraising Campaign"
+msgstr "Kampanye Penggalangan Dana \"25 untuk 25\""
+
+#. home.support.25425.description
+#: i18n/en.yaml:294
+msgid ""
+"For our 25th Anniversary, we are running a special _25 for 25_ fundraising "
+"campaign! Show your ❤️‍for KDE by donating $ 25 or € 25!"
+msgstr ""
+"Untuk merayakan ulang tahun ke-25, kami mengadakan kampanye penggalangan "
+"dana _25 untuk 25_ khusus! Tunjukkan ❤️‍kepada KDE dengan mendonasikan $ 25 "
+"atau € 25!"
+
+#. home.support.25425.button
+#: i18n/en.yaml:297
+msgid "Donate 25 for 25"
+msgstr "Donasi 25 untuk 25"
+
+#. home.support.donations
+#: i18n/en.yaml:300
+msgid "Donations"
+msgstr "Donasi"
+
+#. home.support.donations.description
+#: i18n/en.yaml:302
+#, fuzzy
+#| msgid ""
+#| "You can <a href='https://kde.org/community/donations/'>make a donation of "
+#| "the quantity of your choice</a> or become a <a href='https://relate.kde."
+#| "org/'>KDE Supporting Member</a> and donate a yearly amount to KDE. Every "
+#| "bit helps!"
+msgid ""
+"You can <a href='https://kde.org/community/donations/'>make a donation of "
+"the quantity of your choice</a> or become a <a href='https://kde.org/"
+"community/donations/'>KDE Supporting Member</a> and donate a yearly amount "
+"to KDE. Every bit helps!"
+msgstr ""
+"Anda dapat <a href='https://kde.org/community/donations/'>memberikan donasi "
+"dalam jumlah yang Anda pilih</a> atau menjadi <a href='https://relate.kde."
+"org/'>Anggota Pendukung KDE</a> dan mendonasikan sejumlah uang tahunan "
+"kepada KDE. Setiap bantuan akan sangat membantu!"
+
+#. home.support.donations.button
+#: i18n/en.yaml:307
+msgid "Donate"
+msgstr "Donasi"
+
+#. home.support.contribute.kontributor
+#: i18n/en.yaml:310
+msgid "Over the years more than<br><strong>7000 Kontributors</strong> joined"
+msgstr ""
+"Selama bertahun-tahun lebih dari <br><strong>7000 Kontributor</strong> telah "
+"bergabung"
+
+#. home.support.contribute.learn
+#: i18n/en.yaml:312
+msgid "Learn how to get involved"
+msgstr "Pelajari cara untuk terlibat"
+
+#. home.support.contribute
+#: i18n/en.yaml:314
+msgid "25 Ways to Contribute"
+msgstr "25 Cara untuk Berkontribusi"
+
+#. home.support.contribute.description
+#: i18n/en.yaml:316
+msgid ""
+"<p>Becoming a KDE volunteer keeps the Community and our software alive. To "
+"celebrate KDE's 25th anniversary, we have compiled a list of 25 things you "
+"can do for KDE and Nate Graham has turned the list into <a href='https://"
+"pointieststick.com/2021/10/13/25-ways-you-can-contribute-to-kde/'>an "
+"entertaining and informative article</a> with tons of links to resources.</p>"
+msgstr ""
+"<p>Menjadi relawan KDE akan membuat Komunitas dan perangkat lunak kami tetap "
+"hidup. Untuk merayakan ulang tahun ke-25 KDE, kami telah menyusun daftar 25 "
+"hal yang dapat Anda lakukan untuk KDE dan Nate Graham telah mengubah daftar "
+"tersebut menjadi <a href='https://pointieststick.com/2021/10/13/25-ways-you-"
+"can-contribute-to-kde/'>sebuah artikel yang menghibur dan informatif </a> "
+"dengan banyak tautan ke berbagai sumber daya.</p>"
+
+#. home.support.contribute.list
+#: i18n/en.yaml:322
+msgid ""
+"<p>This is a brief summary:</p>\n"
+"<ol> <li>Application development</li> <li>Web development</li> <li>Software "
+"testing</li> <li><a href='https://bugs.kde.org'>Bug reporting</a></li> "
+"<li>Bug triaging</li> <li>Sending code fixes and new features</li> "
+"<li>Enabling <I>User Feedback</I> for Plasma on <I>System Settings</I></li> "
+"<li><a href='https://community.kde.org/Get_Involved/"
+"translation'>Translating</a></li> <li><a href='https://community.kde.org/"
+"Get_Involved/design'>Visual designing</a></li> <li><a href='https://t.me/"
+"kdeusability'>User experience (UX) designing</a></li> <li><a href='https://"
+"community.kde.org/Promo'>Promoting and doing marketing</a></li> <li>Working "
+"on tasks on <a href='https://phabricator.kde.org'>KDE's Phabricator</a></li> "
+"<li>Producing and editing videos for KDE's social media accounts</li> "
+"<li>Writing and updating documentation and manuals</li> <li>Writing <a "
+"href='https://community.kde.org/Main_Page'>wiki articles</a></li> "
+"<li>Organizing events</li> <li>Participating in events</li> <li>Answering "
+"users' questions on the <a href='https://forum.kde.org'>forum</a> or <a "
+"href='https://www.reddit.com/r/kde/'>Reddit</a></li> <li>Promoting KDE in "
+"your local community/school/business/family</li> <li>Evangelizing about KDE "
+"on the Internet</li> <li>Following, sharing and interacting with posts on "
+"KDE's social media: <ul> <li><a href='https://www.facebook.com/"
+"kde'>Facebook</a></li> <li><a href='https://www.linkedin.com/company/"
+"kde/'>LinkedIn</a> </li> <li><a href='https://twitter.com/kdecommunity'>KDE "
+"Community Twitter</a></li> <li><a href='https://twitter.com/Akademy'>Akademy "
+"Twitter</a></li> <li><a href='https://www.instagram.com/"
+"kdecommunity/'>Instagram</a></li> <li><a href='https://tube.kockatoo.org/a/"
+"kde_community/'>PeerTube</a></li> <li><a href='https://www.youtube.com/c/"
+"KdeOrg/videos'>YouTube</a></li> <li><a href='https://vk.com/kde_ru'>VK</a></"
+"li> <li><a href='https://joindiaspora.com/u/kdecommunity'>Diaspora</a></li> "
+"<li><a href='https://mastodon.technology/@kde'>Mastodon</a></li> </ul> "
+"<li>Sharing links pointing to KDE websites and social media on other "
+"platforms</li> <li>Writing posts or making videos about KDE for your "
+"personal blog post, social media and YouTube/PeerTube channels</li> "
+"<li>Using <a href='https://apps.kde.org'>KDE software</a></li> <li>Packaging "
+"KDE software for your distro/app store</li> </ol>"
+msgstr ""
+"<p>Berikut ini adalah ringkasan singkatnya:</p>\n"
+"<ol> <li>Pengembangan aplikasi</li> <li>Pengembangan web</li> <li>Pengujian "
+"perangkat lunak</li> <li><a href='https://bugs.kde.org'>Pelaporan bug</a></"
+"li> <li>Triase bug</li> <li>Mengirim perbaikan kode dan fitur baru</li> "
+"<li>Mengaktifkan <I>Umpan Balik Pengguna</I> untuk Plasma pada <I>Pengaturan "
+"Sistem</I></li> <li><a href='https://community.kde.org/Get_Involved/"
+"translation'>Menerjemahkan</a></li> <li><a href='https://community.kde.org/"
+"Get_Involved/design'>Mendesain visual</a></li> <li><a href='https://t.me/"
+"kdeusability'>Mendesain pengalaman pengguna (UX)</a></li> <li><a "
+"href='https://community.kde.org/Promo'>Mempromosikan dan melakukan "
+"pemasaran</a></li> <li>Mengerjakan tugas di <a href='https://phabricator.kde."
+"org'>Phabricator KDE</a></li> <li>Memproduksi dan mengedit video untuk akun "
+"media sosial KDE</li> <li>Menulis dan memperbarui dokumentasi dan panduan</"
+"li> <li>Menulis <a href='https://community.kde.org/Main_Page'>artikel wiki</"
+"a></li> <li>Mengorganisir acara</li> <li>Berpartisipasi dalam acara</li> "
+"<li>Menjawab pertanyaan pengguna di situs <a href='https://forum.kde."
+"org'>forum</a> atau <a href='https://www.reddit.com/r/kde/'>Reddit</a></li> "
+"<li>Mempromosikan KDE di komunitas/sekolah/bisnis/keluarga Anda</li> "
+"<li>Mengabarkan tentang KDE di Internet</li> <li>Mengikuti, berbagi, dan "
+"berinteraksi dengan postingan di media sosial KDE: <ul> <li><a href='https://"
+"www.facebook.com/kde'>Facebook</a></li> <li><a href='https://www.linkedin."
+"com/company/kde/'>LinkedIn</a> </li> <li><a href='https://twitter.com/"
+"kdecommunity'>KDE Community Twitter</a></li> <li><a href='https://twitter."
+"com/Akademy'>Akademy Twitter</a></li> <li><a href='https://www.instagram.com/"
+"kdecommunity/'>Instagram</a></li> <li><a href='https://tube.kockatoo.org/a/"
+"kde_community/'>PeerTube</a></li> <li><a href='https://www.youtube.com/c/"
+"KdeOrg/videos'>YouTube</a></li> <li><a href='https://vk.com/kde_ru'>VK</a></"
+"li> <li><a href='https://joindiaspora.com/u/kdecommunity'>Diaspora</a></li> "
+"<li><a href='https://mastodon.technology/@kde'>Mastodon</a></li> </ul> "
+"<li>Bagikan tautan yang mengarah ke situs web KDE dan media sosial di "
+"platform lain</li> <li>Menulis postingan atau membuat video tentang KDE "
+"untuk postingan blog pribadi, media sosial, dan saluran YouTube/PeerTube "
+"Anda</li> <li>Menggunakan <a href='https://apps.kde.org'>perangkat lunak "
+"KDE</a></li> <li>Mengemas perangkat lunak KDE untuk distro/toko aplikasi "
+"Anda</li> </ol>"
+
+#. home.support.companies
+#: i18n/en.yaml:365
+msgid "Companies"
+msgstr "Perusahaan"
+
+#. home.support.companies.description
+#: i18n/en.yaml:367
+msgid ""
+"Are you a manager in a company that finds our work useful? Let's develop "
+"better code together! Many companies encourage their developers to "
+"contribute to KDE's software. You can too."
+msgstr ""
+"Apakah Anda seorang manajer di sebuah perusahaan yang merasa pekerjaan kami "
+"berguna? Mari kembangkan kode yang lebih baik bersama-sama! Banyak "
+"perusahaan mendorong pengembang mereka untuk berkontribusi pada perangkat "
+"lunak KDE. Anda juga bisa."
+
+#. home.support.companies.button
+#: i18n/en.yaml:371
+msgid "Get in touch"
+msgstr "Hubungi kami"
+
+#. home.support.companies.patron
+#: i18n/en.yaml:373
+msgid ""
+"You can also sponsor our activities or, better yet, become <a href='https://"
+"ev.kde.org/getinvolved/supporting-members/'>a KDE patron</a>!"
+msgstr ""
+"Anda juga dapat mensponsori kegiatan kami atau, lebih baik lagi, menjadi <a "
+"href='https://ev.kde.org/getinvolved/supporting-members/'>pendukung KDE</a>!"
+
+#. home.merch
+#: i18n/en.yaml:378
+msgid "Merch!"
+msgstr "Pernak-pernik!"
+
+#. home.merch.description
+#: i18n/en.yaml:380
+msgid ""
+"Celebrate the occasion with KDE 25th Anniversary T-shirts and stickers! "
+"Remember: Freewear donates to KDE with every purchase."
+msgstr ""
+"Rayakan acara ini dengan kaos dan stiker Peringatan 25 Tahun KDE! Ingat: "
+"Setiap pembelian Freewear akan didonasikan kepada KDE."
+
+#. home.merch.tfitted
+#: i18n/en.yaml:383
+msgid "Fitted T-shirt"
+msgstr "Kaos ketat"
+
+#. home.merch.tnfitted
+#: i18n/en.yaml:385
+msgid "Non-fitted T-shirt"
+msgstr "Kaos tak ketat"
+
+#. home.merch.stickers
+#: i18n/en.yaml:387
+msgid "Stickers"
+msgstr "Stiker"
+
+#. home.merch.button
+#: i18n/en.yaml:389
+msgid "Visit Freewear"
+msgstr "Kunjungi Freewear"

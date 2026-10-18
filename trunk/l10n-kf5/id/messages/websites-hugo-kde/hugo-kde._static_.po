@@ -1,0 +1,1936 @@
+#
+# Linerly <linerly@protonmail.com>, 2022, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-aether-sass 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-09-15 02:15+0000\n"
+"PO-Revision-Date: 2023-03-22 00:15+0700\n"
+"Last-Translator: Linerly <linerly@protonmail.com>\n"
+"Language-Team: Indonesian <kde-i18n-doc@kde.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 22.12.3\n"
+
+#: content/search.en.md:0
+msgid "Search results"
+msgstr "Hasil pencarian"
+
+#. releases
+#: i18n/en.yaml:3
+msgid "Releases"
+msgstr "Rilis"
+
+#. rss-feed
+#: i18n/en.yaml:5
+msgid "RSS Feed"
+msgstr "Umpan RSS"
+
+#. blog.view-all-announcements
+#: i18n/en.yaml:9
+msgid "View all announcements"
+msgstr "Tampilkan semua pengumuman"
+
+#. blog.categories
+#: i18n/en.yaml:11
+msgid "Categories"
+msgstr ""
+
+#. blog.comments
+#: i18n/en.yaml:13
+msgid "Comments"
+msgstr ""
+
+#. kde-patrons
+#: i18n/en.yaml:17
+msgid "KDE Patrons"
+msgstr "Pendukung KDE"
+
+#. patron-alt-canonical
+#: i18n/en.yaml:19
+msgid "Canonical"
+msgstr "Canonical"
+
+#. patron-alt-google
+#: i18n/en.yaml:21
+msgid "Google"
+msgstr "Google"
+
+#. patron-alt-suse
+#: i18n/en.yaml:23
+msgid "SUSE"
+msgstr "SUSE"
+
+#. patron-alt-qc
+#: i18n/en.yaml:25
+msgid "The Qt Company"
+msgstr "The Qt Company"
+
+#. patron-alt-bs
+#: i18n/en.yaml:27
+msgid "Blue System"
+msgstr "Blue System"
+
+#. patron-alt-ehc
+#: i18n/en.yaml:29
+msgid "enioka Haute Couture"
+msgstr "enioka Haute Couture"
+
+#. patron-alt-slimbook
+#: i18n/en.yaml:31
+msgid "Slimbook"
+msgstr "Slimbook"
+
+#. patron-alt-tuxedo
+#: i18n/en.yaml:33
+msgid "TUXEDO Computers"
+msgstr "TUXEDO Computers"
+
+#. patron-alt-kfocus
+#: i18n/en.yaml:35
+msgid "KFocus"
+msgstr "KFocus"
+
+#. patron-alt-gnupg
+#: i18n/en.yaml:37
+msgid "GnuPG"
+msgstr ""
+
+#. patron-alt-mbition
+#: i18n/en.yaml:39
+msgid "MBition"
+msgstr ""
+
+#. patron-alt-techpaladin
+#: i18n/en.yaml:41
+msgid "Techpaladin"
+msgstr ""
+
+#. patron-alt-rockylinux
+#: i18n/en.yaml:43
+#, fuzzy
+#| msgid "Linux"
+msgid "Rocky Linux"
+msgstr "Linux"
+
+#. patron-alt-framework
+#: i18n/en.yaml:45
+#, fuzzy
+#| msgid "KDE Frameworks"
+msgid "Framework"
+msgstr "Kerangka Kerja KDE"
+
+#. donate-to-kde
+#: i18n/en.yaml:47
+msgid "Donate to KDE"
+msgstr "Berdonasi ke KDE"
+
+#. why-donate
+#: i18n/en.yaml:49
+msgid "Why Donate?"
+msgstr "Mengapa Berdonasi?"
+
+#. amount
+#: i18n/en.yaml:51
+msgid "Amount"
+msgstr "Jumlah"
+
+#. donate-via-paypal
+#: i18n/en.yaml:53
+msgid "Donate via PayPal"
+msgstr "Berdonasi via PayPal"
+
+#. other-donate
+#: i18n/en.yaml:55
+msgid "Other ways to donate"
+msgstr "Cara lain untuk berdonasi"
+
+#. visit-kde-metastore
+#: i18n/en.yaml:57
+msgid "Visit the KDE MetaStore"
+msgstr "Kunjungi KDE MetaStore"
+
+#. show-love-store
+#: i18n/en.yaml:59
+msgid ""
+"Show your love for KDE! Purchase books, mugs, apparel, and more to support "
+"KDE."
+msgstr ""
+"Tunjukkan kecintaan Anda untuk KDE! Beli buku, mug, pakaian, dan lainnya "
+"untuk mendukung KDE."
+
+#. click-store
+#: i18n/en.yaml:61
+msgid "Browse"
+msgstr "Telusuri"
+
+#. products
+#: i18n/en.yaml:63
+msgid "Products"
+msgstr "Produk"
+
+#. plasma
+#: i18n/en.yaml:65
+msgid "Plasma"
+msgstr "Plasma"
+
+#. kde-apps
+#: i18n/en.yaml:67
+msgid "KDE Applications"
+msgstr "Aplikasi KDE"
+
+#. kde-frameworks
+#: i18n/en.yaml:69
+msgid "KDE Frameworks"
+msgstr "Kerangka Kerja KDE"
+
+#. plasma-mobile
+#: i18n/en.yaml:71
+msgid "Plasma Mobile"
+msgstr "Plasma Mobile"
+
+#. plasma-bigscreen
+#: i18n/en.yaml:73
+#, fuzzy
+#| msgid "Plasma Mobile"
+msgid "Plasma Bigscreen"
+msgstr "Plasma Mobile"
+
+#. kde-neon
+#: i18n/en.yaml:75
+#, fuzzy
+#| msgid "KDE Neon"
+msgid "KDE neon"
+msgstr "KDE Neon"
+
+#. kde-linux
+#: i18n/en.yaml:77
+#, fuzzy
+#| msgid "Linux"
+msgid "KDE Linux"
+msgstr "Linux"
+
+#. wikitolearn
+#: i18n/en.yaml:79
+msgid "WikiToLearn"
+msgstr "WikiToLearn"
+
+#. develop
+#: i18n/en.yaml:81
+msgid "Develop"
+msgstr "Pengembangan"
+
+#. techbase
+#: i18n/en.yaml:83
+msgid "Techbase Wiki"
+msgstr "Wiki Techbase"
+
+#. api-doc
+#: i18n/en.yaml:85
+msgid "API Documentation"
+msgstr "Dokumentasi API"
+
+#. qt-doc
+#: i18n/en.yaml:87
+msgid "Qt Documentation"
+msgstr "Dokumentasi Qt"
+
+#. inqlude-doc
+#: i18n/en.yaml:89
+msgid "Inqlude Documentation"
+msgstr "Dokumentasi Inqlude"
+
+#. kde-goals
+#: i18n/en.yaml:91
+msgid "KDE Goals"
+msgstr "Sasaran KDE"
+
+#. kde-source-code
+#: i18n/en.yaml:93
+msgid "Source code"
+msgstr "Kode sumber"
+
+#. news-and-press
+#: i18n/en.yaml:95
+msgid "News & Press"
+msgstr "Berita & Pers"
+
+#. announcements
+#: i18n/en.yaml:97
+msgid "Announcements"
+msgstr "Pengumuman"
+
+#. kde-news
+#: i18n/en.yaml:99
+#, fuzzy
+#| msgid "KDE Goals"
+msgid "KDE Blogs"
+msgstr "Sasaran KDE"
+
+#. planet-kde
+#: i18n/en.yaml:101
+msgid "Planet KDE"
+msgstr "Planet KDE"
+
+#. screenshots
+#: i18n/en.yaml:103
+msgid "Screenshots"
+msgstr "Tangkapan Layar"
+
+#. press-contacts
+#: i18n/en.yaml:105
+msgid "Press Contacts"
+msgstr "Kontak Pers"
+
+#. stuff
+#: i18n/en.yaml:107
+msgid "Miscellaneous Stuff"
+msgstr "Hal-Hal Lain"
+
+#. resources
+#: i18n/en.yaml:109
+msgid "Resources"
+msgstr "Sumber Daya"
+
+#. community-wiki
+#: i18n/en.yaml:111
+msgid "Community Wiki"
+msgstr "Wiki Komunitas"
+
+#. userbase
+#: i18n/en.yaml:113
+msgid "UserBase Wiki"
+msgstr "Wiki UserBase"
+
+#. support
+#: i18n/en.yaml:115
+msgid "Help"
+msgstr ""
+
+#. download-kde
+#: i18n/en.yaml:117
+msgid "Download KDE Software"
+msgstr "Unduh Perangkat Lunak KDE"
+
+#. code-of-conduct
+#: i18n/en.yaml:119
+msgid "Code of Conduct"
+msgstr "Kode Etik"
+
+#. privacy-policy
+#: i18n/en.yaml:121
+msgid "Privacy Policy"
+msgstr "Kebijakan Privasi"
+
+#. privacy-policy-apps
+#: i18n/en.yaml:123
+msgid "Applications Privacy Policy"
+msgstr "Kebijakan Privasi Aplikasi"
+
+#. destinations
+#: i18n/en.yaml:125
+msgid "Destinations"
+msgstr "Destinasi"
+
+#. kde-store
+#: i18n/en.yaml:127
+msgid "KDE Store"
+msgstr "Toko KDE"
+
+#. kde-ev
+#: i18n/en.yaml:129
+msgid "KDE e.V."
+msgstr "KDE e.V."
+
+#. kde-free-qt
+#: i18n/en.yaml:131
+msgid "KDE Free Qt Foundation"
+msgstr "Yayasan KDE Qt Bebas"
+
+#. timeline
+#: i18n/en.yaml:133
+msgid "KDE Timeline"
+msgstr "Linimasa KDE"
+
+#. manifesto
+#: i18n/en.yaml:135
+msgid "KDE Manifesto"
+msgstr "Manifesto KDE"
+
+#. international-websites
+#: i18n/en.yaml:137
+msgid "International Websites"
+msgstr "Situs Web Internasional"
+
+#. maintenance-address
+#: i18n/en.yaml:139
+msgid ""
+"Maintained by <a href=\"mailto:kde-www@kde.org\">KDE Webmasters</a> (public "
+"mailing list)."
+msgstr ""
+"Dipelihara oleh <a href=\"mailto:kde-www@kde.org\">para Webmaster KDE</a> "
+"(milis publik)."
+
+#. generating-commit
+#. String at the very end of each page, telling which commit generates the
+#. page
+#: i18n/en.yaml:141
+msgid "Generated from %1."
+msgstr "Dibuat dari %1."
+
+#. trademark-link-title
+#: i18n/en.yaml:144
+msgid "Homepage of the KDE non-profit Organization"
+msgstr "Laman beranda organisasi nirlaba KDE"
+
+#. trademark-with-link
+#. %1 link
+#: i18n/en.yaml:146
+msgid ""
+"KDE<sup>®</sup> and [the K Desktop Environment<sup>®</sup> logo](https://kde."
+"org/media/images/trademark_kde_gear_black_logo.png) are registered "
+"trademarks of [KDE e.V.](%1)"
+msgstr ""
+"KDE<sup>®</sup> dan [logo K Desktop Environment<sup>®</sup>](https://kde.org/"
+"media/images/trademark_kde_gear_black_logo.png) adalah merek dagang "
+"terdaftar dari [KDE e.V.](%1)"
+
+#. legal
+#: i18n/en.yaml:149
+msgid "Legal"
+msgstr "Hukum"
+
+#. thanks
+#: i18n/en.yaml:151
+msgid "Thanks"
+msgstr "Terima Kasih"
+
+#. donation-too-small
+#: i18n/en.yaml:155
+msgid ""
+"Your donation is smaller than 2€. This means that most of your donation\n"
+"will end up in processing fees. Do you want to continue?"
+msgstr ""
+"Donasi Anda lebih kecil dari 2€. Ini berarti sebagian besar donasi Anda\n"
+"akan dihabiskan oleh biaya pemrosesan. Apakah Anda ingin melanjutkan?"
+
+#. development-and-communication
+#: i18n/en.yaml:157
+msgid "Development and communication of KDE software"
+msgstr "Pengembangan dan komunikasi perangkat lunak KDE"
+
+#. return-kde
+#: i18n/en.yaml:159
+msgid "Return to kde.org"
+msgstr "Kembali ke kde.org"
+
+#. made-by-kde
+#: i18n/en.yaml:163
+msgid "Made by KDE"
+msgstr "Dibuat oleh KDE"
+
+#. home
+#: i18n/en.yaml:165
+msgid "Home"
+msgstr "Beranda"
+
+#. skip-to-content
+#: i18n/en.yaml:167
+msgid "Skip to content"
+msgstr "Lewati ke konten"
+
+#. main-nav
+#. Used as aria-label for the menu bar on the top of all KDE websites
+#: i18n/en.yaml:169
+msgid "Main navigation"
+msgstr ""
+
+#. translations
+#: i18n/en.yaml:172
+msgid "Languages"
+msgstr "Bahasa"
+
+#. toggle-theme
+#: i18n/en.yaml:174
+msgid "Toggle theme"
+msgstr "Alih tema"
+
+#. light-theme
+#: i18n/en.yaml:176
+msgid "Light"
+msgstr "Terang"
+
+#. dark-theme
+#: i18n/en.yaml:178
+msgid "Dark"
+msgstr "Gelap"
+
+#. Select-your-language
+#: i18n/en.yaml:180
+msgid "Select your language"
+msgstr "Pilih bahasa Anda"
+
+#. date-format
+#: i18n/en.yaml:182
+msgid "%A, %d %B %Y"
+msgstr "%A, %d %B %Y"
+
+#. Monday
+#: i18n/en.yaml:184
+msgid "Monday"
+msgstr "Senin"
+
+#. Tuesday
+#: i18n/en.yaml:186
+msgid "Tuesday"
+msgstr "Selasa"
+
+#. Wednesday
+#: i18n/en.yaml:188
+msgid "Wednesday"
+msgstr "Rabu"
+
+#. Thursday
+#: i18n/en.yaml:190
+msgid "Thursday"
+msgstr "Kamis"
+
+#. Friday
+#: i18n/en.yaml:192
+msgid "Friday"
+msgstr "Jumat"
+
+#. Saturday
+#: i18n/en.yaml:194
+msgid "Saturday"
+msgstr "Sabtu"
+
+#. Sunday
+#: i18n/en.yaml:196
+msgid "Sunday"
+msgstr "Minggu"
+
+#. January
+#: i18n/en.yaml:198
+msgid "January"
+msgstr "Januari"
+
+#. February
+#: i18n/en.yaml:200
+msgid "February"
+msgstr "Februari"
+
+#. March
+#: i18n/en.yaml:202
+msgid "March"
+msgstr "Maret"
+
+#. April
+#: i18n/en.yaml:204
+msgid "April"
+msgstr "April"
+
+#. May
+#: i18n/en.yaml:206
+msgid "May"
+msgstr "Mei"
+
+#. June
+#: i18n/en.yaml:208
+msgid "June"
+msgstr "Juni"
+
+#. July
+#: i18n/en.yaml:210
+msgid "July"
+msgstr "Juli"
+
+#. August
+#: i18n/en.yaml:212
+msgid "August"
+msgstr "Agustus"
+
+#. September
+#: i18n/en.yaml:214
+msgid "September"
+msgstr "September"
+
+#. October
+#: i18n/en.yaml:216
+msgid "October"
+msgstr "Oktober"
+
+#. November
+#: i18n/en.yaml:218
+msgid "November"
+msgstr "November"
+
+#. December
+#: i18n/en.yaml:220
+msgid "December"
+msgstr "Desember"
+
+#. learn-more
+#: i18n/en.yaml:222
+msgid "Learn More"
+msgstr "Pelajari Lebih Lanjut"
+
+#. read-more
+#: i18n/en.yaml:224
+msgid "Read More"
+msgstr "Baca Lebih Lanjut"
+
+#. loading
+#: i18n/en.yaml:226
+#, fuzzy
+#| msgid "Loading..."
+msgid "Loading…"
+msgstr "Memuat..."
+
+#. i18n_warning
+#. %1 language name. Please also consider using your team's own link to target
+#. new contributors.
+#: i18n/en.yaml:228
+msgid ""
+"This page is insufficiently translated. <a href=\"https://community.kde.org/"
+"Get_Involved/translation\" target=\"_blank\">Join the %1 team</a> and help "
+"us improve it!"
+msgstr ""
+"Laman ini baru diterjemahkan sebagian. <a href=\"https://community.kde.org/"
+"Get_Involved/translation\" target=\"_blank\">Bergabunglah dengan tim %1</a> "
+"bantu kami membuatnya lebih baik!"
+
+#. linux
+#: i18n/en.yaml:231 i18n/en.yaml:265 i18n/en.yaml:352
+msgid "Linux"
+msgstr "Linux"
+
+#. macos
+#: i18n/en.yaml:233
+msgid "macOS"
+msgstr "macOS"
+
+#. windows
+#: i18n/en.yaml:235
+msgid "Windows"
+msgstr "Windows"
+
+#. flatpak
+#: i18n/en.yaml:237 i18n/en.yaml:365
+msgid "Flatpak"
+msgstr "Flatpak"
+
+#. snap
+#: i18n/en.yaml:239
+msgid "Snap"
+msgstr "Snap"
+
+#. screenshot-desc
+#. %1 app name
+#: i18n/en.yaml:243
+msgid "Screenshot of %1"
+msgstr "Tangkapan Layar %1"
+
+#. img-comparison-before
+#. for a before/after slider
+#: i18n/en.yaml:248
+msgid "Before"
+msgstr ""
+
+#. img-comparison-after
+#. for a before/after slider
+#: i18n/en.yaml:251
+msgid "After"
+msgstr ""
+
+#. fdroid-alt
+#: i18n/en.yaml:256
+msgid "Get it on F-Droid"
+msgstr "Dapatkan di F-Droid"
+
+#. msstore-alt
+#: i18n/en.yaml:258
+msgid "Get it from Microsoft"
+msgstr "Dapatkan dari Microsoft"
+
+#. snapstore-alt
+#: i18n/en.yaml:260
+msgid "Get it from the Snap Store"
+msgstr "Dapatkan dari Snap Store"
+
+#. appstream-pre-title
+#. Used in “Install on Linux” download badges, e.g. on
+#. https://apps.kde.org/gcompris/. Please make it as short as possible.
+#: i18n/en.yaml:262
+msgid "Install on"
+msgstr "Instal di"
+
+#. appstream-info
+#. %1 link
+#: i18n/en.yaml:267
+#, fuzzy
+#| msgid ""
+#| "This button only works with [Discover](%1) and other AppStream "
+#| "application stores. You can also use your distribution's package manager."
+msgid ""
+"This button only works with [Discover](%1) and other AppStream application "
+"stores. You can also use your distribution’s package manager."
+msgstr ""
+"Tombol ini hanya bekerja dengan [Discover](%1) dan toko aplikasi AppStream "
+"lainnya. Anda juga dapat menggunakan pengelola paket distribusi Anda."
+
+#. flathub-pre-title
+#. Used in “Download on Flathub” download badges, e.g. on
+#. https://apps.kde.org/gcompris/. Please make it as short as possible.
+#: i18n/en.yaml:270
+msgid "Download on"
+msgstr "Unduh di"
+
+#. flathub-title
+#: i18n/en.yaml:273 i18n/en.yaml:275
+msgid "Flathub"
+msgstr "Flathub"
+
+#. snapcraft
+#: i18n/en.yaml:277
+#, fuzzy
+#| msgid "Snap"
+msgid "Snapcraft"
+msgstr "Snap"
+
+#. kde-eco-description
+#: i18n/en.yaml:281
+msgid ""
+"Software has a direct effect on energy and resource consumption. KDE has the "
+"goal of providing software which does this in a way that reduces software's "
+"environmental impact."
+msgstr ""
+
+#. kde-eco-lets
+#: i18n/en.yaml:283
+#, fuzzy
+#| msgid ""
+#| "Let’s make energy efficient software and digital sustainability part of "
+#| "our community! We can live up to our responsibility for this and future "
+#| "generations!"
+msgid ""
+"Let’s make energy efficient software and digital sustainability part of our "
+"community. We can live up to our responsibility for this and future "
+"generations!"
+msgstr ""
+"Mari menjadikan perangkat lunak hemat energi dan keberlanjutan digital "
+"sebagai bagian dari masyarakat kami! Kita dapat memenuhi tanggung jawab kita "
+"untuk ini dan generasi masa depan!"
+
+#. kde-eco-handbook-description
+#: i18n/en.yaml:285
+msgid ""
+"The handbook “Applying The Blue Angel Criteria To Free Software” gives an "
+"overview of the environmental harm driven by software and how the Blue Angel "
+"ecolabel—the official environmental label of the German government—provides "
+"a benchmark for sustainable software design. Learn how Free Software’s "
+"values of transparency and user autonomy foster sustainability, as well as "
+"how to set up a dedicated lab to measure your software’s energy consumption!"
+msgstr ""
+
+#. share-matrix
+#: i18n/en.yaml:289
+msgid "Share on Matrix"
+msgstr "Bagikan di Matrix"
+
+#. post-facebook
+#: i18n/en.yaml:291
+msgid "Post on Facebook"
+msgstr "Bagikan di Facebook"
+
+#. share-twitter
+#: i18n/en.yaml:293
+msgid "Share on Twitter"
+msgstr "Bagikan di Twitter"
+
+#. share-diaspora
+#: i18n/en.yaml:295
+msgid "Share on Diaspora"
+msgstr "Bagikan di Diaspora"
+
+#. share-reddit
+#: i18n/en.yaml:297
+msgid "Share on Reddit"
+msgstr "Bagikan di Reddit"
+
+#. share-lemmy
+#: i18n/en.yaml:299
+#, fuzzy
+#| msgid "Share on VK"
+msgid "Share on Lemmy"
+msgstr "Bagikan di VK"
+
+#. share-youtube
+#: i18n/en.yaml:301
+msgid "Share on YouTube"
+msgstr "Bagikan di YouTube"
+
+#. share-mastodon
+#: i18n/en.yaml:303
+msgid "Share on Mastodon"
+msgstr "Bagikan di Mastodon"
+
+#. share-linkedin
+#: i18n/en.yaml:305
+msgid "Share on LinkedIn"
+msgstr "Bagikan di LinkedIn"
+
+#. share-peertube
+#: i18n/en.yaml:307
+#, fuzzy
+#| msgid "Share on Peertube"
+msgid "Share on PeerTube"
+msgstr "Bagikan di PeerTube"
+
+#. share-vk
+#: i18n/en.yaml:309
+msgid "Share on VK"
+msgstr "Bagikan di VK"
+
+#. share-instagram
+#: i18n/en.yaml:311
+msgid "Share on Instagram"
+msgstr "Bagikan di Instagram"
+
+#. share-bluesky
+#: i18n/en.yaml:313
+#, fuzzy
+#| msgid "Share on VK"
+msgid "Share on Bluesky"
+msgstr "Bagikan di VK"
+
+#. getinvolved.title
+#: i18n/en.yaml:316
+msgid "Get Involved!"
+msgstr "Ikut Terlibat!"
+
+#. getinvolved.build.title
+#. %1 app name
+#: i18n/en.yaml:318
+msgid "Build %1 from Sources"
+msgstr "Bangun %1 dari Sumber"
+
+#. getinvolved.build.description
+#: i18n/en.yaml:321
+msgid ""
+"The [community wiki](https://community.kde.org/Get_Involved/development) "
+"provides resource about setting up your development environment."
+msgstr ""
+"[Wiki komunitas](https://community.kde.org/Get_Involved/development) "
+"menyediakan sumber daya tentang menyiapkan lingkungan pengembangan Anda."
+
+#. getinvolved.getintouch.title
+#: i18n/en.yaml:323
+msgid "Get in Touch!"
+msgstr "Hubungi Kami!"
+
+#. getinvolved.notprogrammer.title
+#: i18n/en.yaml:325
+msgid "Not a Programmer?"
+msgstr "Bukan sebuah Programmer?"
+
+#. getinvolved.notprogrammer.description
+#. %1 app name
+#: i18n/en.yaml:327
+msgid ""
+"Not a problem! There are plenty of other tasks that you can help us with to "
+"make %1 better even if you don't know any programming languages!"
+msgstr ""
+"Bukan sebuah masalah! Ada banyak tugas lain yang dapat Anda bantu untuk "
+"membuat %1 lebih baik bahkan jika Anda tidak tahu bahasa pemrograman apa pun!"
+
+#. getinvolved.notprogrammer.bug
+#: i18n/en.yaml:330
+#, fuzzy
+#| msgid ""
+#| "[Bug triaging](https://community.kde.org/Guidelines_and_HOWTOs/"
+#| "Bug_triaging) - help us find mis-filed, duplicated or invalid bug reports "
+#| "in Bugzilla\n"
+msgid ""
+"[Bug triaging](https://community.kde.org/Guidelines_and_HOWTOs/Bug_triaging) "
+"— help us find mis-filed, duplicated or invalid bug reports in Bugzilla\n"
+msgstr ""
+"[Triase kutu](https://community.kde.org/Guidelines_and_HOWTOs/Bug_triaging) "
+"- bantu kami menemukan laporan kutu yang salah dilaporkan, terganda, atau "
+"laporan kutu tidak absah di Bugzilla\n"
+
+#. getinvolved.notprogrammer.localization
+#. %1 app name
+#: i18n/en.yaml:333
+#, fuzzy
+#| msgid ""
+#| "[Localization](https://community.kde.org/Get_Involved/translation) - help "
+#| "to translate %1 into your language\n"
+msgid ""
+"[Localization](https://community.kde.org/Get_Involved/translation) — help to "
+"translate %1 into your language\n"
+msgstr ""
+"[Lokalisasi](https://community.kde.org/Get_Involved/translation) - bantu "
+"menerjemahkan %1 ke dalam bahasa Anda\n"
+
+#. getinvolved.notprogrammer.documentation
+#. %1 app name
+#: i18n/en.yaml:337
+#, fuzzy
+#| msgid ""
+#| "[Documentation](https://community.kde.org/Get_Involved/documentation) - "
+#| "help us improve user documentation to make %1 more friendly for "
+#| "newcomers\n"
+msgid ""
+"[Documentation](https://community.kde.org/Get_Involved/documentation) — help "
+"us improve user documentation to make %1 more friendly for newcomers\n"
+msgstr ""
+"[Dokumentasi](https://community.kde.org/Get_Involved/documentation) - bantu "
+"kami membuat dokumentasi pengguna lebih baik untuk membuat %1 lebih ramah "
+"untuk pemula\n"
+
+#. getinvolved.notprogrammer.promotion
+#. %1 app name
+#: i18n/en.yaml:341
+#, fuzzy
+#| msgid ""
+#| "[Promotion](https://community.kde.org/Get_Involved/promotion) - help us "
+#| "promote %1 both online and offline\n"
+msgid ""
+"[Promotion](https://community.kde.org/Get_Involved/promotion) — help us "
+"promote %1 both online and offline\n"
+msgstr ""
+"[Promosi](https://community.kde.org/Get_Involved/promotion) - bantu kami "
+"mempromosikan %1 daring dan luring\n"
+
+#. getinvolved.notprogrammer.wiki
+#. %1 link
+#: i18n/en.yaml:345
+#, fuzzy
+#| msgid ""
+#| "[Updating wiki](%1) - help us update the information present in the wiki, "
+#| "add new tutorials, ... to make it easier for others to join!\n"
+msgid ""
+"[Updating wiki](%1) — help us update the information present in the wiki, "
+"add new tutorials… — to make it easier for others to join!\n"
+msgstr ""
+"[Memperbarui wiki](%1) - bantu kami memperbarui informasi yang tersedia pada "
+"wiki, tambahkan tutorial baru, ... untuk membuat orang lain mudah untuk "
+"bergabung!\n"
+
+#. getinvolved.notprogrammer.more
+#: i18n/en.yaml:349
+msgid "Do you have any other idea? Get in touch!"
+msgstr "Punya ide yang lain? Hubungi kami!"
+
+#. download.linux.description
+#. %1 app name, %2 link
+#: i18n/en.yaml:354
+#, fuzzy
+#| msgid ""
+#| "%1 is already available on majority of Linux distributions. It can be "
+#| "installed directly from [Discover](%2), [GNOME Software](%2) or your "
+#| "distribution's [software store](%2)."
+msgid ""
+"%1 is already available on majority of Linux distributions. It can be "
+"installed directly from [Discover](%2), [GNOME Software](%2) or your "
+"distribution’s [software store](%2)."
+msgstr ""
+"%1 sudah tersedia dalam banyak distribusi Linux. Dapat diinstal langsung "
+"dari [Discover](%2), [GNOME Software](%2) atau [toko perangkat lunak](%2) "
+"distribusi Anda."
+
+#. download.source.title
+#: i18n/en.yaml:357
+msgid "Release Sources"
+msgstr "Sumber Rilis"
+
+#. download.source.description
+#. %1 app name
+#: i18n/en.yaml:359
+msgid ""
+"%1 is released regularly as part of KDE Gear. You can find %1 latest stable "
+"release among the [tarballs from the latest KDE Gear release](https://"
+"download.kde.org/stable/release-service).\n"
+"\n"
+"If you want to build %1 from sources, we recommend checking our [Getting "
+"Involved](/get-involved) page which contains links to full guide how to "
+"compile %1.\n"
+msgstr ""
+"%1 dirilis secara reguler sebagai bagian dari KDE Gear. Anda dapat menemukan "
+"rilis %1 stabil terkini dengan [tarball dari rilis KDE Gear terkini](https://"
+"download.kde.org/stable/release-service).\n"
+"\n"
+"Jika Anda ingin membangun %1 dari sumber, kami menyarankan untuk memeriksa "
+"laman [Getting Involved](/get-involved) yang berisi tautan ke panduan "
+"lengkap cara mengompilasi %1.\n"
+
+#. download.flatpak.description
+#. %1 app name, %2 link, %3 link
+#: i18n/en.yaml:367
+msgid ""
+"You can install the latest [%1 flatpak](%2) from Flathub. Experimental "
+"flatpaks with nightly builds of %1 can be [installed from the KDE Flatpak "
+"repository](%3)."
+msgstr ""
+"Anda dapat menginstal yang [flatpak %1](%2) terkini dari Flathub. Flatpak "
+"eksperimental dengan bangunan nightly %1 dapat [diinstal dari repositori "
+"Flatpak KDE](%3)."
+
+#. download.install
+#: i18n/en.yaml:370
+msgid "Installation"
+msgstr "Penginstalan"
+
+#. download.install.platform
+#. %1 app name
+#: i18n/en.yaml:372
+msgid ""
+"To install %1, follow the instructions of the platform you are using for how "
+"to install software. Most platforms have a graphical installer which can be "
+"used to install software packages. In many cases it will automatically be "
+"opened when clicking the download or install link for your platform. There "
+"is a [generic tutorial for installing KDE applications](https://userbase.kde."
+"org/Tutorials/Install_KDE_software) which also can be applied to %1."
+msgstr ""
+"Untuk menginstal %1, ikuti instruksi platform yang Anda gunakan cara untuk "
+"menginstal perangkat lunak. Kebanyakan platform memiliki penginstal grafik "
+"yang dapat digunakan untuk menginstal paket perangkat lunak. Dalam beberapa "
+"kasus itu dapat dibuka secara otomatis ketika mengklik tautan unduh atau "
+"instal untuk platform Anda. Tersedia [tutorial generik untuk menginstal "
+"aplikasi KDE](https://userbase.kde.org/Tutorials/Install_KDE_software) yang "
+"dapat diterapkan untuk %1."
+
+#. download.install.platform.components
+#. %1 app name
+#: i18n/en.yaml:375
+msgid ""
+"To install %1 or one of its components as a stand-alone application, follow "
+"the instructions of the platform you are using for how to install software. "
+"Most platforms have a graphical installer which can be used to install "
+"software packages. In many cases it will automatically be opened when "
+"clicking the download or install link for your platform. There is a [generic "
+"tutorial for installing KDE applications](https://userbase.kde.org/Tutorials/"
+"Install_KDE_software) which also can be applied to %1."
+msgstr ""
+"Untuk menginstal %1 atau salah satu komponennya sebagai aplikasi sendiri, "
+"ikuti instruksi platform yang Anda gunakan cara untuk menginstal perangkat "
+"lunak. Kebanyakan platform memiliki penginstal grafik yang dapat dibuka "
+"secara otomatis ketika mengklik tautan unduh atau instal untuk platform "
+"Anda. Tersedia [tutorial generik untuk menginstal aplikasi KDE](https://"
+"userbase.kde.org/Tutorials/Install_KDE_software) yang dapat diterapkan untuk "
+"%1."
+
+#. download.install.linux
+#. %1 app name
+#: i18n/en.yaml:378
+msgid ""
+"If you are using Linux, %1 might already be pre-installed on your system as "
+"part of a default selection. If not, you can install it with the package "
+"management tool of your Linux distribution. See its documentation for "
+"details."
+msgstr ""
+"Jika Anda menggunakan Linux, %1 mungkin sudah ada di sistem Anda sebagai "
+"seleksi baku. Jika tidak, Anda dapat menginstalnya dengan alat pengelola "
+"paket distribusi Linux Anda. Lihat dokumentasinya untuk rincian."
+
+#. download.install.modular.components
+#. %1 app name
+#: i18n/en.yaml:381
+msgid ""
+"In many cases you will have the opportunity to install %1 in a modular way, "
+"so you can decide to only install the set of components you actually want to "
+"use. Translations of the user interface often also will be available as "
+"separate module you can install according to your needs and preferences."
+msgstr ""
+"Dalam banyak kasus Anda akan memiliki kesempatan untuk menginstal %1 dengan "
+"cara modular, sehingga Anda dapat memutuskan untuk hanya menginstal set "
+"komponen yang benar-benar ingin Anda gunakan. Terjemahan antarmuka pengguna "
+"seringkali juga akan tersedia sebagai modul terpisah yang dapat Anda instal "
+"sesuai dengan kebutuhan dan preferensi Anda."
+
+#. download.uninstall
+#: i18n/en.yaml:384
+msgid "Uninstallation"
+msgstr "Copot Pemasangan"
+
+#. download.uninstall.instruction
+#. %1 app name
+#: i18n/en.yaml:386
+msgid ""
+"To uninstall %1, follow the instructions of the package management tool you "
+"have used to install %1. This will remove the %1 application. It will not "
+"touch data you have viewed, created, or modified with %1."
+msgstr ""
+"Untuk mencopot pemasangan %1, ikuti instruksi alat pengelola paket Anda "
+"gunakan untuk menginstal %1. Ini akan menghapus aplikasi %1. Data Anda yang "
+"Anda lihat, buat, atau dimodifikasi dengan %1 tidak akan disentuh."
+
+#. download.uninstall.instruction.components
+#. %1 app name
+#: i18n/en.yaml:389
+msgid ""
+"To uninstall %1, follow the instructions of the package management tool you "
+"have used to install %1 and its components. This will remove the components "
+"of your choice. It will not touch data you have viewed, created, or modified "
+"with %1."
+msgstr ""
+"Untuk mencopot pemasangan %1, ikuti instruksi alat pengelola paket Anda "
+"gunakan untuk menginstal %1 dan komponennya. Ini akan menghapus komponen "
+"yang Anda pilih. Data Anda yang Anda lihat, buat, atau dimodifikasi dengan "
+"%1 tidak akan disentuh."
+
+#. download.packaging_status
+#: i18n/en.yaml:392
+msgid "Packaging status"
+msgstr "Status pemaketan"
+
+#. download.nightly
+#: i18n/en.yaml:394
+msgid ""
+"We are also offering untested nightly builds for the following platforms:"
+msgstr ""
+
+#. users.handbook.title
+#: i18n/en.yaml:397
+msgid "Handbook"
+msgstr "Handbook"
+
+#. users.handbook.description
+#. %1 app name, %2 link
+#: i18n/en.yaml:399
+msgid ""
+"Lost in %1 settings or just looking to discover more features in %1? You can "
+"read the [%1 Handbook](%2) to find answers to your questions."
+msgstr ""
+"Tersesat dalam pengaturan %1 atau hanya ingin menemukan lebih banyak fitur "
+"di %1? Anda dapat membaca [Handbook %1](%2) untuk menemukan jawaban atas "
+"pertanyaan Anda."
+
+#. users.help.title
+#: i18n/en.yaml:402
+msgid "Need Help?"
+msgstr "Butuh Bantuan?"
+
+#. users.help.description
+#. %1 app name, %2 link
+#: i18n/en.yaml:404
+msgid ""
+"Check %1 on [KDE Forum](%2), maybe someone has already solved a similar "
+"problem. And if not, feel free to ask there!"
+msgstr ""
+"Periksa %1 di [Forum KDE](%2), mungkin seseorang telah menyelesaikan sebuah "
+"masalah yang terkait. Dan jika tidak, jangan sungkan untuk bertanya di sana!"
+
+#. users.bug.title
+#: i18n/en.yaml:407
+msgid "Found a Bug?"
+msgstr "Ketemu sebuah Kutu?"
+
+#. users.bug.description
+#. %1 app name
+#: i18n/en.yaml:409
+#, fuzzy
+#| msgid ""
+#| "Bugs in software happen. If you found some in %1, please report them into "
+#| "[our Bugzilla](https://bugs.kde.org). Please do not report bugs on forums "
+#| "or mailing lists - such reports will most likely be overlooked or "
+#| "forgotten by the developers quite soon. To make sure the bug gets noticed "
+#| "by developers and fixed as soon as possible, report it into Bugzilla."
+msgid ""
+"Bugs in software happen. If you found some in %1, please report them into "
+"[our Bugzilla](https://bugs.kde.org). Please do not report bugs on forums or "
+"mailing lists — such reports will most likely be overlooked or forgotten by "
+"the developers quite soon. To make sure the bug gets noticed by developers "
+"and fixed as soon as possible, report it into Bugzilla."
+msgstr ""
+"Kutu dalam perangkat lunak dapat terjadi. Jika Anda menemukan beberapa di "
+"%1, laporkan ke [Bugzilla kami](https://bugs.kde.org). Mohon jangan laporkan "
+"kutu di forum atau milis - laporan seperti itu kemungkinan besar akan "
+"diabaikan atau dilupakan oleh pengembang. Untuk memastikan kutu diperhatikan "
+"oleh pengembang dan diperbaiki sesegera mungkin, laporkan ke Bugzilla."
+
+#. users.feature.title
+#: i18n/en.yaml:412
+msgid "Missing a Feature?"
+msgstr "Kehilangan sebuah Fitur?"
+
+#. users.feature.description
+#. %1 app name
+#: i18n/en.yaml:414
+#, fuzzy
+#| msgid ""
+#| "%1 has a lot of features, but there's always a room for one or two more. "
+#| "If you have an idea for an improvement or you are missing a feature in "
+#| "%1, write your suggestion in our [Bugzilla](https://bugs.kde.org) so that "
+#| "the developers can find it and implement it."
+msgid ""
+"%1 has a lot of features, but there’s always a room for one or two more. If "
+"you have an idea for an improvement or you are missing a feature in %1, "
+"write your suggestion in our [Bugzilla](https://bugs.kde.org) so that the "
+"developers can find it and implement it."
+msgstr ""
+"%1 memiliki banyak fitur, tetapi selalu ada ruang untuk satu atau dua fitur "
+"lagi. Jika Anda memiliki ide untuk peningkatan atau Anda kehilangan fitur di "
+"%1, tuliskan saran Anda di [Bugzilla](https://bugs.kde.org) kami sehingga "
+"pengembang dapat menemukannya dan menerapkannya."
+
+#. contributed.authors
+#. %1 author name list, %2 license ID
+#: i18n/en.yaml:418
+msgid "Article contributed by %1 under the %2 license."
+msgstr "Artikel dikontribusi oleh %1 dibawah lisensi %2."
+
+#. string.list.separator
+#. Used to separate items in a list, like "a, b, c, and d"
+#: i18n/en.yaml:422
+msgid ", "
+msgstr ", "
+
+#. string.list.last.separator
+#. Used to separate the last item in a list, like "a, b, c, and d"
+#: i18n/en.yaml:425
+msgid ", and "
+msgstr ", dan "
+
+#. string.pair.separator
+#. Used to separate two items in a list, like "a and b"
+#: i18n/en.yaml:428
+#, fuzzy
+#| msgid ", and "
+msgid " and "
+msgstr ", dan "
+
+#. search.action
+#: i18n/en.yaml:433 i18n/en.yaml:435
+msgid "Search"
+msgstr "Cari"
+
+#. search.noresult
+#: i18n/en.yaml:437
+msgid "No results found"
+msgstr "Tidak ada hasil yang ditemukan"
+
+#. search.invalid
+#: i18n/en.yaml:439
+msgid "Please provide a query with at least 3 characters"
+msgstr "Mohon sediakan sebuah kueri dengan minimal 3 karakter"
+
+#. search.searching
+#: i18n/en.yaml:441
+#, fuzzy
+#| msgid "Searching..."
+msgid "Searching…"
+msgstr "Mencari..."
+
+#. search.error
+#: i18n/en.yaml:443
+msgid "Something went wrong while searching. Please try again."
+msgstr "Ada yang salah ketika mencari. Silakan coba lagi."
+
+#. search.networkerror
+#: i18n/en.yaml:445
+msgid "Network error. Please try again."
+msgstr "Kesalahan jaringan. Silakan coba lagi."
+
+#. note
+#: i18n/en.yaml:449
+msgid "Note"
+msgstr ""
+
+#. tip
+#: i18n/en.yaml:451
+msgid "Tip"
+msgstr ""
+
+#. important
+#: i18n/en.yaml:453
+msgid "Important"
+msgstr ""
+
+#. warning
+#: i18n/en.yaml:455
+msgid "Warning"
+msgstr ""
+
+#. caution
+#: i18n/en.yaml:457
+msgid "Caution"
+msgstr ""
+
+#. fof.title
+#: i18n/en.yaml:461
+msgid "404 Not Found"
+msgstr ""
+
+#. fof.desc
+#: i18n/en.yaml:463
+msgid "The page you requested cannot be found."
+msgstr ""
+
+#. fof.return
+#: i18n/en.yaml:465
+#, fuzzy
+#| msgid "Return to kde.org"
+msgid "Return to the home page"
+msgstr "Kembali ke kde.org"
+
+#~ msgid "KDE.news"
+#~ msgstr "KDE.news"
+
+#~ msgid "Support"
+#~ msgstr "Dukungan"
+
+#~ msgid ""
+#~ "KDE supports the FEEP and BE4FOSS programs to help free and open source "
+#~ "communities produce more environmentally friendly software. The projects "
+#~ "provide communities with guidelines and support to optimize software to "
+#~ "be more energy efficient and have a longer life-span."
+#~ msgstr ""
+#~ "KDE mendukung program FEEP dan BE4FOSS untuk membantu komunitas sumber "
+#~ "terbuka dan bebas menghasilkan perangkat lunak yang lebih ramah "
+#~ "lingkungan. Proyek-proyek tersebut memberikan panduan dan dukungan kepada "
+#~ "masyarakat untuk mengoptimalkan perangkat lunak agar lebih hemat energi "
+#~ "dan memiliki masa pakai yang lebih lama."
+
+#~ msgid "Funding"
+#~ msgstr "Pendanaan"
+
+#~ msgid ""
+#~ "The BE4FOSS Project was funded by the Federal Environment Agency and the "
+#~ "Federal Ministry for the Environment, Nature Conservation, Nuclear Safety "
+#~ "and Consumer Protection (BMUV). The funds are made available by "
+#~ "resolution of the German Bundestag."
+#~ msgstr ""
+#~ "Proyek BE4FOSS didanai oleh Badan Lingkungan Federal dan Kementerian "
+#~ "Federal untuk Lingkungan, Konservasi Alam, Keselamatan Nuklir, dan "
+#~ "Perlindungan Konsumen (BMUV). Dana tersebut disediakan oleh resolusi "
+#~ "Bundestag Jerman."
+
+#~ msgid "The publisher is responsible for the content of this publication."
+#~ msgstr "Penerbit bertanggung jawab atas isi publikasi ini."
+
+#~ msgid ""
+#~ "<sup>1</sup> Official BMUV and UBA-Logos are sent only by request at: "
+#~ "[verbaendefoerderung@uba.de](mailto:verbaendefoerderung@uba.de)"
+#~ msgstr ""
+#~ "<sup>1</sup> Logo resmi BMUV dan UBA hanya terkirim dengan permintaan di: "
+#~ "[verbaendefoerderung@uba.de](mailto:verbaendefoerderung@uba.de)"
+
+#~ msgid "The next generation desktop for Linux"
+#~ msgstr "Desktop generasi selanjutnya untuk Linux"
+
+#~ msgid "Install on your computer"
+#~ msgstr "Instal di komputer Anda"
+
+#~ msgid "Discover Plasma"
+#~ msgstr "Jelajahi Plasma"
+
+#~ msgid "Buy a device with Plasma"
+#~ msgstr "Beli sebuah perangkat dengan Plasma"
+
+#~ msgid "Powerful, multi-platform and for all"
+#~ msgstr "Berdaya, multi-platform, dan untuk semuanya"
+
+#~ msgid ""
+#~ "Use KDE software to surf the web, keep in touch with colleagues, friends "
+#~ "and family, manage your files, enjoy music and videos; and get creative "
+#~ "and productive at work. The KDE community develops and maintains more "
+#~ "than <strong>200</strong> applications which run on any Linux desktop, "
+#~ "and often other platforms too."
+#~ msgstr ""
+#~ "Gunakan perangkat lunak KDE untuk menjelajahi web, tetap terhubung dengan "
+#~ "kolega, teman dan keluarga, kelola file Anda, nikmati musik dan video; "
+#~ "berkreatif dan berproduktif saat bekerja. Komunitas KDE mengembang dan "
+#~ "memelihara lebih dari <strong>200</strong> aplikasi yang berjalan di "
+#~ "desktop Linux apa saja, dan terkadang platform lain juga."
+
+#~ msgid "See all applications"
+#~ msgstr "Lihat semua aplikasi"
+
+#~ msgid "Krita"
+#~ msgstr "Krita"
+
+#~ msgid ""
+#~ "Get creative and draw beautiful artwork with Krita. A professional grade "
+#~ "painting application."
+#~ msgstr ""
+#~ "Berkreatif dan gambar karya seni yang indah dengan Krita. Sebuah aplikasi "
+#~ "lukis berkelas profesional."
+
+#~ msgid "Krita screenshot"
+#~ msgstr "Tangkapan layar Krita"
+
+#~ msgid "Kdenlive"
+#~ msgstr "Kdenlive"
+
+#~ msgid ""
+#~ "Kdenlive allows you to edit your videos and add special effects and "
+#~ "transitions."
+#~ msgstr ""
+#~ "Kdenlive memungkinkan Anda untuk mengedit video Anda, dan menambahkan "
+#~ "efek khusus dan transisi."
+
+#~ msgid "Kdenlive Screenshot"
+#~ msgstr "Tangkapan layar Kdenlive"
+
+#~ msgid "Kontact"
+#~ msgstr "Kontact"
+
+#~ msgid ""
+#~ "Handle all your emails, calendars and contacts within a single window "
+#~ "with Kontact."
+#~ msgstr ""
+#~ "Tangani semua email, kalender, dan kontak Anda dalam satu jendela dengan "
+#~ "Kontact."
+
+#~ msgid "Kontact Screenshot"
+#~ msgstr "Tangkapan layar Kontact"
+
+#~ msgid "Kdevelop"
+#~ msgstr "KDevelop"
+
+#~ msgid ""
+#~ "KDevelop is a cross-platform IDE for C, C++, Python, QML/JavaScript and "
+#~ "PHP"
+#~ msgstr ""
+#~ "KDevelop adalah IDE lintas-platform untuk C, C++, Python, QML/JavaScript "
+#~ "dan PHP"
+
+#~ msgid "KDevelop Screenshot"
+#~ msgstr "Tangkapan layar KDevelop"
+
+#~ msgid "GCompris"
+#~ msgstr "GCompris"
+
+#~ msgid ""
+#~ "GCompris is a high quality educational software suite, including a large "
+#~ "number of activities for children aged 2 to 10."
+#~ msgstr ""
+#~ "GCompris adalah rangkaian perangkat lunak pendidikan berkualitas tinggi, "
+#~ "termasuk banyak aktivitas untuk anak-anak berusia 2 sampai 10."
+
+#~ msgid "GCompris Screenshot"
+#~ msgstr "Tangkapan layar GCompris"
+
+#~ msgid "Devices"
+#~ msgstr "Perangkat"
+
+#~ msgid "Buy a computer with Plasma preinstalled"
+#~ msgstr "Beli sebuah komputer dengan Plasma"
+
+#~ msgid "Pinebook Pro"
+#~ msgstr "Pinebook Pro"
+
+#~ msgid ""
+#~ "The Pinebook Pro is an affordable ARM powered laptop. It is modular and "
+#~ "hackable in a way that only an Open Source project can be."
+#~ msgstr ""
+#~ "Pinebook Pro adalah laptop terjangkau yang diberdayakan oleh ARM. "
+#~ "Pinebook Pro itu modular dan dapat disesuaikan dengan cara yang hanya "
+#~ "dapat dilakukan oleh proyek Sumber Terbuka."
+
+#~ msgid "KDE Slimbook"
+#~ msgstr "Slimbook KDE"
+
+#~ msgid ""
+#~ "The Slimbook is a shiny, sleek and good looking laptop that can do any "
+#~ "task thanks to its powerful AMD Ryzen processor."
+#~ msgstr ""
+#~ "Slimbook adalah laptop yang mengkilap, ramping, dan terlihat bagus yang "
+#~ "dapat melakukan tugas apa saja berkat prosesor AMD Ryzen yang berdaya."
+
+#~ msgid ""
+#~ "The Kubuntu Focus laptop is a high-powered, workflow-focused laptop which "
+#~ "ships with Kubuntu installed."
+#~ msgstr ""
+#~ "Laptop Kubuntu Focus adalah laptop bertenaga tinggi yang berfokus pada "
+#~ "alur kerja yang memiliki dengan Kubuntu."
+
+#~ msgid "Other hardware manufacturers are selling devices with Plasma."
+#~ msgstr ""
+#~ "Produsen perangkat lunak lainnya juga menjual perangkat dengan Plasma."
+
+#~ msgid "See all devices"
+#~ msgstr "Lihat semua perangkat"
+
+#~ msgid "KDE Eco"
+#~ msgstr "KDE Eco"
+
+#~ msgid "Join the sustainable software movement"
+#~ msgstr "Bergabung dalam gerakan perangkat lunak berkelanjutan"
+
+#~ msgid "Join KDE Eco"
+#~ msgstr "Bergabung dalam KDE Eco"
+
+#~ msgid "Image of BMUV/UBA"
+#~ msgstr "Gambar BMUV/UBA"
+
+#~ msgid "The KDE Community"
+#~ msgstr "Komunitas KDE"
+
+#~ msgid ""
+#~ "An international team developing and distributing Open Source software."
+#~ msgstr ""
+#~ "Sebuah tim internasional mengembang dan mendistribusikan perangkat lunak "
+#~ "Sumber Terbuka."
+
+#~ msgid ""
+#~ "Our community has developed a wide variety of applications for "
+#~ "communication, work, education and entertainment. We have a strong focus "
+#~ "on finding innovative solutions to old and new problems, creating a "
+#~ "vibrant, open atmosphere for experimentation."
+#~ msgstr ""
+#~ "Komunitas kami telah mengembangkan berbagai macam aplikasi untuk "
+#~ "komunikasi, pekerjaan, pendidikan, dan hiburan. Kami memiliki fokus yang "
+#~ "kuat untuk menemukan solusi inovatif untuk masalah lama dan baru, "
+#~ "menciptakan suasana yang dinamis dan terbuka untuk eksperimen."
+
+#~ msgid "What is KDE?"
+#~ msgstr "Apa itu KDE?"
+
+#~ msgid "Get Involved"
+#~ msgstr "Ikut Terlibat"
+
+#~ msgid "Group photo of LaKademy 2018"
+#~ msgstr "Foto grup LaKademy 2018"
+
+#~ msgid "Salvador, Brazil"
+#~ msgstr "Salvador, Brasil"
+
+#~ msgid "Plasma Sprint"
+#~ msgstr "Sprint Plasma"
+
+#~ msgid "Berlin, Germany"
+#~ msgstr "Berlin, Jerman"
+
+#~ msgid "Kdenlive Sprint"
+#~ msgstr "Sprint Kdenlive"
+
+#~ msgid "Paris, France"
+#~ msgstr "Paris, Prancis"
+
+#~ msgid "Delhi, India"
+#~ msgstr "Delhi, India"
+
+#~ msgid "Google Summer of Code Students"
+#~ msgstr "Siswa Google Summer of Code"
+
+#~ msgid "KDE GSoC students group photo"
+#~ msgstr "Foto grup siswa GSoC KDE"
+
+#~ msgid "Florianopolis, Brazil"
+#~ msgstr "Florianopolis, Brasil"
+
+#~ msgid "KDE Connect Sprint"
+#~ msgstr "Sprint KDE Connect"
+
+#~ msgid "Barcelona"
+#~ msgstr "Barcelona"
+
+#~ msgid "You can find the full list of changes [here](%1)."
+#~ msgstr "Anda dapat menemukan daftar perubahan [di sini](%1)."
+
+#~ msgid "Spread the Word"
+#~ msgstr "Sebarkan Berita"
+
+#~ msgid ""
+#~ "Non-technical contributors are an important part of KDE’s success. While "
+#~ "proprietary software companies have huge advertising budgets for new "
+#~ "software releases, KDE depends on people talking with other people. Even "
+#~ "for those who are not software developers, there are many ways to support "
+#~ "the KDE Applications release. Report bugs. Encourage others to join the "
+#~ "KDE Community. Or [support the nonprofit organization behind the KDE "
+#~ "community](https://relate.kde.org/civicrm/contribute/transact?reset=1&amp;"
+#~ "id=9)"
+#~ msgstr ""
+#~ "Kontributor non-teknis adalah bagian penting dari kesuksesan KDE. "
+#~ "Sementara perusahaan perangkat lunak sumber tertutup memiliki anggaran "
+#~ "iklan yang besar untuk rilisan perangkat lunak baru, KDE bergantung pada "
+#~ "orang yang berbicara dengan orang lain. Bahkan bagi mereka yang bukan "
+#~ "pengembang perangkat lunak, ada banyak cara untuk mendukung rilisan "
+#~ "Aplikasi KDE. Laporkan bug yang ada. Dorong orang lain untuk bergabung "
+#~ "dengan Komunitas KDE. Atau [dukung organisasi nonprofit di balik "
+#~ "komunitas KDE](https://relate.kde.org/civicrm/contribute/transact?"
+#~ "reset=1&amp;id=9)"
+
+#~ msgid ""
+#~ "Please spread the word on the Social Web. Submit stories to news sites, "
+#~ "use channels like delicious, digg, reddit, and twitter. Upload "
+#~ "screenshots of your new set-up to services like Facebook, Flickr, "
+#~ "ipernity and Picasa, and post them to appropriate groups. Create "
+#~ "screencasts and upload them to YouTube, Blip.tv, and Vimeo. Please tag "
+#~ "posts and uploaded materials with 'KDE'. This makes them easy to find, "
+#~ "and gives the KDE Promo Team a way to analyze coverage for this KDE "
+#~ "Applications release."
+#~ msgstr ""
+#~ "Silakan menyebarkan berita di Web Sosial. Kirim cerita ke situs berita, "
+#~ "gunakan saluran seperti delicious, digg, reddit, dan twitter. Unggah "
+#~ "tangkapan layar pengaturan baru Anda ke layanan seperti Facebook, Flickr, "
+#~ "ipernity, dan Picasa, dan post ke grup yang sesuai. Buat screencast dan "
+#~ "unggah ke YouTube, Blip.tv, dan Vimeo. Harap memberikan tag pada "
+#~ "postingan dan materi yang diunggah dengan 'KDE'. Ini membuatnya mudah "
+#~ "ditemukan, dan memberi Tim Promo KDE cara untuk menganalisis cakupan "
+#~ "untuk rilis Aplikasi KDE ini."
+
+#~ msgid "Installing KDE Applications Binary Packages"
+#~ msgstr "Menginstal Paket Biner Aplikasi KDE"
+
+#~ msgid "Packages"
+#~ msgstr "Paket"
+
+#~ msgid ""
+#~ "Some Linux/UNIX OS vendors have kindly provided binary packages of KDE "
+#~ "Applications for some versions of their distribution, and in other cases "
+#~ "community volunteers have done so. Additional binary packages, as well as "
+#~ "updates to the packages now available, may become available over the "
+#~ "coming weeks."
+#~ msgstr ""
+#~ "Beberapa vendor OS Linux/UNIX telah dengan baik hati menyediakan paket "
+#~ "biner Aplikasi KDE untuk beberapa versi distribusinya, dan dalam kasus "
+#~ "lain, sukarelawan komunitas telah melakukannya. Paket biner tambahan, "
+#~ "serta pembaruan untuk paket yang sekarang tersedia, mungkin tersedia "
+#~ "selama beberapa minggu mendatang."
+
+#~ msgid ""
+#~ "For a current list of available binary packages of which the KDE Project "
+#~ "has been informed, please visit the [Community Wiki](https://community."
+#~ "kde.org/KDE_Applications/Binary_Packages)."
+#~ msgstr ""
+#~ "Untuk daftar paket biner yang tersedia saat ini yang telah diberitahukan "
+#~ "kepada Proyek KDE, silakan kunjungi [Wiki Komunitas](https://community."
+#~ "kde.org/KDE_Applications/Binary_Packages)."
+
+#~ msgid "Compiling KDE Applications"
+#~ msgstr "Mengompilasikan Aplikasi KDE"
+
+#~ msgid ""
+#~ "The complete source code for KDE Applications may be [freely downloaded]"
+#~ "(%1). Instructions on compiling and installing are available from the "
+#~ "[KDE Applications %2 Info Page](%3)."
+#~ msgstr ""
+#~ "Kode sumber lengkap untuk Aplikasi KDE dapat [diunduh secara bebas](%1). "
+#~ "Petunjuk tentang mengompilasi dan penginstalan tersedia dari [Halaman "
+#~ "Info Aplikasi KDE %2](%3)."
+
+#~ msgid "Trademark Notices."
+#~ msgstr "Pemberitahuan Merek Dagang."
+
+#~ msgid ""
+#~ "KDE<sup>&#174;</sup> and the K Desktop Environment<sup>&#174;</sup> logo "
+#~ "are registered trademarks of KDE e.V.."
+#~ msgstr ""
+#~ "KDE<sup>&#174;</sup> dan logo K Desktop Environment<sup>&#174;</sup> "
+#~ "adalah merek dagang terdaftar dari KDE e.V.."
+
+#~ msgid "Linux is a registered trademark of Linus Torvalds."
+#~ msgstr "Linux adalah merek dagang terdaftar dari Linus Torvalds."
+
+#~ msgid ""
+#~ "UNIX is a registered trademark of The Open Group in the United States and "
+#~ "other countries."
+#~ msgstr ""
+#~ "UNIX adalah merek dagang terdaftar dari The Open Group di Amerika Serikat "
+#~ "dan negara lainnya."
+
+#~ msgid ""
+#~ "All other trademarks and copyrights referred to in this announcement are "
+#~ "the property of their respective owners."
+#~ msgstr ""
+#~ "Semua merek dagang dan hak cipta lain yang dirujuk dalam pengumuman ini "
+#~ "adalah milik dari pemiliknya masing-masing."
+
+#~ msgid "For more information send us an email:"
+#~ msgstr "Untuk informasi lanjut kirim kami sebuah email:"
+
+#~ msgid "Release Announcements"
+#~ msgstr "Pengumuman Rilisan"
+
+#~ msgid "KDE Frameworks %1"
+#~ msgstr "Kerangka Kerja KDE %1"
+
+#~ msgid "Installing binary packages"
+#~ msgstr "Menginstal paket biner"
+
+#~ msgid ""
+#~ "On Linux, using packages for your favorite distribution is the "
+#~ "recommended way to get access to KDE Frameworks. [Get KDE Software on "
+#~ "Your Linux Distro wiki page](%1)"
+#~ msgstr ""
+#~ "Di Linux, menggunakan paket untuk distribusi favorit Anda adalah cara "
+#~ "yang disarankan untuk mendapatkan akses ke Kerangka Kerja KDE. [Dapatkan "
+#~ "Perangkat Lunak KDE di halaman wiki Distro Linux Anda](%1)"
+
+#~ msgid "Compiling from sources"
+#~ msgstr "Mengompilasi dari sumber"
+
+#~ msgid ""
+#~ "The complete source code for KDE Frameworks %1 may be [freely downloaded]"
+#~ "(%2). Instructions on compiling and installing are available from the "
+#~ "[KDE Frameworks %1 Info Page](%3)."
+#~ msgstr ""
+#~ "Kode sumber lengkap untuk Kerangka Kerja KDE %1 dapat [diunduh secara "
+#~ "bebas](%2). Petunjuk tentang mengompilasi dan penginstalan tersedia dari "
+#~ "[Halaman Info Kerangka Kerja KDE %1](%3)."
+
+#~ msgid ""
+#~ "Building from source is possible using the basic <em>cmake .; make; make "
+#~ "install</em> commands. For a single Tier 1 framework, this is often the "
+#~ "easiest solution. People interested in contributing to frameworks or "
+#~ "tracking progress in development of the entire set are encouraged to [use "
+#~ "kdesrc-build](%1). Frameworks %2 requires Qt %3."
+#~ msgstr ""
+#~ "Membangun dari sumber dimungkinkan menggunakan perintah <em>cmake .; "
+#~ "make; make install</em>. Untuk kerangka Tier 1 tunggal, ini seringkali "
+#~ "merupakan solusi termudah. Orang yang tertarik untuk berkontribusi pada "
+#~ "kerangka atau melacak kemajuan dalam pengembangan seluruh rangkaian "
+#~ "disarankan untuk [menggunakan kdesrc-build](%1). Kerangka Kerja %2 "
+#~ "membutuhkan Qt %3."
+
+#~ msgid ""
+#~ "A detailed listing of all Frameworks and other third party Qt libraries "
+#~ "is at [inqlude.org](https://inqlude.org), the curated archive of Qt "
+#~ "libraries. A complete list with API documentation is on [api.kde.org]"
+#~ "(https://api.kde.org/frameworks)."
+#~ msgstr ""
+#~ "Sebuah daftar berinci dari semua Kerangka Kerja dan pustaka Qt pihak "
+#~ "ketiga lainnya tersedia di [inqlude.org](https://inqlude.org), arsip "
+#~ "terkurasi dari pustaka Qt. Sebuah daftar lengkap dengan dokumentas API "
+#~ "berada di [api.kde.org](https://api.kde.org/frameworks)."
+
+#~ msgid ""
+#~ "Those interested in following and contributing to the development of "
+#~ "Frameworks can check out the [git repositories](https://invent.kde.org/"
+#~ "frameworks) and follow the discussions on the [KDE Frameworks Development "
+#~ "mailing list](https://mail.kde.org/mailman/listinfo/kde-frameworks-"
+#~ "devel). Policies and the current state of the project and plans are "
+#~ "available at the [Frameworks wiki](https://community.kde.org/Frameworks). "
+#~ "Real-time discussions take place on the [#kde-devel IRC channel on Libera "
+#~ "Chat](irc://irc.libera.chat/#kde-devel)."
+#~ msgstr ""
+#~ "Mereka yang tertarik untuk mengikuti dan berkontribusi pada pengembangan "
+#~ "Kerangka Kerja dapat melihat [repositori git](https://invent.kde.org/"
+#~ "frameworks) dan mengikuti diskusi di [milis Pengembangan Kerangka KDE]"
+#~ "(https://mail.kde.org/mailman/listinfo/kde-frameworks-devel). Kebijakan "
+#~ "dan status proyek serta rencana saat ini tersedia di [wiki Kerangka Kerja]"
+#~ "(https://community.kde.org/Frameworks). Diskusi real-time berlangsung di "
+#~ "[saluran IRC #kde-devel di Libera Chat](irc://irc.libera.chat/#kde-devel)."
+
+#~ msgid "Supporting KDE"
+#~ msgstr "Mendukung KDE"
+
+#~ msgid ""
+#~ "KDE is a [Free Software](https://www.gnu.org/philosophy/free-sw.html) "
+#~ "community that exists and grows only because of the help of many "
+#~ "volunteers that donate their time and effort. KDE is always looking for "
+#~ "new volunteers and contributions, whether it is help with coding, bug "
+#~ "fixing or reporting, writing documentation, translations, promotion, "
+#~ "money, etc. All contributions are gratefully appreciated and eagerly "
+#~ "accepted. Please read through the [Supporting KDE page](/community/"
+#~ "donations/) for further information or become a KDE e.V. supporting "
+#~ "member through our [Join the Game](https://relate.kde.org/civicrm/"
+#~ "contribute/transact?id=5) initiative."
+#~ msgstr ""
+#~ "KDE adalah komunitas [Perangkat Lunak Bebas](https://www.gnu.org/"
+#~ "philosophy/free-sw.html) yang ada dan tumbuh hanya karena bantuan banyak "
+#~ "sukarelawan yang menyumbangkan waktu dan tenaga mereka. KDE selalu "
+#~ "mencari sukarelawan dan kontribusi baru, baik itu bantuan dengan "
+#~ "pengkodean, perbaikan kutu atau pelaporan, menulis dokumentasi, "
+#~ "terjemahan, promosi, uang, dll. Semua kontribusi sangat dihargai dan "
+#~ "diterima dengan penuh semangat. Silakan baca [halaman Pendukung KDE](/"
+#~ "community/donations/) untuk informasi lebih lanjut atau menjadi anggota "
+#~ "pendukung KDE e.V. melalui inisiatif [Join the Game](https://relate.kde."
+#~ "org/civicrm/contribute/transact?id=5) kami."
+
+#~ msgid "Plasma 5.20"
+#~ msgstr "Plasma 5.20"
+
+#~ msgid "New and improved inside and out"
+#~ msgstr "Baru dan lebih baik di dalam dan luar"
+
+#~ msgid ""
+#~ "A massive release, containing improvements to dozens of components, "
+#~ "widgets, and the desktop behavior in general."
+#~ msgstr ""
+#~ "Sebuah rilisan besar, berisi perbaikan untuk banyak komponen, widget, dan "
+#~ "perilaku desktop secara umum."
+
+#~ msgid "View full changelog"
+#~ msgstr "Tampilkan catatan berubahan lengkap"
+
+#~ msgid "Live Images"
+#~ msgstr "Citra Langsung"
+
+#~ msgid ""
+#~ "The easiest way to try it out is with a live image booted off a USB disk. "
+#~ "Docker images also provide a quick and easy way to test Plasma."
+#~ msgstr ""
+#~ "Cara yang termudah untuk mencoba adalah untuk citra langsung yang diboot "
+#~ "dari sebuah disk USB. Citra Docker juga menyediakan cara cepat dan mudah "
+#~ "untuk mencoba Plasma."
+
+#~ msgid "Download live images with Plasma 5"
+#~ msgstr "Unduh citra langsung dengan Plasma 5"
+
+#~ msgid "Download Docker images with Plasma 5"
+#~ msgstr "Unduh citra Docker dengan Plasma 5"
+
+#~ msgid "Package Downloads"
+#~ msgstr "Unduhan Pakets"
+
+#~ msgid ""
+#~ "Distributions have created, or are in the process of creating, packages "
+#~ "listed on our wiki page."
+#~ msgstr ""
+#~ "Distribusi telah membuat, atau dalam proses membuat, paket yang "
+#~ "didaftarkan pada laman wiki kami."
+
+#~ msgid "Package download wiki page"
+#~ msgstr "Laman wiki unduhan paket"
+
+#~ msgid "Source Downloads"
+#~ msgstr "Unduhan Sumber"
+
+#~ msgid "You can install Plasma 5 directly from source."
+#~ msgstr "Anda dapat menginstal Plasma 5 langsung dari sumbernya."
+
+#~ msgid "Community instructions to compile it"
+#~ msgstr "Instruksi komunitas untuk mengompilasinya"
+
+#~ msgid "Source Info Page"
+#~ msgstr "Laman Info Sumber"
+
+#~ msgid "Feedback"
+#~ msgstr "Masukan"
+
+#~ msgid ""
+#~ "You can give us feedback and get updates on our social media channels:"
+#~ msgstr ""
+#~ "Anda dapat memberikan kami masukan dan dapatkan pembaruan pada saluran "
+#~ "media sosial kami:"
+
+#~ msgid ""
+#~ "Discuss Plasma 5 on the [KDE Forums Plasma 5 board](https://forum.kde.org/"
+#~ "viewforum.php?f=289)."
+#~ msgstr ""
+#~ "Berdiskusi tentang Plasma 5 di [Papan Plasma 5 Forum KDE](https://forum."
+#~ "kde.org/viewforum.php?f=289)."
+
+#~ msgid ""
+#~ "You can provide feedback direct to the developers via the [#Plasma IRC "
+#~ "channel](irc://irc.libera.chat/#plasma), [Plasma-devel mailing list]"
+#~ "(https://mail.kde.org/mailman/listinfo/plasma-devel) or report issues via "
+#~ "[Bugzilla](https://bugs.kde.org/enter_bug.cgi?product=plasmashell&amp;"
+#~ "format=guided). If you like what the team is doing, please let them know!"
+#~ msgstr ""
+#~ "Anda dapat memberikan masukan langsung kepada pengembang melalui [saluran "
+#~ "IRC #Plasma](irc://irc.libera.chat/#plasma), [milis Plasma-devel](https://"
+#~ "mail.kde.org/mailman/listinfo/plasma-devel) atau laporkan masalah melalui "
+#~ "[Bugzilla](https://bugs.kde.org/enter_bug.cgi?product=plasmashell&amp;"
+#~ "format=guided). Jika Anda menyukai apa yang dilakukan oleh tim, beritahu "
+#~ "mereka!"
+
+#~ msgid "Your feedback is greatly appreciated."
+#~ msgstr "Masukan Anda sangat dihargai."
+
+#~ msgid "About KDE"
+#~ msgstr "Tentang KDE"
+
+#~ msgid ""
+#~ "KDE is an international technology team that creates free and open source "
+#~ "software for desktop and portable computing. Among KDE's products are a "
+#~ "modern desktop system for Linux and UNIX platforms, comprehensive office "
+#~ "productivity and groupware suites and hundreds of software titles in many "
+#~ "categories including Internet and web applications, multimedia, "
+#~ "entertainment, educational, graphics and software development. KDE "
+#~ "software is translated into more than 60 languages and is built with ease "
+#~ "of use and modern accessibility principles in mind. KDE's full-featured "
+#~ "applications run natively on Linux, BSD, Windows and macOS."
+#~ msgstr ""
+#~ "KDE adalah tim teknologi internasional yang menciptakan perangkat lunak "
+#~ "sumber terbuka dan bebas untuk komputasi desktop dan portabel. Di antara "
+#~ "produk KDE adalah sistem desktop modern untuk platform Linux dan UNIX, "
+#~ "produktivitas kantor yang komprehensif dan rangkaian groupware dan "
+#~ "ratusan judul perangkat lunak dalam banyak kategori termasuk Internet dan "
+#~ "aplikasi web, multimedia, hiburan, pendidikan, grafik, dan pengembangan "
+#~ "perangkat lunak. Perangkat lunak KDE diterjemahkan ke lebih dari 60 "
+#~ "bahasa dan dibuat dengan prinsip kemudahan penggunaan dan aksesibilitas "
+#~ "modern. Aplikasi berfitur lengkap KDE berjalan secara native di Linux, "
+#~ "BSD, Windows dan macOS."
+
+#~ msgid "Next slide"
+#~ msgstr "Slide berikutnya"
+
+#~ msgid "Previous slide"
+#~ msgstr "Slide sebelumnya"
+
+#~ msgid "KDE Community"
+#~ msgstr "Komunitas KDE"
+
+#~ msgid ""
+#~ "KDE is an open community of friendly people who want to create a world in "
+#~ "which everyone has control over their digital life and enjoys freedom and "
+#~ "privacy."
+#~ msgstr ""
+#~ "KDE adalah komunitas terbuka dari orang-orang ramah yang ingin "
+#~ "menciptakan dunia di mana setiap orang memiliki kendali atas kehidupan "
+#~ "digital mereka dan menikmati kebebasan dan privasi."
+
+#~ msgid "Recent content on KDE Community"
+#~ msgstr "Konten terkini pada Komunitas KDE"
+
+#~ msgid "KDE Plasma %ver, Bugfix Release for January"
+#~ msgstr "KDE Plasma %ver, Rilisan Perbaikan Kutu untuk Januari"
+
+#~ msgid "KDE Plasma %ver, Bugfix Release for February"
+#~ msgstr "KDE Plasma %ver, Rilisan Perbaikan Kutu untuk Februari"
+
+#~ msgid "KDE Plasma %ver, Bugfix Release for March"
+#~ msgstr "KDE Plasma %ver, Rilisan Perbaikan Kutu untuk Maret"
+
+#~ msgid "KDE Plasma %ver, Bugfix Release for April"
+#~ msgstr "KDE Plasma %ver, Rilisan Perbaikan Kutu untuk April"
+
+#~ msgid "KDE Plasma %ver, Bugfix Release for May"
+#~ msgstr "KDE Plasma %ver, Rilisan Perbaikan Kutu untuk Mei"
+
+#~ msgid "KDE Plasma %ver, Bugfix Release for June"
+#~ msgstr "KDE Plasma %ver, Rilisan Perbaikan Kutu untuk Juni"
+
+#~ msgid "KDE Plasma %ver, Bugfix Release for July"
+#~ msgstr "KDE Plasma %ver, Rilisan Perbaikan Kutu untuk Juli"
+
+#~ msgid "KDE Plasma %ver, Bugfix Release for August"
+#~ msgstr "KDE Plasma %ver, Rilisan Perbaikan Kutu untuk Agustus"
+
+#~ msgid "KDE Plasma %ver, Bugfix Release for September"
+#~ msgstr "KDE Plasma %ver, Rilisan Perbaikan Kutu untuk September"
+
+#~ msgid "KDE Plasma %ver, Bugfix Release for October"
+#~ msgstr "KDE Plasma %ver, Rilisan Perbaikan Kutu untuk Oktober"
+
+#~ msgid "KDE Plasma %ver, Bugfix Release for November"
+#~ msgstr "KDE Plasma %ver, Rilisan Perbaikan Kutu untuk November"
+
+#~ msgid "KDE Plasma %ver, Bugfix Release for December"
+#~ msgstr "KDE Plasma %ver, Rilisan Perbaikan Kutu untuk Desember"
+
+#~ msgid "KDE Plasma %ver Release"
+#~ msgstr "Rilisan KDE Plasma %ver"
+
+#~ msgid "KDE Plasma %ver Beta Release"
+#~ msgstr "Rilisan Beta KDE Plasma %ver"
+
+#~ msgid "KDE Ships Plasma %ver."
+#~ msgstr "KDE Meriliskan Plasma %ver."
+
+#~ msgid "KDE Ships Plasma %ver Beta."
+#~ msgstr "KDE Meriliskan Plasma %ver Beta."
+
+#~ msgid "Today KDE releases a bugfix update to KDE Plasma %maj_ver."
+#~ msgstr ""
+#~ "Hari ini KDE meriliskan sebuah pembaruan perbaikan kutu untuk KDE Plasma "
+#~ "%maj_ver."

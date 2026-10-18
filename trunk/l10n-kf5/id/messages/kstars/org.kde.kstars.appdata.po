@@ -1,0 +1,147 @@
+# Wantoyo <wantoyek@gmail.com>, 2018, 2019, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-11-17 08:59+0000\n"
+"PO-Revision-Date: 2022-09-27 17:10+0700\n"
+"Last-Translator: Wantoyèk <wantoyek@gmail.com>\n"
+"Language-Team: Indonesian <kde-i18n-doc@kde.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#. (itstool) path: component/name
+#: org.kde.kstars.appdata.xml:10
+msgid "KStars"
+msgstr "KStars"
+
+#. (itstool) path: component/summary
+#: org.kde.kstars.appdata.xml:11
+msgid "Desktop Planetarium"
+msgstr "Planetarium Desktop"
+
+#. (itstool) path: description/p
+#: org.kde.kstars.appdata.xml:13
+msgid ""
+"KStars is freely licensed, open source, cross-platform Astronomy Software by "
+"KDE."
+msgstr ""
+"KStars adalah Software Astronomi yang terlisensi secara bebas, sumber "
+"terbuka, lintas platform oleh KDE."
+
+#. (itstool) path: description/p
+#: org.kde.kstars.appdata.xml:14
+msgid ""
+"It provides an accurate graphical simulation of the night sky, from any "
+"location on Earth, at any date and time. The display includes up to 100 "
+"million stars, 13,000 deep-sky objects,all 8 planets, the Sun and Moon, and "
+"thousands of comets, asteroids, supernovae, and satellites."
+msgstr ""
+"Ini memberikan simulasi grafis yang akurat dari langit malam, dari lokasi "
+"mana pun di Bumi, pada tanggal dan waktu apa pun. Termasuk displai hingga "
+"100 juta bintang, 13.000 objek langit, semua 8 planet, Matahari dan "
+"Rembulan, dan ribuan komet, asteroid, supernova, dan satelit."
+
+#. (itstool) path: description/p
+#: org.kde.kstars.appdata.xml:15
+msgid ""
+"For students and teachers, it supports adjustable simulation speeds in order "
+"to view phenomena that happen over long timescales, the KStars "
+"Astrocalculator to predict conjunctions, and many common astronomical "
+"calculations."
+msgstr ""
+"Bagi siswa dan guru, ini mendukung kecepatan simulasi yang disesuaikan untuk "
+"melihat fenomena yang terjadi dalam jangka waktu yang lama, KStars "
+"Astrocalculator untuk memprediksi konjungsi, dan banyak perhitungan "
+"astronomi umum."
+
+#. (itstool) path: description/p
+#: org.kde.kstars.appdata.xml:16
+msgid ""
+"For the amateur astronomer, it provides an observation planner, a sky "
+"calendar tool, and an FOV editor to calculate field of view of equipment and "
+"display them. Find out interesting objects in the \"What's up Tonight\" "
+"tool, plot altitude vs. time graphs for any object, print high-quality sky "
+"charts, and gain access to lots of information and resources to help you "
+"explore the universe!"
+msgstr ""
+"Bagi astronom amatir, ia menyediakan perencana observasi, alat kalender "
+"langit, dan editor FOV untuk menghitung bidang pandang peralatan dan "
+"menampilkannya. Temukan benda-benda menarik di alat \"What's up Tonight\", "
+"plot ketinggian vs grafik waktu untuk objek apa pun, cetak bagan langit "
+"berkualitas tinggi, dan dapatkan akses ke banyak informasi dan sumberdaya "
+"untuk membantu Anda menjelajahi alam semesta!"
+
+#. (itstool) path: description/p
+#: org.kde.kstars.appdata.xml:17
+msgid ""
+"Included with KStars is Ekos astrophotography suite, a complete "
+"astrophotography solution that can control all INDI devices including "
+"numerous telescopes, CCDs, DSLRs, focusers, filters, and a lot more. Ekos "
+"supports highly accurate tracking using online and offline astrometry "
+"solver, autofocus and autoguiding capabilities, and capture of single or "
+"multiple images using the powerful built in sequence manager."
+msgstr ""
+"Yang termasuk dengan KStars adalah Ekos astrophotography suite, solusi "
+"astrophotography lengkap yang dapat mengendalikan semua peranti INDI "
+"termasuk banyak teleskop, CCD, DSLR, fokus, filter, dan banyak lagi. Ekos "
+"mendukung pelacakan yang sangat akurat menggunakan pemecah astrometri online "
+"dan offline, kemampuan fokus otomatis dan autoguiding, dan menangkap gambar "
+"tunggal atau ganda menggunakan pengelola urutan yang kuat."
+
+#. (itstool) path: description/p
+#: org.kde.kstars.appdata.xml:18
+msgid "Astronomical Catalogs:"
+msgstr "Katalog Astronomi:"
+
+#. (itstool) path: ul/li
+#: org.kde.kstars.appdata.xml:20
+msgid "Default catalog consisting of stars to magnitude 8"
+msgstr "Katalog baku yang terdiri dari bintang dengan magnitudo 8"
+
+#. (itstool) path: ul/li
+#: org.kde.kstars.appdata.xml:21
+msgid "Extra catalogs consisting of 100 million stars to magnitude 16"
+msgstr "Katalog ekstra yang terdiri dari 100 juta bintang dengan magnitudo 16"
+
+#. (itstool) path: ul/li
+#: org.kde.kstars.appdata.xml:22
+msgid ""
+"Downloadable catalogs including Messier Images, Abell Planetary Nebulae, "
+"Sharpless Catalog, Lynds Dark Nebula Catalog"
+msgstr ""
+"Katalog yang bisa diunduh termasuk Messier Images, Abell Planetary Nebulae, "
+"Sharpless Catalog, Lynds Dark Nebula Catalog"
+
+#. (itstool) path: ul/li
+#: org.kde.kstars.appdata.xml:23
+msgid "Corrections for precession, nutation and atmospheric refraction"
+msgstr "Koreksi untuk presesi, lenggut dan refraksi atmosfer"
+
+#. (itstool) path: ul/li
+#: org.kde.kstars.appdata.xml:24
+msgid "Tools for retrieval of data from online databases"
+msgstr "Peralatan untuk penerimaan data dari database online"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kstars.appdata.xml:32
+msgid "KStars main window"
+msgstr "Jendela utama KStars"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kstars.appdata.xml:36
+msgid "\"What's interesting\" tool in KStars"
+msgstr "Alat \"What's interesting\" di KStars"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kstars.appdata.xml:40
+msgid "Ekos tool in KStars"
+msgstr "Alat Ekos di KStars"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kstars.appdata.xml:44
+msgid "Observation Planner of KStars"
+msgstr "Perencana Observasi KStars"

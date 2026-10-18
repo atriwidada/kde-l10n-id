@@ -1,0 +1,2027 @@
+# Cahaya Maulidian <winluxhuman@gmail.com>, 2017. #zanata.
+# Didiet A. Pambudiono <pambudiono.os@gmail.com>, 2017. #zanata.
+# Wantoyo <wantoyek@gmail.com>, 2017, 2018, 2019, 2020, 2021, 2022.
+# Linerly <linerly@protonmail.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-24 02:17+0000\n"
+"PO-Revision-Date: 2023-02-13 12:24+0700\n"
+"Last-Translator: Andika Triwidada <andika@gmail.com>\n"
+"Language-Team: Indonesian <kde-i18n-doc@kde.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+
+# news title
+#. news title
+#, fuzzy
+#| msgctxt "20220224.html"
+#| msgid "Release GCompris 2.2"
+msgctxt "20260311.html"
+msgid "Release GCompris 26.1"
+msgstr "Rilis GCompris 2.2"
+
+#. paragraph
+#, fuzzy
+#| msgctxt "20230121.html"
+#| msgid "Today we are releasing GCompris version 3.1."
+msgctxt "20260311.html"
+msgid "Today we are releasing GCompris version 26.1."
+msgstr "Hari ini kami merilis GCompris versi 3.1."
+
+#. paragraph
+#, fuzzy
+#| msgctxt "20230118.html"
+#| msgid "This version also contains several improvements and bug fixes."
+msgctxt "20260311.html"
+msgid "It contains bug fixes and improvements on many activities."
+msgstr "Versi ini juga berisi beberapa perbaikan dan perbaikan bug."
+
+#. paragraph
+msgctxt "20260311.html"
+msgid "It is fully translated in the following languages:"
+msgstr ""
+
+#. list item
+msgctxt "20260311.html"
+msgid "{{ oneLocale }}"
+msgstr ""
+
+#. paragraph
+msgctxt "20260311.html"
+msgid "It is also partially translated in the following languages:"
+msgstr ""
+
+#. The arguments are the language name and its percentage of completion. Keep
+#. the entries {{ oneLocale }} and {{ oneStatus }} as this, only move the %
+#. and/or reverse the order if needed for your locale.
+msgctxt "20260311.html"
+msgid "{{ oneLocale }} ({{ oneStatus }}%)"
+msgstr ""
+
+#. paragraph
+#, fuzzy
+#| msgctxt "20230118.html"
+#| msgid ""
+#| "As usual you can find packages of this new version for GNU/Linux, "
+#| "Windows, Android, Raspberry Pi and macOS on the <a href=\\\"https://"
+#| "gcompris.net/downloads{{ suffix }}.html\\\">download page</a>. This "
+#| "update will also be available soon in the Android Play store, the F-Droid "
+#| "repository and the Windows store."
+msgctxt "20260311.html"
+msgid ""
+"You can find packages of this new version for GNU/Linux, Windows, Android, "
+"and Raspberry Pi on the <a href=\\\"https://gcompris.net/"
+"downloads{{ suffix }}.html\\\">download page</a>. Also this update will soon "
+"be available in the Android Play store, the F-Droid repository and the "
+"Windows store."
+msgstr ""
+"Seperti biasa, Anda dapat menemukan paket versi baru ini untuk GNU/Linux, "
+"Windows, Android, Raspberry Pi, dan macOS di <a href=\\\"https://gcompris."
+"net/downloads{{ suffix }}.html\\\"> halaman unduh</a>. Pembaruan ini juga "
+"akan segera tersedia di Android Play store, repositori F-Droid, dan Windows "
+"store."
+
+#. paragraph
+#, fuzzy
+#| msgctxt "20230121.html"
+#| msgid "Thank you all, <br/>Timothée & Johnny"
+msgctxt "20260311.html"
+msgid "Thank you all, <br/>Timothée & Johnny"
+msgstr "Terima kasih semuanya, <br/>Timothée & Johnny"
+
+# news title
+#. news title
+#, fuzzy
+#| msgctxt "20220224.html"
+#| msgid "Release GCompris 2.2"
+msgctxt "20260923.html"
+msgid "Release GCompris 26.2"
+msgstr "Rilis GCompris 2.2"
+
+#. paragraph
+#, fuzzy
+#| msgctxt "20230121.html"
+#| msgid "Today we are releasing GCompris version 3.1."
+msgctxt "20260923.html"
+msgid "Today we are releasing GCompris version 26.2."
+msgstr "Hari ini kami merilis GCompris versi 3.1."
+
+#. paragraph
+#, fuzzy
+#| msgctxt "20230118.html"
+#| msgid "This version also contains several improvements and bug fixes."
+msgctxt "20260923.html"
+msgid "It contains bug fixes and improvements on many activities."
+msgstr "Versi ini juga berisi beberapa perbaikan dan perbaikan bug."
+
+#. paragraph
+msgctxt "20260923.html"
+msgid "It is fully translated in the following languages:"
+msgstr ""
+
+#. list item
+msgctxt "20260923.html"
+msgid "{{ oneLocale }}"
+msgstr ""
+
+#. paragraph
+msgctxt "20260923.html"
+msgid "It is also partially translated in the following languages:"
+msgstr ""
+
+#. The arguments are the language name and its percentage of completion. Keep
+#. the entries {{ oneLocale }} and {{ oneStatus }} as this, only move the %
+#. and/or reverse the order if needed for your locale.
+msgctxt "20260923.html"
+msgid "{{ oneLocale }} ({{ oneStatus }}%)"
+msgstr ""
+
+#. paragraph
+#, fuzzy
+#| msgctxt "20230118.html"
+#| msgid ""
+#| "As usual you can find packages of this new version for GNU/Linux, "
+#| "Windows, Android, Raspberry Pi and macOS on the <a href=\\\"https://"
+#| "gcompris.net/downloads{{ suffix }}.html\\\">download page</a>. This "
+#| "update will also be available soon in the Android Play store, the F-Droid "
+#| "repository and the Windows store."
+msgctxt "20260923.html"
+msgid ""
+"You can find packages of this new version for GNU/Linux, Windows, Android, "
+"and Raspberry Pi on the <a href=\\\"https://gcompris.net/"
+"downloads{{ suffix }}.html\\\">download page</a>. Also this update will soon "
+"be available in the Android Play store, the F-Droid repository and the "
+"Windows store."
+msgstr ""
+"Seperti biasa, Anda dapat menemukan paket versi baru ini untuk GNU/Linux, "
+"Windows, Android, Raspberry Pi, dan macOS di <a href=\\\"https://gcompris."
+"net/downloads{{ suffix }}.html\\\"> halaman unduh</a>. Pembaruan ini juga "
+"akan segera tersedia di Android Play store, repositori F-Droid, dan Windows "
+"store."
+
+#. paragraph
+#, fuzzy
+#| msgctxt "20230118.html"
+#| msgid "Thank you all, <br/>Timothée & Johnny"
+msgctxt "20260923.html"
+msgid "Thank you all, <br/>Timothée & Johnny"
+msgstr "Terima kasih semuanya, <br/>Timothée & Johnny"
+
+#: gcompris.py:83
+msgctxt "language name, item list"
+msgid "UK English"
+msgstr ""
+
+#: gcompris.py:84
+msgctxt "language name, item list"
+msgid "American English"
+msgstr ""
+
+#: gcompris.py:85
+msgctxt "language name, item list"
+msgid "Arabic"
+msgstr ""
+
+#: gcompris.py:86
+msgctxt "language name, item list"
+msgid "Azerbaijani"
+msgstr ""
+
+#: gcompris.py:87
+msgctxt "language name, item list"
+msgid "Bulgarian"
+msgstr ""
+
+#: gcompris.py:88
+msgctxt "language name, item list"
+msgid "Breton"
+msgstr ""
+
+#: gcompris.py:89
+msgctxt "language name, item list"
+msgid "Belarusian"
+msgstr ""
+
+#: gcompris.py:90
+msgctxt "language name, item list"
+msgid "Catalan"
+msgstr ""
+
+#: gcompris.py:91
+msgctxt "language name, item list"
+msgid "Catalan (Valencian)"
+msgstr ""
+
+#: gcompris.py:92
+msgctxt "language name, item list"
+msgid "Czech"
+msgstr ""
+
+#: gcompris.py:93
+msgctxt "language name, item list"
+msgid "Danish"
+msgstr ""
+
+#: gcompris.py:94
+msgctxt "language name, item list"
+msgid "German"
+msgstr ""
+
+#: gcompris.py:95
+msgctxt "language name, item list"
+msgid "Greek"
+msgstr ""
+
+#: gcompris.py:96
+msgctxt "language name, item list"
+msgid "Esperanto"
+msgstr ""
+
+#: gcompris.py:97
+msgctxt "language name, item list"
+msgid "Spanish"
+msgstr ""
+
+#: gcompris.py:98
+msgctxt "language name, item list"
+msgid "Estonian"
+msgstr ""
+
+#: gcompris.py:99
+msgctxt "language name, item list"
+msgid "Basque"
+msgstr ""
+
+#: gcompris.py:100
+msgctxt "language name, item list"
+msgid "Finnish"
+msgstr ""
+
+#: gcompris.py:101
+msgctxt "language name, item list"
+msgid "French"
+msgstr ""
+
+#: gcompris.py:102
+msgctxt "language name, item list"
+msgid "Irish"
+msgstr ""
+
+#: gcompris.py:103
+msgctxt "language name, item list"
+msgid "Scottish Gaelic"
+msgstr ""
+
+#: gcompris.py:104
+msgctxt "language name, item list"
+msgid "Galician"
+msgstr ""
+
+#: gcompris.py:105
+msgctxt "language name, item list"
+msgid "Hebrew"
+msgstr ""
+
+#: gcompris.py:106
+msgctxt "language name, item list"
+msgid "Hindi"
+msgstr ""
+
+#: gcompris.py:107
+msgctxt "language name, item list"
+msgid "Croatian"
+msgstr ""
+
+#: gcompris.py:108
+msgctxt "language name, item list"
+msgid "Hungarian"
+msgstr ""
+
+#: gcompris.py:109
+msgctxt "language name, item list"
+msgid "Indonesian"
+msgstr ""
+
+#: gcompris.py:110
+msgctxt "language name, item list"
+msgid "Italian"
+msgstr ""
+
+#: gcompris.py:111
+msgctxt "language name, item list"
+msgid "Georgian"
+msgstr ""
+
+#: gcompris.py:112
+msgctxt "language name, item list"
+msgid "Kannada"
+msgstr ""
+
+#: gcompris.py:113
+msgctxt "language name, item list"
+msgid "Korean"
+msgstr ""
+
+#: gcompris.py:114
+msgctxt "language name, item list"
+msgid "Lithuanian"
+msgstr ""
+
+#: gcompris.py:115
+msgctxt "language name, item list"
+msgid "Latvian"
+msgstr ""
+
+#: gcompris.py:116
+msgctxt "language name, item list"
+msgid "Macedonian"
+msgstr ""
+
+#: gcompris.py:117
+msgctxt "language name, item list"
+msgid "Malayalam"
+msgstr ""
+
+#: gcompris.py:118
+msgctxt "language name, item list"
+msgid "Dutch"
+msgstr ""
+
+#: gcompris.py:119
+msgctxt "language name, item list"
+msgid "Norwegian Nynorsk"
+msgstr ""
+
+#: gcompris.py:120
+msgctxt "language name, item list"
+msgid "Polish"
+msgstr ""
+
+#: gcompris.py:121
+msgctxt "language name, item list"
+msgid "Portuguese"
+msgstr ""
+
+#: gcompris.py:122
+msgctxt "language name, item list"
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: gcompris.py:123
+msgctxt "language name, item list"
+msgid "Romanian"
+msgstr ""
+
+#: gcompris.py:124
+msgctxt "language name, item list"
+msgid "Russian"
+msgstr ""
+
+#: gcompris.py:125
+msgctxt "language name, item list"
+msgid "Sanskrit"
+msgstr ""
+
+#: gcompris.py:126
+msgctxt "language name, item list"
+msgid "Slovak"
+msgstr ""
+
+#: gcompris.py:127
+msgctxt "language name, item list"
+msgid "Slovenian"
+msgstr ""
+
+#: gcompris.py:128
+msgctxt "language name, item list"
+msgid "Albanian"
+msgstr ""
+
+#: gcompris.py:129
+msgctxt "language name, item list"
+msgid "Serbian"
+msgstr ""
+
+#: gcompris.py:130
+msgctxt "language name, item list"
+msgid "Swedish"
+msgstr ""
+
+#: gcompris.py:131
+msgctxt "language name, item list"
+msgid "Swahili"
+msgstr ""
+
+#: gcompris.py:132
+msgctxt "language name, item list"
+msgid "Tamil"
+msgstr ""
+
+#: gcompris.py:133
+msgctxt "language name, item list"
+msgid "Thai"
+msgstr ""
+
+#: gcompris.py:134
+msgctxt "language name, item list"
+msgid "Turkish"
+msgstr ""
+
+#: gcompris.py:135
+msgctxt "language name, item list"
+msgid "Ukrainian"
+msgstr ""
+
+#: gcompris.py:136
+msgctxt "language name, item list"
+msgid "Chinese Simplified"
+msgstr ""
+
+#: gcompris.py:137
+msgctxt "language name, item list"
+msgid "Chinese Traditional"
+msgstr ""
+
+#: gcompris.py:269
+msgid ""
+"This software is a GNU Package and is released under the GNU Affero General "
+"Public License."
+msgstr ""
+"Perangkat lunak ini adalah Paket GNU dan dirilis di bawah Lisensi GNU Affero "
+"General Public."
+
+#: gcompris.py:270
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Ahmad Haris"
+
+#: gcompris.py:436
+msgid "For Christmas, offer GCompris to your children."
+msgstr "Untuk Natal, tawarkan GCompris kepada anak-anak Anda."
+
+#: template/base.html:76 template/news.html:3 template/news.html:8
+#: template/newsall.html:3 template/newsall.html:8 template/singlenews.html:3
+#: template/singlenews.html:9
+msgid "News"
+msgstr "Berita"
+
+#: template/base.html:77 template/downloads.html:3 template/downloads.html:8
+msgid "Download"
+msgstr "Unduh"
+
+#: template/base.html:78 template/donate.html:3 template/donate.html:8
+msgid "Donate"
+msgstr "Donasi"
+
+#: template/base.html:79 template/screenshots.html:3
+#: template/screenshots.html:30
+msgid "Screenshots"
+msgstr "Tangkapan Layar"
+
+#: template/base.html:80 template/schools.html:3 template/schools.html:8
+msgid "Schools"
+msgstr "Sekolah"
+
+#: template/base.html:81
+msgid "Manual"
+msgstr "Petunjuk"
+
+#: template/base.html:82
+msgid "FAQ"
+msgstr ""
+
+#: template/base.html:83
+msgid "Contribute"
+msgstr "Kontribusi"
+
+#: template/base.html:117
+#, fuzzy, python-format
+#| msgid "Site last updated the %(revision_date)s."
+msgid "Site last updated on %(revision_date)s."
+msgstr "Situs terakhir memperbarui %(revision_date)s."
+
+#: template/base.html:122
+#, python-format
+msgid "Site translated by: %(translators_names)s."
+msgstr "Situs diterjemahkan oleh: %(translators_names)s."
+
+#: template/christmas.html:3 template/christmas.html:10
+msgid "GCompris for Christmas"
+msgstr "GCompris untuk Natal"
+
+#: template/christmas.html:15
+msgid ""
+"For Christmas, offer GCompris to your children. It's free and will give them "
+"hours of educational fun."
+msgstr ""
+"Untuk Natal, tawarkan GCompris kepada anak-anak Anda. Ini gratis dan akan "
+"memberi mereka kesenangan mendidik selama berjam-jam."
+
+#: template/christmas.html:16
+msgid "Get GCompris from our Download page"
+msgstr "Dapatkan GCompris dari halaman Unduhan kami"
+
+#: template/christmas.html:17
+msgid "Get GCompris from the Play Store"
+msgstr "Dapatkan GCompris dari Play Store"
+
+#: template/christmas.html:18
+msgid "Get GCompris from the Windows Store"
+msgstr "Dapatkan GCompris dari Windows Store"
+
+#: template/donate.html:13
+msgid ""
+"You, your children or your school love GCompris. You can support the project "
+"with a donation."
+msgstr ""
+"Anda, anak-anak Anda atau kelas Anda yang mencintai GCompris. Anda bisa "
+"mendukung peroyek dengan sebuah donasi."
+
+#: template/donate.html:14
+msgid ""
+"Developing software takes a lot of time, it needs hardware, and other "
+"requirements that have a cost."
+msgstr ""
+"Mengembangkan perangkat lunak membutuhkan banyak waktu, membutuhkan "
+"perangkat keras, dan pembutuhan lainnya yang memiliki sebuah harga."
+
+#: template/donate.html:16
+msgid ""
+"If you want to support the development of GCompris in a sustainable way, "
+"please become a patron of GCompris on Patreon:"
+msgstr ""
+"Jika Anda ingin mendukung pengembangan GCompris secara berkelanjutan, "
+"silakan menjadi pendukung GCompris di Patreon:"
+
+#: template/donate.html:18 template/downloads.html:10 template/index.html:150
+msgid "Become a Patron"
+msgstr "Menjadi Pendukung"
+
+#: template/donate.html:21
+msgid "Also, you can donate the amount of your choice to KDE:"
+msgstr "Anda juga dapat berdonasi sebesar nilai yang Anda inginkan ke KDE:"
+
+#: template/donate.html:22
+msgid "Donate to KDE"
+msgstr "Berdonasi ke KDE"
+
+#: template/donate.html:24
+msgid "Thanks for supporting Free Software in education."
+msgstr "Terima kasih atas dukungan terhadap Free Software dalam pendidikan."
+
+#: template/donate.html:27
+msgid "Patreon"
+msgstr "Patreon"
+
+#: template/donate.html:30
+msgid "Thanks to everyone supporting GCompris on Patreon!"
+msgstr "Terima kasih atas semua yang mendukung GCompris di Patreon!"
+
+#: template/downloads.html:16
+msgid "Windows"
+msgstr "Windows"
+
+#: template/downloads.html:20
+msgid ""
+"You can install GCompris <a href=\"https://www.microsoft.com/en-us/store/p/"
+"gcompris/9pgxjtcxn8qm\">from the Windows Store</a>."
+msgstr ""
+"Kamu bisa menginstal GCompris <a href=\"https://www.microsoft.com/en-us/"
+"store/p/gcompris/9pgxjtcxn8qm\">dari Windows Store</a>."
+
+#: template/downloads.html:21
+msgid "Note: the Windows Store requires Windows 10."
+msgstr "Catatan: Windows Store membutuhkan Windows 10."
+
+#: template/downloads.html:23
+msgid "Else, you can download the installer from the links below."
+msgstr "Selain itu, Anda dapat mengunduh penginstal dari tautan di bawah ini."
+
+#: template/downloads.html:24
+#, fuzzy
+#| msgid "System requirements: Windows 7, 8 or 10 with OpenGL 2 support."
+msgid "System requirements: Windows 10 or 11."
+msgstr "Keperluan sistem: Windows 7, 8 atau 10 dengan dukungan OpenGL 2."
+
+#: template/downloads.html:28
+msgid "We also provide an msi installer."
+msgstr ""
+
+#: template/downloads.html:32
+#, fuzzy
+#| msgid ""
+#| "Note: If your system doesn't have OpenGL 2 support or if it's not working "
+#| "properly, please use the entry GCompris (Safe Mode) in the start menu to "
+#| "launch GCompris with the software rendering mode which doesn't use OpenGL."
+msgid ""
+"Note: If your system doesn't have Direct3D 11 support or if it's not working "
+"properly, please use the entry GCompris (Safe Mode) in the start menu to "
+"launch GCompris with the software rendering mode."
+msgstr ""
+"Catatan: Jika sistemmu belum memiliki dukungan OpenGL 2 atau jika tidak "
+"bekerja dengan baik, silakan gunakan entri GCompris (Mode Aman) di menu "
+"start untuk meluncurkan GCompris dengan mode rendering perangkat lunak yang "
+"tidak menggunakan OpenGL."
+
+#: template/downloads.html:33
+msgid ""
+"The last version available for Windows 7 and 8 can be downloaded from the "
+"link below."
+msgstr ""
+
+#: template/downloads.html:38
+msgid ""
+"If you really need a version that runs on Windows XP, or if your system "
+"doesn't support the new version, you can use the last installer from the old "
+"GCompris 15.10."
+msgstr ""
+"Jika kau benar-benar memerlukan sebuah versi yang berjalan pada Windows XP, "
+"atau jika sistemmu tidak mendukung dengan versi anyar, kamu bisa menggunakan "
+"pemasang terakhir dari GCompris 15.10 yang lawas."
+
+#: template/downloads.html:42
+msgid ""
+"To enable all the activities in this old version, you can use the code "
+"200202 in the entry box that contains the word CODE when you start the "
+"application."
+msgstr ""
+"Untuk mengaktifkan semua aktivitas di versi lama ini, Anda dapat menggunakan "
+"kode 200202 di kotak entri yang berisi kata CODE saat Anda memulai aplikasi."
+
+#: template/downloads.html:52
+msgid "Android"
+msgstr "Android"
+
+#: template/downloads.html:56
+msgid "The version for Android is distributed in the Play Store."
+msgstr "Versi untuk Android didistribusikan di Play Store."
+
+#: template/downloads.html:60
+msgid ""
+"We support both android 32bit and 64bit from the Play Store. The appropriate "
+"version is downloaded automatically depending on your Android operating "
+"system."
+msgstr ""
+"Kami mendukung Android 32bit dan 64bit dari Play Store. Versi yang sesuai "
+"diunduh secara otomatis tergantung pada sistem operasi Android Anda."
+
+#: template/downloads.html:62
+msgid ""
+"GCompris is also available from F-Droid, the Free and Open Source Android "
+"app repository."
+msgstr ""
+"GCompris juga tersedia dari F-Droid, gudang aplikasi Android Gratis dan "
+"Sumber Terbuka."
+
+#: template/downloads.html:67
+msgid ""
+"You can also directly download the apk from our website to install it "
+"manually on your device."
+msgstr ""
+"Anda juga dapat langsung mengunduh apk dari situs web kami untuk "
+"menginstalnya secara manual di perangkat Anda."
+
+#: template/downloads.html:72
+#, fuzzy
+#| msgid ""
+#| "For devices running Android 2.3 to 4.0, the last compatible version is <a "
+#| "href= \"https://gcompris.net/download/qt/android/GCompris-Android-release-"
+#| "signed-aligned-armeabi-v7a-dl-0.81.apk\">GCompris 0.81</a>."
+msgid ""
+"For devices running Android 4.1 to 8.0, the last compatible version is <a "
+"href= \"https://gcompris.net/download/qt/android/GCompris-Android-release-"
+"signed-aligned-armeabi-v7a-dl-4.3.1.apk\">GCompris 4.3.1</a>."
+msgstr ""
+"Untuk perangkat yang menjalankan Android 2.3 hingga 4.0, versi terakhir yang "
+"kompatibel adalah <a href= \"https://gcompris.net/download/qt/android/"
+"GCompris-Android-release-signed-aligned-armeabi-v7a-dl-0.81.apk\">GCompris "
+"0.81</a>."
+
+#: template/downloads.html:73
+msgid ""
+"For devices running Android 2.3 to 4.0, the last compatible version is <a "
+"href= \"https://gcompris.net/download/qt/android/GCompris-Android-release-"
+"signed-aligned-armeabi-v7a-dl-0.81.apk\">GCompris 0.81</a>."
+msgstr ""
+"Untuk perangkat yang menjalankan Android 2.3 hingga 4.0, versi terakhir yang "
+"kompatibel adalah <a href= \"https://gcompris.net/download/qt/android/"
+"GCompris-Android-release-signed-aligned-armeabi-v7a-dl-0.81.apk\">GCompris "
+"0.81</a>."
+
+#: template/downloads.html:84
+msgid "macOS"
+msgstr "macOS"
+
+#: template/downloads.html:88
+msgid ""
+"The latest version is not yet available on macOS due to lack of "
+"infrastructure to build and test it."
+msgstr ""
+
+#: template/downloads.html:89
+#, fuzzy
+#| msgid "Else, you can download the installer from the links below."
+msgid "You can download the last version available macOS from the link below."
+msgstr "Selain itu, Anda dapat mengunduh penginstal dari tautan di bawah ini."
+
+#: template/downloads.html:90
+msgid "Built and tested on macOS 10.13."
+msgstr "Dibangun dan diuji pada macOS 10.13."
+
+#: template/downloads.html:103
+msgid "GNU/Linux"
+msgstr "GNU/Linux"
+
+#: template/downloads.html:107
+msgid ""
+"You can check if your distribution provides a package for the latest version "
+"of GCompris."
+msgstr ""
+"Anda dapat memeriksa apakah distribusi Anda menyediakan paket untuk versi "
+"terbaru GCompris."
+
+#: template/downloads.html:108
+msgid ""
+"We also provide standalone packages for GNU/Linux. They should work on any "
+"recent distribution."
+msgstr ""
+"Kami juga menyediakan paket tersendiri untuk GNU/Linux. Mereka seharusnya "
+"berkerja pada distribusi terkini apa saja."
+
+#: template/downloads.html:108
+#, fuzzy
+#| msgid "System requirements: Windows 7, 8 or 10 with OpenGL 2 support."
+msgid "System requirements: linux kernel 5.15, glibc 2.35."
+msgstr "Keperluan sistem: Windows 7, 8 atau 10 dengan dukungan OpenGL 2."
+
+#: template/downloads.html:112 template/downloads.html:148
+msgid ""
+"To use it, open a terminal in the folder where you downloaded the installer "
+"and run these commands:"
+msgstr ""
+"Untuk menggunakannya, buka terminal di folder tempat di mana kamu mengunduh "
+"pemasang dan jalankan perintah ini:"
+
+#: template/downloads.html:117 template/downloads.html:153
+msgid ""
+"Then read the license or press q to skip it, answer yes to the questions, "
+"and the software will be installed in a new folder next to the installer."
+msgstr ""
+"Kemudian baca lisensi atau tekan q untuk melewatinya, jawab ya untuk "
+"pertanyaan, dan perangkat lunak akan diinstal di folder baru di sebelah "
+"pemasang."
+
+#: template/downloads.html:118 template/downloads.html:154
+msgid ""
+"Finally, to launch gcompris, go in the new folder, in bin, and double-click "
+"on gcompris-qt.sh."
+msgstr ""
+"Teraqir, untuk meluncurkan gcompris, masuk ke folder baru, di bin, dan klik "
+"dua kali pada gcompris-qt.sh."
+
+#: template/downloads.html:119
+msgid ""
+"Note: If your system doesn't have OpenGL 2 support or if it's not working "
+"properly, please add the option \"--software-renderer\" at the end of the "
+"last line of the script gcompris-qt.sh. Another way is to edit the "
+"configuration file (in ~/.config/gcompris-qt/gcompris-qt.conf): find the "
+"line renderer=auto , replace auto with software and save the file."
+msgstr ""
+"Catatan: Jika sistem Anda tidak memiliki dukungan OpenGL 2 atau jika tidak "
+"berfungsi dengan baik, silakan tambahkan opsi \"--software-renderer\" di "
+"ujung baris terakhir skrip gcompris-qt.sh. Cara lain adalah dengan mengedit "
+"file konfigurasi (dalam ~/.config/gcompris-qt/gcompris-qt.conf): temukan "
+"baris renderer=auto, ganti auto dengan software dan simpan file."
+
+#: template/downloads.html:120
+msgid ""
+"Alternatively, you can install GCompris from <a href=\"https://flathub.org/"
+"apps/details/org.kde.gcompris\">Flathub</a> or from the <a href=\"https://"
+"snapcraft.io/gcompris\">Snap store</a>."
+msgstr ""
+"Alternatifnya, Anda dapat menginstal GCompris dari <a href=\"https://flathub."
+"org/apps/details/org.kde.gcompris\">Flathub</a> atau dari <a href=\"https://"
+"snapcraft.io/gcompris\">toko Snap</a>."
+
+#: template/downloads.html:121
+msgid ""
+"The last version available for 32bit Linux distributions can be downloaded "
+"from the following link."
+msgstr ""
+
+#: template/downloads.html:121
+msgid ""
+"System requirements: linux kernel 3.10, glibc 2.17, pulseaudio, gstreamer "
+"1.0."
+msgstr ""
+
+#: template/downloads.html:135
+msgid "Raspberry Pi"
+msgstr "Raspberry Pi"
+
+#: template/downloads.html:139
+#, fuzzy
+#| msgid "We provide a standalone package for Raspberry Pi."
+msgid "We provide a standalone package for Raspberry Pi (64bit)."
+msgstr "Kami menyediakan paket tersendiri untuk Raspberry Pi."
+
+#: template/downloads.html:139
+msgid "It was tested only on Raspberry Pi 3."
+msgstr "Itu diuji hanya pada Raspberry Pi 3."
+
+#: template/downloads.html:143
+msgid ""
+"The last version available for 32bit is the version 4.3 at the following "
+"link:"
+msgstr ""
+
+#: template/downloads.html:164 template/schools.html:42
+msgid "GCompris-teachers"
+msgstr ""
+
+#: template/downloads.html:168
+#, python-format
+msgid ""
+"GCompris-teachers is the companion application for teachers to enhance their "
+"use of GCompris in their classroom. You can learn more about it from our <a "
+"href=\"https://gcompris.net/schools%(suffix)s.html#gcompris-teachers"
+"\">Schools page</a>. Note that to use it, you should use the same version of "
+"the main GCompris application."
+msgstr ""
+
+#: template/downloads.html:169
+msgid ""
+"GCompris-teachers is available for GNU/Linux and Windows operating systems."
+msgstr ""
+
+#: template/downloads.html:183
+msgid "Source code"
+msgstr "Kode sumber"
+
+#: template/downloads.html:187
+msgid "The source code is available under the AGPLv3 license."
+msgstr "Kode sumber tersedia dibawah lisensi AGPLv3."
+
+#: template/downloads.html:200
+msgid "SHA-256 and GPG"
+msgstr "SHA-256 dan GPG"
+
+#: template/downloads.html:204
+msgid ""
+"To check the integrity of your downloads, you can get the original SHA-256 "
+"hash of the files by adding \".sha256\" at the end of their download url."
+msgstr ""
+"Untuk memeriksa integritas unduhan Anda, Anda bisa mendapatkan hash SHA-256 "
+"asli dari file dengan menambahkan \".sha256\" di akhir url unduhannya."
+
+#: template/downloads.html:205
+#, fuzzy, python-format
+#| msgid ""
+#| "The source tarball and the Linux installers are signed with the GPG key "
+#| "from Timothée Giet (public key: %(public_gpg_key)s)"
+msgid ""
+"The source tarball and the Linux installer are signed with the GPG key from "
+"Timothée Giet (public key: %(public_gpg_key)s)"
+msgstr ""
+"Tarbal sumber dan penginstal Linux ditandatangani dengan kunci GPG dari "
+"Timothée Giet (kunci publik: %(public_gpg_key)s)"
+
+#: template/downloads.html:207
+msgid "sig files:"
+msgstr "berkas sig:"
+
+#: template/faq.html:3
+msgid "FAQ - GCompris"
+msgstr ""
+
+#: template/faq.html:8
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: template/faq.html:13
+msgid "Why are some assets not contained in the software itself?"
+msgstr ""
+
+#: template/faq.html:14
+msgid ""
+"Including the voices for all languages would make the installer way too "
+"heavy and most users are only interested in the voices for their language. "
+"Also the extra images and background music take relatively lot of space "
+"while not being required to use the software. So to minimize the base "
+"installer size we decided to not include those and let users download them "
+"from the software if they want to."
+msgstr ""
+
+#: template/faq.html:15
+msgid ""
+"If you don't want the software to download anything automatically, you can "
+"disable the option \"Enable automatic downloads/updates of external assets\" "
+"in the main configuration page."
+msgstr ""
+
+#: template/faq.html:17
+msgid "How can I manually download and install the extra assets?"
+msgstr ""
+
+#: template/faq.html:18
+msgid ""
+"IMPORTANT: for GCompris versions older than 4.0, you need to replace "
+"\"data3\" with \"data2\" in all instructions below."
+msgstr ""
+
+#: template/faq.html:19
+msgid ""
+"IMPORTANT: from GCompris version 4.0, we added the date of the last update "
+"in the .rcc filenames. So you need to look in the \"Contents\" files what is "
+"the name of the latest one before downloading it. For example:"
+msgstr ""
+
+#: template/faq.html:19
+msgid "For older versions, the filenames don't contain the date. Example:"
+msgstr ""
+
+#: template/faq.html:20
+msgid ""
+"IMPORTANT: in the following instructions, replace \"-codecName\" with \"-"
+"mp3\" for Windows systems, or \"-ogg\" for Linux or Android systems, or \"-"
+"aac\" for macOS systems. Also, replace \"-localeCode\" with the code of your "
+"locale."
+msgstr ""
+
+#: template/faq.html:20
+msgid ""
+"And as explained above, from GCompris version 4.0, replace \"-date\" with "
+"the date you found in the \"Contents\" file; for older versions, remove the "
+"\"-date\" part."
+msgstr ""
+
+#: template/faq.html:21
+#, fuzzy
+#| msgid "Else, you can download the installer from the links below."
+msgid "You can download the extra assets from this link:"
+msgstr "Selain itu, Anda dapat mengunduh penginstal dari tautan di bawah ini."
+
+#: template/faq.html:25
+msgid ""
+"For the background music, you need to go in the folder named "
+"\"backgroundMusic\" and download those 2 files:"
+msgstr ""
+
+#: template/faq.html:30
+msgid ""
+"Then copy those 2 files in a folder named \"backgroundMusic\" in the cache "
+"folder of the application."
+msgstr ""
+
+#: template/faq.html:31
+msgid ""
+"For the voices, you need to go in the folder named \"voices-codecName\" and "
+"download those 2 files:"
+msgstr ""
+
+#: template/faq.html:36
+msgid ""
+"Then copy those 2 files in a folder named \"voices-codecName\" in the cache "
+"folder of the application."
+msgstr ""
+
+#: template/faq.html:37
+msgid ""
+"For the images, you need to go in the folder named \"words\" and download "
+"those 2 files:"
+msgstr ""
+
+#: template/faq.html:42
+msgid ""
+"Then copy those 2 files in a folder named \"words\" in the cache folder of "
+"the application."
+msgstr ""
+
+#: template/faq.html:43
+msgid ""
+"The path to the cache folder is different depending on the operating system."
+msgstr ""
+
+#: template/faq.html:44
+#, fuzzy
+#| msgid "Windows"
+msgid "Path on Windows:"
+msgstr "Windows"
+
+#: template/faq.html:48
+msgid "Path on Linux:"
+msgstr ""
+
+#: template/faq.html:52
+msgid "Path on Android (you need to have root access to edit this folder):"
+msgstr ""
+
+#: template/faq.html:56
+msgid "Path on macOS:"
+msgstr ""
+
+#: template/faq.html:61
+msgid "Is GCompris a GNU package or a KDE package?"
+msgstr ""
+
+#: template/faq.html:62
+msgid ""
+"It is both. From the beginning, GCompris has always been and still is a GNU "
+"package. Since 2014 it is maintained by the KDE community."
+msgstr ""
+
+#: template/faq.html:64
+msgid "Why is it called GCompris?"
+msgstr ""
+
+#: template/faq.html:65
+msgid ""
+"The name GCompris sounds like \"J'ai compris\" in French, which means \"I "
+"understand\" in English. Also, the G stands for GNU."
+msgstr ""
+
+#: template/faq.html:67
+msgid "Does this software depend on non-free packages or content?"
+msgstr ""
+
+#: template/faq.html:68
+msgid ""
+"All the content and dependencies are under licenses compatible with the "
+"AGPLv3 license."
+msgstr ""
+
+#: template/faq.html:70
+msgid "Why is it not available for iOS?"
+msgstr ""
+
+#: template/faq.html:71
+msgid ""
+"The requirements to build and publish software for iOS are not compatible "
+"with the GPLv3 and AGPLv3 licenses used by this software."
+msgstr ""
+
+#: template/faq.html:73
+msgid "Why is it not available on the amazon store?"
+msgstr ""
+
+#: template/faq.html:74
+msgid ""
+"For android we already publish on the Play store and F-Droid, publishing on "
+"all the stores would require too much work. If you are using a Fire tablet, "
+"you can directly install the latest apk from our website, and use a third "
+"party launcher to access the application from a child profile."
+msgstr ""
+
+#: template/index.html:3
+msgid "GCompris Educational Software"
+msgstr "Perangkat Lunak Pendidikan GCompris"
+
+#: template/index.html:55
+msgid "Download GCompris"
+msgstr "Unduh GCompris"
+
+#: template/index.html:58
+msgid "Latest news"
+msgstr "Berita terkini"
+
+#: template/index.html:91
+msgid "Click or tap"
+msgstr "Klik atau ketuk"
+
+#: template/index.html:97
+msgid "Identify colors"
+msgstr "Mengidentifikasi warna"
+
+#: template/index.html:103
+msgid "Learn clock"
+msgstr "Belajar jam"
+
+#: template/index.html:109
+msgid "Keyboard training"
+msgstr "Pelatihan papan ketik"
+
+#: template/index.html:115
+msgid "Learn additions"
+msgstr "Belajar penjumlahan"
+
+#: template/index.html:121
+msgid "Discover the watercycle"
+msgstr "Temukan siklus air"
+
+#: template/index.html:127
+msgid "Play chess against your friend"
+msgstr "Bermain catur melawan teman"
+
+#: template/index.html:133
+msgid "Click on a lowercase letter"
+msgstr "Klik pada huruf kecil"
+
+#: template/index.html:147
+msgid "View all screenshots"
+msgstr "Tunjukkan semua tangkapan layar"
+
+#: template/index.html:153
+msgid ""
+"GCompris is a high quality educational software suite, including a large "
+"number of activities for children aged 2 to 10."
+msgstr ""
+"GCompris adalah perangkat lunak untuk pendidikan dengan kualitas terbaik, "
+"yang mempunyai banyak aktifitas untuk anak-anak usia 2 sampai 10 tahun."
+
+#: template/index.html:154
+msgid ""
+"Some of the activities are game orientated, but nonetheless still "
+"educational."
+msgstr ""
+"Beberapa aktivitas berorientasi permainan, tapi masih dalam lingkup "
+"pendidikan."
+
+#: template/index.html:155
+msgid "Here is the list of activity categories with some examples:"
+msgstr "Daftar aktivitas dengan beberapa contoh:"
+
+#: template/index.html:157
+msgid "computer discovery: keyboard, mouse, touchscreen ..."
+msgstr "pengenalan komputer: keyboard, mouse, layar sentuh ..."
+
+#: template/index.html:158
+msgid "reading: letters, words, reading practice, typing text ..."
+msgstr "membaca: huruf, kata, belajar membaca, mengetik teks ..."
+
+#: template/index.html:159
+msgid ""
+"arithmetic: numbers, operations, table memory, enumeration, double entry "
+"table ..."
+msgstr "aritmetika: angka, operasi, tabel ingatan, tabel masukan ganda ..."
+
+#: template/index.html:160
+msgid "science: the canal lock, the water cycle, renewable energy ..."
+msgstr "sains: pintu air, siklus air, energi terbarukan ..."
+
+#: template/index.html:161
+msgid "geography: countries, regions, culture ..."
+msgstr "geografi: negara, daerah, budaya ..."
+
+#: template/index.html:162
+msgid "games: chess, memory, align 4, hangman, tic-tac-toe ..."
+msgstr "permainan: catur, ingatan, align 4, hangman, tic-tac-toe ..."
+
+#: template/index.html:163
+msgid "other: colors, shapes, Braille, learn to tell time ..."
+msgstr "lainnya: warna, bentuk, Braille, belajar bercerita ..."
+
+#: template/index.html:165
+msgid ""
+"Currently GCompris offers more than 100 activities, and more are being "
+"developed. GCompris is free software, it means that you can adapt it to your "
+"own needs, improve it, and most importantly share it with children "
+"everywhere."
+msgstr ""
+"Pada saat ini GCompris menawarkan lebih dari 100 aktivitas, dan masih banyak "
+"yang sedang dikembangkan. GCompris adalah perangkat lunak bebas, yang "
+"berarti Anda dapat menyesuaikan untuk kebutuhan Anda, meningkatkannya, dan "
+"yang terpenting adalah untuk membagikannya kepada anak-anak dimana saja."
+
+#: template/index.html:166
+msgid ""
+"The GCompris project is hosted and developed by <a target=\"_blank\" rel="
+"\"noopener\" href=\"https://www.kde.org/\">the KDE community</a>."
+msgstr ""
+"Proyek GCompris telah di-host dan dikembangkan oleh <a target=\"_blank\" rel="
+"\"noopener\" href=\"https://www.kde.org/\">KDE community</a>."
+
+#: template/news.html:14 template/singlenews.html:13
+msgid "All the news"
+msgstr "Semua berita"
+
+#: template/schools.html:13
+msgid ""
+"GCompris is officially recommended for teachers in the following countries "
+"and states:"
+msgstr ""
+
+#: template/schools.html:15
+msgid "France"
+msgstr ""
+
+#: template/schools.html:16
+msgid "Italy"
+msgstr ""
+
+#: template/schools.html:17
+msgid "Kerala"
+msgstr ""
+
+#: template/schools.html:18
+msgid "Lithuania"
+msgstr ""
+
+#: template/schools.html:21
+msgid ""
+"GCompris is an e-learning tool to provide training exercises within and "
+"outside the classroom. It is a Free Software released under the GNU General "
+"Public License. It is multiplatform (GNU/Linux, Windows, Android, macOS), "
+"and can run on low power computers."
+msgstr ""
+"GCompris adalah alat e-learning untuk memberikan latihan di dalam dan di "
+"luar kelas. Ini adalah Perangkat Lunak Bebas yang dirilis di bawah GNU "
+"General Public License. Ini multiplatform (GNU/Linux, Windows, Android, "
+"macOS), dan dapat berjalan pada komputer berdaya rendah."
+
+#: template/schools.html:22
+msgid ""
+"GCompris has been present for over twenty years in schools worldwide and "
+"offers more than 150 activities covering the main pedagogical domains, "
+"including:"
+msgstr ""
+"GCompris telah hadir selama lebih dari dua puluh tahun di sekolah-sekolah di "
+"seluruh dunia dan menawarkan lebih dari 150 kegiatan yang mencakup area "
+"pedagogis utama, termasuk:"
+
+#: template/schools.html:24
+msgid "Learning how to use a computer"
+msgstr "Belajar cara menggunakan komputer"
+
+#: template/schools.html:25
+msgid ""
+"Practising reading with activities to learn letters, words and lexical sets"
+msgstr ""
+"Berlatih membaca dengan kegiatan untuk mempelajari huruf, kata, dan set "
+"leksikal"
+
+#: template/schools.html:26
+msgid ""
+"Acquiring proficiency in math by practising numeration, arithmetic, measures "
+"and puzzles"
+msgstr ""
+"Memperoleh kemahiran dalam matematika dengan berlatih berhitung, aritmatika, "
+"ukuran, dan puzzle"
+
+#: template/schools.html:27
+msgid "Discovering the world through logic, the arts and music"
+msgstr "Menemukan dunia melalui logika, seni, dan musik"
+
+#: template/schools.html:28
+msgid ""
+"Exploring science and humanities through experimentation, history and "
+"geography"
+msgstr ""
+"Menjelajahi ilmu pengetahuan dan humniora melalui eksperimen, sejarah, dan "
+"geografi"
+
+#: template/schools.html:29
+msgid "Developing strategic thinking with board games"
+msgstr "Mengembangkan pemikiran strategis dengan permainan papan"
+
+#: template/schools.html:32
+msgid ""
+"GCompris does not require an Internet connection, does not collect any data, "
+"and so strictly complies with the EU's General Data Protection Regulation."
+msgstr ""
+"GCompris tidak memerlukan koneksi Internet, tidak mengumpulkan data apa pun, "
+"dan dengan ketat mematuhi Peraturan Perlindungan Data Umum (GDPR, General "
+"Data Protection Regulation) UE."
+
+#: template/schools.html:34
+msgid "Datasets"
+msgstr ""
+
+#: template/schools.html:35
+#, fuzzy
+#| msgid ""
+#| "GCompris 1.0 lets educators select the level of activities according to "
+#| "the skill of each child. For example, in an activity that lets children "
+#| "practice numbers, you can select what numbers they can work with, leaving "
+#| "higher and more difficult numbers for a later stage. Or in an activity in "
+#| "which the child has to order pictures chronologically, you can grade the "
+#| "activity for children who can only read numbers or make it harder for "
+#| "children who can read both numbers and words."
+msgid ""
+"Since the version 1.0, GCompris lets educators select the level of "
+"activities according to the skill of each child. For example, in an activity "
+"that lets children practice numbers, you can select what numbers they can "
+"work with, leaving higher and more difficult numbers for a later stage. Or "
+"in an activity in which the child has to order pictures chronologically, you "
+"can grade the activity for children who can only read numbers or make it "
+"harder for children who can read both numbers and words."
+msgstr ""
+"GCompris 1.0 memungkinkan pendidik memilih tingkat kegiatan sesuai dengan "
+"keterampilan setiap anak. Misalnya, dalam kegiatan yang memungkinkan anak-"
+"anak berlatih angka, Anda dapat memilih nomor apa yang dapat mereka "
+"kerjakan, meninggalkan angka yang lebih tinggi dan lebih sulit untuk tahap "
+"selanjutnya. Atau dalam kegiatan di mana anak harus menyusun gambar secara "
+"kronologis, Anda dapat menilai aktivitas untuk anak-anak yang hanya bisa "
+"membaca angka atau mempersulit anak-anak yang dapat membaca angka dan kata."
+
+#: template/schools.html:38
+msgid ""
+"This grading functionality allows you to propose training exercises to "
+"pupils to practice mathematics, language, science and humanities. They will "
+"also be able to play strategic games to train their problem-solving skills."
+msgstr ""
+"Fungsi grading ini memungkinkan Anda untuk mengusulkan latihan kepada siswa "
+"untuk berlatih matematika, bahasa, sains, dan humniora. Mereka juga akan "
+"dapat memainkan permainan strategis untuk melatih keterampilan pemecahan "
+"masalah mereka."
+
+#: template/schools.html:40
+msgid ""
+"To provide a solid pedagogical background, GCompris levels of activities "
+"have been based on the French elementary school curriculum, which defines "
+"what French teachers must teach in class."
+msgstr ""
+"Untuk memberikan latar belakang pedagogis yang solid, tingkat kegiatan "
+"GCompris didasarkan pada kurikulum sekolah dasar Prancis, yang "
+"mendefinisikan apa yang harus diajarkan guru Bahasa Prancis di kelas."
+
+#: template/schools.html:43
+#, python-format
+msgid ""
+"GCompris-teachers is a companion application for teachers to enhance their "
+"use of GCompris in their classroom. It allows teachers to create customized "
+"datasets and receive pupils results for some activities. You can download it "
+"from our <a href=\"https://gcompris.net/downloads%(suffix)s.html#gcompris-"
+"teachers\">Download page</a>, and find the manual to learn more about from "
+"the link below."
+msgstr ""
+
+#: template/schools.html:45
+msgid "GCompris-teachers manual"
+msgstr ""
+
+#: template/screenshot.html:33
+msgid "Description:"
+msgstr "Deskripsi:"
+
+#: template/screenshot.html:36
+msgid "Prerequisite:"
+msgstr "Prasyarat:"
+
+#: template/screenshot.html:40
+msgid "Goal:"
+msgstr "Tujuan:"
+
+#. activity handbook
+#: template/screenshot.html:44
+msgid "Manual:"
+msgstr "Petunjuk:"
+
+#. activity thanks to
+#: template/screenshot.html:48
+msgid "Credit:"
+msgstr "Kredit:"
+
+#: template/screenshots.html:36
+msgid "Select a category"
+msgstr "Pilih Kategori"
+
+#: template/screenshots.html:38
+msgid "All"
+msgstr "Semua"
+
+#: template/screenshots.html:39
+msgid "Computer"
+msgstr "Komputer"
+
+#: template/screenshots.html:40
+msgid "Discovery"
+msgstr "Penemuan"
+
+#: template/screenshots.html:41
+msgid "Sciences"
+msgstr "Sains"
+
+#: template/screenshots.html:42
+msgid "Fun"
+msgstr "Menyenangkan"
+
+#: template/screenshots.html:43
+msgid "Mathematics"
+msgstr "Matematika"
+
+#: template/screenshots.html:44
+msgid "Puzzle"
+msgstr "Puzzle"
+
+#: template/screenshots.html:45
+msgid "Reading"
+msgstr "Membaca"
+
+#: template/screenshots.html:46
+msgid "Strategy"
+msgstr "Strategi"
+
+#, fuzzy
+#~| msgctxt "20230118.html"
+#~| msgid "It contains 182 activities, including 8 new ones:"
+#~ msgctxt "20260204.html"
+#~ msgid "This new version contains 197 activities, including 2 new ones:"
+#~ msgstr "Di dalamnya terdapat 182 aktivitas, termasuk 8 aktivitas baru:"
+
+#, fuzzy
+#~| msgctxt "20230118.html"
+#~| msgid "This version also contains several improvements and bug fixes."
+#~ msgctxt "20260204.html"
+#~ msgid "It also contains bug fixes and improvements on multiple activities."
+#~ msgstr "Versi ini juga berisi beberapa perbaikan dan perbaikan bug."
+
+#, fuzzy
+#~| msgctxt "20230118.html"
+#~| msgid ""
+#~| "As usual you can find packages of this new version for GNU/Linux, "
+#~| "Windows, Android, Raspberry Pi and macOS on the <a href=\\\"https://"
+#~| "gcompris.net/downloads{{ suffix }}.html\\\">download page</a>. This "
+#~| "update will also be available soon in the Android Play store, the F-"
+#~| "Droid repository and the Windows store."
+#~ msgctxt "20260204.html"
+#~ msgid ""
+#~ "You can find packages of this new version for GNU/Linux, Windows, Android "
+#~ "and Raspberry Pi on the <a href=\\\"https://gcompris.net/"
+#~ "downloads{{ suffix }}.html\\\">download page</a>. This update will also "
+#~ "be available soon in the Android Play store, the F-Droid repository and "
+#~ "the Windows store."
+#~ msgstr ""
+#~ "Seperti biasa, Anda dapat menemukan paket versi baru ini untuk GNU/Linux, "
+#~ "Windows, Android, Raspberry Pi, dan macOS di <a href=\\\"https://gcompris."
+#~ "net/downloads{{ suffix }}.html\\\"> halaman unduh</a>. Pembaruan ini juga "
+#~ "akan segera tersedia di Android Play store, repositori F-Droid, dan "
+#~ "Windows store."
+
+# news title
+#, fuzzy
+#~| msgctxt "20230118.html"
+#~| msgid "Release GCompris 3.0"
+#~ msgctxt "20250521.html"
+#~ msgid "Release GCompris 25.1 and 4.3.1"
+#~ msgstr "Rilis GCompris 3.0"
+
+#, fuzzy
+#~| msgctxt "20230121.html"
+#~| msgid "Today we are releasing GCompris version 3.1."
+#~ msgctxt "20250521.html"
+#~ msgid "Today we are releasing GCompris version 25.1."
+#~ msgstr "Hari ini kami merilis GCompris versi 3.1."
+
+#, fuzzy
+#~| msgctxt "20230121.html"
+#~| msgid "Today we are releasing GCompris version 3.1."
+#~ msgctxt "20250521.html"
+#~ msgid "We are also releasing GCompris version 4.3.1."
+#~ msgstr "Hari ini kami merilis GCompris versi 3.1."
+
+# news title
+#, fuzzy
+#~| msgctxt "20230118.html"
+#~| msgid "Release GCompris 3.0"
+#~ msgctxt "20240920.html"
+#~ msgid "Release GCompris 4.2"
+#~ msgstr "Rilis GCompris 3.0"
+
+#~ msgid "You can get the macOS version from the link below."
+#~ msgstr "Anda bisa mendapatkan versi macOS dari tautan di bawah ini."
+
+#~ msgid "System requirements:"
+#~ msgstr "Kebutuhan sistem:"
+
+# news title
+#, fuzzy
+#~| msgctxt "20230121.html"
+#~| msgid "Release GCompris 3.1"
+#~ msgctxt "20230606.html"
+#~ msgid "Release GCompris 3.3"
+#~ msgstr "Rilis GCompris 3.1"
+
+#, fuzzy
+#~| msgctxt "20230121.html"
+#~| msgid "Today we are releasing GCompris version 3.1."
+#~ msgctxt "20230606.html"
+#~ msgid "Today we are releasing GCompris version 3.3."
+#~ msgstr "Hari ini kami merilis GCompris versi 3.1."
+
+#, fuzzy
+#~| msgctxt "20230121.html"
+#~| msgid ""
+#~| "You can find packages of this new version for GNU/Linux, Windows, "
+#~| "Raspberry Pi and macOS on the <a href=\\\"https://gcompris.net/"
+#~| "downloads{{ suffix }}.html\\\">download page</a>. This update will be "
+#~| "available soon in the Android Play store, the F-Droid repository and the "
+#~| "Windows store."
+#~ msgctxt "20230606.html"
+#~ msgid ""
+#~ "You can find packages of this new version for GNU/Linux, Windows, "
+#~ "Raspberry Pi and macOS on the <a href=\\\"https://gcompris.net/"
+#~ "downloads{{ suffix }}.html\\\">download page</a>. This update will be "
+#~ "available soon in the Android Play store, the F-Droid repository and the "
+#~ "Windows store."
+#~ msgstr ""
+#~ "Anda dapat menemukan paket versi baru ini untuk GNU/Linux, Windows, "
+#~ "Raspberry Pi, dan macOS di <a href=\\\"https://gcompris.net/"
+#~ "downloads{{ suffix }}.html\\\">laman unduhan</a>. Pembaruan ini akan "
+#~ "segera tersedia di Android Play store, repositori F-Droid, dan Windows "
+#~ "store."
+
+#~ msgctxt "20230121.html"
+#~ msgid ""
+#~ "As we noticed that version 3.0 contained a critical bug in the new \\"
+#~ "\"Comparator\\\" activity, we decided to quickly ship this 3.1 "
+#~ "maintenance release to fix the issue."
+#~ msgstr ""
+#~ "Karena kami melihat bahwa versi 3.0 berisi bug penting dalam aktivitas "
+#~ "”Perbandingan” yang baru, kami memutuskan untuk segera mengirimkan rilis "
+#~ "pemeliharaan 3.1 ini untuk memperbaiki masalah tersebut."
+
+#~ msgctxt "20230121.html"
+#~ msgid "It also contains some little translation update."
+#~ msgstr "Ini juga berisi beberapa pembaruan terjemahan kecil."
+
+#~ msgctxt "20230118.html"
+#~ msgid "We are pleased to announce the release of GCompris version 3.0."
+#~ msgstr "Dengan suka cita kami mengumumkan peluncuran GCompris versi 3.0."
+
+#~ msgctxt "20230118.html"
+#~ msgid ""
+#~ "\\\"Mouse click training\\\" is an exercise to practice using a mouse "
+#~ "with left and right clicks."
+#~ msgstr ""
+#~ "”Latihan klik mouse” adalah latihan untuk berlatih menggunakan mouse "
+#~ "dengan klik kiri dan kanan."
+
+#~ msgctxt "20230118.html"
+#~ msgid ""
+#~ "In \\\"Create the fractions\\\", represent decimal quantities with some "
+#~ "pie or rectangle charts."
+#~ msgstr ""
+#~ "Dalam ”Buat pecahan”, nyatakan besaran desimal dengan bagan pai atau "
+#~ "persegi panjang."
+
+#~ msgctxt "20230118.html"
+#~ msgid ""
+#~ "In \\\"Find the fractions\\\", it's the other way: write the fraction "
+#~ "represented by the pie or rectangle chart."
+#~ msgstr ""
+#~ "Dalam ”Cari pecahan”, caranya lain: tulis pecahan yang diwakili oleh "
+#~ "bagan pai atau persegi panjang."
+
+#~ msgctxt "20230118.html"
+#~ msgid ""
+#~ "With \\\"Discover the International Morse code\\\", learn how to "
+#~ "communicate with the International Morse code."
+#~ msgstr ""
+#~ "Dengan ”Temukan kode Morse Internasional”, pelajari cara berkomunikasi "
+#~ "dengan kode Morse Internasional."
+
+#~ msgctxt "20230118.html"
+#~ msgid ""
+#~ "In \\\"Compare numbers\\\", learn how to compare number values using "
+#~ "comparison symbols."
+#~ msgstr ""
+#~ "Di ”Bandingkan angka”, pelajari cara membandingkan nilai angka "
+#~ "menggunakan simbol perbandingan."
+
+#~ msgctxt "20230118.html"
+#~ msgid ""
+#~ "\\\"Find ten's complement\\\" is a simple exercise to learn the concept "
+#~ "of ten's complement."
+#~ msgstr ""
+#~ "”Menemukan komplemen sepuluh” adalah latihan sederhana untuk mempelajari "
+#~ "konsep komplemen sepuluh."
+
+#~ msgctxt "20230118.html"
+#~ msgid ""
+#~ "In \\\"Swap ten's complement\\\", swap numbers of an addition to optimize "
+#~ "it using ten's complement."
+#~ msgstr ""
+#~ "Dalam ”Tukar komplemen sepuluh”, tukar angka dari sebuah penjumlahan "
+#~ "untuk mengoptimalkannya menggunakan komplemen sepuluh."
+
+#~ msgctxt "20230118.html"
+#~ msgid ""
+#~ "In \\\"Use ten's complement\\\", decompose an addition to optimize it "
+#~ "using ten's complement."
+#~ msgstr ""
+#~ "Dalam ”Gunakan komplemen sepuluh”, uraikan tambahan untuk "
+#~ "mengoptimalkannya menggunakan komplemen sepuluh."
+
+#~ msgctxt "20230118.html"
+#~ msgid "We've added 2 new command line options:"
+#~ msgstr "Kami telah menambahkan 2 opsi baris perintah baru:"
+
+#~ msgctxt "20230118.html"
+#~ msgid "List all the available activities (-l or --list-activities)"
+#~ msgstr ""
+#~ "Buat daftar semua aktivitas yang tersedia (-l atau —list-activities)"
+
+#~ msgctxt "20230118.html"
+#~ msgid "Directly start a specific activity (--launch activityName)"
+#~ msgstr "Langsung memulai aktivitas tertentu (—launch activityName)"
+
+#~ msgctxt "20230118.html"
+#~ msgid ""
+#~ "On the translation side, GCompris 3.0 contains 36 languages. 25 are fully "
+#~ "translated: (Azerbaijani, Basque, Breton, British English, Catalan, "
+#~ "Catalan (Valencian), Chinese Traditional, Croatian, Dutch, Estonian, "
+#~ "French, Greek, Hebrew, Hungarian, Italian, Lithuanian, Malayalam, "
+#~ "Norwegian Nynorsk, Polish, Portuguese, Romanian, Russian, Slovenian, "
+#~ "Spanish, Ukrainian). 11 are partially translated: (Albanian (99%), "
+#~ "Belarusian (83%), Brazilian Portuguese (94%), Czech (82%), Finnish (94%), "
+#~ "German (91%), Indonesian (99%), Macedonian (94%), Slovak (77%), Swedish "
+#~ "(94%) and Turkish (71%))."
+#~ msgstr ""
+#~ "Di sisi terjemahan, GCompris 3.0 berisi 36 bahasa. 25 diterjemahkan "
+#~ "sepenuhnya: (Azerbaijani, Basque, Breton, British English, Catalan, "
+#~ "Catalan (Valencian), Cina Tradisional, Kroasia, Belanda, Estonia, "
+#~ "Prancis, Yunani, Ibrani, Hongaria, Italia, Lituania, Malayalam, Nynorsk "
+#~ "Norwegia, Polandia, Portugis, Rumania, Rusia, Slovenia, Spanyol, "
+#~ "Ukraina). 11 diterjemahkan sebagian: (Albania (99%), Belarusia (83%), "
+#~ "Portugis Brasil (94%), Ceko (82%), Finlandia (94%), Jerman (91%), "
+#~ "Indonesia (99%), Makedonia (94%), Slowakia (77%), Swedia (94%) dan Turki "
+#~ "(71%))."
+
+#~ msgctxt "20230118.html"
+#~ msgid ""
+#~ "A special note about Ukrainian voices which have been added thanks to the "
+#~ "organization \\\"Save the Children\\\" who funded the recording. They "
+#~ "installed GCompris on 8000 tablets and 1000 laptops, and sent them to "
+#~ "Digital learning Centers and other safe spaces for children in Ukraine."
+#~ msgstr ""
+#~ "Sebuah catatan khusus tentang suara Ukraina yang telah ditambahkan berkat "
+#~ "organisasi ”Save the Children” yang mendanai rekaman tersebut. Mereka "
+#~ "memasang GCompris di 8000 tablet dan 1000 laptop, dan mengirimkannya ke "
+#~ "Pusat Pembelajaran Digital dan ruang aman lainnya untuk anak-anak di "
+#~ "Ukraina."
+
+#~ msgctxt "20230118.html"
+#~ msgid "Croatian voices have also been recorded by a contributor."
+#~ msgstr "Suara Kroasia juga telah direkam oleh seorang kontributor."
+
+#~ msgctxt "20230118.html"
+#~ msgid ""
+#~ "For packagers of GNU/Linux distributions, note that we have a new "
+#~ "dependency on QtCharts QML plugin, and the minimum required version of "
+#~ "Qt5 is now 5.12. We also moved from using QtQuick.Controls 1 to QtQuick."
+#~ "Controls 2."
+#~ msgstr ""
+#~ "Untuk pemaket distribusi GNU/Linux, perhatikan bahwa kami memiliki "
+#~ "ketergantungan baru pada plugin QtCharts QML, dan versi minimum Qt5 yang "
+#~ "diperlukan sekarang adalah 5.12. Kami juga berpindah dari menggunakan "
+#~ "QtQuick.Controls 1 ke QtQuick.Controls 2."
+
+#~ msgid "Version %(version)s"
+#~ msgstr "Versi %(version)s"
+
+# news title
+#, fuzzy
+#~| msgctxt "20180516.html"
+#~| msgid "Release GCompris 0.91"
+#~ msgctxt "20210321.html"
+#~ msgid "Release GCompris 1.1"
+#~ msgstr "Rilis GCompris 0.91"
+
+#, fuzzy
+#~| msgid ""
+#~| "To check the integrity of your downloads, you can compare the md5sums "
+#~| "with those in this file: <a href=\"http://gcompris.net/download/qt/"
+#~| "md5sums-%(version)s.txt\">MD5SUMS</a>"
+#~ msgid ""
+#~ "To check the integrity of your downloads, you can compare the md5sums "
+#~ "with those in this file: <a href=\"https://gcompris.net/download/qt/"
+#~ "md5sums-%(version)s.txt\">MD5SUMS</a>"
+#~ msgstr ""
+#~ "Untuk memeriksa integritas unduh-anmu, kamu bisa membandingkan md5sums "
+#~ "dengan yang ada di file ini: <a href=\"http://gcompris.net/unduh/qt/"
+#~ "md5sums-%(version)s.txt\">MD5SUMS</a>"
+
+#, fuzzy
+#~| msgid "Notes:"
+#~ msgctxt "20191201.html"
+#~ msgid "Notes:"
+#~ msgstr "Catatan:"
+
+#~ msgid "Buy / Donate"
+#~ msgstr "Beli/Donasi"
+
+#~ msgid "Buying the full version"
+#~ msgstr "Membeli versi penuh"
+
+#~ msgid ""
+#~ "On proprietary operating systems (Windows/Mac/Android...), the full "
+#~ "version of GCompris has a cost."
+#~ msgstr ""
+#~ "Pada sistem operasi propietari (Windows/Mac/Android...), versi penuh dari "
+#~ "GCompris memiliki harga."
+
+#~ msgid ""
+#~ "We provide a free demo with a limited number of activities, "
+#~ "%(demo_activities)s on the %(total_activities)s available."
+#~ msgstr ""
+#~ "Kami menyediakan demo gratis aktifitas dengan jumlah yang terbatas, "
+#~ "%(demo_activities)s dari %(total_activities)s yang tersedia."
+
+#~ msgid "Follow the instructions below to buy the full version."
+#~ msgstr "Ikuti intruksi di bawah untuk membeli versi penuh."
+
+#, fuzzy
+#~| msgid ""
+#~| "For Windows, you can get the demo from the <a href=downloads-%(locale)s."
+#~| "html>download page</a>, and buy here the activation code to unlock the "
+#~| "full version. The cost is 9€."
+#~ msgid ""
+#~ "For Windows and macOS, you can get the demo from the <a href=downloads-"
+#~ "%(locale)s.html>download page</a>, and buy here the activation code to "
+#~ "unlock the full version. The cost is 9€."
+#~ msgstr ""
+#~ "Untuk Windows, kamu bisa mendapatkan demo dari <a href=downloads-"
+#~ "%(locale)s.html>halaman unduh</a>, dan membeli kode aktivasinya di sini "
+#~ "untuk membuka kunci versi penuh. Harganya adalah 9€."
+
+#~ msgid ""
+#~ "After the payment you will immediately receive an email with instructions "
+#~ "(check your spam folder). If you do not receive this email please contact "
+#~ "us at sales@gcompris.net."
+#~ msgstr ""
+#~ "Sesudah pembayaran kamu akan langsung menerima sebuah email dengan "
+#~ "intruksi (periksa folder spammu). Jika tidak menerima email ini, silakan "
+#~ "kontak kita di sales@gcompris.net."
+
+#~ msgid ""
+#~ "This registration gives you the right to update to any new release of "
+#~ "GCompris for 2 years. After that period, you can continue to use the "
+#~ "latest release you got for as long as you wish."
+#~ msgstr ""
+#~ "Registrasi ini memberikanmu pembaruan paling baru dari GCompris selama 2 "
+#~ "tahun.  Setelah periode itu, kamu bisa terus menggunakan rilis terkini "
+#~ "yang kamu dapatkan selama yang kamu inginkan."
+
+#~ msgid "Notes:"
+#~ msgstr "Catatan:"
+
+#, fuzzy
+#~| msgid "For schools and other institutions, you need a site license."
+#~ msgid ""
+#~ "Schools and other institutions can buy a site activation key to support "
+#~ "the project."
+#~ msgstr "Bagi sekolahan dan institusi lain, kamu perlu lisensi situs."
+
+#~ msgid ""
+#~ "Please contact us at <a href=\"mailto:sales@gcompris.net?subject=GCompris "
+#~ "- Quote for school\">sales@gcompris.net</a> to request a quote."
+#~ msgstr ""
+#~ "Silakan kontak kita di <a href=\"mailto:sales@gcompris.net?"
+#~ "subject=GCompris - Quote for school\">sales@gcompris.net</a> untuk "
+#~ "permintaan kuota."
+
+#~ msgid ""
+#~ "Alternatively, you can also buy the full version of GCompris directly <a "
+#~ "href=\"https://www.microsoft.com/en-us/store/p/gcompris/9pgxjtcxn8qm"
+#~ "\">from the Windows Store.</a>"
+#~ msgstr ""
+#~ "Alternatifnya, kamu juga bisa membeli versi penuh GCompris langsung <a "
+#~ "href=\"https://www.microsoft.com/en-us/store/p/gcompris/9pgxjtcxn8qm"
+#~ "\">dari Windows Store.</a>"
+
+#~ msgid ""
+#~ "For Android, the recommended way is to directly buy the full version <a "
+#~ "href=\"https://play.google.com/store/apps/details?id=net.gcompris.full"
+#~ "\">from Google Play store</a>."
+#~ msgstr ""
+#~ "Untuk Android, cara yang dianjurkan adalah dengan langsung membeli versi "
+#~ "penuhnya <a href=\"https://play.google.com/store/apps/details?id=net."
+#~ "gcompris.full\">dari Google Play store</a>."
+
+#~ msgid ""
+#~ "You can also install <a href=\"https://play.google.com/store/apps/details?"
+#~ "id=net.gcompris\">the demo</a> available in the store, and use the in-app "
+#~ "purchase button to unlock the full version from it. Note however that "
+#~ "this second method doesn't allow to use the Google Play Family Library to "
+#~ "share it with your family. Also, a few users reported issues to unlock "
+#~ "the demo."
+#~ msgstr ""
+#~ "Kamu juga bisa menginstal <a href=\"https://play.google.com/store/apps/"
+#~ "details?id=net.gcompris\">demo</a> yang tersedia di store, dan "
+#~ "menggunakan tombol pembelian dalam aplikasi untuk membuka kunci versi "
+#~ "lengkap darinya. Namun perlu diketahui bahwa metode kedua ini tidak "
+#~ "memungkinkan untuk menggunakan Google Play Family Library untuk "
+#~ "membagikannya dengan familimu. Juga, beberapa pengguna melaporkan masalah "
+#~ "untuk membuka kunci demo."
+
+#, fuzzy
+#~| msgid ""
+#~| "For users of Free-Software operating systems, the full version is always "
+#~| "free.</br>\n"
+#~| "          This means that for GNU/Linux, the installer we provide and "
+#~| "the distribution packages have the full version. There is no need for "
+#~| "any activation code."
+#~ msgid ""
+#~ "For users of Free-Software operating systems, the full version is always "
+#~ "free.<br/>\n"
+#~ "          This means that for GNU/Linux, the installer we provide and the "
+#~ "distribution packages have the full version. There is no need for any "
+#~ "activation code."
+#~ msgstr ""
+#~ "Bagi pengguna sistem operasi Free-Software, versi penuh selalu gratis.</"
+#~ "br>\n"
+#~ "          Ini berarti bahwa untuk GNU/Linux, pemasang yang kami sediakan "
+#~ "dan paket distribusi memiliki versi penuh. Tidak diperlukan kode aktivasi "
+#~ "apa pun."
+
+#~ msgid "However, you can still support us with a donation, see below."
+#~ msgstr ""
+#~ "Bagaimanapun, kamu masih bisa mendukung kita dengan donasi, lihat bawah."
+
+#~ msgid "Legal reference: Company"
+#~ msgstr "Referensi legal: Perusahaan"
+
+#~ msgid ""
+#~ "Developing software takes a lot of time, it needs hardware, and other "
+#~ "requirements that have a cost. Currently all sales and donations are used "
+#~ "to support one of the main contributors, a professional graphic artist "
+#~ "and developer who is now in charge of the graphics and co-maintaining the "
+#~ "application."
+#~ msgstr ""
+#~ "Mengembangkan perangkat lunak membutuhkan banyak waktu, dibutuhkan "
+#~ "perangkat keras, dan persyaratan lain yang memiliki biaya. Saat ini semua "
+#~ "penjualan dan donasi digunakan untuk mendukung salah satu kontributor "
+#~ "utama, seorang seniman grafis profesional dan pengembang yang sekarang "
+#~ "bertanggung jawab atas grafis dan menjaga aplikasi."
+
+#~ msgid ""
+#~ "Else, you can get the demo from the links below, and <a href=\"buy-"
+#~ "%(locale)s.html\">buy on our website</a> the activation code to unlock "
+#~ "the full version."
+#~ msgstr ""
+#~ "Selain itu, kamu bisa mendapatkan demo dari link di bawah ini, dan  <a "
+#~ "href=\"buy-%(locale)s.html\">beli di situs kami</a> kode aktivasi untuk "
+#~ "membuka kunci versi penuh."
+
+#~ msgid ""
+#~ "Note: It is recommended to buy directly the full version from the store, "
+#~ "not from the button in the demo. This way, you can share it with 5 family "
+#~ "members using the Google Play Family Library. Also, a few users reported "
+#~ "issues to unlock the demo."
+#~ msgstr ""
+#~ "Catatan: Disarankan untuk membeli langsung versi penuh dari store, bukan "
+#~ "dari tombol di dalam demo. Dengan cara ini, kamu bisa membagikannya "
+#~ "dengan 5 anggota famili menggunakan Google Play Family Library. Juga, "
+#~ "beberapa pengguna dapat melaporkan masalah untuk pembukaan kunci demo."
+
+#, fuzzy
+#~| msgid ""
+#~| "Else, you can get the demo from the links below, and <a href=\"buy-"
+#~| "%(locale)s.html\">buy on our website</a> the activation code to unlock "
+#~| "the full version."
+#~ msgid ""
+#~ "You can get the demo from the link below, and <a href=\"buy-%(locale)s."
+#~ "html\">buy on our website</a> the activation code to unlock the full "
+#~ "version."
+#~ msgstr ""
+#~ "Selain itu, kamu bisa mendapatkan demo dari link di bawah ini, dan  <a "
+#~ "href=\"buy-%(locale)s.html\">beli di situs kami</a> kode aktivasi untuk "
+#~ "membuka kunci versi penuh."
+
+#~ msgid "Buying the Windows or MacOSX version"
+#~ msgstr "Membeli versi untuk Windows atau MacOSX"
+
+#~ msgid ""
+#~ "For personal use, it is possible to use this code on several computers.</"
+#~ "br>\n"
+#~ "          For schools and other institutions, please contact us to get a "
+#~ "quote."
+#~ msgstr ""
+#~ "Untuk penggunaan personal, ini mungkin untuk menggunakan kode ini pada "
+#~ "beberapa komputer.</br>\n"
+#~ "          Untuk sekolah dan institusi lain, silakan kontak kita untuk "
+#~ "mendapatkan kuota."
+
+#~ msgid "The price of a site license depends on the number of installations."
+#~ msgstr "Harga pada lisensi situs tergantung pada jumlah pemasangan."
+
+#, fuzzy
+#~| msgid "Notes:"
+#~ msgctxt "20181220.html"
+#~ msgid "Notes:"
+#~ msgstr "Catatan:"
+
+#~ msgid ""
+#~ "For MacOSX, the current version is not available anymore, we are working "
+#~ "to bring it back soon. It will use the same code as the Windows version."
+#~ msgstr ""
+#~ "Untuk MacOSX, versi saat ini tidak tersedia lagi, kami berupaya "
+#~ "mengembalikannya segera. Ini akan menggunakan kode yang sama dengan versi "
+#~ "Windows."
+
+# news text
+#~ msgctxt "20180516.html"
+#~ msgid ""
+#~ "\\n<img src='news/images/gcompris360.png'\\n     alt='gcompris "
+#~ "banner'\\n     style='float: right; width: 360px; padding-left: 10px; "
+#~ "cursor: pointer;'\\n     onclick=\\\"window.open('news/images/gcompris360."
+#~ "png')\\\"/>\\n\\n     \\n<p>Hi,<br />\\nHere is GCompris 0.91, a new "
+#~ "bugfix release to correct some issues in previous version and improve a "
+#~ "few things.</p>\\n\\n<p>Every GNU/Linux distribution shipping 0.90 should "
+#~ "update to 0.91.</p>\\n\\n<p>With 68 commits since last release, the full "
+#~ "changelog is too long for this post.\\nBut here is a list to summarize "
+#~ "the changes.</p>\\n\\n<p>Activities:</p>\\n<li class=\\\"puce\\\">fix "
+#~ "English text in several activities</li>\\n<li class=\\\"puce\\\">fix "
+#~ "score position in several activities</li>\\n<li class=\\\"puce\\\">block "
+#~ "some buttons and interactions when needed in several places</li>\\n<li "
+#~ "class=\\\"puce\\\">lots of fixes for audio in several activities</li>"
+#~ "\\n<li class=\\\"puce\\\">number_sequence (and others based on it), fix "
+#~ "base layout</li>\\n<li class=\\\"puce\\\">update dataset for "
+#~ "clickanddraw, drawnumbers and drawletters</li>\\n<li class=\\\"puce\\"
+#~ "\">crane, add localized dataset</li>\\n<li class=\\\"puce\\\">lightsoff, "
+#~ "add keyboard support and other fixes</li>\\n<li class=\\\"puce\\"
+#~ "\">algorithm, add keyboard support and other fixes</li>\\n<li class=\\"
+#~ "\"puce\\\">money, fixes for locale currency used</li>\\n<li class=\\\"puce"
+#~ "\\\">ballcatch, improve audio feedback</li>\\n<li class=\\\"puce\\"
+#~ "\">calendar, several little fixes</li>\\n<li class=\\\"puce\\\">memory-"
+#~ "case-association fix icons size</li>\\n<br/>\\n<p>Other changes:</p>"
+#~ "\\n<li class=\\\"puce\\\">re-enable sound effects on linux</li>\\n<li "
+#~ "class=\\\"puce\\\">improved playback of sound effects, no more delay</li>"
+#~ "\\n<li class=\\\"puce\\\">add captions to images and OARS tags in the "
+#~ "appdata</li>\\n<li class=\\\"puce\\\">add Scottish Gaelic to core, and "
+#~ "update some datasets for it</li>\\n<li class=\\\"puce\\\">main bar, fix "
+#~ "some items size</li>\\n<li class=\\\"puce\\\">remove unused images</li>\\n"
+#~ "\\n\\n<br/>\\n\\n<p>You can find this new version <a href=\\\"https://"
+#~ "gcompris.net/downloads-en.html\\\">on the download page</a>, and soon in "
+#~ "the Play store and Windows store.</p>\\n\\n<p>On the translation side, we "
+#~ "have 16 languages fully supported: \\nBritish English, \\nCatalan, "
+#~ "\\nCatalan (Valencian), \\nChinese Traditional, \\nDutch, \\nFrench, "
+#~ "\\nGreek, \\nIndonesian, \\nIrish Gaelic, \\nItalian, \\nPolish, "
+#~ "\\nPortuguese, \\nRomanian, \\nSpanish, \\nSwedish, \\nUkrainian. \\n<br /"
+#~ ">\\nWe also have 15 languages partially supported: \\n\\nNorwegian "
+#~ "Nynorsk (97%), \\nHindi (96%), \\nTurkish (90%), \\nScottish Gaelic "
+#~ "(86%), \\nGalician (86%), \\nBrazilian Portuguese (84%), \\nBelarusian "
+#~ "(84%), \\nGerman (81%), \\nChinese Simplified (79%), \\nRussian (78%), "
+#~ "\\nEstonian (77%), \\nSlovak (76%), \\nFinnish (76%), \\nSlovenian (69%), "
+#~ "\\nBreton (65%).</p>\\n\\n<p>If you want to help completing one of these "
+#~ "translations or adding a new one, please contact us.</p>\\n\\n<p>Else you "
+#~ "can still help by making some posts in your community about GCompris and "
+#~ "don't hesitate to give feedbacks.</p>\\n\\n<p>Thank you all, <br/>"
+#~ "\\nTimothée & Johnny </p>\\n\\n\\n"
+#~ msgstr ""
+#~ "\\n<img src='news/images/gcompris360.png'\\n     alt='gcompris "
+#~ "banner'\\n     style='float: right; width: 360px; padding-left: 10px; "
+#~ "cursor: pointer;'\\n     onclick=\\\"window.open('news/images/gcompris360."
+#~ "png')\\\"/>\\n\\n     \\n<p>Hai,<br />\\nIni adalah GCompris 0.91, sebuah "
+#~ "rilis perbaikan bug untuk membetulkan beberapa masalah dalam versi "
+#~ "sebelumnya dan menambah perbaikan beberapa hal.</p>\\n\\n<p>Setiap "
+#~ "distribusi GNU/Linux yang membawa versi 0.90 seharusnya mengupdate ke "
+#~ "versi 0.91.</p>\\n\\n<p>Dengan 68 commits sejak rilis terakhir, catatan "
+#~ "perubahan terlalu panjang untuk post ini.\\nTetapi di sini adalah daftar "
+#~ "rangkuman perubahannya.</p>\\n\\n<p>Activitas:</p>\\n<li class=\\\"puce\\"
+#~ "\">perbaikan teks Inggris dalam beberapa aktifitas</li>\\n<li class=\\"
+#~ "\"puce\\\">perbaikan posisi skor dalam beberapa aktifitas</li>\\n<li "
+#~ "class=\\\"puce\\\">blok beberapa tombol dan interaksi ketika diperlukan "
+#~ "dalam bebrapa tempat</li>\\n<li class=\\\"puce\\\">bagian perbaikan untuk "
+#~ "audio dalam beberapa aktifitas</li>\\n<li class=\\\"puce\\\">rangkaian "
+#~ "angka (dan lainnya yang berdasarkan padanya), perbaikan tataletak dasar</"
+#~ "li>\\n<li class=\\\"puce\\\">update dataset untuk klik-dan-gambar "
+#~ "(clickanddraw), gambar-angka (drawnumbers) dan gambar-huruf "
+#~ "(drawletters)</li>\\n<li class=\\\"puce\\\">derek, tambahan dataset "
+#~ "terlokalis</li>\\n<li class=\\\"puce\\\">lampu mati, tambahan dukungan "
+#~ "keyboard dan perbaikan lain</li>\\n<li class=\\\"puce\\\">algoritma, "
+#~ "tambahan dukungan keyboard dan perbaikan lain</li>\\n<li class=\\\"puce\\"
+#~ "\">uang, perbaikan untuk mata uang lokal yang digunakan</li>\\n<li class="
+#~ "\\\"puce\\\">tangkap bola, penambahan-baik tanggapan audio</li>\\n<li "
+#~ "class=\\\"puce\\\">kalender, beberapa perbaikan kecil</li>\\n<li class=\\"
+#~ "\"puce\\\">perbaikan ukuran ikon asosiasi kasus memori</li>\\n<br/>"
+#~ "\\n<p>Perubahan lain:</p>\\n<li class=\\\"puce\\\">aktifkan-ulang efek "
+#~ "suara pada linux</li>\\n<li class=\\\"puce\\\">penambahan-baik pemainan "
+#~ "efek suara, tidak lagi tertunda</li>\\n<li class=\\\"puce\\\">tambahan "
+#~ "bab untuk citra dan tag OARS di dalam appdata</li>\\n<li class=\\\"puce\\"
+#~ "\">tambahan Scottish Gaelic untuk inti, dan update beberapa datasets "
+#~ "untuknya</li>\\n<li class=\\\"puce\\\">bilah utama, perbaikan beberapa "
+#~ "ukuran item</li>\\n<li class=\\\"puce\\\">hapus citra yang tak digunakan</"
+#~ "li>\\n\\n\\n<br/>\\n\\n<p>Kamu bisa menemukan versi baru ini <a href=\\"
+#~ "\"https://gcompris.net/downloads-en.html\\\">pada halaman unduh</a>, dan "
+#~ "segera di Play store dan Windows store.</p>\\n\\n<p>Pada sisi terjemahan, "
+#~ "kami memiliki 16 bahasa yang didukung secara penuh: \\nBritish English, "
+#~ "\\nCatalan, \\nCatalan (Valencian), \\nChinese Traditional, \\nDutch, "
+#~ "\\nFrench, \\nGreek, \\nIndonesian, \\nIrish Gaelic, \\nItalian, "
+#~ "\\nPolish, \\nPortuguese, \\nRomanian, \\nSpanish, \\nSwedish, "
+#~ "\\nUkrainian. \\n<br />\\nKami juga memiliki 15 bahasa yang didukung "
+#~ "secara parsial: \\n\\nNorwegian Nynorsk (97%), \\nHindi (96%), \\nTurkish "
+#~ "(90%), \\nScottish Gaelic (86%), \\nGalician (86%), \\nBrazilian "
+#~ "Portuguese (84%), \\nBelarusian (84%), \\nGerman (81%), \\nChinese "
+#~ "Simplified (79%), \\nRussian (78%), \\nEstonian (77%), \\nSlovak (76%), "
+#~ "\\nFinnish (76%), \\nSlovenian (69%), \\nBreton (65%).</p>\\n\\n<p>Jika "
+#~ "kamu ingin membantu melengkapi salah satu terjemahan tersebut atau "
+#~ "menambah bahasa yang baru, silakan kontak kita.</p>\\n\\n<p>Selain itu "
+#~ "kamu bisa membantu dengan membuat beberapa post di komunitasmu tentang "
+#~ "GCompris dan janganlah ragu untuk memberikan tanggapan.</p>\\n"
+#~ "\\n<p>Terima kasih untuk kalian semua, <br/>\\nTimothée & Johnny </p>\\n"
+#~ "\\n\\n"
+
+#~ msgid "Contact me to get a quote for your school."
+#~ msgstr "Hubungi saya untuk mendapatkan penawaran untuk sekolah kamu"
+
+#~ msgid ""
+#~ "Legal reference: Company Timothée Giet RCS RENNES France 537 873 986."
+#~ msgstr ""
+#~ "Bagian Legal Perusahaan: Timothée Giet RCS RENNES France 537 873 986."

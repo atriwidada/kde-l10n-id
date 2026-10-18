@@ -1,0 +1,2209 @@
+#
+# SPDX-FileCopyrightText: 2022, 2023, 2024 Linerly <linerly@protonmail.com>
+# Wantoyèk <wantoyek@gmail.com>, 2022, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-kde-org 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-10-15 02:22+0000\n"
+"PO-Revision-Date: 2024-02-24 21:27+0700\n"
+"Last-Translator: Linerly <linerly@protonmail.com>\n"
+"Language-Team: Indonesian <kde-i18n-doc@kde.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 23.08.5\n"
+
+#: config.yaml:0
+msgid "Develop"
+msgstr "Pengembangan"
+
+#: config.yaml:0 i18n/en.yaml:21
+msgid "Get Involved"
+msgstr "Ikut Terlibat"
+
+#: data/frontpage_event_gallery.yaml:0
+#, fuzzy
+#| msgid "Kdenlive Sprint"
+msgid "Kdenlive 2025 Sprint"
+msgstr "Sprint Kdenlive"
+
+#: data/frontpage_event_gallery.yaml:0
+msgid "Berlin, Germany"
+msgstr "Berlin, Jerman"
+
+#: data/frontpage_event_gallery.yaml:0
+#, fuzzy
+#| msgid "FOSDEM"
+msgid "FOSDEM 2025"
+msgstr "FOSDEM"
+
+#: data/frontpage_event_gallery.yaml:0
+#, fuzzy
+#| msgid "Brussels"
+msgid "Brussels, Belgium"
+msgstr "Brussels"
+
+#: data/frontpage_event_gallery.yaml:0
+msgid "conf.kde.in 2025"
+msgstr ""
+
+#: data/frontpage_event_gallery.yaml:0
+msgid "Gandhinagar, Gujarat, India"
+msgstr ""
+
+#: data/frontpage_event_gallery.yaml:0
+msgid "Scale22x"
+msgstr ""
+
+#: data/frontpage_event_gallery.yaml:0
+msgid "Pasadena, CA, USA"
+msgstr ""
+
+#: data/frontpage_event_gallery.yaml:0
+msgid "FOSSAsia"
+msgstr ""
+
+#: data/frontpage_event_gallery.yaml:0
+msgid "Bangkok, Thailand"
+msgstr ""
+
+#: data/frontpage_event_gallery.yaml:0
+msgid "IndiaFOSS"
+msgstr ""
+
+#: data/frontpage_event_gallery.yaml:0
+#, fuzzy
+#| msgid "Delhi, India"
+msgid "Bengaluru, India"
+msgstr "Delhi, India"
+
+#: data/frontpage_event_gallery.yaml:0
+msgid "Linux App Summit"
+msgstr ""
+
+#: data/frontpage_event_gallery.yaml:0
+msgid "Tirana, Albania"
+msgstr ""
+
+#: data/frontpage_event_gallery.yaml:0
+#, fuzzy
+#| msgid "Akademy 2022"
+msgid "Akademy-es 2025"
+msgstr "Akademy 2022"
+
+#: data/frontpage_event_gallery.yaml:0
+msgid "Málaga, Spain"
+msgstr ""
+
+#: data/frontpage_event_gallery.yaml:0
+#, fuzzy
+#| msgid "Akademy 2022"
+msgid "Akademy 2025"
+msgstr "Akademy 2022"
+
+#. whats-kde
+#: i18n/en.yaml:3
+msgid "What is KDE?"
+msgstr "Apa itu KDE?"
+
+#. kde-community
+#: i18n/en.yaml:5
+#, fuzzy
+#| msgid "KDE Community"
+msgid "Community"
+msgstr "Komunitas KDE"
+
+#. kde-community-desc
+#: i18n/en.yaml:7
+#, fuzzy
+#| msgid ""
+#| "An international team developing and distributing Open Source software."
+msgid ""
+"An international community developing the world’s finest free and open-"
+"source software."
+msgstr ""
+"Sebuah tim internasional mengembang dan mendistribusikan perangkat lunak "
+"Sumber Terbuka."
+
+#. kde-community-desc2
+#: i18n/en.yaml:9
+msgid ""
+"KDE’s software powers NASA, CERN, Mercedes electric vehicles, the Steam "
+"Deck, your favorite YouTuber, and schools, governments, and offices "
+"throughout the world."
+msgstr ""
+
+#. kde-community-desc3
+#: i18n/en.yaml:11
+msgid ""
+"Our software breathes new life into old devices, and turbo-charges new ones. "
+"Anyone is welcome to use our software for free, or to help build it!"
+msgstr ""
+
+#. kde-next-events
+#: i18n/en.yaml:13
+#, fuzzy
+#| msgid "Events"
+msgid "Next Events"
+msgstr "Peristiwa"
+
+#. kde-previous-events
+#: i18n/en.yaml:15
+#, fuzzy
+#| msgid "Previous slide"
+msgid "Previous Events"
+msgstr "Slide sebelumnya"
+
+#. view-all-events
+#: i18n/en.yaml:17
+#, fuzzy
+#| msgid "View all announcements"
+msgid "View all incoming events"
+msgstr "Tampilkan semua pengumuman"
+
+#. learn-more-button
+#: i18n/en.yaml:19
+msgid "Learn More"
+msgstr ""
+
+#. for-you
+#: i18n/en.yaml:23
+msgid "For You"
+msgstr ""
+
+#. for-you-desc
+#: i18n/en.yaml:25
+msgid ""
+"We develop KDE for everyone, from kids to grandparents and from "
+"professionals to hobbyists."
+msgstr ""
+
+#. kde-products
+#: i18n/en.yaml:27
+msgid "KDE’s Products"
+msgstr ""
+
+#. plasma-desc
+#: i18n/en.yaml:29
+msgid "The next generation desktop for Linux"
+msgstr "Desktop generasi selanjutnya untuk Linux"
+
+#. plasma-desc-long
+#: i18n/en.yaml:31
+msgid ""
+"Plasma is KDE's flagship product, offering the most customizable desktop "
+"environment available. The KDE community has the driving goal of making it "
+"simple by default, and powerful when needed."
+msgstr ""
+
+#. plasma-install
+#: i18n/en.yaml:33
+msgid "Install on your computer"
+msgstr "Instal di komputer Anda"
+
+#. plasma-discover
+#: i18n/en.yaml:35
+msgid "Discover Plasma"
+msgstr "Jelajahi Plasma"
+
+#. plasma-buy
+#: i18n/en.yaml:37
+msgid "Buy a device with Plasma"
+msgstr "Beli sebuah peranti dengan Plasma"
+
+#. kde-powerful
+#: i18n/en.yaml:39
+msgid "Powerful, multi-platform, and for everyone"
+msgstr "Berdaya, multiplatform, dan untuk semuanya"
+
+#. kde-app-description
+#: i18n/en.yaml:41
+msgid ""
+"Use KDE software to surf the web, keep in touch with colleagues, friends and "
+"family, manage your files, enjoy music and videos; and get creative and "
+"productive at work. The KDE community develops and maintains more than "
+"<strong>200</strong> applications which run on any Linux desktop, and often "
+"other platforms too."
+msgstr ""
+"Gunakan perangkat lunak KDE untuk menjelajahi web, tetap terhubung dengan "
+"kolega, teman dan keluarga, kelola file Anda, nikmati musik dan video; "
+"berkreatif dan berproduktif saat bekerja. Komunitas KDE mengembang dan "
+"memelihara lebih dari <strong>200</strong> aplikasi yang berjalan di desktop "
+"Linux apa saja, dan terkadang platform lain juga."
+
+#. see-all-apps
+#: i18n/en.yaml:43
+msgid "See all applications"
+msgstr "Lihat semua aplikasi"
+
+#. krita
+#: i18n/en.yaml:45
+msgid "Krita"
+msgstr "Krita"
+
+#. krita-desc
+#: i18n/en.yaml:47
+msgid ""
+"Unleash your creativity with Krita, the professional open-source painting "
+"software for digital artists."
+msgstr ""
+
+#. krita-screen
+#: i18n/en.yaml:49
+msgid "Krita screenshot"
+msgstr "Tangkapan layar Krita"
+
+#. kdenlive
+#: i18n/en.yaml:51
+msgid "Kdenlive"
+msgstr "Kdenlive"
+
+#. kdenlive-desc
+#: i18n/en.yaml:53
+msgid ""
+"Bring your video projects to life with Kdenlive, the open-source editor "
+"packed with powerful tools, effects, and transitions."
+msgstr ""
+
+#. kdenlive-screen
+#: i18n/en.yaml:55
+msgid "Kdenlive Screenshot"
+msgstr "Tangkapan layar Kdenlive"
+
+#. kontact
+#: i18n/en.yaml:57
+msgid "Kontact"
+msgstr "Kontact"
+
+#. kontact-desc
+#: i18n/en.yaml:59
+msgid ""
+"Simplify your workflow by managing emails, calendars, tasks, and contacts "
+"seamlessly in one powerful application."
+msgstr ""
+
+#. kontact-screen
+#: i18n/en.yaml:61
+msgid "Kontact Screenshot"
+msgstr "Tangkapan layar Kontact"
+
+#. kdevelop
+#: i18n/en.yaml:63
+#, fuzzy
+#| msgid "Develop"
+msgid "KDevelop"
+msgstr "Pengembangan"
+
+#. kdevelop-desc
+#: i18n/en.yaml:65
+#, fuzzy
+#| msgid ""
+#| "KDevelop is a cross-platform IDE for C, C++, Python, QML/JavaScript and "
+#| "PHP"
+msgid ""
+"Streamline your coding experience with KDevelop, a robust cross-platform IDE "
+"supporting C, C++, Python, QML/JavaScript, and PHP."
+msgstr ""
+"KDevelop adalah IDE lintas platform untuk C, C++, Python, QML/JavaScript dan "
+"PHP"
+
+#. kdevelop-screen
+#: i18n/en.yaml:67
+msgid "KDevelop Screenshot"
+msgstr "Tangkapan layar KDevelop"
+
+#. gcompris
+#: i18n/en.yaml:69
+msgid "GCompris"
+msgstr "GCompris"
+
+#. gcompris-desc
+#: i18n/en.yaml:71
+#, fuzzy
+#| msgid ""
+#| "GCompris is a high quality educational software suite, including a large "
+#| "number of activities for children aged 2 to 10."
+msgid ""
+"Engage young minds with GCompris, an extensive educational suite packed with "
+"fun and interactive activities for children aged 2 to 10."
+msgstr ""
+"GCompris adalah rangkaian perangkat lunak pendidikan berkualitas tinggi, "
+"termasuk banyak aktivitas untuk anak-anak berusia 2 sampai 10."
+
+#. gcompris-screen
+#: i18n/en.yaml:73
+msgid "GCompris Screenshot"
+msgstr "Tangkapan layar GCompris"
+
+#. labplot2
+#: i18n/en.yaml:75
+msgid "LabPlot"
+msgstr "LabPlot"
+
+#. labplot2-desc
+#: i18n/en.yaml:77
+msgid ""
+"Create stunning data visualizations and perform in-depth analysis with "
+"LabPlot, the free and open-source plotting software for everyone."
+msgstr ""
+
+#. labplot2-screen
+#: i18n/en.yaml:79
+msgid "LabPlot Screenshot"
+msgstr "Tangkapan Layar LabPlot"
+
+#. neochat
+#: i18n/en.yaml:81
+msgid "Neochat"
+msgstr ""
+
+#. neochat-desc
+#: i18n/en.yaml:83
+msgid ""
+"NeoChat is a chat app that lets you take full advantage of the Matrix "
+"network. It provides you with a secure way to send text messages, videos and "
+"audio files to your family, colleagues and friends."
+msgstr ""
+
+#. neochat-screen
+#: i18n/en.yaml:85
+#, fuzzy
+#| msgid "Kontact Screenshot"
+msgid "Neochat screenshot"
+msgstr "Tangkapan layar Kontact"
+
+#. marknote
+#: i18n/en.yaml:87
+msgid "Marknote"
+msgstr ""
+
+#. marknote-desc
+#: i18n/en.yaml:89
+msgid ""
+"Marknote lets you create rich text notes and easily organise them into "
+"notebooks."
+msgstr ""
+
+#. marknote-screen
+#: i18n/en.yaml:91
+#, fuzzy
+#| msgid "Krita screenshot"
+msgid "Marknote screenshot"
+msgstr "Tangkapan layar Krita"
+
+#. hardware
+#: i18n/en.yaml:93
+msgid "Devices"
+msgstr "Peranti"
+
+#. buy-hardware
+#: i18n/en.yaml:95
+msgid "Buy a computer with Plasma preinstalled"
+msgstr "Beli sebuah komputer dengan Plasma"
+
+#. tuxedo
+#: i18n/en.yaml:97
+msgid "Tuxedo Computers"
+msgstr ""
+
+#. tuxedo-desc
+#: i18n/en.yaml:99
+msgid ""
+"Customizable Plasma-based notebooks and desktop computers optimized for "
+"tailor-made hardware."
+msgstr ""
+
+#. slimbook
+#: i18n/en.yaml:101
+msgid "KDE Slimbook"
+msgstr "Slimbook KDE"
+
+#. slimbook-pro
+#: i18n/en.yaml:103
+msgid ""
+"The Slimbook is a shiny, sleek and good looking laptop that can do any task "
+"thanks to its powerful AMD Ryzen processor."
+msgstr ""
+"Slimbook adalah laptop yang mengkilap, ramping, dan terlihat bagus yang "
+"dapat melakukan tugas apa saja berkat prosesor AMD Ryzen yang berdaya."
+
+#. kfocus
+#: i18n/en.yaml:105
+#, fuzzy
+#| msgid "KFocus"
+msgid "Kubuntu Focus"
+msgstr "KFocus"
+
+#. kfocus-desc
+#: i18n/en.yaml:107
+msgid ""
+"Kubuntu Focus optimizes the OS for the hardware so you don't have to. Save "
+"time with dozens of powerful tools and comprehensive guides."
+msgstr ""
+
+#. other-hardware
+#: i18n/en.yaml:109
+msgid "Other hardware manufacturers are selling devices with Plasma."
+msgstr "Produsen perangkat lunak lainnya juga menjual peranti dengan Plasma."
+
+#. see-all-hardware
+#: i18n/en.yaml:111
+msgid "See all devices"
+msgstr "Lihat semua peranti"
+
+#. view-all-announcements
+#: i18n/en.yaml:113
+msgid "View all announcements"
+msgstr "Tampilkan semua pengumuman"
+
+#. kde-eco
+#: i18n/en.yaml:115
+msgid "KDE Eco"
+msgstr "KDE Eco"
+
+#. kde-eco-sub
+#: i18n/en.yaml:117
+msgid "Join the sustainable software movement"
+msgstr "Bergabung dalam gerakan perangkat lunak berkelanjutan"
+
+#. kde-eco-join
+#: i18n/en.yaml:119
+msgid "Join KDE Eco"
+msgstr "Bergabung dalam KDE Eco"
+
+#. kde-eco-handbook
+#: i18n/en.yaml:121
+msgid "KDE Eco Handbook"
+msgstr "Buku Panduan KDE Eco"
+
+#. recent-events
+#: i18n/en.yaml:123
+#, fuzzy
+#| msgid "Events"
+msgid "Recent Events"
+msgstr "Peristiwa"
+
+#. full-changelog
+#. %1 link
+#: i18n/en.yaml:127
+msgid "You can find the full list of changes [here](%1)."
+msgstr "Anda dapat menemukan daftar perubahan [di sini](%1)."
+
+#. spread-the-word
+#: i18n/en.yaml:130
+msgid "Spread the Word"
+msgstr "Sebarkan Berita"
+
+#. non-technical-success
+#: i18n/en.yaml:132
+msgid ""
+"Non-technical contributors are an important part of KDE’s success. While "
+"proprietary software companies have huge advertising budgets for new "
+"software releases, KDE depends on people talking with other people. Even for "
+"those who are not software developers, there are many ways to support the "
+"KDE Applications release. Report bugs. Encourage others to join the KDE "
+"Community. Or [support the nonprofit organization behind the KDE community]"
+"(https://kde.org/community/donations/)"
+msgstr ""
+"Kontributor non-teknis adalah bagian penting dari kesuksesan KDE. Sementara "
+"perusahaan perangkat lunak sumber tertutup memiliki anggaran iklan yang "
+"besar untuk rilisan perangkat lunak baru, KDE bergantung pada orang yang "
+"berbicara dengan orang lain. Bahkan bagi mereka yang bukan pengembang "
+"perangkat lunak, ada banyak cara untuk mendukung rilisan Aplikasi KDE. "
+"Laporkan bug yang ada. Dorong orang lain untuk bergabung dengan Komunitas "
+"KDE. Atau [dukung organisasi nonprofit di balik komunitas KDE](https://kde."
+"org/community/donations/)"
+
+#. spread-social
+#: i18n/en.yaml:134
+#, fuzzy
+#| msgid ""
+#| "Please spread the word on the Social Web. Submit stories to news sites, "
+#| "use channels like delicious, digg, reddit, and twitter. Upload "
+#| "screenshots of your new set-up to services like Facebook, Flickr, "
+#| "ipernity and Picasa, and post them to appropriate groups. Create "
+#| "screencasts and upload them to YouTube, Blip.tv, and Vimeo. Please tag "
+#| "posts and uploaded materials with 'KDE'. This makes them easy to find, "
+#| "and gives the KDE Promo Team a way to analyze coverage for this KDE "
+#| "Applications release."
+msgid ""
+"Please spread the word on the Social Web. Submit stories to news sites, use "
+"channels like delicious, digg, reddit, and twitter. Upload screenshots of "
+"your new set-up to services like Facebook, Flickr, ipernity and Picasa, and "
+"post them to appropriate groups. Create screencasts and upload them to "
+"YouTube, Blip.tv, and Vimeo. Please tag posts and uploaded materials with "
+"“KDE”. This makes them easy to find, and gives the KDE Promo Team a way to "
+"analyze coverage for this KDE Applications release."
+msgstr ""
+"Silakan menyebarkan berita di Web Sosial. Kirim cerita ke situs berita, "
+"gunakan saluran seperti delicious, digg, reddit, dan twitter. Unggah "
+"tangkapan layar pengaturan baru Anda ke layanan seperti Facebook, Flickr, "
+"ipernity, dan Picasa, dan post ke grup yang sesuai. Buat screencast dan "
+"unggah ke YouTube, Blip.tv, dan Vimeo. Harap memberikan tag pada postingan "
+"dan materi yang diunggah dengan 'KDE'. Ini membuatnya mudah ditemukan, dan "
+"memberi Tim Promo KDE cara untuk menganalisis cakupan untuk rilis Aplikasi "
+"KDE ini."
+
+#. install-applications
+#: i18n/en.yaml:136
+msgid "Installing KDE Applications Binary Packages"
+msgstr "Menginstal Paket Biner Aplikasi KDE"
+
+#. packages
+#: i18n/en.yaml:138
+msgid "Packages"
+msgstr "Paket"
+
+#. packages-desc
+#: i18n/en.yaml:140
+msgid ""
+"Some Linux/UNIX OS vendors have kindly provided binary packages of KDE "
+"Applications for some versions of their distribution, and in other cases "
+"community volunteers have done so. Additional binary packages, as well as "
+"updates to the packages now available, may become available over the coming "
+"weeks."
+msgstr ""
+"Beberapa vendor OS Linux/UNIX telah dengan baik hati menyediakan paket biner "
+"Aplikasi KDE untuk beberapa versi distribusinya, dan dalam kasus lain, "
+"sukarelawan komunitas telah melakukannya. Paket biner tambahan, serta "
+"pembaruan untuk paket yang sekarang tersedia, mungkin tersedia selama "
+"beberapa minggu mendatang."
+
+#. package-location
+#: i18n/en.yaml:142
+msgid "Package Locations"
+msgstr "Lokasi Paket"
+
+#. package-location-desc
+#: i18n/en.yaml:144
+msgid ""
+"For a current list of available binary packages of which the KDE Project has "
+"been informed, please visit the [Community Wiki](https://community.kde.org/"
+"KDE_Applications/Binary_Packages)."
+msgstr ""
+"Untuk daftar paket biner yang tersedia saat ini yang telah diberitahukan "
+"kepada Proyek KDE, silakan kunjungi [Wiki Komunitas](https://community.kde."
+"org/KDE_Applications/Binary_Packages)."
+
+#. compile-app
+#: i18n/en.yaml:146
+msgid "Compiling KDE Applications"
+msgstr "Mengompilasikan Aplikasi KDE"
+
+#. compile-app-desc
+#. %1 link, %2 version number, %3 link
+#: i18n/en.yaml:148
+msgid ""
+"The complete source code for KDE Applications may be [freely downloaded]"
+"(%1). Instructions on compiling and installing are available from the [KDE "
+"Applications %2 Info Page](%3)."
+msgstr ""
+"Kode sumber lengkap untuk Aplikasi KDE dapat [diunduh secara bebas](%1). "
+"Petunjuk tentang mengompilasi dan penginstalan tersedia dari [Halaman Info "
+"Aplikasi KDE %2](%3)."
+
+#. trademark-notices
+#: i18n/en.yaml:151
+msgid "Trademark Notices."
+msgstr "Pemberitahuan Merek Dagang."
+
+#. kde-trademark
+#: i18n/en.yaml:153
+msgid ""
+"KDE<sup>&#174;</sup> and the K Desktop Environment<sup>&#174;</sup> logo are "
+"registered trademarks of KDE e.V.."
+msgstr ""
+"KDE<sup>&#174;</sup> dan logo K Desktop Environment<sup>&#174;</sup> adalah "
+"merek dagang terdaftar dari KDE e.V.."
+
+#. linux-trademark
+#: i18n/en.yaml:155
+msgid "Linux is a registered trademark of Linus Torvalds."
+msgstr "Linux adalah merek dagang terdaftar dari Linus Torvalds."
+
+#. unix-trademark
+#: i18n/en.yaml:157
+msgid ""
+"UNIX is a registered trademark of The Open Group in the United States and "
+"other countries."
+msgstr ""
+"UNIX adalah merek dagang terdaftar dari The Open Group di Amerika Serikat "
+"dan negara lainnya."
+
+#. other-trademarks
+#: i18n/en.yaml:159
+msgid ""
+"All other trademarks and copyrights referred to in this announcement are the "
+"property of their respective owners."
+msgstr ""
+"Semua merek dagang dan hak cipta lain yang dirujuk dalam pengumuman ini "
+"adalah milik dari pemiliknya masing-masing."
+
+#. info-email
+#: i18n/en.yaml:161
+msgid "For more information send us an email:"
+msgstr "Untuk informasi lanjut kirim kami sebuah email:"
+
+#. release-announcements
+#: i18n/en.yaml:165
+msgid "Release Announcements"
+msgstr "Pengumuman Rilis"
+
+#. kde-framework
+#. %1 version number
+#: i18n/en.yaml:167
+msgid "KDE Frameworks %1"
+msgstr "Kerangka Kerja KDE %1"
+
+#. binary-package
+#: i18n/en.yaml:170
+msgid "Installing binary packages"
+msgstr "Menginstal paket biner"
+
+#. binary-package-text
+#. %1 link
+#: i18n/en.yaml:172
+msgid ""
+"On Linux, using packages for your favorite distribution is the recommended "
+"way to get access to KDE Frameworks. [Get KDE Software on Your Linux Distro "
+"wiki page](%1)"
+msgstr ""
+"Di Linux, menggunakan paket untuk distribusi favorit Anda adalah cara yang "
+"disarankan untuk mendapatkan akses ke Kerangka Kerja KDE. [Dapatkan "
+"Perangkat Lunak KDE di halaman wiki Distro Linux Anda](%1)"
+
+#. sources
+#: i18n/en.yaml:175
+msgid "Compiling from sources"
+msgstr "Mengompilasi dari sumber"
+
+#. sources-text
+#. %1 version number, %2 link, %3 link
+#: i18n/en.yaml:177
+msgid ""
+"The complete source code for KDE Frameworks %1 may be [freely downloaded]"
+"(%2). Instructions on compiling and installing are available from the [KDE "
+"Frameworks %1 Info Page](%3)."
+msgstr ""
+"Kode sumber lengkap untuk Kerangka Kerja KDE %1 dapat [diunduh secara bebas]"
+"(%2). Petunjuk tentang mengompilasi dan penginstalan tersedia dari [Halaman "
+"Info Kerangka Kerja KDE %1](%3)."
+
+#. sources-instructions
+#. %1 link, %2 version number, %3 version number
+#: i18n/en.yaml:180
+msgid ""
+"Building from source is possible using the basic <em>cmake .; make; make "
+"install</em> commands. For a single Tier 1 framework, this is often the "
+"easiest solution. People interested in contributing to frameworks or "
+"tracking progress in development of the entire set are encouraged to [use "
+"kdesrc-build](%1). Frameworks %2 requires Qt %3."
+msgstr ""
+"Membangun dari sumber dimungkinkan menggunakan perintah <em>cmake .; make; "
+"make install</em>. Untuk kerangka Tier 1 tunggal, ini seringkali merupakan "
+"solusi termudah. Orang yang tertarik untuk berkontribusi pada kerangka atau "
+"melacak kemajuan dalam pengembangan seluruh rangkaian disarankan untuk "
+"[menggunakan kdesrc-build](%1). Kerangka Kerja %2 membutuhkan Qt %3."
+
+#. sources-details
+#: i18n/en.yaml:183
+#, fuzzy
+#| msgid ""
+#| "A detailed listing of all Frameworks and other third party Qt libraries "
+#| "is at [inqlude.org](https://inqlude.org), the curated archive of Qt "
+#| "libraries. A complete list with API documentation is on [api.kde.org]"
+#| "(https://api.kde.org/frameworks)."
+msgid ""
+"A detailed listing of all Frameworks with API documentation is on [api.kde."
+"org](https://api.kde.org)."
+msgstr ""
+"Sebuah daftar berinci dari semua Kerangka Kerja dan pustaka Qt pihak ketiga "
+"lainnya tersedia di [inqlude.org](https://inqlude.org), arsip terkurasi dari "
+"pustaka Qt. Sebuah daftar lengkap dengan dokumentas API berada di [api.kde."
+"org](https://api.kde.org/frameworks)."
+
+#. get-involved-framework
+#: i18n/en.yaml:185
+msgid ""
+"Those interested in following and contributing to the development of "
+"Frameworks can check out the [git repositories](https://invent.kde.org/"
+"frameworks) and follow the discussions on the [KDE Frameworks Development "
+"mailing list](https://mail.kde.org/mailman/listinfo/kde-frameworks-devel). "
+"Policies and the current state of the project and plans are available at the "
+"[Frameworks wiki](https://community.kde.org/Frameworks). Real-time "
+"discussions take place on the [#kde-devel IRC channel on Libera Chat](irc://"
+"irc.libera.chat/#kde-devel)."
+msgstr ""
+"Mereka yang tertarik untuk mengikuti dan berkontribusi pada pengembangan "
+"Kerangka Kerja dapat melihat [repositori git](https://invent.kde.org/"
+"frameworks) dan mengikuti diskusi di [milis Pengembangan Kerangka KDE]"
+"(https://mail.kde.org/mailman/listinfo/kde-frameworks-devel). Kebijakan dan "
+"status proyek serta rencana saat ini tersedia di [wiki Kerangka Kerja]"
+"(https://community.kde.org/Frameworks). Diskusi real-time berlangsung di "
+"[saluran IRC #kde-devel di Libera Chat](irc://irc.libera.chat/#kde-devel)."
+
+#. supporting-kde
+#: i18n/en.yaml:187
+msgid "Supporting KDE"
+msgstr "Mendukung KDE"
+
+#. whatiskde
+#: i18n/en.yaml:189
+msgid ""
+"KDE is a [Free Software](https://www.gnu.org/philosophy/free-sw.html) "
+"community that exists and grows only because of the help of many volunteers "
+"that donate their time and effort. KDE is always looking for new volunteers "
+"and contributions, whether it is help with coding, bug fixing or reporting, "
+"writing documentation, translations, promotion, money, etc. All "
+"contributions are gratefully appreciated and eagerly accepted. Please read "
+"through the [Supporting KDE page](/community/donations/) for further "
+"information or become a KDE e.V. supporting member through our [Join the "
+"Game](https://kde.org/community/donations/) initiative."
+msgstr ""
+"KDE adalah komunitas [Perangkat Lunak Bebas](https://www.gnu.org/philosophy/"
+"free-sw.html) yang ada dan tumbuh hanya karena bantuan banyak sukarelawan "
+"yang menyumbangkan waktu dan tenaga mereka. KDE selalu mencari sukarelawan "
+"dan kontribusi baru, baik itu bantuan dengan pengkodean, perbaikan kutu atau "
+"pelaporan, menulis dokumentasi, terjemahan, promosi, uang, dll. Semua "
+"kontribusi sangat dihargai dan diterima dengan penuh semangat. Silakan baca "
+"[halaman Pendukung KDE](/community/donations/) untuk informasi lebih lanjut "
+"atau menjadi anggota pendukung KDE e.V. melalui inisiatif [Join the Game]"
+"(https://kde.org/community/donations/) kami."
+
+#. plasma-5-20
+#: i18n/en.yaml:193
+msgid "Plasma 5.20"
+msgstr "Plasma 5.20"
+
+#. plasma-5-20-slogan
+#: i18n/en.yaml:195
+msgid "New and improved inside and out"
+msgstr "Baru dan lebih baik di dalam dan luar"
+
+#. plasma-5-20-description
+#: i18n/en.yaml:197
+msgid ""
+"A massive release, containing improvements to dozens of components, widgets, "
+"and the desktop behavior in general."
+msgstr ""
+"Sebuah rilis besar, berisi perbaikan untuk banyak komponen, widget, dan "
+"perilaku desktop secara umum."
+
+#. period
+#: i18n/en.yaml:201
+msgid ". "
+msgstr ""
+
+#. view-changelog
+#: i18n/en.yaml:203
+msgid "View full changelog"
+msgstr "Tampilkan catatan berubahan lengkap"
+
+#. live-images
+#: i18n/en.yaml:205
+msgid "Live Images"
+msgstr "Citra Langsung"
+
+#. live-images-text
+#: i18n/en.yaml:207
+msgid ""
+"The easiest way to try it out is with a live image booted off a USB disk. "
+"Docker images also provide a quick and easy way to test Plasma."
+msgstr ""
+"Cara yang termudah untuk mencoba adalah untuk citra langsung yang diboot "
+"dari sebuah disk USB. Citra Docker juga menyediakan cara cepat dan mudah "
+"untuk mencoba Plasma."
+
+#. download-plasma
+#: i18n/en.yaml:209
+#, fuzzy
+#| msgid "Download live images with Plasma 5"
+msgid "Download live images with Plasma"
+msgstr "Unduh citra langsung dengan Plasma 5"
+
+#. docker-plasma
+#: i18n/en.yaml:211
+#, fuzzy
+#| msgid "Download Docker images with Plasma 5"
+msgid "Download Docker images with Plasma"
+msgstr "Unduh citra Docker dengan Plasma 5"
+
+#. package-downloads
+#: i18n/en.yaml:213
+msgid "Package Downloads"
+msgstr "Unduhan Paket"
+
+#. package-downloads-text
+#: i18n/en.yaml:215
+msgid ""
+"Distributions have created, or are in the process of creating, packages "
+"listed on our wiki page."
+msgstr ""
+"Distribusi telah membuat, atau dalam proses membuat, paket yang didaftarkan "
+"pada laman wiki kami."
+
+#. package-wiki
+#: i18n/en.yaml:217 i18n/en.yaml:327
+msgid "Package download wiki page"
+msgstr "Halaman wiki unduhan paket"
+
+#. source-download
+#: i18n/en.yaml:219
+msgid "Source Downloads"
+msgstr "Unduhan Sumber"
+
+#. source-download-text
+#: i18n/en.yaml:221
+#, fuzzy
+#| msgid "You can install Plasma 5 directly from source."
+msgid "You can install Plasma directly from source."
+msgstr "Anda dapat menginstal Plasma 5 langsung dari sumbernya."
+
+#. community-instructions
+#: i18n/en.yaml:223
+msgid "Community instructions to compile it"
+msgstr "Instruksi komunitas untuk mengompilasinya"
+
+#. source-info-page
+#: i18n/en.yaml:225
+msgid "Source Info Page"
+msgstr "Laman Info Sumber"
+
+#. feedback
+#: i18n/en.yaml:227
+msgid "Feedback"
+msgstr "Masukan"
+
+#. give-feedback
+#: i18n/en.yaml:229
+msgid "You can give us feedback and get updates on our social media channels:"
+msgstr ""
+"Anda dapat memberikan kami masukan dan dapatkan pembaruan pada saluran media "
+"sosial kami:"
+
+#. discuss-forum
+#: i18n/en.yaml:231
+#, fuzzy
+#| msgid ""
+#| "Discuss Plasma 5 on the [KDE Forums Plasma 5 board](https://forum.kde.org/"
+#| "viewforum.php?f=289)."
+msgid "Discuss KDE on the [KDE Forums](https://discuss.kde.org/)."
+msgstr ""
+"Berdiskusi tentang Plasma 5 di [Papan Plasma 5 Forum KDE](https://forum.kde."
+"org/viewforum.php?f=289)."
+
+#. report-bug-plasma
+#: i18n/en.yaml:233
+#, fuzzy
+#| msgid ""
+#| "You can provide feedback direct to the developers via the [#Plasma IRC "
+#| "channel](irc://irc.libera.chat/#plasma), [Plasma-devel mailing list]"
+#| "(https://mail.kde.org/mailman/listinfo/plasma-devel) or report issues via "
+#| "[Bugzilla](https://bugs.kde.org/enter_bug.cgi?product=plasmashell&amp;"
+#| "format=guided). If you like what the team is doing, please let them know!"
+msgid ""
+"You can provide feedback direct to the developers via the [#Plasma Matrix "
+"channel](https://go.kde.org/matrix/#/#plasma:kde.org), [Plasma-devel mailing "
+"list](https://mail.kde.org/mailman/listinfo/plasma-devel) or report issues "
+"via [Bugzilla](https://bugs.kde.org/enter_bug.cgi?product=plasmashell&amp;"
+"format=guided). If you like what the team is doing, please let them know!"
+msgstr ""
+"Anda dapat memberikan masukan langsung kepada pengembang melalui [saluran "
+"IRC #Plasma](irc://irc.libera.chat/#plasma), [milis Plasma-devel](https://"
+"mail.kde.org/mailman/listinfo/plasma-devel) atau laporkan masalah melalui "
+"[Bugzilla](https://bugs.kde.org/enter_bug.cgi?product=plasmashell&amp;"
+"format=guided). Jika Anda menyukai apa yang dilakukan oleh tim, beritahu "
+"mereka!"
+
+#. feedback-appreciated
+#: i18n/en.yaml:235
+msgid "Your feedback is greatly appreciated."
+msgstr "Masukan Anda sangat dihargai."
+
+#. about-kde
+#: i18n/en.yaml:237
+msgid "About KDE"
+msgstr "Tentang KDE"
+
+#. about-kde-text
+#: i18n/en.yaml:239
+#, fuzzy
+#| msgid ""
+#| "KDE is an international technology team that creates free and open source "
+#| "software for desktop and portable computing. Among KDE's products are a "
+#| "modern desktop system for Linux and UNIX platforms, comprehensive office "
+#| "productivity and groupware suites and hundreds of software titles in many "
+#| "categories including Internet and web applications, multimedia, "
+#| "entertainment, educational, graphics and software development. KDE "
+#| "software is translated into more than 60 languages and is built with ease "
+#| "of use and modern accessibility principles in mind. KDE's full-featured "
+#| "applications run natively on Linux, BSD, Windows, Haiku, and macOS."
+msgid ""
+"KDE is an international technology team that creates free and open source "
+"software for desktop and portable computing. Among KDE’s products are a "
+"modern desktop system for Linux and UNIX platforms, comprehensive office "
+"productivity and groupware suites and hundreds of software titles in many "
+"categories including Internet and web applications, multimedia, "
+"entertainment, educational, graphics and software development. KDE software "
+"is translated into more than 60 languages and is built with ease of use and "
+"modern accessibility principles in mind. KDE’s full-featured applications "
+"run natively on Linux, BSD, Windows, Haiku, and macOS."
+msgstr ""
+"KDE adalah tim teknologi internasional yang menciptakan perangkat lunak "
+"sumber terbuka dan bebas untuk komputasi desktop dan portabel. Di antara "
+"produk KDE adalah sistem desktop modern untuk platform Linux dan UNIX, "
+"produktivitas kantor yang komprehensif dan rangkaian groupware dan ratusan "
+"judul perangkat lunak dalam banyak kategori termasuk Internet dan aplikasi "
+"web, multimedia, hiburan, pendidikan, grafik, dan pengembangan perangkat "
+"lunak. Perangkat lunak KDE diterjemahkan ke lebih dari 60 bahasa dan dibuat "
+"dengan prinsip kemudahan penggunaan dan aksesibilitas modern. Aplikasi "
+"berfitur lengkap KDE berjalan secara asli di Linux, BSD, Windows, Haiku, dan "
+"macOS."
+
+#. next-slide
+#: i18n/en.yaml:243
+msgid "Next slide"
+msgstr "Slide berikutnya"
+
+#. prev-slide
+#: i18n/en.yaml:245
+msgid "Previous slide"
+msgstr "Slide sebelumnya"
+
+#. site-title
+#: i18n/en.yaml:249
+msgid "KDE Community"
+msgstr "Komunitas KDE"
+
+#. site-description
+#: i18n/en.yaml:251
+msgid ""
+"KDE is an open community of friendly people who want to create a world in "
+"which everyone has control over their digital life and enjoys freedom and "
+"privacy."
+msgstr ""
+"KDE adalah komunitas terbuka dari orang-orang ramah yang ingin menciptakan "
+"dunia di mana setiap orang memiliki kendali atas kehidupan digital mereka "
+"dan menikmati kebebasan dan privasi."
+
+#. rss-description
+#: i18n/en.yaml:253
+msgid "Recent content on KDE Community"
+msgstr "Konten terkini pada Komunitas KDE"
+
+#. annc-plasma-bugfix-title-1
+#: i18n/en.yaml:255
+msgid "KDE Plasma %ver, Bugfix Release for January"
+msgstr "KDE Plasma %ver, Rilis Perbaikan Kutu untuk Januari"
+
+#. annc-plasma-bugfix-title-2
+#: i18n/en.yaml:257
+msgid "KDE Plasma %ver, Bugfix Release for February"
+msgstr "KDE Plasma %ver, Rilis Perbaikan Kutu untuk Februari"
+
+#. annc-plasma-bugfix-title-3
+#: i18n/en.yaml:259
+msgid "KDE Plasma %ver, Bugfix Release for March"
+msgstr "KDE Plasma %ver, Rilis Perbaikan Kutu untuk Maret"
+
+#. annc-plasma-bugfix-title-4
+#: i18n/en.yaml:261
+msgid "KDE Plasma %ver, Bugfix Release for April"
+msgstr "KDE Plasma %ver, Rilis Perbaikan Kutu untuk April"
+
+#. annc-plasma-bugfix-title-5
+#: i18n/en.yaml:263
+msgid "KDE Plasma %ver, Bugfix Release for May"
+msgstr "KDE Plasma %ver, Rilis Perbaikan Kutu untuk Mei"
+
+#. annc-plasma-bugfix-title-6
+#: i18n/en.yaml:265
+msgid "KDE Plasma %ver, Bugfix Release for June"
+msgstr "KDE Plasma %ver, Rilis Perbaikan Kutu untuk Juni"
+
+#. annc-plasma-bugfix-title-7
+#: i18n/en.yaml:267
+msgid "KDE Plasma %ver, Bugfix Release for July"
+msgstr "KDE Plasma %ver, Rilis Perbaikan Kutu untuk Juli"
+
+#. annc-plasma-bugfix-title-8
+#: i18n/en.yaml:269
+msgid "KDE Plasma %ver, Bugfix Release for August"
+msgstr "KDE Plasma %ver, Rilis Perbaikan Kutu untuk Agustus"
+
+#. annc-plasma-bugfix-title-9
+#: i18n/en.yaml:271
+msgid "KDE Plasma %ver, Bugfix Release for September"
+msgstr "KDE Plasma %ver, Rilis Perbaikan Kutu untuk September"
+
+#. annc-plasma-bugfix-title-10
+#: i18n/en.yaml:273
+msgid "KDE Plasma %ver, Bugfix Release for October"
+msgstr "KDE Plasma %ver, Rilis Perbaikan Kutu untuk Oktober"
+
+#. annc-plasma-bugfix-title-11
+#: i18n/en.yaml:275
+msgid "KDE Plasma %ver, Bugfix Release for November"
+msgstr "KDE Plasma %ver, Rilis Perbaikan Kutu untuk November"
+
+#. annc-plasma-bugfix-title-12
+#: i18n/en.yaml:277
+msgid "KDE Plasma %ver, Bugfix Release for December"
+msgstr "KDE Plasma %ver, Rilis Perbaikan Kutu untuk Desember"
+
+#. annc-plasma-release-title
+#: i18n/en.yaml:279
+msgid "KDE Plasma %ver Release"
+msgstr "Rilis KDE Plasma %ver"
+
+#. annc-plasma-beta-title
+#: i18n/en.yaml:281
+msgid "KDE Plasma %ver Beta Release"
+msgstr "Rilis Beta KDE Plasma %ver"
+
+#. annc-plasma-desc-pre-5-20
+#: i18n/en.yaml:283
+msgid "KDE Ships Plasma %ver."
+msgstr "KDE Meriliskan Plasma %ver."
+
+#. annc-plasma-beta-desc-pre-5-20
+#: i18n/en.yaml:285
+msgid "KDE Ships Plasma %ver Beta."
+msgstr "KDE Meriliskan Plasma %ver Beta."
+
+#. annc-plasma-bugfix-desc-post-5-19
+#: i18n/en.yaml:287
+msgid "Today KDE releases a bugfix update to KDE Plasma %maj_ver."
+msgstr ""
+"Hari ini KDE meriliskan sebuah pembaruan perbaikan kutu untuk KDE Plasma "
+"%maj_ver."
+
+#. annc-frameworks-title-pre-5-76
+#: i18n/en.yaml:290
+msgid "Release of KDE Frameworks %ver"
+msgstr "Rilis KDE Kerangka Kerja %ver"
+
+#. annc-frameworks-title
+#: i18n/en.yaml:292
+msgid "KDE Ships Frameworks %ver"
+msgstr "KDE Meriliskan Kerangka Kerja %ver"
+
+#. annc-frameworks-desc-pre-5-76
+#: i18n/en.yaml:294
+msgid "KDE Ships Frameworks %ver."
+msgstr "KDE Meriliskan Kerangka Kerja %ver."
+
+#. annc-frameworks-desc
+#: i18n/en.yaml:296
+msgid "KDE today announces the release of KDE Frameworks %ver."
+msgstr "Hari ini, KDE mengumumkan rilis Kerangka Kerja KDE %ver."
+
+#. annc-frameworks-text
+#. %1 version number
+#: i18n/en.yaml:298
+msgid "KDE today announces the release of KDE Frameworks %1."
+msgstr "Hari ini, KDE mengumumkan rilis Kerangka Kerja KDE %1."
+
+#. annc-frameworks-intro
+#. %1 a number greater than or equal to 60
+#: i18n/en.yaml:301
+#, fuzzy
+#| msgid ""
+#| "KDE Frameworks are %1 addon libraries to Qt which provide a wide variety "
+#| "of commonly needed functionality in mature, peer reviewed and well tested "
+#| "libraries with friendly licensing terms. For an introduction see [the KDE "
+#| "Frameworks release announcement](%2)."
+msgid ""
+"KDE Frameworks are %1 addon libraries to Qt which provide a wide variety of "
+"commonly needed functionality in mature, peer reviewed and well tested "
+"libraries with friendly licensing terms. For an introduction see [the KDE "
+"Frameworks release announcement](/announcements/frameworks/5/5.0)."
+msgstr ""
+"Kerangka KDE adalah %1 pustaka tambahan untuk Qt yang menyediakan berbagai "
+"macam fungsionalitas yang biasa dibutuhkan dalam kematangan, ditinjau oleh "
+"rekan sejawat, dan pustaka teruji dengan persyaratan lisensi yang ramah. "
+"Untuk pengenalan lihat [pengumuman rilis Kerangka Kerja KDE](%2)."
+
+#. annc-frameworks-intro-2
+#: i18n/en.yaml:304
+msgid ""
+"This release is part of a series of planned monthly releases making "
+"improvements available to developers in a quick and predictable manner."
+msgstr ""
+"Rilis ini adalah bagian dari serangkaian rencana pembuatan rilis bulanan "
+"yang membuat peningkatan tersedia untuk pengembang dengan cara yang cepat "
+"dan dapat diprediksi."
+
+#. annc-frameworks-new
+#: i18n/en.yaml:306
+msgid "New in this version"
+msgstr "Baru dalam versi ini"
+
+#. annc-gear-title
+#. %1 version number
+#: i18n/en.yaml:309
+msgid "KDE Gear %1"
+msgstr "KDE Gear %1"
+
+#. annc-gear-desc
+#. %1 version number
+#: i18n/en.yaml:312
+msgid "KDE announces the release of KDE Gear %1."
+msgstr "KDE mengumumkan rilisan KDE Gear %1."
+
+#. annc-gear-intro
+#. %1 a number greater than 100
+#: i18n/en.yaml:315
+#, fuzzy
+#| msgid ""
+#| "Over %1 individual programs plus dozens of programmer libraries and "
+#| "feature plugins are released simultaneously as part of KDE Gear."
+msgid ""
+"Over %1 individual applications plus dozens of programmer libraries and "
+"feature plugins are released simultaneously as part of KDE Gear."
+msgstr ""
+"Lebih dari %1 program indivdu ditambah dengan beberapa pustaka pemrogram dan "
+"plugin fitur diriliskan secara bersamaan dalam bagian KDE Gear."
+
+#. annc-gear-updates
+#: i18n/en.yaml:318
+msgid ""
+"Today they all get new bugfix source releases with updated translations."
+msgstr ""
+"Hari ini mereka semua mendapatkan rilis sumber perbaikan kutu baru dengan "
+"terjemahan yang diperbarui."
+
+#. annc-gear-updates-including
+#: i18n/en.yaml:320
+msgid ""
+"Today they all get new bugfix source releases with updated translations, "
+"including:"
+msgstr ""
+"Hari ini mereka semua mendapatkan rilis sumber perbaikan kutu baru dengan "
+"terjemahan yang diperbarui, termasuk:"
+
+#. annc-gear-packagers
+#: i18n/en.yaml:322
+msgid ""
+"Distro and app store packagers should update their application packages."
+msgstr ""
+"Pemaket distribusi dan toko aplikasi seharusnya memperbarui paket "
+"aplikasinya."
+
+#. annc-gear-release-notes
+#. %1 version number, %2 link
+#: i18n/en.yaml:324
+msgid "[%1 release notes](%2) for information on tarballs and known issues."
+msgstr ""
+"[Catatan rilis %1](%2) untuk informasi pada tarball dan masalah yang "
+"diketahui."
+
+#. annc-gear-source-info
+#. %1 version number
+#: i18n/en.yaml:329
+msgid "%1 source info page"
+msgstr "Halaman info sumber %1"
+
+#. annc-gear-changelog
+#. %1 version number
+#: i18n/en.yaml:332
+msgid "%1 full changelog"
+msgstr "Catatan perubahan %1 lengkap"
+
+#. annc-plasma-alt
+#. %1 version number
+#: i18n/en.yaml:336
+msgid "Image of Plasma %1"
+msgstr "Gambar Plasma %1"
+
+#. annc-plasma-caption
+#. %1 version number
+#: i18n/en.yaml:339
+msgid "KDE Plasma %1"
+msgstr "KDE Plasma %1"
+
+#. annc-plasma-beta-alt
+#. %1 version number
+#: i18n/en.yaml:342
+msgid "Image of Plasma %1 Beta"
+msgstr "Gambar Plasma %1 Beta"
+
+#. annc-plasma-beta-caption
+#. %1 version number
+#: i18n/en.yaml:345
+msgid "KDE Plasma %1 Beta"
+msgstr "KDE Plasma %1 Beta"
+
+#. annc-plasma-bugfix-intro
+#. %1 major version number, %2 full version number
+#: i18n/en.yaml:348
+msgid "Today KDE releases a bugfix update to KDE Plasma %1, versioned %2."
+msgstr ""
+"Hari ini KDE meriliskan sebuah pembaruan perbaikan kutu untuk KDE Plasma %1, "
+"diversikan %2."
+
+#. annc-plasma-bugfix-minor-release-1
+#. %1 version number, %2 link, %3 year
+#: i18n/en.yaml:351
+msgid ""
+"[Plasma %1](%2) was released in January %3 with many feature refinements and "
+"new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2) diriliskan pada %3 Januari dengan banyak perbaikan fitur dan "
+"modul baru untuk menyelesaikan pengalaman desktop."
+
+#. annc-plasma-bugfix-minor-release-2
+#. %1 version number, %2 link, %3 year
+#: i18n/en.yaml:354
+msgid ""
+"[Plasma %1](%2) was released in February %3 with many feature refinements "
+"and new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2) diriliskan pada %3 Februari dengan banyak perbaikan fitur "
+"dan modul baru untuk menyelesaikan pengalaman desktop."
+
+#. annc-plasma-bugfix-minor-release-3
+#. %1 version number, %2 link, %3 year
+#: i18n/en.yaml:357
+msgid ""
+"[Plasma %1](%2) was released in March %3 with many feature refinements and "
+"new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2) diriliskan pada %3 Maret dengan banyak perbaikan fitur dan "
+"modul baru untuk menyelesaikan pengalaman desktop."
+
+#. annc-plasma-bugfix-minor-release-4
+#. %1 version number, %2 link, %3 year
+#: i18n/en.yaml:360
+msgid ""
+"[Plasma %1](%2) was released in April %3 with many feature refinements and "
+"new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2) diriliskan pada %3 April dengan banyak perbaikan fitur dan "
+"modul baru untuk menyelesaikan pengalaman desktop."
+
+#. annc-plasma-bugfix-minor-release-5
+#. %1 version number, %2 link, %3 year
+#: i18n/en.yaml:363
+msgid ""
+"[Plasma %1](%2) was released in May %3 with many feature refinements and new "
+"modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2) diriliskan pada %3 Mei dengan banyak perbaikan fitur dan "
+"modul baru untuk menyelesaikan pengalaman desktop."
+
+#. annc-plasma-bugfix-minor-release-6
+#. %1 version number, %2 link, %3 year
+#: i18n/en.yaml:366
+msgid ""
+"[Plasma %1](%2) was released in June %3 with many feature refinements and "
+"new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2) diriliskan pada %3 Juni dengan banyak perbaikan fitur dan "
+"modul baru untuk menyelesaikan pengalaman desktop."
+
+#. annc-plasma-bugfix-minor-release-7
+#. %1 version number, %2 link, %3 year
+#: i18n/en.yaml:369
+msgid ""
+"[Plasma %1](%2) was released in July %3 with many feature refinements and "
+"new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2) diriliskan pada %3 Juli dengan banyak perbaikan fitur dan "
+"modul baru untuk menyelesaikan pengalaman desktop."
+
+#. annc-plasma-bugfix-minor-release-8
+#. %1 version number, %2 link, %3 year
+#: i18n/en.yaml:372
+msgid ""
+"[Plasma %1](%2) was released in August %3 with many feature refinements and "
+"new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2) diriliskan pada %3 Agustus dengan banyak perbaikan fitur dan "
+"modul baru untuk menyelesaikan pengalaman desktop."
+
+#. annc-plasma-bugfix-minor-release-9
+#. %1 version number, %2 link, %3 year
+#: i18n/en.yaml:375
+msgid ""
+"[Plasma %1](%2) was released in September %3 with many feature refinements "
+"and new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2) diriliskan pada %3 September dengan banyak perbaikan fitur "
+"dan modul baru untuk menyelesaikan pengalaman desktop."
+
+#. annc-plasma-bugfix-minor-release-10
+#. %1 version number, %2 link, %3 year
+#: i18n/en.yaml:378
+msgid ""
+"[Plasma %1](%2) was released in October %3 with many feature refinements and "
+"new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2) diriliskan pada %3 Oktober dengan banyak perbaikan fitur dan "
+"modul baru untuk menyelesaikan pengalaman desktop."
+
+#. annc-plasma-bugfix-minor-release-11
+#. %1 version number, %2 link, %3 year
+#: i18n/en.yaml:381
+msgid ""
+"[Plasma %1](%2) was released in November %3 with many feature refinements "
+"and new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2) diriliskan pada %3 November dengan banyak perbaikan fitur "
+"dan modul baru untuk menyelesaikan pengalaman desktop."
+
+#. annc-plasma-bugfix-minor-release-12
+#. %1 version number, %2 link, %3 year
+#: i18n/en.yaml:384
+msgid ""
+"[Plasma %1](%2) was released in December %3 with many feature refinements "
+"and new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2) diriliskan pada %3 Desember dengan banyak perbaikan fitur "
+"dan modul baru untuk menyelesaikan pengalaman desktop."
+
+#. annc-plasma-bugfix-worth-1
+#: i18n/en.yaml:387 i18n/en.yaml:389
+#, fuzzy
+#| msgid ""
+#| "This release adds a week's worth of new translations and fixes from KDE's "
+#| "contributors."
+msgid ""
+"This release adds a week’s worth of new translations and fixes from KDE’s "
+"contributors."
+msgstr ""
+"Rilis ini menambahkan terjemahan dan perbaikan dalam seminggu dari "
+"kontributor KDE."
+
+#. annc-plasma-bugfix-worth-3
+#: i18n/en.yaml:391
+#, fuzzy
+#| msgid ""
+#| "This release adds two weeks' worth of new translations and fixes from "
+#| "KDE's contributors."
+msgid ""
+"This release adds two weeks’ worth of new translations and fixes from KDE’s "
+"contributors."
+msgstr ""
+"Rilis ini menambahkan terjemahan dan perbaikan dalam dua minggu dari "
+"kontributor KDE."
+
+#. annc-plasma-bugfix-worth-4
+#: i18n/en.yaml:393
+#, fuzzy
+#| msgid ""
+#| "This release adds three weeks' worth of new translations and fixes from "
+#| "KDE's contributors."
+msgid ""
+"This release adds three weeks’ worth of new translations and fixes from "
+"KDE’s contributors."
+msgstr ""
+"Rilis ini menambahkan terjemahan dan perbaikan dalam tiga minggu dari "
+"kontributor KDE."
+
+#. annc-plasma-bugfix-worth-5
+#: i18n/en.yaml:395
+#, fuzzy
+#| msgid ""
+#| "This release adds a month's worth of new translations and fixes from "
+#| "KDE's contributors."
+msgid ""
+"This release adds a month’s worth of new translations and fixes from KDE’s "
+"contributors."
+msgstr ""
+"Rilis ini menambahkan terjemahan dan perbaikan dalam sebulan dari "
+"kontributor KDE."
+
+#. annc-plasma-bugfix-worth-6
+#: i18n/en.yaml:397
+#, fuzzy
+#| msgid ""
+#| "This release adds two months' worth of new translations and fixes from "
+#| "KDE's contributors."
+msgid ""
+"This release adds two months’ worth of new translations and fixes from KDE’s "
+"contributors."
+msgstr ""
+"Rilis ini menambahkan terjemahan dan perbaikan dalam dua bulan dari "
+"kontributor KDE."
+
+#. annc-plasma-bugfix-worth-7
+#: i18n/en.yaml:399
+#, fuzzy
+#| msgid ""
+#| "This release adds three months' worth of new translations and fixes from "
+#| "KDE's contributors."
+msgid ""
+"This release adds three months’ worth of new translations and fixes from "
+"KDE’s contributors."
+msgstr ""
+"Rilis ini menambahkan terjemahan dan perbaikan dalam tiga bulan dari "
+"kontributor KDE."
+
+#. annc-plasma-bugfix-worth-8
+#: i18n/en.yaml:401
+#, fuzzy
+#| msgid ""
+#| "This release adds five months' worth of new translations and fixes from "
+#| "KDE's contributors."
+msgid ""
+"This release adds five months’ worth of new translations and fixes from "
+"KDE’s contributors."
+msgstr ""
+"Rilis ini menambahkan terjemahan dan perbaikan dalam lima bulan dari "
+"kontributor KDE."
+
+#. annc-plasma-bugfix-worth-9
+#: i18n/en.yaml:403
+#, fuzzy
+#| msgid ""
+#| "This release adds six months' worth of new translations and fixes from "
+#| "KDE's contributors."
+msgid ""
+"This release adds six months’ worth of new translations and fixes from KDE’s "
+"contributors."
+msgstr ""
+"Rilis ini menambahkan terjemahan dan perbaikan dalam enam bulan dari "
+"kontributor KDE."
+
+#. annc-plasma-bugfix-last
+#: i18n/en.yaml:405
+msgid "The bugfixes are typically small but important and include:"
+msgstr "Perbaikan kutunya biasanya kecil tetapi penting dan termasuk:"
+
+#. compile-gear
+#: i18n/en.yaml:408
+msgid "Compiling KDE Gear"
+msgstr "Mengompilasikan KDE Gear"
+
+#. compile-gear-desc
+#. %1 version number, %2 link, %3 link
+#: i18n/en.yaml:410
+msgid ""
+"The complete source code for KDE Gear %1 may be [freely downloaded](%2). "
+"Instructions on compiling and installing are available from the [KDE Gear %1 "
+"Info Page](%3)."
+msgstr ""
+"Kode sumber lengkap untuk KDE Gear %1 dapat [diunduh secara bebas](%2). "
+"Instruksi dalam mengompilasi dan menginstal tersedia dari [Halaman Info KDE "
+"Gear %1](%3)."
+
+#. gear-changelog-link
+#: i18n/en.yaml:413
+msgid "Full changelog here"
+msgstr "Catatan perubahan lengkap di sini"
+
+#. gear-get-apps
+#: i18n/en.yaml:415
+msgid "Where to get KDE Apps"
+msgstr "Tempat untuk mendapatkan Aplikasi KDE"
+
+#. gear-available
+#. %1 version number
+#: i18n/en.yaml:417
+msgid ""
+"Although we fully support distributions that ship our software, KDE Gear %1 "
+"apps will also be available on these Linux app stores shortly:"
+msgstr ""
+"Meskipun kami sepenuhnya mendukung distribusi yang mengirimkan perangkat "
+"lunak kami, aplikasi KDE Gear %1 juga akan segera tersedia di toko aplikasi "
+"Linux:"
+
+#. gear-all-about-apps
+#. %1 link
+#: i18n/en.yaml:420
+#, fuzzy
+#| msgid ""
+#| "If you'd like to help us get more KDE applications into the app stores, "
+#| "support more app stores and get the apps better integrated into our "
+#| "development process, come say hi in our [All About the Apps chat room]"
+#| "(%1)."
+msgid ""
+"If you’d like to help us get more KDE applications into the app stores, "
+"support more app stores and get the apps better integrated into our "
+"development process, come say hi in our [All About the Apps chat room](%1)."
+msgstr ""
+"Jika Anda ingin membantu kami memasukkan lebih banyak aplikasi KDE ke dalam "
+"toko aplikasi, mendukung lebih banyak toko aplikasi, dan membuat aplikasi-"
+"aplikasi tersebut terintegrasi dengan lebih baik ke dalam proses "
+"pengembangan kami, sapa kami di [ruangan obrolan Semua Tentang Aplikasi](%1)."
+
+#. package-distro
+#: i18n/en.yaml:424
+msgid ""
+"Note that packages of this release might not be available on all "
+"distributions at the time of this announcement."
+msgstr ""
+"Dicatat bahwa rilis ini mungkin belum tersedia di semua distribusi pada "
+"waktu pengumuman ini."
+
+#. plasma.release.bar
+#. %1 version number
+#: i18n/en.yaml:427
+msgid "About Plasma %1"
+msgstr "Tentang Plasma %1"
+
+#. plasma.release.title
+#. %1 version number
+#: i18n/en.yaml:430
+msgid "Latest Release: Plasma %1"
+msgstr "Rilis Terkini: Plasma %1"
+
+#. plasma.connect.replay
+#: i18n/en.yaml:433
+msgid "Replay"
+msgstr "Putar Ulang"
+
+#. thanks.header1
+#. Title
+#: i18n/en.yaml:437
+msgid "Thank You"
+msgstr ""
+
+#. thanks.header2
+#. Subtitle
+#: i18n/en.yaml:440
+msgid "Thanks!"
+msgstr ""
+
+#. thanks.text
+#: i18n/en.yaml:443
+msgid ""
+"The work of the KDE Community is made possible thanks to contributions from "
+"KDE Community members, donors and corporations that collaborate with us. We "
+"want to thank those organizations that make significant donations of goods "
+"and services to KDE by publishing their names on this page."
+msgstr ""
+
+#. thanks.donations.header2.1
+#. Subtitle
+#: i18n/en.yaml:445
+#, fuzzy
+#| msgid "Donate Now"
+msgid "Donations"
+msgstr "Donasi Sekarang"
+
+#. thanks.donations.header2.2
+#. Subtitle
+#: i18n/en.yaml:448
+#, fuzzy
+#| msgid "Previous slide"
+msgid "Previous Donations"
+msgstr "Slide sebelumnya"
+
+#. thanks.organization.table.header.1
+#: i18n/en.yaml:451
+msgid "Organization"
+msgstr ""
+
+#. thanks.organization.table.header.2
+#: i18n/en.yaml:453
+msgid "Description"
+msgstr ""
+
+#. thanks.organization.table.header.3
+#: i18n/en.yaml:455
+msgid "Usage"
+msgstr ""
+
+#. thanks.organization.table.header.4
+#: i18n/en.yaml:457 i18n/en.yaml:677
+msgid "Date"
+msgstr ""
+
+#. thanks.footer.text
+#: i18n/en.yaml:459
+msgid ""
+"This page is made based on the policy as described in the [Thank You Policy]"
+"(https://ev.kde.org/rules/thankyou_policy/)."
+msgstr ""
+
+#. plasma.5.22.today
+#: i18n/en.yaml:462
+msgid "Today"
+msgstr "Hari ini"
+
+#. plasma.5.22.years
+#: i18n/en.yaml:464
+msgid "Years"
+msgstr "Tahun"
+
+#. plasma.5.22.months
+#: i18n/en.yaml:466
+msgid "Months"
+msgstr "Bulan"
+
+#. plasma.5.22.days
+#: i18n/en.yaml:468
+msgid "Days"
+msgstr "Hari"
+
+#. plasma.5.22.noevents
+#: i18n/en.yaml:470
+msgid "No events for today"
+msgstr "Tidak ada peristiwa untuk hari ini"
+
+#. plasma.5.22.events
+#: i18n/en.yaml:472
+msgid "Events"
+msgstr "Peristiwa"
+
+#. plasma.5.22.date
+#: i18n/en.yaml:474
+msgid "Friday 6 september 2021"
+msgstr "Jumat 6 september 2021"
+
+#. plasma-simple-powerful
+#: i18n/en.yaml:476
+msgid "Simple by default, Powerful when needed"
+msgstr "Sederhana secara baku, Berdaya ketika dibutuhkan"
+
+#. steam-deck
+#: i18n/en.yaml:479
+msgid "Steam Deck"
+msgstr "Steam Deck"
+
+#. steam-deck-desc
+#: i18n/en.yaml:481
+msgid ""
+"The Steam Deck is a portable console that runs the latest AAA games with the "
+"flexibility of a full PC."
+msgstr ""
+"Steam Deck adalah konsol portabel yang dapat memainkan permainan AAA terkini "
+"dengan fleksibilitas dari sebuah PC yang lengkap."
+
+#. get-it
+#: i18n/en.yaml:484
+msgid "Get it"
+msgstr "Dapatkan"
+
+#. fund-it
+#: i18n/en.yaml:486
+msgid "Fund it"
+msgstr "Danai"
+
+#. art-by
+#: i18n/en.yaml:488
+msgid "Art by"
+msgstr "Lukisan oleh"
+
+#. you-made-it
+#: i18n/en.yaml:490 i18n/en.yaml:550
+#, fuzzy
+#| msgid ""
+#| "<span class=\"blue\">You</span> Make <span class=\"blue\">KDE</span> "
+#| "Possible"
+msgid ""
+"<span class=\"blue\">Support</span> Good <span class=\"blue\">People</span>"
+msgstr ""
+"<span class=\"blue\">Anda</span> Membuat <span class=\"blue\">KDE</span> "
+"Terwujud"
+
+#. donate-now
+#: i18n/en.yaml:492
+#, fuzzy
+#| msgid "Donate Now"
+msgid "Donate"
+msgstr "Donasi Sekarang"
+
+#. gear-donation
+#: i18n/en.yaml:494
+msgid ""
+"You make KDE Gear possible with your support and donations. Help us keep "
+"improving and building apps by using the donation form."
+msgstr ""
+"Anda membuat KDE Gear terwujud karena dukungan dan donasi Anda. Bantu kami "
+"terus meningkatkan dan membangun aplikasi menggunakan formulir donasi."
+
+#. support-plasma6
+#: i18n/en.yaml:499
+#, fuzzy
+#| msgid "New Supporting Members"
+msgid "Become a Supporting Member"
+msgstr "Anggota Pendukung Baru"
+
+#. hall-of-fame
+#: i18n/en.yaml:501 i18n/en.yaml:530 i18n/en.yaml:559
+msgid "New Supporting Members"
+msgstr "Anggota Pendukung Baru"
+
+#. plasma6member-goal1
+#: i18n/en.yaml:503
+msgid "Members: 500"
+msgstr "Anggota: 500"
+
+#. plasma6member-goal2
+#: i18n/en.yaml:505
+msgid "550"
+msgstr "550"
+
+#. plasma6member-goal3
+#: i18n/en.yaml:507
+msgid "650"
+msgstr "650"
+
+#. plasma6member-countdown
+#. %1 %2 %3 %4 numbers of days, hours, minutes, seconds
+#: i18n/en.yaml:509 i18n/en.yaml:538 i18n/en.yaml:570
+msgid "%1d %2h %3m %4s"
+msgstr "%1h %2j %3m %4d"
+
+#. plasma6member-expired
+#: i18n/en.yaml:512 i18n/en.yaml:541 i18n/en.yaml:573
+msgid "EXPIRED"
+msgstr "KEDALUWARSA"
+
+#. plasma6member-progress
+#. %1 a number
+#: i18n/en.yaml:514
+msgid "%1 members<sup>*</sup>"
+msgstr "%1 anggota<sup>*</sup>"
+
+#. plasma6member-updated
+#: i18n/en.yaml:517 i18n/en.yaml:546 i18n/en.yaml:578
+msgid "<sup>*</sup>Updated daily."
+msgstr "<sup>*</sup>Diperbarui setiap hari."
+
+#. img.comparaison.before
+#: i18n/en.yaml:520
+msgid "Before"
+msgstr ""
+
+#. img.comparaison.after
+#: i18n/en.yaml:523
+msgid "After"
+msgstr ""
+
+#. support-yearend2024
+#: i18n/en.yaml:528
+msgid "Support Good People!"
+msgstr ""
+
+#. yearend2024-goal1
+#: i18n/en.yaml:532
+msgid "€30000"
+msgstr ""
+
+#. yearend2024-goal2
+#: i18n/en.yaml:534
+msgid "€50000"
+msgstr ""
+
+#. yearend2024-goal3
+#: i18n/en.yaml:536
+msgid "€70000"
+msgstr ""
+
+#. yearend2024-progress
+#. %1 a number
+#: i18n/en.yaml:543
+msgid "€%1"
+msgstr ""
+
+#. yearend2024_title_hw
+#: i18n/en.yaml:548 i18n/en.yaml:584
+#, fuzzy
+#| msgid ""
+#| "<span class=\"blue\">You</span> Make <span class=\"blue\">KDE</span> "
+#| "Possible"
+msgid ""
+"<span class=\"red\">Halloween</span> Fundraiser <span class=\"red\">Special</"
+"span>"
+msgstr ""
+"<span class=\"blue\">Anda</span> Membuat <span class=\"blue\">KDE</span> "
+"Terwujud"
+
+#. yearend2024_title_bf
+#: i18n/en.yaml:552 i18n/en.yaml:586
+#, fuzzy
+#| msgid ""
+#| "<span class=\"blue\">You</span> Make <span class=\"blue\">KDE</span> "
+#| "Possible"
+msgid ""
+"<span class=\"blue\">Blue</span> Friday is <span class=\"blue\">Back!</span>"
+msgstr ""
+"<span class=\"blue\">Anda</span> Membuat <span class=\"blue\">KDE</span> "
+"Terwujud"
+
+#. support-yearend2025
+#: i18n/en.yaml:557
+msgid "Let's reach the inflection point!"
+msgstr ""
+
+#. yearend2025-goal1
+#. Formatted EUR amount
+#: i18n/en.yaml:561 i18n/en.yaml:597
+msgid "€50K"
+msgstr ""
+
+#. yearend2025-goal2
+#. Formatted EUR amount
+#: i18n/en.yaml:564 i18n/en.yaml:600
+msgid "€75K"
+msgstr ""
+
+#. yearend2025-goal3
+#. Formatted EUR amount
+#: i18n/en.yaml:567 i18n/en.yaml:603
+msgid "€100K"
+msgstr ""
+
+#. yearend2025-progress
+#. Formatted EUR amount
+#: i18n/en.yaml:575 i18n/en.yaml:606 i18n/en.yaml:656
+msgid "%1"
+msgstr ""
+
+#. yearend2025_title
+#: i18n/en.yaml:580
+msgid "<span class=\"blue\">Happy Birthday</span> to us"
+msgstr ""
+
+#. yearend2025_title_p65
+#: i18n/en.yaml:582
+msgid "Help us reach the <span class=\"blue\">inflection point</span>"
+msgstr ""
+
+#. app-name
+#: i18n/en.yaml:588
+msgid "App"
+msgstr ""
+
+#. adopter-count
+#: i18n/en.yaml:590
+msgid "Adopters"
+msgstr ""
+
+#. yearend2026
+#: i18n/en.yaml:595
+msgid "<span class=\"blue\">30 years</span><br /> and 30 more"
+msgstr ""
+
+#. yearend2026-banner
+#: i18n/en.yaml:609
+msgid "Help fund KDE's next 30 years!"
+msgstr ""
+
+#. yearend2026-join-in
+#: i18n/en.yaml:611
+msgid "Fund the future"
+msgstr ""
+
+#. yearend2026-doco-title
+#: i18n/en.yaml:613
+msgid "The KDE Documentary — A story of Free Software Underdogs"
+msgstr ""
+
+#. yearend2026-doco-details
+#: i18n/en.yaml:615
+msgid "The KDE documentary premieres here on Oct. 14, at 19:30 CEST."
+msgstr ""
+
+#. endof10.text
+#: i18n/en.yaml:621
+msgid ""
+"You can continue using your old computer after the end of Windows 10 support."
+msgstr ""
+
+#. endof10.visit
+#: i18n/en.yaml:623
+msgid "Visit endof10.org"
+msgstr ""
+
+#. anniversary30_title
+#: i18n/en.yaml:631
+msgid "<span class=\"blue\">KDE</span> at 30"
+msgstr ""
+
+#. anniversary30_intro
+#: i18n/en.yaml:633
+msgid ""
+"After three decades, KDE continues to deliver on its promise of <a href="
+"\"https://community.kde.org/KDE/Vision\">a world in which everyone has "
+"control over their digital life and enjoys freedom and privacy</a>. To "
+"continue to do that, we need your help…"
+msgstr ""
+
+#. anniversary30_supporting_Members
+#: i18n/en.yaml:635
+#, fuzzy
+#| msgid "New Supporting Members"
+msgid "Supporting Members"
+msgstr "Anggota Pendukung Baru"
+
+#. join-in
+#: i18n/en.yaml:637
+msgid "Join the fun here"
+msgstr ""
+
+#. anniversary-30-banner
+#: i18n/en.yaml:639
+msgid "KDE is turning 30 this year!"
+msgstr ""
+
+#. check-back-title
+#: i18n/en.yaml:641
+msgid "CHECK BACK OFTEN!"
+msgstr ""
+
+#. check-back-body
+#: i18n/en.yaml:643
+msgid ""
+"We will be updating this page frequently with new content, exciting 30th "
+"Anniversary news, things you can participate in, updated merch you can get, "
+"and much more!"
+msgstr ""
+
+#. become_a_member
+#: i18n/en.yaml:645
+#, fuzzy
+#| msgid "New Supporting Members"
+msgid "Become a Member"
+msgstr "Anggota Pendukung Baru"
+
+#. 1_time_donation
+#: i18n/en.yaml:647
+#, fuzzy
+#| msgid "Donate Now"
+msgid "1-time Donation"
+msgstr "Donasi Sekarang"
+
+#. membershipdrive-goal1
+#: i18n/en.yaml:652
+msgid "1500"
+msgstr ""
+
+#. membershipdrive-goal2
+#: i18n/en.yaml:654
+msgid "1996"
+msgstr ""
+
+#. newmembers
+#: i18n/en.yaml:658
+msgid "%1 NEW MEMBERS HAVE ALREADY SIGNED UP!"
+msgstr ""
+
+#. adopt-an-app-headline
+#: i18n/en.yaml:660
+#, fuzzy
+#| msgid "New Supporting Members"
+msgid "Become a Member, Adopt an App"
+msgstr "Anggota Pendukung Baru"
+
+#. adopt-an-app-body
+#: i18n/en.yaml:662
+msgid ""
+"To adopt an app, press the yellow \"<b>Membership</b>\" button to skip to "
+"the membership form. Click on the \"<b>Write us a comment</b>\" checkbox and "
+"<b>add your name</b> (or the nickname or handle you would like us to use) "
+"and <b>the name of the app</b> you would like to adopt to the comment.</"
+"p><p>When you adopt an app, your donation goes to KDE e.V. and we will "
+"allocate it to funding activities, paying salaries, helping contributors "
+"with travel expenses, etc. according to the communities needs. We will add "
+"your name to the projectʼs home page in recognition for your support for the "
+"duration of your membership."
+msgstr ""
+
+#. adopt-an-app-membership
+#: i18n/en.yaml:664
+#, fuzzy
+#| msgid "Members: 500"
+msgid "Membership"
+msgstr "Anggota: 500"
+
+#. adopt-an-app-outro
+#: i18n/en.yaml:666
+msgid ""
+" Click on the blue button to find out more about each app.</p><p>Check back "
+"often! We will be adding new apps as these get adopted. "
+msgstr ""
+
+#. adopt-an-app-adopted-headline
+#: i18n/en.yaml:668
+msgid "Adopted Apps"
+msgstr ""
+
+#. adopt-an-app-adopted-body
+#: i18n/en.yaml:670
+msgid ""
+"These apps have already been adopted. Press the blue button to find out more "
+"about each app."
+msgstr ""
+
+#. events.location
+#: i18n/en.yaml:675
+#, fuzzy
+#| msgid "Donate Now"
+msgid "Location"
+msgstr "Donasi Sekarang"
+
+#. events.moreinfo
+#: i18n/en.yaml:679
+#, fuzzy
+#| msgid "Donate Now"
+msgid "Information"
+msgstr "Donasi Sekarang"
+
+#. events.moreinfo.wiki
+#: i18n/en.yaml:681
+msgid "Wiki:"
+msgstr ""
+
+#. events.moreinfo.eventUrl
+#: i18n/en.yaml:683
+msgid "Webpage:"
+msgstr ""
+
+#. events.moreinfo.eventType
+#: i18n/en.yaml:685
+msgid "Type:"
+msgstr ""
+
+#. events.previous
+#: i18n/en.yaml:687
+msgid ""
+"You can find previous events <a href=\"/community/calendar-past\">here</a>."
+msgstr ""
+
+#. events.next
+#: i18n/en.yaml:689
+msgid "You can find the next events <a href=\"/community/calendar\">here</a>."
+msgstr ""
+
+#, fuzzy
+#~| msgid "KFocus"
+#~ msgid "Kubuntu"
+#~ msgstr "KFocus"
+
+#, fuzzy
+#~| msgid "KDE Eco"
+#~ msgid "KDE neon"
+#~ msgstr "KDE Eco"
+
+#, fuzzy
+#~| msgid "KFocus"
+#~ msgid "Kubuntu Focus Systems"
+#~ msgstr "KFocus"
+
+#, fuzzy
+#~| msgid "Pinebook Pro"
+#~ msgid "InfinityBook Pro"
+#~ msgstr "Pinebook Pro"
+
+#~ msgid "The KDE Community"
+#~ msgstr "Komunitas KDE"
+
+#~ msgid ""
+#~ "Our community has developed a wide variety of applications for "
+#~ "communication, work, education and entertainment. We have a strong focus "
+#~ "on finding innovative solutions to old and new problems, creating a "
+#~ "vibrant, open atmosphere for experimentation."
+#~ msgstr ""
+#~ "Komunitas kami telah mengembangkan berbagai macam aplikasi untuk "
+#~ "komunikasi, pekerjaan, pendidikan, dan hiburan. Kami memiliki fokus yang "
+#~ "kuat untuk menemukan solusi inovatif untuk masalah lama dan baru, "
+#~ "menciptakan suasana yang dinamis dan terbuka untuk eksperimen."
+
+#~ msgid ""
+#~ "The Pinebook Pro is an affordable ARM powered laptop. It is modular and "
+#~ "hackable in a way that only an Open Source project can be."
+#~ msgstr ""
+#~ "Pinebook Pro adalah laptop terjangkau yang diberdayakan oleh ARM. "
+#~ "Pinebook Pro itu modular dan dapat disesuaikan dengan cara yang hanya "
+#~ "dapat dilakukan oleh proyek Sumber Terbuka."
+
+#~ msgid ""
+#~ "The Kubuntu Focus laptop is a high-powered, workflow-focused laptop which "
+#~ "ships with Kubuntu installed."
+#~ msgstr ""
+#~ "Laptop Kubuntu Focus adalah laptop bertenaga tinggi yang berfokus pada "
+#~ "alur kerja yang memiliki dengan Kubuntu."
+
+#~ msgid "Kdevelop"
+#~ msgstr "KDevelop"
+
+#~ msgid ""
+#~ "Get creative and draw beautiful artwork with Krita. A professional grade "
+#~ "painting application."
+#~ msgstr ""
+#~ "Berkreatif dan gambar karya seni yang indah dengan Krita. Sebuah aplikasi "
+#~ "lukis berkelas profesional."
+
+#~ msgid ""
+#~ "Kdenlive allows you to edit your videos and add special effects and "
+#~ "transitions."
+#~ msgstr ""
+#~ "Kdenlive memungkinkan Anda untuk mengedit video Anda, dan menambahkan "
+#~ "efek khusus dan transisi."
+
+#~ msgid ""
+#~ "Handle all your emails, calendars and contacts within a single window "
+#~ "with Kontact."
+#~ msgstr ""
+#~ "Tangani semua email, kalender, dan kontak Anda dalam satu jendela dengan "
+#~ "Kontact."
+
+#~ msgid ""
+#~ "FREE, open source and cross-platform Data Visualization and Analysis "
+#~ "software accessible to everyone."
+#~ msgstr ""
+#~ "Perangkat lunak visualisasi dan analisis data BEBAS, sumber terbuka dan "
+#~ "lintas platform tersedia bagi semua orang."
+
+#~ msgid "Support Plasma 6!"
+#~ msgstr "Dukung Plasma 6!"
+
+#~ msgid ""
+#~ "<span class=\"blue\">You</span> Make <span class=\"blue\">KDE</span> "
+#~ "Possible"
+#~ msgstr ""
+#~ "<span class=\"blue\">Anda</span> Membuat <span class=\"blue\">KDE</span> "
+#~ "Terwujud"
+
+#~ msgid "Group photo of LaKademy 2018"
+#~ msgstr "Foto grup LaKademy 2018"
+
+#~ msgid "Salvador, Brazil"
+#~ msgstr "Salvador, Brasil"
+
+#~ msgid "Plasma Sprint"
+#~ msgstr "Sprint Plasma"
+
+#~ msgid "Augsburg, Germany"
+#~ msgstr "Augsburg, Jerman"
+
+#~ msgid "Paris, France"
+#~ msgstr "Paris, Prancis"
+
+#~ msgid "Google Summer of Code Students"
+#~ msgstr "Siswa Google Summer of Code"
+
+#~ msgid "KDE GSoC students group photo"
+#~ msgstr "Foto grup siswa GSoC KDE"
+
+#~ msgid "Florianopolis, Brazil"
+#~ msgstr "Florianopolis, Brasil"
+
+#~ msgid "KDE Connect Sprint"
+#~ msgstr "Sprint KDE Connect"
+
+#~ msgid "Barcelona"
+#~ msgstr "Barcelona"
+
+#~ msgid "England"
+#~ msgstr "Inggris Raya"
+
+#~ msgid "Brazil"
+#~ msgstr "Brasil"
+
+#~ msgid "Prague"
+#~ msgstr "Prague"
+
+#~ msgid "Goal: 500 members"
+#~ msgstr "Tujuan: 500 anggota"
+
+#~ msgid "Image of BMUV/UBA"
+#~ msgstr "Gambar BMUV/UBA"

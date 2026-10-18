@@ -1,0 +1,416 @@
+# Wantoyo <wantoyek@gmail.com>, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-11-17 16:23+0000\n"
+"PO-Revision-Date: 2020-02-24 08:28+0700\n"
+"Last-Translator: Wantoyo <wantoyek@gmail.com>\n"
+"Language-Team: Indonesian <kde-i18n-doc@kde.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: containments/homescreens/folio/package/metadata.json
+msgctxt "Name"
+msgid "Folio"
+msgstr ""
+
+#: containments/homescreens/halcyon/package/metadata.json
+msgctxt "Name"
+msgid "Halcyon"
+msgstr ""
+
+#: containments/panel/package/metadata.json
+msgctxt "Name"
+msgid "Phone Panel"
+msgstr "Panel Ponsel"
+
+#: containments/taskpanel/package/metadata.json
+msgctxt "Name"
+msgid "Phone Task panel"
+msgstr "Panel Task Ponsel"
+
+#: kcms/mobileshell/kcm_mobileshell.json
+msgctxt "Name"
+msgid "Shell"
+msgstr ""
+
+#: quicksettings/airplanemode/metadata.json
+msgctxt "Name"
+msgid "Airplane Mode"
+msgstr ""
+
+#: quicksettings/audio/metadata.json
+msgctxt "Name"
+msgid "Audio"
+msgstr ""
+
+#: quicksettings/battery/metadata.json
+msgctxt "Name"
+msgid "Battery"
+msgstr ""
+
+#: quicksettings/bluetooth/metadata.json
+msgctxt "Name"
+msgid "Bluetooth"
+msgstr ""
+
+#: quicksettings/caffeine/metadata.json
+msgctxt "Name"
+msgid "Caffeine"
+msgstr ""
+
+#: quicksettings/donotdisturb/metadata.json
+msgctxt "Name"
+msgid "Do Not Disturb"
+msgstr ""
+
+#: quicksettings/flashlight/package/metadata.json
+msgctxt "Name"
+msgid "Flashlight"
+msgstr ""
+
+#: quicksettings/keyboardtoggle/metadata.json
+msgctxt "Name"
+msgid "Virtual Keyboard Toggle"
+msgstr ""
+
+#: quicksettings/mobiledata/metadata.json
+msgctxt "Name"
+msgid "Mobile Data"
+msgstr ""
+
+#: quicksettings/nightcolor/package/metadata.json
+msgctxt "Name"
+msgid "Night Color"
+msgstr ""
+
+#: quicksettings/powermenu/package/metadata.json
+msgctxt "Name"
+msgid "Power Menu"
+msgstr ""
+
+#: quicksettings/record/package/metadata.json
+msgctxt "Name"
+msgid "Record Screen"
+msgstr ""
+
+#: quicksettings/screenrotation/package/metadata.json
+msgctxt "Name"
+msgid "Screen rotation"
+msgstr ""
+
+#: quicksettings/screenshot/package/metadata.json
+msgctxt "Name"
+msgid "Screenshot"
+msgstr ""
+
+#: quicksettings/settingsapp/metadata.json
+msgctxt "Name"
+msgid "Settings"
+msgstr ""
+
+#: quicksettings/wifi/metadata.json
+msgctxt "Name"
+msgid "Wi-Fi"
+msgstr ""
+
+#: shell/metadata.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Plasma Mobile by KDE"
+msgctxt "Name"
+msgid "Plasma Mobile"
+msgstr "Plasma Mobile oleh KDE"
+
+#: containments/homescreens/folio/package/metadata.json
+msgctxt "Description"
+msgid "Mobile homescreen with a focus on customizability."
+msgstr ""
+
+#: containments/homescreens/halcyon/package/metadata.json
+msgctxt "Description"
+msgid "A mobile homescreen focused on simplicity and ease-of-use."
+msgstr ""
+
+#: containments/panel/package/metadata.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Plasma Mobile"
+msgctxt "Description"
+msgid "Top panel for Plasma Mobile"
+msgstr "Plasma Mobile"
+
+#: containments/taskpanel/package/metadata.json
+msgctxt "Description"
+msgid "Navigation panel for Plasma Mobile"
+msgstr ""
+
+#: kcms/mobileshell/kcm_mobileshell.json
+msgctxt "Description"
+msgid "Configure the system shell"
+msgstr ""
+
+#: quicksettings/airplanemode/metadata.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Plasma Mobile"
+msgctxt "Description"
+msgid "Airplane mode quick setting for Plasma Mobile"
+msgstr "Plasma Mobile"
+
+#: quicksettings/audio/metadata.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Plasma Mobile"
+msgctxt "Description"
+msgid "Audio quick setting for Plasma Mobile"
+msgstr "Plasma Mobile"
+
+#: quicksettings/battery/metadata.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Plasma Mobile"
+msgctxt "Description"
+msgid "Battery quick setting for Plasma Mobile"
+msgstr "Plasma Mobile"
+
+#: quicksettings/bluetooth/metadata.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Plasma Mobile"
+msgctxt "Description"
+msgid "Bluetooth quick setting for Plasma Mobile"
+msgstr "Plasma Mobile"
+
+#: quicksettings/caffeine/metadata.json
+msgctxt "Description"
+msgid "Quick setting to suspend system sleep for Plasma Mobile"
+msgstr ""
+
+#: quicksettings/donotdisturb/metadata.json
+msgctxt "Description"
+msgid "Quick setting to toggle do not disturb mode for Plasma Mobile"
+msgstr ""
+
+#: quicksettings/flashlight/package/metadata.json
+msgctxt "Description"
+msgid "Flashlight quick setting for Plasma Mobile"
+msgstr ""
+
+#: quicksettings/keyboardtoggle/metadata.json
+msgctxt "Description"
+msgid "Quick setting for keyboard toggle for Plasma Mobile"
+msgstr ""
+
+#: quicksettings/mobiledata/metadata.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Plasma Mobile"
+msgctxt "Description"
+msgid "Location quick setting for Plasma Mobile"
+msgstr "Plasma Mobile"
+
+#: quicksettings/nightcolor/package/metadata.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Plasma Mobile"
+msgctxt "Description"
+msgid "Night color quick setting for Plasma Mobile"
+msgstr "Plasma Mobile"
+
+#: quicksettings/powermenu/package/metadata.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Plasma Mobile"
+msgctxt "Description"
+msgid "Power menu quick setting for Plasma Mobile"
+msgstr "Plasma Mobile"
+
+#: quicksettings/record/package/metadata.json
+msgctxt "Description"
+msgid "Screen recording quick setting for Plasma Mobile"
+msgstr ""
+
+#: quicksettings/screenrotation/package/metadata.json
+msgctxt "Description"
+msgid "Screen rotation quick setting for Plasma Mobile"
+msgstr ""
+
+#: quicksettings/screenshot/package/metadata.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Plasma Mobile"
+msgctxt "Description"
+msgid "Screenshot quick setting for Plasma Mobile"
+msgstr "Plasma Mobile"
+
+#: quicksettings/settingsapp/metadata.json
+msgctxt "Description"
+msgid "Settings application quick setting for Plasma Mobile"
+msgstr ""
+
+#: quicksettings/wifi/metadata.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Plasma Mobile"
+msgctxt "Description"
+msgid "Wi-Fi quick setting for Plasma Mobile"
+msgstr "Plasma Mobile"
+
+#: shell/metadata.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Plasma shell for phones"
+msgctxt "Description"
+msgid "Plasma shell for mobile devices"
+msgstr "Shell Plasma untuk ponsel"
+
+#: containments/homescreens/folio/package/metadata.json
+#: containments/panel/package/metadata.json
+#: containments/taskpanel/package/metadata.json
+msgctxt "Authors Name"
+msgid "Marco Martin"
+msgstr ""
+
+#: containments/homescreens/halcyon/package/metadata.json
+#: kcms/mobileshell/kcm_mobileshell.json quicksettings/audio/metadata.json
+#: quicksettings/battery/metadata.json quicksettings/bluetooth/metadata.json
+#: quicksettings/caffeine/metadata.json
+#: quicksettings/donotdisturb/metadata.json
+#: quicksettings/flashlight/package/metadata.json
+#: quicksettings/keyboardtoggle/metadata.json
+#: quicksettings/mobiledata/metadata.json
+#: quicksettings/powermenu/package/metadata.json
+#: quicksettings/screenrotation/package/metadata.json
+#: quicksettings/screenshot/package/metadata.json
+#: quicksettings/settingsapp/metadata.json quicksettings/wifi/metadata.json
+#: shell/metadata.json
+msgctxt "Authors Name"
+msgid "Devin Lin"
+msgstr ""
+
+#: quicksettings/airplanemode/metadata.json
+msgctxt "Authors Name"
+msgid "Bhushan Shah"
+msgstr ""
+
+#: quicksettings/nightcolor/package/metadata.json
+msgctxt "Authors Name"
+msgid "Aleix Pol"
+msgstr ""
+
+#: quicksettings/record/package/metadata.json
+msgctxt "Authors Name"
+msgid "Aleix Pol i Gonzalez"
+msgstr ""
+
+#: kcms/mobileshell/kcm_mobileshell.json
+msgctxt "X-KDE-Keywords"
+msgid "system,shell,panel"
+msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Phone"
+#~ msgstr "Ponsel"
+
+#~ msgctxt "Name"
+#~ msgid "Phone Homescreen"
+#~ msgstr "Homescreen Ponsel"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Plasma Mobile"
+#~ msgctxt "Name"
+#~ msgid "Plasma Mobile (Development)"
+#~ msgstr "Plasma Mobile"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma workspace for smartphones"
+#~ msgstr "Kerangka kerja Plasma untuk smartphone"
+
+#~ msgctxt "Keywords"
+#~ msgid "Phone, Workspace, Look and Feel"
+#~ msgstr "Ponsel, Kerangkakerja, Nuansa dan Suasana"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Plasma Phone"
+#~ msgctxt "Name"
+#~ msgid "Plasma"
+#~ msgstr "Ponsel Plasma"
+
+#~ msgctxt "Name"
+#~ msgid "Plasma Phone"
+#~ msgstr "Ponsel Plasma"
+
+#~ msgctxt "Name"
+#~ msgid "Phone Activities"
+#~ msgstr "Aktivitas Ponsel"
+
+#~ msgctxt "Comment"
+#~ msgid "Activity switcher for the phone"
+#~ msgstr "Pengalih aktivitas untuk ponsel"
+
+#~ msgctxt "Name"
+#~ msgid "Search And Run"
+#~ msgstr "Cari Dan Jalankan"
+
+#~ msgctxt "Comment"
+#~ msgid "Search and run Applications and services"
+#~ msgstr "Cari dan jalankan Aplikasi dan layanan"
+
+#~ msgctxt "Name"
+#~ msgid "Touch Test"
+#~ msgstr "Uji Sentuh"
+
+#~ msgctxt "GenericName"
+#~ msgid "Terminal"
+#~ msgstr "Terminal"
+
+#~ msgctxt "Name"
+#~ msgid "Clock"
+#~ msgstr "Jam"
+
+#~ msgctxt "Comment"
+#~ msgid "Time displayed in a digital format"
+#~ msgstr "Waktu ditampilkan dalam format digital"
+
+#~ msgctxt "Name"
+#~ msgid "Phone multitask"
+#~ msgstr "Multitask ponsel"
+
+#~ msgctxt "Comment"
+#~ msgid "Multitasking user interface for Phone devices"
+#~ msgstr "Antarmuka pengguna multitasking untuk perangkat Ponsel"
+
+#~ msgctxt "Name"
+#~ msgid "Plasma Phone Lockers"
+#~ msgstr "Pengunci Ponsel Plasma"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma phone dialer"
+#~ msgstr "Pendial ponsel Plasma"
+
+#~ msgctxt "Comment"
+#~ msgid "Phone"
+#~ msgstr "Ponsel"
+
+#~ msgctxt "Name"
+#~ msgid "Missed Call"
+#~ msgstr "Miskol"
+
+#~ msgctxt "Comment"
+#~ msgid "A call has been missed"
+#~ msgstr "Sebuah panggilan yang tidak terjawab"
+
+#~ msgctxt "Name"
+#~ msgid "Ringing"
+#~ msgstr "Berdering"
+
+#~ msgctxt "Comment"
+#~ msgid "The phone is ringing"
+#~ msgstr "Ponsel berdering"

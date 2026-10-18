@@ -1,0 +1,64 @@
+#
+# Translators:
+# Budiman Jojo <budimanjojo@gmail.com>, 2015.
+# Rendiyono Wahyu Saputro <rendi.7936@gmail.com>, 2015.
+# wantoyo <inactive+wantoyo@transifex.com>, 2015-2016.
+# Wantoyo <wantoyek@gmail.com>, 2017, 2018, 2019.
+# Linerly <linerly@protonmail.com>, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: KDE Frameworks 5 Applications\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-03-02 03:44+0000\n"
+"PO-Revision-Date: 2023-02-17 19:06+0700\n"
+"Last-Translator: Linerly <linerly@protonmail.com>\n"
+"Language-Team: Indonesian <kde-i18n-doc@kde.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 22.12.2\n"
+
+#: plasma/plasma-applet-kscreen.desktop.cmake:2
+msgctxt "Name"
+msgid "Quick Display Configuration"
+msgstr "Konfigurasi Layar Cepat"
+
+#: plasma/plasma-applet-kscreen.desktop.cmake:50
+msgctxt "Comment"
+msgid "Quick configuration of a new display"
+msgstr "Konfigurasi cepat dari sebuah layar baru"
+
+#: plasmoid/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Display Configuration"
+msgstr "Konfigurasi Layar"
+
+#: plasmoid/package/metadata.desktop:51
+msgctxt "Comment"
+msgid "Quickly switch between screen layouts and presentation mode"
+msgstr "Beralih selekasnya antara tata letak layar dan mode presentasi"
+
+#~ msgctxt "Name"
+#~ msgid "KScreen 2"
+#~ msgstr "KScreen 2"
+
+#~ msgctxt "Comment"
+#~ msgid "Screen management"
+#~ msgstr "Pengelolaan layar"
+
+#~ msgctxt "Comment"
+#~ msgid "Manage and configure monitors and displays"
+#~ msgstr "Kelola dan konfigurasi monitor dan displai"
+
+#~ msgctxt "Name"
+#~ msgid "Displays"
+#~ msgstr "Displai"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid ""
+#~ "display,monitor,scale,scaling,resolution,orientation,outputs,screen,"
+#~ "refresh"
+#~ msgstr ""
+#~ "displai,monitor,skala,penyekalaan,resolusi,orientasi,output,layar,segarkan"

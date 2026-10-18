@@ -1,0 +1,186 @@
+# SPDX-FileCopyrightText: 2016, 2017, 2018, 2019, 2021, 2022, 2024 Wantoyo <wantoyek@gmail.com>
+# Linerly <linerly@protonmail.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-11-17 16:22+0000\n"
+"PO-Revision-Date: 2024-09-01 23:18+0700\n"
+"Last-Translator: Wantoyèk <wantoyek@gmail.com>\n"
+"Language-Team: https://t.me/Localizations_KDE_Indonesia\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 24.08.2\n"
+
+#: discover/org.kde.discover.desktop.cmake:2
+#: libdiscover/backends/FlatpakBackend/org.kde.discover-flatpak.desktop:2
+#: notifier/org.kde.discover.notifier.desktop.cmake:2
+msgctxt "Name"
+msgid "Discover"
+msgstr "Discover"
+
+#: discover/org.kde.discover.desktop.cmake:64
+msgctxt "GenericName"
+msgid "Software Center"
+msgstr "Pusat Perangkat Lunak"
+
+#: discover/org.kde.discover.desktop.cmake:119
+msgctxt "Keywords"
+msgid ""
+"program;software;repository;package;add;install;uninstall;remove;update;apps;"
+"applications;games;flatpak;snap;addons;add-ons;firmware;"
+msgstr ""
+"program;perangkat lunak;repositori;paket;tambah;instal;uninstal;hapus;"
+"hilangkan;app;aplikasi;game;permainan;flatpak;snap;pernik;tambahan;firmware;"
+
+#: discover/org.kde.discover.desktop.cmake:162
+msgctxt "Name"
+msgid "See Available Updates"
+msgstr "Lihat Pembaruan Tersedia"
+
+#: libdiscover/backends/SnapBackend/libsnapclient/org.kde.discover.libsnapclient.actions:2
+msgctxt "Name"
+msgid "Snap login action"
+msgstr "Tindakan login snap"
+
+#: libdiscover/backends/SnapBackend/libsnapclient/org.kde.discover.libsnapclient.actions:54
+msgctxt "Description"
+msgid "Allows snap front-ends to log in"
+msgstr "Izinkan front-end snap untuk login"
+
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:4
+msgctxt "Comment"
+msgid "Discover"
+msgstr "Discover"
+
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:60
+msgctxt "Name"
+msgid "Updates Are Available"
+msgstr "Pembaruan Telah Tersedia"
+
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:114
+msgctxt "Comment"
+msgid "Updates Available"
+msgstr "Tersedia Pembaruan"
+
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:171
+msgctxt "Name"
+msgid "Successful Offline Update"
+msgstr "Pembaruan Luring Berhasil"
+
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:217
+msgctxt "Comment"
+msgid "System updated successfully"
+msgstr "Sistem berhasil diperbarui"
+
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:267
+msgctxt "Name"
+msgid "Failed Offline Update"
+msgstr "Pembaruan Luring Gagal"
+
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:313
+msgctxt "Comment"
+msgid "System update failed"
+msgstr "Pembaruan sistem gagal"
+
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:363
+msgctxt "Name"
+msgid "Repair Started"
+msgstr "Perbaikan Dimulai"
+
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:405
+msgctxt "Name"
+msgid "Repaired Successfully"
+msgstr "Berhasil Memperbaiki"
+
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:448
+msgctxt "Name"
+msgid "Repair Failed"
+msgstr "Perbaikan Gagal"
+
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:494
+msgctxt "Comment"
+msgid "Repair failure after offline update"
+msgstr "Perbaiki kesalahan setelah pembaruan luring"
+
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:544
+msgctxt "Name"
+msgid "Restart is Required"
+msgstr "Pemulaian ulang Dibutuhkan"
+
+#~ msgctxt "Name"
+#~ msgid "Software Update"
+#~ msgstr "Pembaruan Perangkat Lunak"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure software updates integration"
+#~ msgctxt "Comment"
+#~ msgid "Configure software update behavior"
+#~ msgstr "Konfigurasi integrasi pembaruan perangkat lunak"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Updates"
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "updates"
+#~ msgstr "Pembaruan"
+
+#~ msgctxt "Name"
+#~ msgid "Kate Snippets"
+#~ msgstr "Kate Snippets"
+
+#~ msgctxt "Comment"
+#~ msgid "Helps you keep your system up to date"
+#~ msgstr "Membantu kamu menjaga komputermu selalu terbarukan"
+
+#~ msgctxt "Name"
+#~ msgid "Dummy"
+#~ msgstr "Dumi"
+
+#~ msgctxt "GenericName"
+#~ msgid "Dummy"
+#~ msgstr "Dumi"
+
+#~ msgctxt "Comment"
+#~ msgid "It's some dummy backend for testing purposes"
+#~ msgstr "Beberapa backend dumi untuk tujuan pengujian."
+
+#~ msgctxt "Comment"
+#~ msgid "Install and browse applications in PackageKit"
+#~ msgstr "Pasang dan jelajahi aplikasi di PackageKit"
+
+#~ msgctxt "Name"
+#~ msgid "PackageKit Support"
+#~ msgstr "Dukungan PackageKit"
+
+#~ msgctxt "GenericName"
+#~ msgid "Applications Backend"
+#~ msgstr "Applications Backend"
+
+#~ msgctxt "Comment"
+#~ msgid "Muon Application Backend Notifier"
+#~ msgstr "Pemberitahu Backend Aplikasi Muon"
+
+#~ msgctxt "Name"
+#~ msgid "Upgrade Available"
+#~ msgstr "Pembaruan Tersedia"
+
+#~ msgctxt "Comment"
+#~ msgid "A new version of Kubuntu is available"
+#~ msgstr "Sebuah versi baru Kubuntu telah tersedia"
+
+#~ msgctxt "Comment"
+#~ msgid "Install and browse applications in APT"
+#~ msgstr "Pasang dan jelajahi aplikasi di APT"
+
+#~ msgctxt "Name"
+#~ msgid "Applications Backend"
+#~ msgstr "Backend Aplikasi"
+
+#~ msgctxt "GenericName"
+#~ msgid "APT Support"
+#~ msgstr "APT Support"

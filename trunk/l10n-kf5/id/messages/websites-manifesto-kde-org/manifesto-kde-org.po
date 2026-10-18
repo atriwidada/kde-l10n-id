@@ -1,0 +1,338 @@
+#
+# Arif Budiman <arifpedia@gmail.com>, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-manifesto-kde-org 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-12-22 02:01+0000\n"
+"PO-Revision-Date: 2023-07-22 13:53+0700\n"
+"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
+"Language-Team: Indonesian <kde-i18n-doc@kde.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#: config.yaml:0
+msgid "KDE Manifesto"
+msgstr "Manifesto KDE"
+
+#: config.yaml:0
+msgid ""
+"We are a community of technologists, designers, writers and advocates who "
+"work to ensure freedom for all people through our software. These are our "
+"values and principles."
+msgstr ""
+"Kami adalah komunitas yang terdiri dari para pakar teknologi, perancang, "
+"penulis, dan advokat yang bekerja untuk memastikan kebebasan bagi semua "
+"orang melalui perangkat lunak kami. Berikut ini adalah nilai dan prinsip "
+"kami."
+
+#: content/_index.md:0
+msgid "The KDE Manifesto"
+msgstr "Manifesto KDE"
+
+#: content/_index.md:4
+msgid ""
+"<div class=\"text\">We are a community of technologists, designers, writers "
+"and advocates who work to ensure freedom for all people through our "
+"software. Because of this work we have come to value:</div>\n"
+msgstr ""
+"<div class=\"text\">Kami adalah komunitas yang terdiri dari para pakar "
+"teknologi, perancang, penulis, dan advokat yang bekerja untuk memastikan "
+"kebebasan bagi semua orang melalui perangkat lunak kami. Karena pekerjaan "
+"ini, kami sangat menghargai:</div>\n"
+
+#: content/_index.md:6
+msgid ""
+"<span class=\"value\">Open Governance</span> to ensure engagement in our "
+"leadership and decision processes;"
+msgstr ""
+"<span class=\"value\">Tata Kelola Terbuka</span> untuk memastikan "
+"keterlibatan dalam proses kepemimpinan dan pengambilan keputusan;"
+
+#: content/_index.md:8
+msgid ""
+"<span class=\"value\">Free Software</span> to ensure the result of our work "
+"is available to all people for all time;"
+msgstr ""
+"<span class=\"value\">Perangkat Lunak Bebas</span> untuk memastikan hasil "
+"kerja kami tersedia bagi semua orang sepanjang masa;"
+
+#: content/_index.md:10
+msgid ""
+"<span class=\"value\">Inclusivity</span> to ensure that all people are "
+"welcome to join us and participate;"
+msgstr ""
+"<span class=\"value\">Inklusivitas</span> untuk memastikan bahwa semua orang "
+"dapat bergabung dan berpartisipasi;"
+
+#: content/_index.md:12
+msgid ""
+"<span class=\"value\">Innovation</span> to ensure that new ideas constantly "
+"emerge to better serve people;"
+msgstr ""
+"<span class=\"value\">Inovasi</span> untuk memastikan bahwa ide-ide baru "
+"selalu hadir untuk melayani masyarakat dengan lebih baik;"
+
+#: content/_index.md:14
+msgid ""
+"<span class=\"value\">Common Ownership</span> to ensure that we stay united;"
+msgstr ""
+"<span class=\"value\">Kepemilikan Bersama</span> untuk memastikan bahwa kita "
+"tetap bersatu;"
+
+#: content/_index.md:16
+msgid ""
+"<span class=\"value\">End-User Focus</span> to ensure our work is useful to "
+"all people."
+msgstr ""
+"<span class=\"value\">Fokus Pengguna Akhir</span> untuk memastikan bahwa "
+"pekerjaan kami bermanfaat bagi semua orang."
+
+#: content/_index.md:18
+msgid ""
+"<div class=\"text\">That is, in pursuit of our goal, we have found these "
+"items essential to define and stay true to ourselves.</div>\n"
+msgstr ""
+"<div class=\"text\">Itulah sebabnya, dalam mengejar tujuan kami, kami telah "
+"menemukan bahwa hal-hal ini sangat penting untuk didefinisikan dan tetap "
+"setia pada diri kami sendiri.</div>\n"
+
+#: content/_index.md:20
+msgid ""
+"<div class=\"addendum\">From those values we derived the <a href=\"../"
+"benefits\">benefits</a> and <a href=\"../commitments\">commitments</a> of a "
+"KDE Project.</div>\n"
+msgstr ""
+"Dari nilai-nilai tersebut, kami memperoleh <a href=\"../benefits\">manfaat</"
+"a> dan <a href=\"../commitments\">komitmen</a> dari Proyek KDE.</div>\n"
+
+#. title-benefits
+#: content/benefits.md:0 i18n/en.yaml:6
+msgid "Benefits of a KDE Project"
+msgstr "Manfaat dari Proyek KDE"
+
+#: content/benefits.md:0
+msgid "Benefits"
+msgstr "Manfaat"
+
+#: content/benefits.md:10
+msgid "Being part of the international KDE community conveys certain benefits:"
+msgstr ""
+"Menjadi bagian dari komunitas KDE internasional memberikan manfaat "
+"tersendiri:"
+
+#: content/benefits.md:12
+msgid "To stand on the shoulders of giants"
+msgstr "Untuk berdiri di pundak para raksasa"
+
+#: content/benefits.md:13
+msgid "Make use of KDE infrastructure for project hosting"
+msgstr "Memanfaatkan infrastruktur KDE untuk hosting proyek"
+
+#: content/benefits.md:14
+msgid "Benefit from the experience of the KDE sysadmins"
+msgstr "Mendapatkan manfaat dari pengalaman sysadmin KDE"
+
+#: content/benefits.md:15
+msgid ""
+"Get support from the larger community with development, documentation, "
+"translation, testing, bug handling, etc."
+msgstr ""
+"Mendapatkan dukungan dari komunitas yang lebih besar dalam hal pengembangan, "
+"dokumentasi, penerjemahan, pengujian, penanganan bug, dll."
+
+#: content/benefits.md:16
+msgid ""
+"Use opportunities to integrate with a large ecosystem of end-user products"
+msgstr ""
+"Menggunakan peluang untuk berintegrasi dengan ekosistem besar produk "
+"pengguna akhir"
+
+#: content/benefits.md:17
+msgid ""
+"Interaction with teams that have common values, leading to the cross-"
+"pollination of ideas and innovations"
+msgstr ""
+"Berinteraksi dengan tim yang memiliki nilai-nilai yang sama, yang mengarah "
+"pada penyerbukan silang ide dan inovasi"
+
+#: content/benefits.md:18
+msgid "Enjoy representation and support by KDE e.V."
+msgstr "Menikmati representasi dan dukungan dari KDE e.V."
+
+#: content/benefits.md:19
+msgid "Participate in Akademy and other KDE events"
+msgstr "Berpartisipasi dalam Akademy dan acara KDE lainnya"
+
+#: content/benefits.md:20
+msgid "Receive financial and organizational support"
+msgstr "Menerima dukungan finansial dan organisasi"
+
+#: content/benefits.md:21
+msgid "Know that your trademarks can be secured"
+msgstr "Mengetahui bahwa merek dagang Anda dapat diamankan"
+
+#: content/benefits.md:22
+msgid ""
+"Know that your licensing wishes can be protected via the [Fiduciary "
+"Licensing Agreement](https://ev.kde.org/rules/fla/)"
+msgstr ""
+"Mengetahui bahwa keinginan lisensi Anda dapat dilindungi melalui [Perjanjian "
+"Lisensi Fidusia](https://ev.kde.org/rules/fla/)"
+
+#: content/benefits.md:23
+msgid ""
+"Increase your visibility through the reputation of the KDE community and KDE "
+"promotion tools such as:"
+msgstr ""
+"Meningkatkan visibilitas Anda melalui reputasi komunitas KDE dan alat "
+"promosi KDE seperti:"
+
+#: content/benefits.md:24
+#, fuzzy
+#| msgid ""
+#| "pushing project announcements to the Dot and employing other KDE "
+#| "promotion channels"
+msgid ""
+"publishing project updates at [KDE Blogs](https://blogs.kde.org/) and "
+"employing other KDE promotion channels"
+msgstr ""
+"mendorong pengumuman proyek ke Dot dan menggunakan saluran promosi KDE "
+"lainnya"
+
+#: content/benefits.md:25
+msgid "having your project reachable through a subdomain under kde.org"
+msgstr "membuat proyek Anda dapat dijangkau melalui subdomain di bawah kde.org"
+
+#: content/benefits.md:26
+msgid "having a \\#kde-<projectname\\> IRC channel on the Libera Chat network"
+msgstr "memiliki saluran IRC \\#kde-<namaproyek\\> di jaringan Libera Chat"
+
+#: content/benefits.md:27
+msgid ""
+"using KDE as an umbrella brand to associate with the KDE community for "
+"communication on web sites and other channels"
+msgstr ""
+"menggunakan KDE sebagai merek induk untuk mengasosiasikan diri dengan "
+"komunitas KDE, untuk komunikasi di situs web dan saluran lainnya"
+
+#. title-commitments
+#: content/commitments.md:0 i18n/en.yaml:8
+msgid "Commitments of a KDE Project"
+msgstr "Komitmen Proyek KDE"
+
+#: content/commitments.md:0
+msgid "Commitments"
+msgstr "Komitmen"
+
+#: content/commitments.md:10
+msgid "The KDE Project designation carries with it certain commitments:"
+msgstr "Penunjukan Proyek KDE membawa serta komitmen tertentu:"
+
+#: content/commitments.md:12
+msgid "Respect the [KDE Code of Conduct](https://kde.org/code-of-conduct/)"
+msgstr "Hormati [Kode Etik KDE](https://kde.org/code-of-conduct/)"
+
+#: content/commitments.md:13
+msgid ""
+"Support the [KDE Vision](https://community.kde.org/KDE/Vision) and [KDE "
+"Mission](https://community.kde.org/KDE/Mission)"
+msgstr ""
+"Mendukung [Visi KDE](https://community.kde.org/KDE/Vision) dan [Misi KDE]"
+"(https://community.kde.org/KDE/Mission)"
+
+#: content/commitments.md:14
+msgid "There is no mandatory Contributor License Agreement"
+msgstr "Tidak ada Perjanjian Lisensi Kontributor yang bersifat wajib"
+
+#: content/commitments.md:15
+msgid "Technical requirements"
+msgstr "Persyaratan teknis"
+
+#: content/commitments.md:16
+msgid ""
+"The project stays true to [established practices](https://community.kde.org/"
+"Policies) common to similar KDE projects"
+msgstr ""
+"Proyek ini tetap setia pada [praktik-praktik yang sudah ada](https://"
+"community.kde.org/Policies) yang umum digunakan pada proyek-proyek KDE yang "
+"serupa"
+
+#: content/commitments.md:17
+msgid ""
+"All source materials are hosted on infrastructure available to and writable "
+"by all KDE contributor accounts"
+msgstr ""
+"Semua materi sumber dihosting pada infrastruktur yang tersedia dan dapat "
+"ditulis oleh semua akun kontributor KDE"
+
+#: content/commitments.md:18
+msgid ""
+"Online services associated with the project are either hosted on KDE "
+"infrastructure or have an action plan that ensures continuity which is "
+"approved by the KDE system administration team"
+msgstr ""
+"Layanan online yang terkait dengan proyek dihosting di infrastruktur KDE "
+"atau memiliki rencana aksi yang memastikan keberlanjutan yang disetujui oleh "
+"tim administrasi sistem KDE"
+
+#: content/commitments.md:19
+msgid "Copyrights, trademarks and patents"
+msgstr "Hak cipta, merek dagang, dan paten"
+
+#: content/commitments.md:20
+#, fuzzy
+#| msgid ""
+#| "[KDE licensing policy](https://community.kde.org/Policies/"
+#| "Licensing_Policy) are respected"
+msgid ""
+"[KDE licensing policy](https://community.kde.org/Policies/Licensing_Policy) "
+"is respected"
+msgstr ""
+"[Kebijakan lisensi KDE](https://community.kde.org/Policies/Licensing_Policy) "
+"harus dipatuhi"
+
+#: content/commitments.md:21
+msgid "KDE branding guidelines are respected"
+msgstr "Pedoman branding KDE harus dipatuhi"
+
+#: content/commitments.md:22
+msgid ""
+"If the authors of the software abandon it or disappear, they agree to "
+"transfer the trademark to the next maintainer"
+msgstr ""
+"Jika pembuat perangkat lunak meninggalkannya atau menghilang, mereka setuju "
+"untuk mentransfer merek dagang ke pengelola berikutnya"
+
+#: content/commitments.md:23
+msgid ""
+"If the code is covered by patents registered by the project itself, those "
+"patents must be licensed freely"
+msgstr ""
+"Jika kode dilindungi oleh paten yang didaftarkan oleh proyek itu sendiri, "
+"paten tersebut harus dilisensikan secara bebas"
+
+#. displayed-title
+#: i18n/en.yaml:3
+msgid "Manifesto"
+msgstr "Manifesto"
+
+#. back-manifesto
+#: i18n/en.yaml:10
+msgid "Back to the manifesto"
+msgstr "Kembali ke manifesto"
+
+#. inspiration
+#: i18n/en.yaml:12
+msgid ""
+"This manifesto is inspired by the [Agile](http://agilemanifesto.org/) and "
+"[Software Craftmanship](http://manifesto.softwarecraftsmanship.org/) "
+"manifestos."
+msgstr ""
+"Manifesto ini terinspirasi dari manifesto [Agile](http://agilemanifesto."
+"org/) dan [Software Craftmanship](http://manifesto.softwarecraftsmanship."
+"org/)."

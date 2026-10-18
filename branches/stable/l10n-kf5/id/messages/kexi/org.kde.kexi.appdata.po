@@ -1,0 +1,135 @@
+# SPDX-FileCopyrightText: 2018, 2024 Wantoyo <wantoyek@gmail.com>
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-11-17 16:18+0000\n"
+"PO-Revision-Date: 2018-12-26 19:45+0700\n"
+"Last-Translator: Wantoyo <wantoyek@gmail.com>\n"
+"Language-Team: https://t.me/Localizations_KDE_Indonesia\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 24.05.2\n"
+
+#. (itstool) path: component/name
+#: org.kde.kexi.appdata.xml:6
+msgid "Kexi"
+msgstr "Kexi"
+
+#. (itstool) path: component/summary
+#: org.kde.kexi.appdata.xml:7
+msgid "Visual database apps builder"
+msgstr "Pembangun apps database visual"
+
+#. (itstool) path: description/p
+#: org.kde.kexi.appdata.xml:9
+msgid ""
+"Kexi is a visual database applications builder. It can be used for designing "
+"database applications, inserting and editing data, performing queries, and "
+"processing data. Forms can be created to provide a custom interface to your "
+"data. All database objects - tables, queries, forms, reports, etc. - are "
+"stored in the database, making it easy to share data and design."
+msgstr ""
+"Kexi adalah pembangun aplikasi database visual. Dapat digunakan untuk "
+"merancang aplikasi basis data, memasukkan dan mengedit data, melakukan "
+"queri, dan memproses data. Formulir dapat dibuat untuk memberikan antarmuka "
+"khusus ke data Anda. Semua objek basis data - tabel, queri, formulir, "
+"laporan, dll. - disimpan dalam basis data, sehingga mudah untuk berbagi data "
+"dan desain."
+
+#. (itstool) path: description/p
+#: org.kde.kexi.appdata.xml:15
+msgid "Features:"
+msgstr "Fitur:"
+
+#. (itstool) path: ul/li
+#: org.kde.kexi.appdata.xml:17
+msgid "Full visual designers for tables, queries, forms and reports"
+msgstr "Pendesain visual lengkap untuk tabel, queri, formulir, dan laporan"
+
+#. (itstool) path: ul/li
+#: org.kde.kexi.appdata.xml:18
+msgid "Running queries, support for parametrized queries"
+msgstr "Menjalankan queri, mendukung queri terparameterisasi"
+
+#. (itstool) path: ul/li
+#: org.kde.kexi.appdata.xml:19
+msgid ""
+"Supports SQLite, MySQL, PostgreSQL, xBase, and Sybase/MS SQL Server databases"
+msgstr ""
+"Dukungan database SQLite, MySQL, PostgreSQL, xBase, dan Sybase/MS SQL Server"
+
+#. (itstool) path: ul/li
+#: org.kde.kexi.appdata.xml:20
+msgid ""
+"The only multiplatform visual tool that can easily import data from MS "
+"Access databases"
+msgstr ""
+"Satu-satunya alat visual multiplatform yang dapat dengan mudah mengimpor "
+"data dari database MS Access"
+
+#. (itstool) path: ul/li
+#: org.kde.kexi.appdata.xml:21
+msgid "Support for query design in dedicated SQL view"
+msgstr "Dukungan untuk desain queri dalam tampilan SQL terdedikasi"
+
+#. (itstool) path: ul/li
+#: org.kde.kexi.appdata.xml:22
+msgid ""
+"Designing and displaying relational data using combo boxes (lookup columns)"
+msgstr ""
+"Pendesainan dan pendisplaian data yang berhubungan menggunakan kotak kombo "
+"(kolom-kolom dangak)"
+
+#. (itstool) path: ul/li
+#: org.kde.kexi.appdata.xml:23
+msgid "Direct data entry or import using CSV format"
+msgstr "Entri data langsung atau impor menggunakan format CSV"
+
+#. (itstool) path: ul/li
+#: org.kde.kexi.appdata.xml:24
+msgid ""
+"Locked down User Mode, allowing you to switch off all commands related to "
+"editing your project's design"
+msgstr ""
+"Mode User terkunci, memungkinkan Anda untuk mematikankan semua perintah yang "
+"berhubungan untuk pengeditan desain projek Anda"
+
+#. (itstool) path: ul/li
+#: org.kde.kexi.appdata.xml:25
+msgid ""
+"Scripting using JavaScript, Python or Ruby programming languages "
+"(experimental)"
+msgstr "Penskripan menggunakan bahasa pemrograman JavaScript, Python atau Ruby"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kexi.appdata.xml:36
+msgid "Tabular view"
+msgstr "Tampilan tabular"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kexi.appdata.xml:40
+msgid "Query Designer"
+msgstr "Pendesain Queri"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kexi.appdata.xml:44
+msgid "SQL Editor"
+msgstr "Pengedit SQL"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kexi.appdata.xml:48
+msgid "Form Designer"
+msgstr "Pendesain Formulir"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kexi.appdata.xml:52
+msgid "Report Designer"
+msgstr "Pendesain Laporan"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kexi.appdata.xml:56
+msgid "MS Access database import"
+msgstr "Impor database MS Access"

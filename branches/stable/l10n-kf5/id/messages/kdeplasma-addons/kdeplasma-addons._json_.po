@@ -1,0 +1,767 @@
+# Wantoyo <wantoyek@gmail.com>, 2018, 2019, 2022.
+# Aziz Adam Adrian <4.adam.adrian@gmail.com>, 2022.
+# Linerly <linerly@protonmail.com>, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-11-17 16:23+0000\n"
+"PO-Revision-Date: 2023-03-03 09:57+0700\n"
+"Last-Translator: Linerly <linerly@protonmail.com>\n"
+"Language-Team: Indonesian <kde-i18n-doc@kde.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 22.12.3\n"
+
+#: applets/binary-clock/package/metadata.json
+msgctxt "Name"
+msgid "Binary Clock"
+msgstr "Jam Binari"
+
+#: applets/calculator/package/metadata.json
+msgctxt "Name"
+msgid "Calculator"
+msgstr "Kalkulator"
+
+#: applets/colorpicker/package/metadata.json
+msgctxt "Name"
+msgid "Color Picker"
+msgstr "Pemilih Warna"
+
+#: applets/comic/package/metadata.json
+msgctxt "Name"
+msgid "Comic Strip"
+msgstr "Komik Strip"
+
+#: applets/dict/package/metadata.json
+#: runners/dictionary/plasma-runner-dictionary.json
+msgctxt "Name"
+msgid "Dictionary"
+msgstr "Kamus"
+
+#: applets/diskquota/package/metadata.json
+msgctxt "Name"
+msgid "Disk Quota"
+msgstr "Quota Disk"
+
+#: applets/fifteenPuzzle/package/metadata.json
+msgctxt "Name"
+msgid "Fifteen Puzzle"
+msgstr "Fifteen Puzzle"
+
+#: applets/fuzzy-clock/package/metadata.json
+msgctxt "Name"
+msgid "Fuzzy Clock"
+msgstr "Jam Kabur"
+
+#: applets/grouping/container/package/metadata.json
+#: applets/grouping/package/metadata.json
+msgctxt "Name"
+msgid "Grouping Plasmoid"
+msgstr "Pengelompok Plasmoid"
+
+#: applets/katesessions/metadata.json
+#: runners/katesessions/plasma-runner-katesessions.json
+msgctxt "Name"
+msgid "Kate Sessions"
+msgstr "Sesi Kate"
+
+#: applets/keyboardindicator/metadata.json
+msgctxt "Name"
+msgid "Lock Keys Status"
+msgstr "Status Tombol Kunci"
+
+#: applets/kickerdash/metadata.json
+msgctxt "Name"
+msgid "Application Dashboard"
+msgstr "Dasbor Aplikasi"
+
+#: applets/konsoleprofiles/package/metadata.json
+#: runners/konsoleprofiles/plasma-runner-konsoleprofiles.json
+msgctxt "Name"
+msgid "Konsole Profiles"
+msgstr "Profil Konsole"
+
+#: applets/mediaframe/package/metadata.json
+msgctxt "Name"
+msgid "Media Frame"
+msgstr "Bingkai Media"
+
+#: applets/nightcolor/package/metadata.json
+msgctxt "Name"
+msgid "Night Color Control"
+msgstr "Kendali Warna Malam"
+
+#: applets/notes/package/metadata.json
+msgctxt "Name"
+msgid "Sticky Note"
+msgstr "Sticky Note"
+
+#: applets/quicklaunch/package/metadata.json
+msgctxt "Name"
+msgid "Quicklaunch"
+msgstr "Quicklaunch"
+
+#: applets/quickshare/plasmoid/metadata.json
+msgctxt "Name"
+msgid "Quick Share"
+msgstr "Quick Share"
+
+#: applets/timer/package/metadata.json
+msgctxt "Name"
+msgid "Timer"
+msgstr "Timer"
+
+#: applets/userswitcher/package/metadata.json
+msgctxt "Name"
+msgid "User Switcher"
+msgstr "Pengalih Pengguna"
+
+#: applets/weather/package/metadata.json
+msgctxt "Name"
+msgid "Weather Report"
+msgstr "Laporan Cuaca"
+
+#: applets/webbrowser/package/metadata.json
+msgctxt "Name"
+msgid "Web browser"
+msgstr "Browser Web"
+
+#: desktopswitchers/previews/metadata.json
+msgctxt "Name"
+msgid "Previews"
+msgstr ""
+
+#: plasmacalendarplugins/alternatecalendar/alternatecalendarplugin.json
+msgctxt "Name"
+msgid "Alternate Calendar"
+msgstr "Alternate Calendar"
+
+#: plasmacalendarplugins/astronomical/astronomicaleventsplugin.json
+msgctxt "Name"
+msgid "Astronomical Events"
+msgstr "Peristiwa Astronomis"
+
+#: runners/characters/plasma-runner-character.json
+msgctxt "Name"
+msgid "Special Characters"
+msgstr "Karakter Spesial"
+
+#: runners/converter/plasma-runner-converter.json
+msgctxt "Name"
+msgid "Unit Converter"
+msgstr "Pengonversi Satuan"
+
+#: runners/datetime/plasma-runner-datetime.json
+msgctxt "Name"
+msgid "Date and Time"
+msgstr "Tanggal dan Waktu"
+
+#: runners/spellchecker/plasma-runner-spellchecker.json
+msgctxt "Name"
+msgid "Spell Checker"
+msgstr "Pemeriksa Ejaan"
+
+#: wallpapers/haenau/metadata.json
+msgctxt "Name"
+msgid "Haenau"
+msgstr ""
+
+#: wallpapers/hunyango/metadata.json
+msgctxt "Name"
+msgid "Hunyango"
+msgstr ""
+
+#: wallpapers/potd/package/metadata.json
+msgctxt "Name"
+msgid "Picture of the Day"
+msgstr "Gambar Harian"
+
+#: wallpapers/potd/plugins/providers/apodprovider.json
+msgctxt "Name"
+msgid "Astronomy (NASA)"
+msgstr "Astronomy (NASA)"
+
+#: wallpapers/potd/plugins/providers/bingprovider.json
+msgctxt "Name"
+msgid "Bing"
+msgstr "Bing"
+
+#: wallpapers/potd/plugins/providers/epodprovider.json
+msgctxt "Name"
+msgid "Earth Science (USRA)"
+msgstr "Earth Science (USRA)"
+
+#: wallpapers/potd/plugins/providers/flickrprovider.json
+msgctxt "Name"
+msgid "Flickr"
+msgstr "Flickr"
+
+#: wallpapers/potd/plugins/providers/natgeoprovider.json
+msgctxt "Name"
+msgid "National Geographic"
+msgstr "National Geographic"
+
+#: wallpapers/potd/plugins/providers/noaaprovider.json
+msgctxt "Name"
+msgid "Weather Satellite (NOAA)"
+msgstr "Weather Satellite (NOAA)"
+
+#: wallpapers/potd/plugins/providers/simonstalenhagprovider.json
+msgctxt "Name"
+msgid "Simon Stålenhag Wallpapers"
+msgstr "Wallpaper dari Simon Stålenhag"
+
+#: wallpapers/potd/plugins/providers/unsplashprovider.json
+msgctxt "Name"
+msgid "Unsplash Wallpapers"
+msgstr "Wallpaper Unsplash"
+
+#: wallpapers/potd/plugins/providers/wcpotdprovider.json
+msgctxt "Name"
+msgid "Wikimedia Commons"
+msgstr "Wikimedia Commons"
+
+#: windowswitchers/big_icons/metadata.json
+msgctxt "Name"
+msgid "Large Icons"
+msgstr "Ikon Besar"
+
+#: windowswitchers/compact/metadata.json
+msgctxt "Name"
+msgid "Compact"
+msgstr "Ringkas"
+
+#: windowswitchers/coverswitch/metadata.json
+msgctxt "Name"
+msgid "Cover Switch"
+msgstr "Cover Switch"
+
+#: windowswitchers/flipswitch/metadata.json
+msgctxt "Name"
+msgid "Flip Switch"
+msgstr "Flip Switch"
+
+#: windowswitchers/informative/metadata.json
+msgctxt "Name"
+msgid "Informative"
+msgstr "Informatif"
+
+#: windowswitchers/present_windows/metadata.json
+msgctxt "Name"
+msgid "Grid"
+msgstr "Kisi"
+
+#: windowswitchers/small_icons/metadata.json
+msgctxt "Name"
+msgid "Small Icons"
+msgstr "Ikon Kecil"
+
+#: windowswitchers/text/metadata.json
+msgctxt "Name"
+msgid "Text Only"
+msgstr "Hanya Teks"
+
+#: windowswitchers/thumbnail_grid/metadata.json
+msgctxt "Name"
+msgid "Thumbnail Grid"
+msgstr "Kisi Thumbnail"
+
+#: windowswitchers/thumbnails/metadata.json
+msgctxt "Name"
+msgid "Thumbnails"
+msgstr "Thumbnail"
+
+#: applets/binary-clock/package/metadata.json
+msgctxt "Description"
+msgid "Time displayed in binary format"
+msgstr "Waktu ditampilkan dalam format binari"
+
+#: applets/calculator/package/metadata.json
+msgctxt "Description"
+msgid "Calculate simple sums"
+msgstr "Hitung penjumlahan sederhana"
+
+#: applets/colorpicker/package/metadata.json
+msgctxt "Description"
+msgid "Pick a color from the desktop"
+msgstr "Pilih sebuah warna dari desktop"
+
+#: applets/comic/package/metadata.json
+msgctxt "Description"
+msgid "View comic strips from the Internet"
+msgstr "Lihat komik strip dari internet"
+
+#: applets/dict/package/metadata.json
+msgctxt "Description"
+msgid ""
+"Look up the meaning of words and their translation into different languages"
+msgstr "Cari arti kata dan terjemahannya ke dalam berbagai bahasa"
+
+#: applets/diskquota/package/metadata.json
+msgctxt "Description"
+msgid "Shows details about disk quota"
+msgstr "Menampilkan detail tentang quota disk"
+
+#: applets/fifteenPuzzle/package/metadata.json
+msgctxt "Description"
+msgid "Put the pieces in order"
+msgstr "Masukkan potongan-potongan dalam urutan"
+
+#: applets/fuzzy-clock/package/metadata.json
+msgctxt "Description"
+msgid "Time displayed in a less precise format"
+msgstr "Waktu ditampilkan dalam format yang kurang tepat"
+
+#: applets/grouping/container/package/metadata.json
+#: applets/grouping/package/metadata.json
+msgctxt "Description"
+msgid "Group Plasma widgets together"
+msgstr "Kelompokkan widget Plasma bersama"
+
+#: applets/katesessions/metadata.json
+msgctxt "Description"
+msgid "Kate Session Launcher"
+msgstr "Peluncur Sesi Kate"
+
+#: applets/keyboardindicator/metadata.json
+msgctxt "Description"
+msgid "Shows whether Caps Lock or Num Lock are active"
+msgstr "Menunjukkan apakah Caps Lock atau Num Lock aktif"
+
+#: applets/kickerdash/metadata.json
+msgctxt "Description"
+msgid "A fullscreen application launcher"
+msgstr "Sebuah peluncur aplikasi layar penuh"
+
+#: applets/konsoleprofiles/package/metadata.json
+msgctxt "Description"
+msgid "List and launch Konsole profiles"
+msgstr "Cantumkan dan luncurkan profil Konsole"
+
+#: applets/mediaframe/package/metadata.json
+msgctxt "Description"
+msgid "(Picture) Frame"
+msgstr "(Gambar) Bingkai"
+
+#: applets/nightcolor/package/metadata.json
+msgctxt "Description"
+msgid "Plasmoid for controlling Night Color"
+msgstr "Plasmoid untuk mengendalikan Warna Malam"
+
+#: applets/notes/package/metadata.json
+msgctxt "Description"
+msgid "Desktop sticky note"
+msgstr "Catatan lekat desktop"
+
+#: applets/quicklaunch/package/metadata.json
+msgctxt "Description"
+msgid "Launch your favourite Applications"
+msgstr "Luncurkan aplikasi favoritmu"
+
+#: applets/quickshare/plasmoid/metadata.json
+msgctxt "Description"
+msgid "Paste text/images to a remote server"
+msgstr "Rekatkan teks/gambar ke server jarak jauh"
+
+#: applets/timer/package/metadata.json
+msgctxt "Description"
+msgid "Countdown over a specified time period"
+msgstr "Hitung mundur selama jangka waktu yang ditentukan"
+
+#: applets/userswitcher/package/metadata.json
+msgctxt "Description"
+msgid "Quickly switch between different users"
+msgstr "Beralih selekasnya antara pengguna yang berbeda"
+
+#: applets/weather/package/metadata.json
+msgctxt "Description"
+msgid "Forecast and current conditions"
+msgstr "Prakiraan dan kondisi saat ini"
+
+#: applets/webbrowser/package/metadata.json
+msgctxt "Description"
+msgid "Add a webpage on your desktop."
+msgstr "Tambahkan halaman web ke desktopmu."
+
+#: desktopswitchers/previews/metadata.json
+msgctxt "Description"
+msgid "A desktop switcher layout with previews of the desktops"
+msgstr ""
+
+#: plasmacalendarplugins/alternatecalendar/alternatecalendarplugin.json
+msgctxt "Description"
+msgid "Calendar plugin for displaying dates from the alternate calendar system"
+msgstr ""
+"Plugin kalender untuk menampilkan tanggal dari sistem kalender alternatif"
+
+#: plasmacalendarplugins/astronomical/astronomicaleventsplugin.json
+msgctxt "Description"
+msgid "Calendar plugin for displaying astronomical events"
+msgstr "Plugin kalender untuk menampilkan peristiwa astronomis"
+
+#: runners/characters/plasma-runner-character.json
+msgctxt "Description"
+msgid "Creates special characters from their hexadecimal codes"
+msgstr "Membuat karakter khusus dari kode heksadesimalnya"
+
+#: runners/converter/plasma-runner-converter.json
+msgctxt "Description"
+msgid "Convert values to different units"
+msgstr "Konversikan nilai ke satuan yang berbeda"
+
+#: runners/datetime/plasma-runner-datetime.json
+msgctxt "Description"
+msgid "The current date and time, locally or in any timezone"
+msgstr "Tanggal dan waktu saat ini, secara lokal atau di zona waktu mana pun"
+
+#: runners/dictionary/plasma-runner-dictionary.json
+msgctxt "Description"
+msgid "Define words"
+msgstr "Tentukan kata"
+
+#: runners/katesessions/plasma-runner-katesessions.json
+msgctxt "Description"
+msgid "Matches Kate Sessions"
+msgstr "Cocokkan Sesi Kate"
+
+#: runners/konsoleprofiles/plasma-runner-konsoleprofiles.json
+msgctxt "Description"
+msgid "Matches Konsole Profiles"
+msgstr "Cocokkan Sesi Konsole"
+
+#: runners/spellchecker/plasma-runner-spellchecker.json
+msgctxt "Description"
+msgid "Check the spelling of a word"
+msgstr "Periksa ejaan dari sebuah kata"
+
+#: wallpapers/haenau/metadata.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Unsplash Wallpapers"
+msgctxt "Description"
+msgid "Haenau wallpaper"
+msgstr "Wallpaper Unsplash"
+
+#: wallpapers/hunyango/metadata.json
+msgctxt "Description"
+msgid "Hunyango wallpaper"
+msgstr ""
+
+#: wallpapers/potd/package/metadata.json
+#, fuzzy
+#| msgctxt "Description"
+#| msgid "View comic strips from the Internet"
+msgctxt "Description"
+msgid "A new picture from the Internet each day"
+msgstr "Lihat komik strip dari internet"
+
+#: wallpapers/potd/plugins/plasma_potdprovider.json
+msgctxt "Description"
+msgid "Plugin for Plasma PoTD Engine"
+msgstr "Plugin untuk Engine PoTD Plasma"
+
+#: windowswitchers/big_icons/metadata.json
+msgctxt "Description"
+msgid "A window switcher layout using large icons to represent the window"
+msgstr ""
+"Sebuah tataletak pengalih jendela menggunakan ikon besar untuk mewakili "
+"jendela"
+
+#: windowswitchers/compact/metadata.json
+msgctxt "Description"
+msgid "A compact window switcher layout"
+msgstr "Sebuah tataletak pengalih jendela yang ringkas"
+
+#: windowswitchers/coverswitch/metadata.json
+msgctxt "Description"
+msgid "A Window Switcher layout showing thumbnails as a 3D carousel"
+msgstr ""
+"Sebuah tataletak pengalih jendela yang menampilkan gambar mini sebagai "
+"korsel 3D"
+
+#: windowswitchers/flipswitch/metadata.json
+msgctxt "Description"
+msgid "A Window Switcher layout showing thumbnails as a 3D card deck"
+msgstr ""
+"Sebuah tataletak pengalih jendela yang menampilkan gambar mini sebagai dek "
+"kartu 3D"
+
+#: windowswitchers/informative/metadata.json
+msgctxt "Description"
+msgid "An informative window switcher layout including desktop name"
+msgstr "Sebuah tataletak pengalih jendela informatif termasuk nama desktop"
+
+#: windowswitchers/present_windows/metadata.json
+msgctxt "Description"
+msgid "A Window Switcher layout showing all windows as thumbnails in a grid"
+msgstr ""
+"Sebuah tataletak Pengalih Jendela yang menampilkan semua jendela sebagai "
+"gambar-mini dalam sebuah kisi"
+
+#: windowswitchers/small_icons/metadata.json
+msgctxt "Description"
+msgid "A window switcher layout using small icons to represent the window"
+msgstr ""
+"Sebuah tataletak pengalih jendela menggunakan ikon kecil untuk mewakili "
+"jendela"
+
+#: windowswitchers/text/metadata.json
+msgctxt "Description"
+msgid "A window switcher layout only showing window captions"
+msgstr "Sebuah tataletak pengalih jendela yang hanya menampilkan bab jendela"
+
+#: windowswitchers/thumbnail_grid/metadata.json
+msgctxt "Description"
+msgid "A window switcher layout using a small grid of thumbnails"
+msgstr ""
+"Sebuah tataletak pengalih jendela yang menggunakan sebuah kisi kecil ber-"
+"thumbnail"
+
+#: windowswitchers/thumbnails/metadata.json
+msgctxt "Description"
+msgid "A window switcher layout using live thumbnails"
+msgstr "Sebuah tataletak pengalih jendela yang menggunakan gambar-mini hidup"
+
+#: applets/binary-clock/package/metadata.json
+#: applets/katesessions/metadata.json
+msgctxt "Authors Name"
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+#: applets/binary-clock/package/metadata.json
+#: applets/timer/package/metadata.json
+msgctxt "Authors Name"
+msgid "Davide Bettio"
+msgstr "Davide Bettio"
+
+#: applets/binary-clock/package/metadata.json
+msgctxt "Authors Name"
+msgid "Piotr Kąkol"
+msgstr "Piotr Kąkol"
+
+#: applets/calculator/package/metadata.json
+msgctxt "Authors Name"
+msgid "Henry Stanaland, Davide Bettio"
+msgstr "Henry Stanaland, Davide Bettio"
+
+#: applets/colorpicker/package/metadata.json
+#: applets/fuzzy-clock/package/metadata.json
+#: applets/userswitcher/package/metadata.json
+msgctxt "Authors Name"
+msgid "Kai Uwe Broulik"
+msgstr "Kai Uwe Broulik"
+
+#: applets/comic/package/metadata.json
+msgctxt "Authors Name"
+msgid "Reza Fatahilah Shah"
+msgstr "Reza Fatahilah Shah"
+
+#: applets/dict/package/metadata.json applets/quickshare/plasmoid/metadata.json
+msgctxt "Authors Name"
+msgid "The Plasma Team"
+msgstr "Tim Plasma"
+
+#: applets/diskquota/package/metadata.json
+msgctxt "Authors Name"
+msgid "Dominik Haumann"
+msgstr "Dominik Haumann"
+
+#: applets/fifteenPuzzle/package/metadata.json
+msgctxt "Authors Name"
+msgid "Jesper Thomschutz"
+msgstr "Jesper Thomschutz"
+
+#: applets/grouping/container/package/metadata.json
+#: applets/grouping/package/metadata.json
+msgctxt "Authors Name"
+msgid "David Edmundson"
+msgstr "David Edmundson"
+
+#: applets/keyboardindicator/metadata.json
+msgctxt "Authors Name"
+msgid "Aleix Pol Gonzalez"
+msgstr "Aleix Pol Gonzalez"
+
+#: applets/kickerdash/metadata.json
+msgctxt "Authors Name"
+msgid "Eike Hein"
+msgstr "Eike Hein"
+
+#: applets/konsoleprofiles/package/metadata.json
+msgctxt "Authors Name"
+msgid "Shaun Reich"
+msgstr "Shaun Reich"
+
+#: applets/mediaframe/package/metadata.json
+msgctxt "Authors Name"
+msgid "Lars Pontoppidan"
+msgstr "Lars Pontoppidan"
+
+#: applets/nightcolor/package/metadata.json
+msgctxt "Authors Name"
+msgid "Vlad Zahorodnii"
+msgstr "Vlad Zahorodnii"
+
+#: applets/notes/package/metadata.json
+msgctxt "Authors Name"
+msgid "Davide Bettio, Lukas Kropatschek"
+msgstr "Davide Bettio, Lukas Kropatschek"
+
+#: applets/quicklaunch/package/metadata.json
+msgctxt "Authors Name"
+msgid "David Rosca"
+msgstr "David Rosca"
+
+#: applets/weather/package/metadata.json
+msgctxt "Authors Name"
+msgid "Luís Gabriel Lima"
+msgstr "Luís Gabriel Lima"
+
+#: applets/webbrowser/package/metadata.json
+msgctxt "Authors Name"
+msgid "Mikhail Ivchenko"
+msgstr "Mikhail Ivchenko"
+
+#: desktopswitchers/previews/metadata.json
+#: windowswitchers/big_icons/metadata.json
+#: windowswitchers/compact/metadata.json
+#: windowswitchers/informative/metadata.json
+#: windowswitchers/present_windows/metadata.json
+#: windowswitchers/small_icons/metadata.json windowswitchers/text/metadata.json
+#: windowswitchers/thumbnails/metadata.json
+msgctxt "Authors Name"
+msgid "Martin Gräßlin"
+msgstr "Martin Gräßlin"
+
+#: plasmacalendarplugins/astronomical/astronomicaleventsplugin.json
+msgctxt "Authors Name"
+msgid "Friedrich W. H. Kossebau"
+msgstr "Friedrich W. H. Kossebau"
+
+#: runners/characters/plasma-runner-character.json
+msgctxt "Authors Name"
+msgid "Anton Kreuzkamp"
+msgstr "Anton Kreuzkamp"
+
+#: runners/converter/plasma-runner-converter.json
+msgctxt "Authors Name"
+msgid "Petri Damstén"
+msgstr "Petri Damstén"
+
+#: runners/datetime/plasma-runner-datetime.json
+msgctxt "Authors Name"
+msgid "Plasma Team"
+msgstr "Tim Plasma"
+
+#: runners/dictionary/plasma-runner-dictionary.json
+msgctxt "Authors Name"
+msgid "Jason A. Donenfeld"
+msgstr "Jason A. Donenfeld"
+
+#: runners/katesessions/plasma-runner-katesessions.json
+msgctxt "Authors Name"
+msgid "Sebastian Kügler"
+msgstr "Sebastian Kügler"
+
+#: runners/konsoleprofiles/plasma-runner-konsoleprofiles.json
+msgctxt "Authors Name"
+msgid "Laurent Montel"
+msgstr "Laurent Montel"
+
+#: runners/spellchecker/plasma-runner-spellchecker.json
+msgctxt "Authors Name"
+msgid "Ryan P. Bitanga"
+msgstr "Ryan P. Bitanga"
+
+#: wallpapers/haenau/metadata.json wallpapers/hunyango/metadata.json
+msgctxt "Authors Name"
+msgid "Marco Martin"
+msgstr ""
+
+#: wallpapers/potd/package/metadata.json
+msgctxt "Authors Name"
+msgid "Weng Xuetian"
+msgstr ""
+
+#: windowswitchers/coverswitch/metadata.json
+#: windowswitchers/flipswitch/metadata.json
+msgctxt "Authors Name"
+msgid "Ismael Asensio"
+msgstr "Ismael Asensio"
+
+#: windowswitchers/thumbnail_grid/metadata.json
+msgctxt "Authors Name"
+msgid "Chris Holland"
+msgstr "Chris Holland"
+
+#: applets/nightcolor/package/metadata.json
+msgctxt "X-KDE-Keywords"
+msgid ""
+"kwin,window,manager,night,colors,redshift,eyes,night mode,colour,dark mode,"
+"dark,dim,sleep,eye strain,red,shift,orange,yellow,warm,screen tint,"
+"temperature,blue,light"
+msgstr ""
+
+#~ msgctxt "Authors Name"
+#~ msgid "Joseph Wenninger,Davide Bettio,Piotr Kąkol"
+#~ msgstr "Joseph Wenninger,Davide Bettio,Piotr Kąkol"
+
+#~ msgctxt "Name"
+#~ msgid "Activity Pager"
+#~ msgstr "Pager Aktivitas"
+
+#~ msgctxt "Description"
+#~ msgid "Switch between activities"
+#~ msgstr "Beralih antar aktivitas"
+
+#~ msgctxt "Name"
+#~ msgid "Wikimedia Picture of the Day"
+#~ msgstr "Wikimedia Picture of the Day"
+
+#~ msgctxt "Name"
+#~ msgid "Flickr Picture of the Day"
+#~ msgstr "Flickr Picture of the Day"
+
+#~ msgctxt "Name"
+#~ msgid "Earth Science Picture of the Day"
+#~ msgstr "Earth Science Picture of the Day"
+
+#~ msgctxt "Name"
+#~ msgid "NOAA Environmental Visualization Laboratory Picture of the Day"
+#~ msgstr "NOAA Environmental Visualization Laboratory Picture of the Day"
+
+#~ msgctxt "Name"
+#~ msgid "Astronomy Picture of the Day"
+#~ msgstr "Astronomy Picture of the Day"
+
+#~ msgctxt "Description"
+#~ msgid "Bing Provider"
+#~ msgstr "Penyedia Bing"
+
+#~ msgctxt "Description"
+#~ msgid "Wcpotd Provider"
+#~ msgstr "Penyedia Wcpotd"
+
+#~ msgctxt "Description"
+#~ msgid "Flickr Provider"
+#~ msgstr "Penyedia Flickr"
+
+#~ msgctxt "Description"
+#~ msgid "Epod Provider"
+#~ msgstr "Penyedia Epod"
+
+#~ msgctxt "Description"
+#~ msgid "NOAA Provider"
+#~ msgstr "Penyedia NOAA"
+
+#~ msgctxt "Description"
+#~ msgid "Unsplash Wallpaper Provider"
+#~ msgstr "Penyedia Wallpaper Unsplash"
+
+#~ msgctxt "Description"
+#~ msgid "Apod Provider"
+#~ msgstr "Penyedia Apod"

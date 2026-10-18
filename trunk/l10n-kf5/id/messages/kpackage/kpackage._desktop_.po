@@ -1,0 +1,19 @@
+# Wantoyo <wantoyek@gmail.com>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-11-17 09:05+0000\n"
+"PO-Revision-Date: 2018-01-27 21:16+0700\n"
+"Last-Translator: Wantoyo <wantoyek@gmail.com>\n"
+"Language-Team: Indonesian <kde-i18n-doc@kde.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/kpackage/data/kservicetypes5/kpackage-packagestructure.desktop:4
+msgctxt "Comment"
+msgid "KPackage package structure definition"
+msgstr "Definisi struktur paket KPackage"

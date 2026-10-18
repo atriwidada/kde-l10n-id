@@ -1,0 +1,152 @@
+# Wantoyo <wantoyek@gmail.com>, 2018, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-11-17 16:23+0000\n"
+"PO-Revision-Date: 2019-08-21 07:15+0700\n"
+"Last-Translator: Wantoyo <wantoyek@gmail.com>\n"
+"Language-Team: Indonesian <kde-i18n-doc@kde.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/service/plugins/activitytemplates/kactivitymanagerd-plugin-activitytemplates.json
+msgctxt "Name"
+msgid "Activity Templates"
+msgstr "Templat Aktivitas"
+
+#: src/service/plugins/eventspy/kactivitymanagerd-plugin-eventspy.json
+msgctxt "Name"
+msgid "Event Spy"
+msgstr "Event Spy"
+
+#: src/service/plugins/globalshortcuts/kactivitymanagerd-plugin-globalshortcuts.json
+msgctxt "Name"
+msgid "Global Shortcuts"
+msgstr "Pintasan Global"
+
+#: src/service/plugins/gtk-eventspy/kactivitymanagerd-plugin-gtk-eventspy.json
+msgctxt "Name"
+msgid "Gtk Event Spy"
+msgstr "Event Spy Gtk"
+
+#: src/service/plugins/krunner/kactivitymanagerd-plugin-activityrunner.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Activity Templates"
+msgctxt "Name"
+msgid "Activity Runner"
+msgstr "Templat Aktivitas"
+
+#: src/service/plugins/runapplication/kactivitymanagerd-plugin-runapplication.json
+msgctxt "Name"
+msgid "Run applications on activity state change"
+msgstr "Jalankan aplikasi pada keadaan aktivitas yang berubah"
+
+#: src/service/plugins/slc/kactivitymanagerd-plugin-slc.json
+msgctxt "Name"
+msgid "Share-Like-Connect"
+msgstr "Share-Like-Connect"
+
+#: src/service/plugins/sqlite/kactivitymanagerd-plugin-sqlite.json
+msgctxt "Name"
+msgid "SQLite Feeder"
+msgstr "SQLite Feeder"
+
+#: src/service/plugins/virtualdesktopswitch/kactivitymanagerd-plugin-virtualdesktopswitch.json
+msgctxt "Name"
+msgid "Virtual desktop switcher"
+msgstr "Pengalih desktop virtual"
+
+#: src/service/plugins/activitytemplates/kactivitymanagerd-plugin-activitytemplates.json
+msgctxt "Description"
+msgid "Support for creating templated activities"
+msgstr "Dukungan untuk membuat aktivitas templat"
+
+#: src/service/plugins/eventspy/kactivitymanagerd-plugin-eventspy.json
+msgctxt "Description"
+msgid ""
+"Collects events from applications that support recent documents specification"
+msgstr ""
+"Memungut peristiwa dari aplikasi yang mendukung ketentuan dokumen terkini"
+
+#: src/service/plugins/globalshortcuts/kactivitymanagerd-plugin-globalshortcuts.json
+msgctxt "Description"
+msgid "Adds global keyboard shortcuts for activity switching"
+msgstr "Menambahkan pintasan keyboard untuk pengalihan aktivitas"
+
+#: src/service/plugins/gtk-eventspy/kactivitymanagerd-plugin-gtk-eventspy.json
+msgctxt "Description"
+msgid ""
+"Collects events from applications that use GtkFileChooser and "
+"GtkRecentManager as specified by https://www.freedesktop.org/wiki/"
+"Specifications/desktop-bookmark-spec/"
+msgstr ""
+"Memungut peristiwa dari aplikasi yang menggunakan GtkFileChooser dan "
+"GtkRecentManager sebagaimana ditentukan oleh https://www.freedesktop.org/"
+"wiki/Specifications/desktop-bookmark-spec/"
+
+#: src/service/plugins/krunner/kactivitymanagerd-plugin-activityrunner.json
+msgctxt "Description"
+msgid "KRunner plugin to list and switch activities"
+msgstr ""
+
+#: src/service/plugins/runapplication/kactivitymanagerd-plugin-runapplication.json
+msgctxt "Description"
+msgid ""
+"When switching activities, or when starting and stopping them, execute "
+"specified applications"
+msgstr ""
+"Ketika mengalihkan aktifitas, atau ketika menjalankan dan menghentikannya, "
+"eksekusi aplikasi yang ditentukan"
+
+#: src/service/plugins/slc/kactivitymanagerd-plugin-slc.json
+msgctxt "Description"
+msgid "Provides data to Share-Like-Connect applet"
+msgstr "Menyediakan data untuk applet Share-Like-Connect"
+
+#: src/service/plugins/sqlite/kactivitymanagerd-plugin-sqlite.json
+msgctxt "Description"
+msgid "Plugin to store and score events in SQLite"
+msgstr "Plugin untuk menyimpan dan menilai peristiwa dalam SQLite"
+
+#: src/service/plugins/virtualdesktopswitch/kactivitymanagerd-plugin-virtualdesktopswitch.json
+msgctxt "Description"
+msgid ""
+"When switching to an activity, opens the virtual desktop last used with that "
+"activity"
+msgstr ""
+"Ketika mengalihkan ke sebuah aktivitas, membukakan desktop virtual yang "
+"terakhir digunakan dengan aktivitasnya"
+
+#: src/service/plugins/activitytemplates/kactivitymanagerd-plugin-activitytemplates.json
+#: src/service/plugins/eventspy/kactivitymanagerd-plugin-eventspy.json
+msgctxt "Authors Name"
+msgid "Ivan Čukić"
+msgstr "Ivan Čukić"
+
+#: src/service/plugins/globalshortcuts/kactivitymanagerd-plugin-globalshortcuts.json
+msgctxt "Authors Name"
+msgid "Makis Marimpis"
+msgstr "Makis Marimpis"
+
+#: src/service/plugins/gtk-eventspy/kactivitymanagerd-plugin-gtk-eventspy.json
+msgctxt "Authors Name"
+msgid "Méven Car"
+msgstr "Méven Car"
+
+#: src/service/plugins/krunner/kactivitymanagerd-plugin-activityrunner.json
+msgctxt "Authors Name"
+msgid "Alexander Lohnau"
+msgstr ""
+
+#: src/service/plugins/runapplication/kactivitymanagerd-plugin-runapplication.json
+#: src/service/plugins/slc/kactivitymanagerd-plugin-slc.json
+#: src/service/plugins/sqlite/kactivitymanagerd-plugin-sqlite.json
+#: src/service/plugins/virtualdesktopswitch/kactivitymanagerd-plugin-virtualdesktopswitch.json
+msgctxt "Authors Name"
+msgid "Ivan Cukic"
+msgstr "Ivan Cukic"

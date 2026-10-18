@@ -1,0 +1,154 @@
+# wantoyo <wantoyo@yahoo.com>, 2014.
+# Wantoyo <wantoyek@gmail.com>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-10-07 02:58+0000\n"
+"PO-Revision-Date: 2018-12-21 20:45+0700\n"
+"Last-Translator: Wantoyo <wantoyek@gmail.com>\n"
+"Language-Team: Indonesian <kde-i18n-doc@kde.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/org.kde.kpat.desktop:2
+msgctxt "Name"
+msgid "KPatience"
+msgstr "KPatience"
+
+#: src/org.kde.kpat.desktop:64
+msgctxt "GenericName"
+msgid "Patience Card Game"
+msgstr "Permainan Kartu Patience"
+
+#: src/org.kde.kpat.desktop:134
+msgctxt "Comment"
+msgid "Solitaire card game"
+msgstr "Permainan kartu solitaire"
+
+#: src/org.kde.kpat.desktop:180
+msgctxt "Keywords"
+msgid ""
+"Aces up;baker's dozen;castle;forty and eight;forty-eight;freecell;gold;"
+"grandfather;grandfather's clock;normandy;klondike;mod3;simple simon;spider;"
+"yukon;"
+msgstr ""
+
+#: src/org.kde.kpat.desktop:213
+msgctxt "Name"
+msgid "Aces Up"
+msgstr ""
+
+#: src/org.kde.kpat.desktop:244
+msgctxt "Name"
+msgid "Baker's Dozen"
+msgstr ""
+
+#: src/org.kde.kpat.desktop:276
+msgctxt "Name"
+msgid "Castle"
+msgstr ""
+
+#: src/org.kde.kpat.desktop:321
+msgctxt "Name"
+msgid "Forty & Eight"
+msgstr ""
+
+#: src/org.kde.kpat.desktop:352
+msgctxt "Name"
+msgid "Freecell"
+msgstr ""
+
+#: src/org.kde.kpat.desktop:385
+msgctxt "Name"
+msgid "Golf"
+msgstr ""
+
+#: src/org.kde.kpat.desktop:417
+msgctxt "Name"
+msgid "Grandfather"
+msgstr ""
+
+#: src/org.kde.kpat.desktop:448
+msgctxt "Name"
+msgid "Grandfather's Clock"
+msgstr ""
+
+#: src/org.kde.kpat.desktop:480
+msgctxt "Name"
+msgid "Klondike"
+msgstr ""
+
+#: src/org.kde.kpat.desktop:512
+msgctxt "Name"
+msgid "Mod3"
+msgstr ""
+
+#: src/org.kde.kpat.desktop:545
+msgctxt "Name"
+msgid "Normandy"
+msgstr ""
+
+#: src/org.kde.kpat.desktop:577
+msgctxt "Name"
+msgid "Simple Simon"
+msgstr ""
+
+#: src/org.kde.kpat.desktop:608
+msgctxt "Name"
+msgid "Spider"
+msgstr ""
+
+#: src/org.kde.kpat.desktop:653
+msgctxt "Name"
+msgid "Yukon"
+msgstr ""
+
+#: themes/ancientegypt.desktop:2
+msgctxt "Name"
+msgid "Desert Sands"
+msgstr "Gurun Padang Pasir"
+
+#: themes/ancientegypt.desktop:55
+msgctxt "Description"
+msgid "Egyptian style theme."
+msgstr "Tema gaya bangsa mesir"
+
+#: themes/cleangreen.desktop:2
+msgctxt "Name"
+msgid "Clean Green"
+msgstr "Hijau Bersih"
+
+#: themes/cleangreen.desktop:53
+msgctxt "Description"
+msgid "A simple green felt theme"
+msgstr "Sebuah tema rasa hijau sederhana"
+
+#: themes/greenblaze.desktop:2
+msgctxt "Name"
+msgid "Green Blaze"
+msgstr "Hijau Menyala"
+
+#: themes/royalhearts.desktop:2
+msgctxt "Name"
+msgid "Royal Hearts"
+msgstr ""
+
+#: themes/royalhearts.desktop:41
+#, fuzzy
+#| msgctxt "Description"
+#| msgid "Egyptian style theme."
+msgctxt "Description"
+msgid "Card style theme"
+msgstr "Tema gaya bangsa mesir"
+
+#~ msgctxt "Name"
+#~ msgid "Older Theme"
+#~ msgstr "Tema Lawas"
+
+#~ msgctxt "Description"
+#~ msgid "An older, unnamed KPat theme."
+#~ msgstr "Yang lawas, tema KPat tak bernama."

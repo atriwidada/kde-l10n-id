@@ -1,0 +1,73 @@
+# Wantoyek <wantoyek@gmail.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2026-10-07 00:51+0000\n"
+"PO-Revision-Date: 2022-11-12 07:41+0700\n"
+"Last-Translator: Wantoyèk <wantoyek@gmail.com>\n"
+"Language-Team: Indonesian <kde-i18n-doc@kde.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 22.08.1\n"
+
+#. (itstool) path: component/name
+#: org.kde.kjournaldbrowser.appdata.xml:14
+msgid "Journald Browser"
+msgstr "Journald Browser"
+
+#. (itstool) path: component/summary
+#: org.kde.kjournaldbrowser.appdata.xml:15
+msgid "Browser for journald databases"
+msgstr "Penelusur untuk basis data journald"
+
+#. (itstool) path: description/p
+#: org.kde.kjournaldbrowser.appdata.xml:17
+msgid ""
+"Journald-browser is a reference implementation of the kjournald library and "
+"provides a flexible tool to browse in local, remote and offline journald "
+"databases."
+msgstr ""
+"Journald-browser adalah implementasi referensi dari pustaka kjournald dan "
+"menyediakan alat yang fleksibel untuk menelusuri basis data journald di "
+"lokal, jarak jauh dan offline."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kjournaldbrowser.appdata.xml:22
+msgid "Log Browser"
+msgstr "Log Browser"
+
+#. (itstool) path: ul/li
+#: org.kde.kjournaldbrowser.appdata.xml:47
+msgid ""
+"System and user services are displayed in a joint view (can be deactivated)"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.kjournaldbrowser.appdata.xml:48
+msgid ""
+"Pre-filtering of available services/processes in filter configuration for "
+"the selected boot cycle"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.kjournaldbrowser.appdata.xml:49
+msgid "Aggregation option to aggregate templated services by template"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.kjournaldbrowser.appdata.xml:59
+msgid "Reworked search bar with new persistent search history"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.kjournaldbrowser.appdata.xml:60
+msgid "Initial support for user journals"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.kjournaldbrowser.appdata.xml:61
+msgid "Feedback for journal access issues"
+msgstr ""

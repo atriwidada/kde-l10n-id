@@ -1,0 +1,117 @@
+# Wantoyo <wantoyek@gmail.com>, 2021, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-03-15 03:43+0000\n"
+"PO-Revision-Date: 2022-03-16 07:51+0700\n"
+"Last-Translator: Wantoyèk <wantoyek@gmail.com>\n"
+"Language-Team: Indonesian <kde-i18n-doc@kde.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#: kcm_external_plasma-systemmonitor.desktop:14
+#: org.kde.plasma-systemmonitor.desktop:2
+msgctxt "Name"
+msgid "System Monitor"
+msgstr "System Monitor"
+
+#: kcm_external_plasma-systemmonitor.desktop:58
+msgctxt "X-KDE-Keywords"
+msgid "Memory,RAM,cpu,disk,gpu,network"
+msgstr "Memori,RAM,cpu,disk,gpu,jaringan,network"
+
+#: org.kde.plasma-systemmonitor.desktop:45
+msgctxt "GenericName"
+msgid "System Monitor"
+msgstr "Pemantau Sistem"
+
+#: org.kde.plasma-systemmonitor.desktop:92
+msgctxt "Keywords"
+msgid "task;manager;process;cpu;memory;"
+msgstr ""
+
+#: src/faces/applicationstable/metadata.desktop:2
+msgctxt "Name"
+msgid "Applications Table"
+msgstr "Tabel Aplikasi"
+
+#: src/faces/processtable/metadata.desktop:2
+msgctxt "Name"
+msgid "Process Table"
+msgstr "Tabel Proses"
+
+#: src/pages/applications.page:10 src/pages/overview.page:492
+msgctxt "Title"
+msgid "Applications"
+msgstr "Aplikasi"
+
+#: src/pages/history.page:34
+msgctxt "Title"
+msgid "History"
+msgstr "Histori"
+
+#: src/pages/history.page:81 src/pages/overview.page:165
+msgctxt "Title"
+msgid "CPU"
+msgstr "CPU"
+
+#: src/pages/history.page:128 src/pages/history.page:230
+#: src/pages/history.page:332
+msgctxt "Title"
+msgid "false"
+msgstr "false"
+
+#: src/pages/history.page:183 src/pages/overview.page:6
+msgctxt "Title"
+msgid "Memory"
+msgstr "Memori"
+
+#: src/pages/history.page:285
+msgctxt "Title"
+msgid "Network"
+msgstr "Jaringan"
+
+#: src/pages/overview.page:58
+msgctxt "Title"
+msgid "Networks"
+msgstr "Jaringan"
+
+#: src/pages/overview.page:113
+msgctxt "Title"
+msgid "Disk"
+msgstr "Disk"
+
+#: src/pages/overview.page:220
+msgctxt "Title"
+msgid "System"
+msgstr "Sistem"
+
+#: src/pages/overview.page:268
+msgctxt "Title"
+msgid "Network Rates"
+msgstr "Laju Jaringan"
+
+#: src/pages/overview.page:326
+msgctxt "Title"
+msgid "Overview"
+msgstr "Ikhtisar"
+
+#: src/pages/overview.page:409
+msgctxt "Title"
+msgid "Network & System"
+msgstr "Jaringan & Sistem"
+
+#: src/pages/processes.page:10
+msgctxt "Title"
+msgid "Processes"
+msgstr "Proses"
+
+#: src/plasma-systemmonitor.knsrc:4
+msgctxt "Name"
+msgid "Pages"
+msgstr "Halaman"

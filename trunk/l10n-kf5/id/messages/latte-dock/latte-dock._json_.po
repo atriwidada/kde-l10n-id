@@ -1,0 +1,183 @@
+# Wantoyo <wantoyek@gmail.com>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-11-17 09:06+0000\n"
+"PO-Revision-Date: 2019-07-19 07:49+0700\n"
+"Last-Translator: Wantoyo <wantoyek@gmail.com>\n"
+"Language-Team: Indonesian <kde-i18n-doc@kde.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: containmentactions/contextmenu/plasma-containmentactions-lattecontextmenu.json
+msgctxt "Name"
+msgid "Standard Latte Menu"
+msgstr "Menu Latte Standar"
+
+#: containment/package/metadata.json
+msgctxt "Name"
+msgid "Latte Containment"
+msgstr ""
+
+#: indicators/default/metadata.json
+msgctxt "Name"
+msgid "Latte"
+msgstr "Latte"
+
+#: indicators/org.kde.latte.plasma/metadata.json
+msgctxt "Name"
+msgid "Plasma"
+msgstr "Plasma"
+
+#: indicators/org.kde.latte.plasmatabstyle/metadata.json
+msgctxt "Name"
+msgid "Plasma Tab Style"
+msgstr ""
+
+#: plasmoid/package/metadata.json
+msgctxt "Name"
+msgid "Latte Tasks"
+msgstr "Tugas-tugas Latte"
+
+#: shell/package/metadata.json
+msgctxt "Name"
+msgid "Latte Shell"
+msgstr "Shell Latte"
+
+#: containmentactions/contextmenu/plasma-containmentactions-lattecontextmenu.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "The latte menu that normally shows on right-click"
+msgctxt "Description"
+msgid "The latte menu that normally shows on right-click"
+msgstr "Menu latte yang biasanya tampil saat klik-kanan"
+
+#: containment/package/metadata.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Containment provided for the Latte Dock"
+msgctxt "Description"
+msgid "Containment provided for the Latte Dock"
+msgstr "Kontainmen disediakan untuk Dock Latte"
+
+#: indicators/default/metadata.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Latte default indicator"
+msgctxt "Description"
+msgid "Latte default indicator"
+msgstr "Indikator baku latte"
+
+#: indicators/org.kde.latte.plasma/metadata.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Latte Plasma style indicator"
+msgctxt "Description"
+msgid "Latte Plasma style indicator"
+msgstr "Indikator latte gaya Plasma"
+
+#: indicators/org.kde.latte.plasmatabstyle/metadata.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Latte Plasma style indicator"
+msgctxt "Description"
+msgid "Plasma Tab style indicator for Latte"
+msgstr "Indikator latte gaya Plasma"
+
+#: plasmoid/package/metadata.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Tasks plasmoid from Latte Dock"
+msgctxt "Description"
+msgid "Tasks plasmoid from Latte Dock"
+msgstr "Plasmoid tugas-tugas dari Dock Latte"
+
+#: shell/package/metadata.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Shell provided for the Latte Dock"
+msgctxt "Description"
+msgid "Shell provided for the Latte Dock"
+msgstr "Shell disediakan untuk Dock Latte"
+
+#: containmentactions/contextmenu/plasma-containmentactions-lattecontextmenu.json
+#: indicators/default/metadata.json
+#: indicators/org.kde.latte.plasma/metadata.json
+#: indicators/org.kde.latte.plasmatabstyle/metadata.json
+msgctxt "Authors Name"
+msgid "Michail Vourlakos"
+msgstr ""
+
+#: containment/package/metadata.json plasmoid/package/metadata.json
+#: shell/package/metadata.json
+msgctxt "Authors Name"
+msgid "Michail Vourlakos, Smith Ar"
+msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Latte Dock"
+#~ msgstr "Dock Latte"
+
+#~ msgctxt "Comment"
+#~ msgid "Latte Dock"
+#~ msgstr "Dock Latte"
+
+#~ msgctxt "Name"
+#~ msgid "Imported successfully"
+#~ msgstr "Berhasil diimpor"
+
+#~ msgctxt "Name"
+#~ msgid "Failed to import"
+#~ msgstr "Gagal mengimpor"
+
+#~ msgctxt "Name"
+#~ msgid "Exported successfully"
+#~ msgstr "Berhasil diekspor"
+
+#~ msgctxt "Name"
+#~ msgid "Failed to export"
+#~ msgstr "Gagal mengekspor"
+
+#~ msgctxt "Name"
+#~ msgid "Removed successfully"
+#~ msgstr "Berhasil dihapus"
+
+#~ msgctxt "Name"
+#~ msgid "Failed to remove"
+#~ msgstr "Gagal menghapus"
+
+#~ msgctxt "Name"
+#~ msgid "Switch to layout"
+#~ msgstr "Beralih ke tataletak"
+
+#~ msgctxt "Name"
+#~ msgid "Latte Indicators"
+#~ msgstr "Indikator Latte"
+
+#~ msgctxt "Name"
+#~ msgid "Latte Layouts"
+#~ msgstr "Tataletak Latte"
+
+#~ msgctxt "Comment"
+#~ msgid "Dock for the masses"
+#~ msgstr "Dock untuk mengumpulkan"
+
+#~ msgctxt "GenericName"
+#~ msgid "Dock"
+#~ msgstr "Dok"
+
+#~ msgctxt "Comment"
+#~ msgid "Latte indicator"
+#~ msgstr "Indikator latte"
+
+#~ msgctxt "Name"
+#~ msgid "Indicator"
+#~ msgstr "Indikator"
+
+#~ msgctxt "Keywords"
+#~ msgid "shell"
+#~ msgstr "shell"

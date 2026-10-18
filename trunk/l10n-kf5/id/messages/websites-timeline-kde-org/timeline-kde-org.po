@@ -1,0 +1,2066 @@
+#
+# Arif Budiman <arifpedia@gmail.com>, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-timeline-kde-org 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-04-08 02:09+0000\n"
+"PO-Revision-Date: 2024-04-01 19:40+0700\n"
+"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
+"Language-Team: Indonesian <kde-i18n-doc@kde.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: content/_index.md:0
+msgid "Start"
+msgstr "Awal"
+
+#: content/_index.md:0
+msgid "All"
+msgstr "Semua"
+
+#: content/_index.md:0
+msgid "FLOSS Events"
+msgstr "Acara FLOSS"
+
+#: content/_index.md:0
+msgid "KDE Events"
+msgstr "Acara KDE"
+
+#: content/_index.md:0
+msgid "Meetings"
+msgstr "Pertemuan"
+
+#: content/_index.md:0
+msgid "Releases"
+msgstr "Rilis"
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "UNIX is born"
+msgid "UNIX Born"
+msgstr "UNIX lahir"
+
+#: content/_index.md:0
+msgid "Thompson & Ritchie"
+msgstr "Thompson & Ritchie"
+
+#: content/_index.md:0
+msgid ""
+"In 1969, [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) and "
+"[Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) started "
+"working on [UNIX](http://www.unix.org/what_is_unix/history_timeline.html). "
+"Initially written in assembler, it was soon rewritten in [C](https://en."
+"wikipedia.org/wiki/C_(programming_language)), a language created by Ritchie "
+"and considered high level."
+msgstr ""
+"Pada tahun 1969, [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) "
+"dan [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) mulai "
+"mengerjakan [UNIX](http://www.unix.org/what_is_unix/history_timeline.html). "
+"Awalnya ditulis dalam bahasa assembler, kemudian ditulis ulang dalam bahasa "
+"[C](https://en.wikipedia.org/wiki/C_(programming_language)), sebuah bahasa "
+"yang dibuat oleh Ritchie dan dianggap sebagai bahasa tingkat tinggi."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "C++ was created"
+msgid "C++ Created"
+msgstr "C++ diciptakan"
+
+#: content/_index.md:0
+msgid "Bjarne Stroustrup"
+msgstr "Bjarne Stroustrup"
+
+#: content/_index.md:0
+msgid ""
+"In 1979, [Bjarne Stroustrup](http://www.stroustrup.com/bio.html) started "
+"developing \"C with classes\", which would later become the [C++](http://www."
+"softwarepreservation.org/projects/c_plus_plus/). In his opinion, it was the "
+"only language of the time that allowed to write programs that were at the "
+"same time efficient and elegant."
+msgstr ""
+"Pada tahun 1979, [Bjarne Stroustrup](http://www.stroustrup.com/bio.html) "
+"mulai mengembangkan \"C with classes\", yang kemudian menjadi [C++](http://"
+"www.softwarepreservation.org/projects/c_plus_plus/). Menurutnya, ini adalah "
+"satu-satunya bahasa pada saat itu yang memungkinkan untuk menulis program "
+"yang efisien dan elegan."
+
+#: content/_index.md:0
+msgid "Free Software Born"
+msgstr ""
+
+#: content/_index.md:0
+msgid "Richard Stallman"
+msgstr "Richard Stallman"
+
+#: content/_index.md:0
+msgid ""
+"In 1984, [Richard Stallman](https://stallman.org/biographies.html#serious) "
+"started developing [GNU](https://www.gnu.org/gnu/about-gnu.html) (GNU is Not "
+"Unix), a completely free operating system based on Unix, which was "
+"proprietary."
+msgstr ""
+"Pada tahun 1984, [Richard Stallman](https://stallman.org/biographies."
+"html#serious) mulai mengembangkan [GNU](https://www.gnu.org/gnu/about-gnu."
+"html) (GNU is Not Unix), sebuah sistem operasi yang sepenuhnya bebas "
+"berdasarkan Unix, yang merupakan sistem operasi berpemilik."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "The Linux Kernel"
+msgid "Linux Kernel Written"
+msgstr "Kernel Linux"
+
+#: content/_index.md:0
+msgid "Linus Torvalds"
+msgstr "Linus Torvalds"
+
+#: content/_index.md:0
+msgid ""
+"In 1991, [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) "
+"created the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel) based "
+"on [MINIX](http://www.minix3.org/), a version of Unix written by [Andrew "
+"Tanenbaum](http://www.cs.vu.nl/~ast/home/faq.html). The emergence of Linux "
+"has revolutionized the history of free software and helped to popularize it. "
+"See the [25 Years of Linux Kernel Development infographic](https://web."
+"archive.org/web/20190628003733im_/https://www.linux.com/sites/lcom/files/"
+"styles/rendered_file/public/linux-kernel-development-infographic-2016.jpg?"
+"itok=DqVqiplt)."
+msgstr ""
+"Pada tahun 1991, [Linus Torvalds](https://en.wikipedia.org/wiki/"
+"Linus_Torvalds) menciptakan [kernel Linux](https://en.wikipedia.org/wiki/"
+"Linux_kernel) berdasarkan [MINIX](http://www.minix3.org/), sebuah versi Unix "
+"yang ditulis oleh [Andrew Tanenbaum](http://www.cs.vu.nl/~ast/home/faq."
+"html). Kemunculan Linux telah merevolusi sejarah perangkat lunak bebas dan "
+"membantu mempopulerkannya. Lihat infografis [25 Tahun Perkembangan Kernel "
+"Linux](https://web.archive.org/web/20190628003733im_/https://www.linux.com/"
+"sites/lcom/files/styles/rendered_file/public/linux-kernel-development-"
+"infographic-2016.jpg?itok=DqVqiplt)."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "The first distros are born"
+msgid "First Distros Born"
+msgstr "Distro pertama lahir"
+
+#: content/_index.md:0
+msgid "GNU & Tux"
+msgstr "GNU & Tux"
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid ""
+#| "In 1993, the first free distributions begin to emerge, based in [GNU and "
+#| "Linux](http://www.aboutlinux.info/2005/11/complete-concise-history-of-"
+#| "gnulinux.html). A [GNU/Linux distribution](http://futurist.se/gldt/) is "
+#| "usually formed by the Linux kernel, GNU tools and libraries, and more a "
+#| "collection of applications."
+msgid ""
+"In 1993, the first free distributions begin to emerge, based in [GNU]"
+"(https://en.wikipedia.org/wiki/GNU) and [Linux](https://en.wikipedia.org/"
+"wiki/Linux). A GNU/Linux distribution is usually formed by the Linux kernel, "
+"GNU tools and libraries, and more a collection of applications."
+msgstr ""
+"Pada tahun 1993, distribusi bebas pertama mulai muncul, berbasis [GNU dan "
+"Linux](http://www.aboutlinux.info/2005/11/complete-concise-history-of-"
+"gnulinux.html). Sebuah [distribusi GNU/Linux](http://futurist.se/gldt/) "
+"terdiri dari kernel Linux, alat dan pustaka GNU, dan lebih banyak lagi "
+"kumpulan aplikasi."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "Qt was created"
+msgid "Qt Created"
+msgstr "Qt diciptakan"
+
+#: content/_index.md:0
+msgid "Qt logo"
+msgstr "Logo Qt"
+
+#: content/_index.md:0
+msgid ""
+"In 1995, the Norwegian company Troll Tech created the cross-platform "
+"framework [Qt](https://wiki.qt.io/About_Qt), with which KDE would be created "
+"in the following year. Qt became the basis of the main KDE technologies in "
+"these 20 years. Learn more about [Qt History](https://wiki.qt.io/Qt_History)."
+msgstr ""
+"Pada tahun 1995, perusahaan Norwegia Troll Tech menciptakan framework lintas "
+"platform [Qt](https://wiki.qt.io/About_Qt), yang akan digunakan untuk "
+"membuat KDE pada tahun berikutnya. Qt menjadi dasar dari teknologi utama KDE "
+"dalam 20 tahun ini. Pelajari lebih lanjut tentang [Sejarah Qt](https://wiki."
+"qt.io/Qt_History)."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE was announced"
+msgid "KDE Announced"
+msgstr "KDE diumumkan"
+
+#: content/_index.md:0
+msgid "Matthias Ettrich"
+msgstr "Matthias Ettrich"
+
+#: content/_index.md:0
+msgid ""
+"In 1996, [Matthias Ettrich](http://www.linuxjournal.com/article/6834) "
+"announced the creation of Kool Desktop Environment (KDE), a graphical "
+"interface for Unix systems, built with Qt and C ++ and designed for the end "
+"user. The name \"KDE\" was a pun on the graphic environment [CDE](https://en."
+"wikipedia.org/wiki/Common_Desktop_Environment), which was proprietary at the "
+"time. Read [the original announcement](https://www.kde.org/announcements/"
+"announcement.php) of the KDE Project."
+msgstr ""
+"Pada tahun 1996, [Matthias Ettrich](http://www.linuxjournal.com/"
+"article/6834) mengumumkan pembuatan Kool Desktop Environment (KDE), sebuah "
+"antarmuka grafis untuk sistem Unix, yang dibuat dengan Qt dan C++ dan "
+"didesain untuk pengguna akhir. Nama \"KDE\" merupakan permainan kata dari "
+"lingkungan grafis [CDE](https://en.wikipedia.org/wiki/"
+"Common_Desktop_Environment), yang merupakan produk berpemilik pada saat itu. "
+"Baca [pengumuman asli](https://www.kde.org/announcements/announcement.php) "
+"dari Proyek KDE."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE One Conference"
+msgid "KDE One Conference Held in Arnsberg"
+msgstr "Konferensi KDE One"
+
+#: content/_index.md:0
+msgid "Cornelius Schumacher's Archive"
+msgstr "Arsip Cornelius Schumacher"
+
+#: content/_index.md:0
+msgid ""
+"In 1997, about 15 KDE developers met in Arnsberg, Germany, to work on the "
+"project and discuss its future. This event became known as [KDE One](https://"
+"community.kde.org/KDE_Project_History/KDE_One_(Developer_Meeting))."
+msgstr ""
+"Pada tahun 1997, sekitar 15 pengembang KDE bertemu di Arnsberg, Jerman, "
+"untuk mengerjakan proyek ini dan mendiskusikan masa depannya. Acara ini "
+"dikenal sebagai [KDE One](https://community.kde.org/KDE_Project_History/"
+"KDE_One_(Developer_Meeting)) atau KDE Satu."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE 1 was released"
+msgid "KDE Beta 1 Released"
+msgstr "KDE 1 dirilis"
+
+#: content/_index.md:0
+msgid "KDE Beta 1 Screenshot"
+msgstr "Tangkapan layar KDE Beta 1"
+
+#: content/_index.md:0
+msgid ""
+"The beta 1 version of KDE was [released](https://www.kde.org/announcements/"
+"beta1announce.php) exactly 12 months after the project announcement. The "
+"release text emphasized that KDE was not a window manager, but an integrated "
+"environment in which the window manager was just another part."
+msgstr ""
+"Versi beta 1 dari KDE [dirilis](https://www.kde.org/announcements/"
+"beta1announce.php) tepat 12 bulan setelah pengumuman proyek. Teks rilis "
+"menekankan bahwa KDE bukanlah sebuah window manager, tetapi sebuah "
+"lingkungan yang terintegrasi yang mana window manager hanyalah salah satu "
+"bagiannya."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE e.V. was founded"
+msgid "KDE e.V. Founded"
+msgstr "KDE e.V. didirikan"
+
+#: content/_index.md:0
+msgid "KDE e.V. logo"
+msgstr "Logo KDE e.V."
+
+#: content/_index.md:0
+msgid ""
+"In 1997, [KDE e.V.](https://ev.kde.org/), the nonprofit that represents the "
+"KDE community financially and legally, was founded in Tübingen, Germany."
+msgstr ""
+"Pada tahun 1997, [KDE e.V.](https://ev.kde.org/), sebuah organisasi nirlaba "
+"yang mewakili komunitas KDE secara finansial dan hukum, didirikan di "
+"Tübingen, Jerman."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE Free Qt Foundation was created"
+msgid "KDE Free Qt Foundation Created"
+msgstr "KDE Free Qt Foundation dibentuk"
+
+#: content/_index.md:0
+msgid "Konqi with Qt in its heart"
+msgstr "Konqi dengan Qt di hatinya"
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid ""
+#| "The foundation agreement for the [KDE Free Qt Foundation](https://www.kde."
+#| "org/community/whatiskde/kdefreeqtfoundation.php) is signed by KDE e.V. "
+#| "and Trolltech, then owner of Qt. The Foundation [ensures the permanent "
+#| "availability](https://dot.kde.org/2016/01/13/qt-guaranteed-stay-free-and-"
+#| "open-%E2%80%93-legal-update) of Qt as Free Software."
+msgid ""
+"The foundation agreement for the [KDE Free Qt Foundation](https://www.kde."
+"org/community/whatiskde/kdefreeqtfoundation.php) is signed by KDE e.V. and "
+"Trolltech, then owner of Qt. The Foundation [ensures the permanent "
+"availability](https://dot.kde.org/2016/01/13/qt-guaranteed-stay-free-and-"
+"open--legal-update/) of Qt as Free Software."
+msgstr ""
+"Perjanjian dasar untuk [KDE Free Qt Foundation](https://www.kde.org/"
+"community/whatiskde/kdefreeqtfoundation.php) ditandatangani oleh KDE e.V. "
+"dan Trolltech, yang pada saat itu adalah pemilik Qt. Yayasan ini [memastikan "
+"ketersediaan permanen](https://dot.kde.org/2016/01/13/qt-guaranteed-stay-"
+"free-and-open-%E2%80%93-legal-update) dari Qt sebagai Perangkat Lunak Bebas."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE 1 was released"
+msgid "KDE 1 Released"
+msgstr "KDE 1 dirilis"
+
+#: content/_index.md:0
+msgid "KDE 1"
+msgstr "KDE 1"
+
+#: content/_index.md:0
+msgid ""
+"KDE released the [first stable version](https://www.kde.org/announcements/"
+"announce-1.0.php) of its graphical environment in 1998, with highlights as "
+"an application development framework, the KOM/OpenParts, and a preview of "
+"its office suite."
+msgstr ""
+"KDE merilis [versi stabil pertama](https://www.kde.org/announcements/"
+"announce-1.0.php) dari lingkungan grafisnya pada tahun 1998, dengan fitur-"
+"fitur utama seperti kerangka kerja pengembangan aplikasi, KOM/OpenParts, dan "
+"pratinjau dari paket perkantoran."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "Konqi developer"
+msgid "Konqi Adopted"
+msgstr "Pengembang Konqi"
+
+#: content/_index.md:0
+msgid "Konqi"
+msgstr "Konqi"
+
+#: content/_index.md:0
+msgid ""
+"In April 1999, a dragon is announced as the new animated assistant to the "
+"KDE Help Center. It was so charming that it replaced the previous project "
+"mascot, Kandalf, from version 3.x on. See the [KDE 2 Screenshot](/images/"
+"kde2b3_5.png) showing Konqi and Kandalf."
+msgstr ""
+"Pada bulan April 1999, seekor naga diumumkan sebagai asisten animasi baru "
+"untuk Pusat Bantuan KDE. Ia sangat menawan sehingga menggantikan maskot "
+"proyek sebelumnya, yaitu Kandalf, mulai versi 3.x dan seterusnya. Lihat "
+"[Tangkapan layar KDE 2](/images/kde2b3_5.png) yang memperlihatkan Konqi dan "
+"Kandalf."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE Two Conference"
+msgid "KDE Two Conference Held in Erlangen"
+msgstr "Konferensi KDE Dua"
+
+#: content/_index.md:0
+msgid "Group Photo (Cornelius Schumacher's Archive)"
+msgstr "Foto Bersama (Arsip Cornelius Schumacher)"
+
+#: content/_index.md:0
+msgid ""
+"In October 1999, the second meeting of KDE developers took place in "
+"Erlangen, Germany. Read the [report](https://community.kde.org/"
+"KDE_Project_History/KDE_Two_(Developer_Meeting)) on the KDE Two Conference."
+msgstr ""
+"Pada bulan Oktober 1999, pertemuan kedua para pengembang KDE berlangsung di "
+"Erlangen, Jerman. Baca [laporan](https://community.kde.org/"
+"KDE_Project_History/KDE_Two_(Developer_Meeting)) tentang Konferensi KDE Dua."
+
+#: content/_index.md:0
+msgid "The Kool Desktop Environment Becomes 'The KDE Desktop'"
+msgstr ""
+
+#: content/_index.md:0
+msgid "KDE 2 logo"
+msgstr "Logo KDE 2"
+
+#: content/_index.md:0
+msgid ""
+"From the [beta 1 version of KDE 2](https://www.kde.org/announcements/"
+"announce-1.90.php) it is possible to perceive a project naming change. The "
+"releases that once referred to the project as \"K Desktop Environment\", "
+"began referring to it only as \"KDE Desktop\"."
+msgstr ""
+"Mulai dari [versi beta 1 dari KDE 2](https://www.kde.org/announcements/"
+"announce-1.90.php), Anda dapat melihat adanya perubahan penamaan proyek. "
+"Rilis yang tadinya menyebut proyek ini sebagai \"K Desktop Environment\", "
+"kini hanya menyebutnya sebagai \"KDE Desktop\"."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE Three Beta Conference"
+msgid "KDE Three Beta Conference Held in Trysil"
+msgstr "Konferensi KDE Tiga Beta"
+
+#: content/_index.md:0
+msgid ""
+"In July 2000, the third meeting (beta) of KDE developers occurred in Trysil, "
+"Norway. [Find out](https://community.kde.org/KDE_Project_History/"
+"KDE_Three_Beta_(Developer_Meeting)) what was done during the conference."
+msgstr ""
+"Pada bulan Juli 2000, pertemuan ketiga (beta) para pengembang KDE diadakan "
+"di Trysil, Norwegia. [Cari tahu](https://community.kde.org/"
+"KDE_Project_History/KDE_Three_Beta_(Developer_Meeting)) apa yang dilakukan "
+"selama konferensi tersebut."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE 2 was released"
+msgid "KDE 2 Released"
+msgstr "KDE 2 dirilis"
+
+#: content/_index.md:0
+msgid "KDE 2"
+msgstr "KDE 2"
+
+#: content/_index.md:0
+msgid ""
+"KDE [released](https://kde.org/announcements/1-2-3/2.0/) its second version, "
+"featuring as main news [Konqueror](https://konqueror.org/) web browser and "
+"file manager; and the office suite [KOffice](https://en.wikipedia.org/wiki/"
+"KOffice). KDE had its code almost entirely rewritten for this second version."
+msgstr ""
+"KDE [merilis](https://kde.org/announcements/1-2-3/2.0/) versi kedua, dengan "
+"menampilkan berita utama peramban web dan pengelola berkas [Konqueror]"
+"(https://konqueror.org/); dan paket perkantoran [KOffice](https://en."
+"wikipedia.org/wiki/KOffice). KDE memiliki kode yang hampir seluruhnya "
+"ditulis ulang untuk versi kedua ini."
+
+#: content/_index.md:0
+msgid "KDE Becomes 'The KDE Project'"
+msgstr ""
+
+#: content/_index.md:0
+msgid "KDE 2.1 Splashscreen"
+msgstr "Layar pembuka KDE 2.1"
+
+#: content/_index.md:0
+msgid ""
+"From the [release announcement](https://www.kde.org/announcements/"
+"announce-2.1.2.php) of version 2.1.2 there is also a change of the "
+"nomenclature. The announcements began referring to KDE as \"KDE Project\"."
+msgstr ""
+"Sejak [pengumuman rilis](https://www.kde.org/announcements/announce-2.1.2."
+"php) versi 2.1.2 juga terdapat perubahan penamaan. Pengumuman tersebut mulai "
+"menyebut KDE sebagai \"Proyek KDE\"."
+
+#: content/_index.md:0
+msgid "KDE Women Group Created"
+msgstr ""
+
+#: content/_index.md:0
+msgid "Original design for Katie, KDE's new mascot"
+msgstr ""
+
+#: content/_index.md:0
+msgid ""
+"In March 2001, the creation of community women's group was announced. The "
+"[KDE Women](https://community.kde.org/KDE_Women) aimed to help increase the "
+"number of women in free software communities, particularly in KDE. Watch the "
+"video [\"Highlights of KDE Women\"](https://www.youtube.com/watch?v=HTwQ-"
+"oGTmGA) of the Akademy 2010."
+msgstr ""
+"Pada bulan Maret 2001, pembentukan kelompok komunitas wanita diumumkan. [KDE "
+"Women](https://community.kde.org/KDE_Women) bertujuan untuk membantu "
+"meningkatkan jumlah perempuan dalam komunitas perangkat lunak bebas, "
+"khususnya di KDE. Tonton video [\"Highlights of KDE Women\"](https://www."
+"youtube.com/watch?v=HTwQ-oGTmGA) dari Akademy 2010."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE Three Meeting"
+msgid "KDE Three Meeting Held in Nuremberg"
+msgstr "Pertemuan KDE Tiga"
+
+#: content/_index.md:0
+msgid "Group Photo of KDE Three"
+msgstr "Foto Bersama KDE Tiga"
+
+#: content/_index.md:0
+msgid ""
+"In March 2002, about 25 developers gathered for the [third KDE meeting]"
+"(https://community.kde.org/KDE_Project_History/"
+"KDE_Three_(Developer_Meeting)) in Nuremberg, Germany. KDE 3 was about to be "
+"released and the KDE 2 code needed to be migrated to the new library Qt 3."
+msgstr ""
+"Pada bulan Maret 2002, sekitar 25 pengembang berkumpul untuk [pertemuan KDE "
+"ketiga](https://community.kde.org/KDE_Project_History/"
+"KDE_Three_(Developer_Meeting)) di Nuremberg, Jerman. KDE 3 akan segera "
+"dirilis dan kode KDE 2 harus dimigrasikan ke pustaka baru Qt 3."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE 1 was released"
+msgid "KDE 3 Released"
+msgstr "KDE 1 dirilis"
+
+#: content/_index.md:0
+msgid "KDE 3"
+msgstr "KDE 3"
+
+#: content/_index.md:0
+msgid ""
+"KDE released its [third version](https://kde.org/announcements/1-2-3/3.0/), "
+"showing as important additions a new print framework, KDEPrint; the "
+"translation of the project for 50 languages; and a package of educational "
+"applications, maintained by the KDE Edutainment Project."
+msgstr ""
+"KDE merilis [versi ketiga](https://kde.org/announcements/1-2-3/3.0/), dengan "
+"tambahan penting berupa kerangka kerja percetakan baru, yaitu KDEPrint; "
+"terjemahan proyek ke dalam 50 bahasa; dan sebuah paket aplikasi pendidikan, "
+"yang dikelola oleh Proyek KDE Edutainment."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE e.V. meeting"
+msgid "KDE e.V. Meeting Held in Hamburg"
+msgstr "Pertemuan KDE e.V."
+
+#: content/_index.md:0
+msgid ""
+"In August 2002, there was a [meeting of board members of the KDE e.V.]"
+"(https://ev.kde.org/reports/2002.php) that was essential to establish how "
+"the organization works. At this meeting it was decided, among other things, "
+"that the brand \"KDE\" would be registered and that new members should be "
+"invited and supported by two active members of e.V.."
+msgstr ""
+"Pada bulan Agustus 2002, diadakan [pertemuan anggota dewan KDE e.V.](https://"
+"ev.kde.org/reports/2002.php) yang sangat penting untuk menetapkan cara kerja "
+"organisasi. Pada pertemuan ini diputuskan, antara lain, bahwa merek \"KDE\" "
+"akan didaftarkan dan anggota baru harus diundang dan didukung oleh dua "
+"anggota aktif e.V.."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE 1 was released"
+msgid "KDE 3.1 Released"
+msgstr "KDE 1 dirilis"
+
+#: content/_index.md:0
+msgid "KDE 3.1"
+msgstr "KDE 3.1"
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid ""
+#| "In [version 3.1](https://kde.org/announcements/1-2-3/3.1/) the community "
+#| "presented KDE with a new look, a new theme for widgets, called Keramik, "
+#| "and Crystal as default theme for the icons. See [KDE 3.1 New Feature "
+#| "Guide](https://kde.org/info/3.1/feature_guide_1/)."
+msgid ""
+"In [version 3.1](https://kde.org/announcements/1-2-3/3.1/) the community "
+"presented KDE with a new look, a new theme for widgets, called Keramik, and "
+"Crystal as default theme for the icons. See [KDE 3.1 New Feature Guide]"
+"(https://kde.org/info/1-2-3/3.1/feature_guide_1.html)."
+msgstr ""
+"Pada [versi 3.1](https://kde.org/announcements/1-2-3/3.1/) komunitas "
+"menyajikan KDE dengan tampilan baru, tema baru untuk widget yang disebut "
+"Keramik, dan Kristal sebagai tema default untuk ikon. Lihat [KDE 3.1 Panduan "
+"Fitur Baru](https://kde.org/info/3.1/feature_guide_1/)."
+
+#: content/_index.md:0
+msgid "Kastle Conference Held in Brno"
+msgstr ""
+
+#: content/_index.md:0
+msgid "Group Photo of Kastle"
+msgstr "Foto Bersama Kastle"
+
+#: content/_index.md:0
+msgid ""
+"In August 2003, about 100 contributors of KDE from various countries "
+"gathered in a castle in the Czech Republic. The event was called [Kastle]"
+"(https://akademy.kde.org/2003) and was the forerunner of Akademy, the event "
+"that would become the international annual meeting of the community."
+msgstr ""
+"Pada bulan Agustus 2003, sekitar 100 kontributor KDE dari berbagai negara "
+"berkumpul di sebuah kastil di Republik Ceko. Acara tersebut dinamakan "
+"[Kastle](https://akademy.kde.org/2003) dan merupakan cikal bakal Akademy, "
+"sebuah acara yang kemudian menjadi pertemuan tahunan internasional komunitas "
+"ini."
+
+#: content/_index.md:0
+msgid "Akademy 2004 Held in Ludwigsburg"
+msgstr ""
+
+#: content/_index.md:0
+msgid "Group Photo of Akademy 2004"
+msgstr "Foto Bersama Akademy 2004"
+
+#: content/_index.md:0
+msgid ""
+"In August 2004, the [first international meeting of the community](https://"
+"conference2004.kde.org/) took place. The event was held in Ludwigsburg, "
+"Germany, and launched a series of international events called [\"Akademy\"]"
+"(https://akademy.kde.org/) which take place annually since then. The event "
+"got its name because it happened in the \"Filmakademie\" city film school. "
+"See the [group photos](https://devel-home.kde.org/~duffus/akademy/) of all "
+"Akademies."
+msgstr ""
+"Pada bulan Agustus 2004, [pertemuan internasional pertama komunitas ini]"
+"(https://conference2004.kde.org/) berlangsung. Acara ini diadakan di "
+"Ludwigsburg, Jerman, dan meluncurkan serangkaian acara internasional yang "
+"disebut [\"Akademy\"](https://akademy.kde.org/) yang berlangsung setiap "
+"tahun sejak saat itu. Acara ini dinamakan demikian karena diselenggarakan di "
+"sekolah film kota \"Filmakademie\". Lihat [foto grup](https://devel-home.kde."
+"org/~duffus/akademy/) dari semua Akademi."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE 1 was released"
+msgid "KDE 3.5 Released"
+msgstr "KDE 1 dirilis"
+
+#: content/_index.md:0
+msgid "KDE 3.5"
+msgstr "KDE 3.5"
+
+#: content/_index.md:0
+msgid ""
+"[KDE 3.5 was released](https://www.kde.org/announcements/announce-3.5.php). "
+"This version introduced several new features, among them, the SuperKaramba, "
+"a tool that allowed customize your desktop with \"applets\"; the Amarok and "
+"Kaffeine players; and the media burner K3B. See [KDE 3.5: A Visual Guide to "
+"New Features](https://www.kde.org/announcements/visualguide-3.5.php)."
+msgstr ""
+"[KDE 3.5 dirilis](https://www.kde.org/announcements/announce-3.5.php). Versi "
+"ini memperkenalkan beberapa fitur baru, di antaranya, SuperKaramba, sebuah "
+"alat yang memungkinkan untuk mengkustomisasi desktop Anda dengan \"applet\"; "
+"pemutar Amarok dan Kaffeine; dan media burner K3B. Lihat [KDE 3.5: Panduan "
+"Visual untuk Fitur Baru](https://www.kde.org/announcements/visualguide-3.5."
+"php)."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "First in-person post-Pandemic Akademy held in Barcelona"
+msgid "First Akademy-Es Held in Barcelona"
+msgstr ""
+"Akademy pasca-Pandemi pertama yang diadakan secara langsung di Barcelona"
+
+#: content/_index.md:0
+msgid "First Akademy-es photo"
+msgstr "Foto Akademy-es pertama"
+
+#: content/_index.md:0
+msgid ""
+"In March 2006, the [first meeting](https://dot.kde.org/2006/02/10/akademy-"
+"es-2006-barcelona) of Spanish KDE contributors took place in Barcelona. "
+"Since then, Akademy-Es has turned into an annual event. Learn more about "
+"[Spanish KDE contributors group](https://www.kde-espana.org/)."
+msgstr ""
+"Pada bulan Maret 2006, [pertemuan pertama](https://dot.kde.org/2006/02/10/"
+"akademy-es-2006-barcelona) kontributor KDE Spanyol berlangsung di Barcelona. "
+"Sejak saat itu, Akademy-Es telah berubah menjadi acara tahunan. Pelajari "
+"lebih lanjut tentang [grup kontributor KDE Spanyol](https://www.kde-espana."
+"org/)."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE Four Core meeting"
+msgid "KDE Four Core Meeting in Trysill"
+msgstr "Pertemuan Inti KDE Empat"
+
+#: content/_index.md:0
+msgid ""
+"In July 2006, the developers of the KDE core libraries gathered in Trysill, "
+"Norway, for the [KDE Four Core meeting](https://dot.kde.org/2006/06/26/kde-"
+"libs-hackers-meet-kde-four-core). The event was a kind of successor to the "
+"KDE Beta Three Conference and KDE Three Meeting and in it developers worked "
+"on the development of KDE 4 and stabilization of some core libraries to the "
+"project."
+msgstr ""
+"Pada bulan Juli 2006, para pengembang pustaka inti KDE berkumpul di Trysill, "
+"Norwegia, untuk menghadiri [Pertemuan Inti KDE Empat](https://dot.kde."
+"org/2006/06/26/kde-libs-hackers-meet-kde-four-core). Acara ini adalah "
+"semacam penerus dari Konferensi KDE Beta Tiga dan Pertemuan KDE Tiga dan di "
+"dalamnya para pengembang mengerjakan pengembangan KDE 4 dan stabilisasi "
+"beberapa pustaka inti untuk proyek ini."
+
+#: content/_index.md:0
+msgid "Guademy Held in in A Coruña"
+msgstr ""
+
+#: content/_index.md:0
+msgid "Group Photo of Guademy"
+msgstr "Foto Bersama Guademy"
+
+#: content/_index.md:0
+msgid ""
+"In March 2007, several contributors of KDE and [Gnome](https://www.gnome."
+"org/) met in A Coruña, Spain, an event which sought to establish a "
+"collaboration between the two projects. The event became known as [Guademy]"
+"(https://dot.kde.org/2007/03/28/guademy-2007-event-report), a mixture of "
+"[Guadec](https://wiki.gnome.org/GUADEC), the name given to the Gnome event "
+"with Akademy, KDE event name."
+msgstr ""
+"Pada bulan Maret 2007, beberapa kontributor KDE dan [Gnome](https://www."
+"gnome.org/) bertemu di A Coruña, Spanyol, dalam sebuah acara yang bertujuan "
+"untuk membangun kolaborasi antara kedua proyek tersebut. Acara tersebut "
+"dikenal sebagai [Guademy](https://dot.kde.org/2007/03/28/guademy-2007-event-"
+"report), gabungan dari [Guadec](https://wiki.gnome.org/GUADEC), nama yang "
+"diberikan untuk acara Gnome dengan Akademy, nama acara KDE."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE 4 Alpha 1"
+msgid "KDE 4 Alpha 1 Released"
+msgstr "KDE 4 Alpha 1"
+
+#: content/_index.md:0
+msgid "KDE 4 Alpha 1"
+msgstr "KDE 4 Alpha 1"
+
+#: content/_index.md:0
+msgid ""
+"In May 2007, [the alpha 1 version of KDE 4](https://www.kde.org/"
+"announcements/announce-4.0-alpha1.php), codenamed \"Knut\", was announced. "
+"This announcement showed a completely new desktop, with a new theme, Oxygen, "
+"new applications like Okular and Dolphin, and a new desktop shell, Plasma. "
+"See [KDE 4.0 Alpha 1: A Visual Guide to New Features](https://www.kde.org/"
+"announcements/visualguide-4.0-alpha1.php)."
+msgstr ""
+"Pada bulan Mei 2007, [versi alfa 1 dari KDE 4](https://www.kde.org/"
+"announcements/announce-4.0-alpha1.php), dengan nama kode \"Knut\", "
+"diumumkan. Pengumuman ini menunjukkan desktop yang benar-benar baru, dengan "
+"tema baru, Oxygen, aplikasi baru seperti Okular dan Dolphin, dan shell "
+"desktop baru, bernama Plasma. Lihat [KDE 4.0 Alpha 1: Panduan Visual untuk "
+"Fitur Baru](https://www.kde.org/announcements/visualguide-4.0-alpha1.php)."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE 4 Development Platform"
+msgid "KDE 4 Development Platform Released"
+msgstr "Platform Pengembangan KDE 4"
+
+#: content/_index.md:0
+msgid "Konqi developer"
+msgstr "Pengembang Konqi"
+
+#: content/_index.md:0
+msgid ""
+"In October 2007, KDE announced the [release candidate](https://www.kde.org/"
+"announcements/announce-4.0-platform-rc1.php) of its development platform "
+"consisting of basic libraries and tools to develop KDE applications."
+msgstr ""
+"Pada bulan Oktober 2007, KDE mengumumkan [release candidate](https://www.kde."
+"org/announcements/announce-4.0-platform-rc1.php) dari platform "
+"pengembangannya yang terdiri dari pustaka dasar dan alat untuk mengembangkan "
+"aplikasi KDE."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE 1 was released"
+msgid "KDE 4 Released"
+msgstr "KDE 1 dirilis"
+
+#: content/_index.md:0
+msgid "KDE 4.0"
+msgstr "KDE 4.0"
+
+#: content/_index.md:0
+msgid ""
+"In 2008, the community [announced the revolutionary KDE 4](https://kde.org/"
+"announcements/4/4.0/). In addition to the visual impact of the new default "
+"theme, Oxygen, and the new desktop interface, Plasma; KDE 4 also innovated "
+"by presenting the following applications: the PDF reader Okular, the Dolphin "
+"file manager, as well as KWin, supporting graphics effects. See [KDE 4.0 "
+"Visual Guide](https://kde.org/announcements/4/4.0/guide/)."
+msgstr ""
+"Pada tahun 2008, komunitas [mengumumkan KDE 4 yang revolusioner](https://kde."
+"org/announcements/4/4.0/). Selain dampak visual dari tema default baru, "
+"Oxygen, dan antarmuka desktop baru, yaitu Plasma; KDE 4 juga berinovasi "
+"dengan menghadirkan aplikasi berikut ini: pembaca PDF Okular, pengelola "
+"berkas Dolphin, dan juga KWin yang mendukung efek grafis. Lihat [Panduan "
+"Visual KDE 4.0](https://kde.org/announcements/4/4.0/guide/)."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE Community"
+msgid "KDE Becomes the Community"
+msgstr "Komunitas KDE"
+
+#: content/_index.md:0
+msgid "Konqis community"
+msgstr "Komunitas Konqis"
+
+#: content/_index.md:0
+msgid ""
+"From the [announcement of version 4.1](https://www.kde.org/"
+"announcements/4.1/) on there was already a tendency to refer to KDE as a "
+"\"community\" and not just as a \"project\". This change was recognized and "
+"affirmed in the rebranding announcement of the following year."
+msgstr ""
+"Sejak [pengumuman versi 4.1](https://www.kde.org/announcements/4.1/) sudah "
+"ada kecenderungan untuk menyebut KDE sebagai \"komunitas\" dan bukan hanya "
+"sebagai \"proyek\". Perubahan ini diakui dan ditegaskan pada pengumuman "
+"perubahan nama pada tahun berikutnya."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "First Camp KDE"
+msgid "First Camp KDE Held in Negril"
+msgstr "Kemah Pertama KDE"
+
+#: content/_index.md:0
+msgid "Group Photo of 2009"
+msgstr "Foto Bersama 2009"
+
+#: content/_index.md:0
+msgid ""
+"In January 2009, [the first edition of Camp KDE](https://techbase.kde.org/"
+"Events/CampKDE/2009) took place in Negril, Jamaica. It was the first KDE "
+"event in the Americas. After that, there were two more US-based conferences, "
+"[in 2010 in San Diego](https://dot.kde.org/2010/01/17/day-one-camp-"
+"kde-2010), and another [in 2011 in San Francisco](https://dot.kde."
+"org/2011/04/13/re-live-camp-kde-experience)."
+msgstr ""
+"Pada bulan Januari 2009, [edisi pertama Kemah KDE](https://techbase.kde.org/"
+"Events/CampKDE/2009) berlangsung di Negril, Jamaika. Itu adalah acara KDE "
+"pertama di Amerika. Setelah itu, ada dua konferensi yang berbasis di Amerika "
+"Serikat, [pada tahun 2010 di San Diego](https://dot.kde.org/2010/01/17/day-"
+"one-camp-kde-2010), dan satu lagi [pada tahun 2011 di San Francisco](https://"
+"dot.kde.org/2011/04/13/re-live-camp-kde-experience)."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "Gran Canaria Desktop Summit"
+msgid "Gran Canaria Desktop Summit Held in... Gran Canaria"
+msgstr "Gran Canaria Desktop Summit"
+
+#: content/_index.md:0
+msgid "Group Photo of DS 2009"
+msgstr "Foto Kelompok DS 2009"
+
+#: content/_index.md:0
+msgid ""
+"In July 2009, the first [Desktop Summit](http://www.grancanariadesktopsummit."
+"org/), a joint conference of the KDE and Gnome communities, took place in "
+"Gran Canaria, Spain. The [Akademy 2009](https://dot.kde.org/2009/07/14/"
+"vibrant-community-propels-kde-forward-akademy-2009) was held with this event."
+msgstr ""
+"Pada bulan Juli 2009, [Desktop Summit](http://www.grancanariadesktopsummit."
+"org/) yang pertama, sebuah konferensi gabungan dari komunitas KDE dan Gnome, "
+"berlangsung di Gran Canaria, Spanyol. Acara [Akademy 2009](https://dot.kde."
+"org/2009/07/14/vibrant-community-propels-kde-forward-akademy-2009) diadakan "
+"bersamaan dengan acara ini."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "1 million of commits"
+msgid "1 Million Commits Reached"
+msgstr "1 juta commit"
+
+#: content/_index.md:0
+msgid "Active contributors at the time"
+msgstr "Kontributor aktif pada saat itu"
+
+#: content/_index.md:0
+msgid ""
+"The community [reached the mark of 1 million of commits](https://dot.kde."
+"org/2009/07/20/kde-reaches-1000000-commits-its-subversion-repository). From "
+"500,000 in January 2006 and 750,000 in December 2007, only 19 months later, "
+"contributions reached the 1 million mark. The increase in these "
+"contributions coincides with the launch of innovative KDE 4."
+msgstr ""
+"Komunitas [mencapai angka 1 juta commit](https://dot.kde.org/2009/07/20/kde-"
+"reaches-1000000-commits-its-subversion-repository). Dari 500.000 pada "
+"Januari 2006 dan 750.000 pada Desember 2007, hanya dalam waktu 19 bulan, "
+"kontribusi telah mencapai angka 1 juta. Peningkatan kontribusi ini "
+"bertepatan dengan peluncuran KDE 4 yang inovatif."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "First Randa Meetings"
+msgid "First Randa Meetings Held"
+msgstr "Pertemuan Randa yang Pertama"
+
+#: content/_index.md:0
+msgid "Group photo of first RM"
+msgstr "Foto bersama RM pertama"
+
+#: content/_index.md:0
+msgid ""
+"In September 2009, [the first](https://dot.kde.org/2009/09/08/third-plasma-"
+"summit-lifts-kde-desktop-higher-grounds) of a series of events known as "
+"[Randa Meetings](https://community.kde.org/Sprints/Randa) took place in "
+"Randa, in Swiss Alps. The event brought together several sprints of various "
+"community projects. Since then, Randa Meetings take place annually."
+msgstr ""
+"Pada bulan September 2009, [yang pertama](https://dot.kde.org/2009/09/08/"
+"third-plasma-summit-lifts-kde-desktop-higher-grounds) dari serangkaian acara "
+"yang dikenal sebagai [Randa Meetings](https://community.kde.org/Sprints/"
+"Randa) berlangsung di Randa, di Pegunungan Alpen Swiss. Acara ini "
+"mempertemukan beberapa sprint dari berbagai proyek komunitas. Sejak saat "
+"itu, Randa Meetings diadakan setiap tahun."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "Rebranding"
+msgid "KDE Rebranded"
+msgstr "Rebranding"
+
+#: content/_index.md:0
+msgid "Brand graph"
+msgstr "Grafik merek"
+
+#: content/_index.md:0
+msgid ""
+"In November 2009, the community [announced](https://dot.kde.org/2009/11/24/"
+"repositioning-kde-brand) changes to its brand. The name \"K Desktop "
+"Environment\" had become ambiguous and obsolete and is replaced by \"KDE\". "
+"The name \"KDE\" is no longer just referring to a desktop environment, but "
+"now represents both the community and the project umbrella supported by this "
+"community."
+msgstr ""
+"Pada bulan November 2009, komunitas ini [mengumumkan](https://dot.kde."
+"org/2009/11/24/repositioning-kde-brand) perubahan pada mereknya. Nama \"K "
+"Desktop Environment\" telah menjadi rancu dan usang dan digantikan oleh \"KDE"
+"\". Nama \"KDE\" tidak lagi hanya mengacu pada lingkungan desktop, tetapi "
+"sekarang mewakili komunitas dan payung proyek yang didukung oleh komunitas "
+"ini."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE Software Compilation"
+msgid "KDE Software Compilation Becomes a \"Thing\""
+msgstr "KDE Software Compilation"
+
+#: content/_index.md:0
+msgid "Brand Map"
+msgstr "Peta Merek"
+
+#: content/_index.md:0
+msgid ""
+"From [version 4.3.4](https://www.kde.org/announcements/announce-4.3.4.php) "
+"on, KDE announcements began to refer to the whole suite of products as 'KDE "
+"Software Compilation' (KDE SC). Currently, this trend is abandoned."
+msgstr ""
+"Sejak [versi 4.3.4](https://www.kde.org/announcements/announce-4.3.4.php), "
+"pengumuman KDE mulai merujuk seluruh rangkaian produk sebagai 'KDE Software "
+"Compilation' (KDE SC). Saat ini, tren ini sudah ditinggalkan."
+
+#: content/_index.md:0
+msgid "Akademy-Br Held in Salvador"
+msgstr ""
+
+#: content/_index.md:0
+msgid "Group Photo of Akademy-Br"
+msgstr "Foto Bersama Akademy-Br"
+
+#: content/_index.md:0
+msgid ""
+"In April 2010, [the first meeting](http://ev.kde.org/reports/ev-"
+"quarterly-2010Q2.pdf) of Brazil KDE contributors took place. The event was "
+"held in Salvador, Bahia, and was the only Brazilian Akademy edition. From "
+"2012 on, the event expanded to a meeting for all Latin American contributors."
+msgstr ""
+"Pada bulan April 2010, [pertemuan pertama](http://ev.kde.org/reports/ev-"
+"quarterly-2010Q2.pdf) kontributor KDE Brasil berlangsung. Acara ini diadakan "
+"di Salvador, Bahia, dan merupakan satu-satunya edisi Akademy Brasil. Mulai "
+"tahun 2012, acara ini diperluas menjadi pertemuan untuk semua kontributor "
+"Amerika Latin."
+
+#: content/_index.md:0
+msgid "'Join the Game' Program Announced"
+msgstr ""
+
+#: content/_index.md:0
+msgid "JtG logo"
+msgstr "Logo JtG"
+
+#: content/_index.md:0
+msgid ""
+"In June 2010, the KDE e.V. announced the supporting membership program "
+"[\"Join the Game\"](https://jointhegame.kde.org/), which aims to encourage "
+"financial support to the community. By participating in the program you "
+"become a member of the KDE e.V., contributing to an annual amount and being "
+"able participate in the organization's annual meetings."
+msgstr ""
+"Pada bulan Juni 2010, KDE e.V. mengumumkan program keanggotaan pendukung "
+"[\"Join the Game\"](https://jointhegame.kde.org/), yang bertujuan untuk "
+"mendorong dukungan finansial kepada komunitas. Dengan berpartisipasi dalam "
+"program ini, Anda menjadi anggota KDE e.V., menyumbang sejumlah dana tahunan "
+"dan dapat berpartisipasi dalam pertemuan tahunan organisasi."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE 1 was released"
+msgid "KDE SC 4.5 Released"
+msgstr "KDE 1 dirilis"
+
+#: content/_index.md:0
+msgid "Plasma Netbook screenshot"
+msgstr "Tangkapan layar Netbook Plasma"
+
+#: content/_index.md:0
+msgid ""
+"In August 2010, the community [announced version 4.5](https://www.kde.org/"
+"announcements/4.5/) of its products: Development Platform, Applications and "
+"Plasma Workspaces. Each of them began to have a separate release "
+"announcement. One of the highlights of this version was the Plasma interface "
+"for netbooks, announced in version 4.4."
+msgstr ""
+"Pada bulan Agustus 2010, komunitas [mengumumkan versi 4.5](https://www.kde."
+"org/announcements/4.5/) dari produknya: Platform Pengembangan, Aplikasi dan "
+"Plasma Workspace. Masing-masing mulai memiliki pengumuman rilis yang "
+"terpisah. Salah satu yang menarik dari versi ini adalah antarmuka Plasma "
+"untuk netbook, yang diumumkan pada versi 4.4."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "Calligra Suite logo"
+msgid "Calligra Suite Announced"
+msgstr "Logo Calligra Suite"
+
+#: content/_index.md:0
+msgid "Calligra Suite logo"
+msgstr "Logo Calligra Suite"
+
+#: content/_index.md:0
+msgid ""
+"In December 2010, the community [announces](https://dot.kde.org/2010/12/06/"
+"kde-announces-calligra-suite) the [Calligra Suite](https://www.calligra."
+"org/), a split from the KOffice suite. KOffice was discontinued in 2011."
+msgstr ""
+"Pada bulan Desember 2010, komunitas [mengumumkan](https://dot.kde."
+"org/2010/12/06/kde-announces-calligra-suite) [Calligra Suite](https://www."
+"calligra.org/), sebuah pemisahan dari KOffice suite. KOffice dihentikan pada "
+"tahun 2011."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "First Conf KDE India"
+msgid "First Conf KDE in India"
+msgstr "Konferensi Pertama KDE India"
+
+#: content/_index.md:0
+msgid "Group Photo of Conf India"
+msgstr "Foto Bersama Conf India"
+
+#: content/_index.md:0
+msgid ""
+"In March 2011, the [first conference](https://dot.kde.org/2010/12/28/"
+"confkdein-first-kde-conference-india) of the KDE and Qt community in India "
+"took place in Bengaluru. Since then, the event has taken place annually."
+msgstr ""
+"Pada bulan Maret 2011, [konferensi pertama](https://dot.kde.org/2010/12/28/"
+"confkdein-first-kde-conference-india) komunitas KDE dan Qt di India "
+"berlangsung di Bengaluru. Sejak saat itu, acara ini telah berlangsung setiap "
+"tahun."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "Desktop Summit 2011"
+msgid "Desktop Summit 2011 Held in Berlin"
+msgstr "Desktop Summit 2011"
+
+#: content/_index.md:0
+msgid "Group Photo of DS 2011"
+msgstr "Foto Bersama DS 2011"
+
+#: content/_index.md:0
+msgid ""
+"In August 2011, [another joint conference](https://desktopsummit.org/) of "
+"the KDE and Gnome communities took place in Berlin, Germany. Nearly 800 "
+"contributors from all over the world came together to share ideas and "
+"collaborate on various free software projects."
+msgstr ""
+"Pada bulan Agustus 2011, [konferensi gabungan](https://desktopsummit.org/) "
+"dari komunitas KDE dan Gnome berlangsung di Berlin, Jerman. Hampir 800 "
+"kontributor dari seluruh dunia berkumpul untuk berbagi ide dan berkolaborasi "
+"dalam berbagai proyek perangkat lunak bebas."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "Plasma Active 1 screenshot"
+msgid "Plasma Active for Mobile Announced"
+msgstr "Tangkapan layar Plasma Active 1"
+
+#: content/_index.md:0
+msgid "Plasma Active 1 screenshot"
+msgstr "Tangkapan layar Plasma Active 1"
+
+#: content/_index.md:0
+msgid ""
+"The community released the first version of its interface for mobile "
+"devices, [Plasma Active](https://www.kde.org/announcements/plasma-active-"
+"one/). Later, it was superseded by Plasma Mobile."
+msgstr ""
+"Komunitas ini merilis versi pertama antarmuka untuk perangkat seluler, "
+"[Plasma Active](https://www.kde.org/announcements/plasma-active-one/). "
+"Kemudian, digantikan oleh Plasma Mobile."
+
+#: content/_index.md:0
+msgid "First LaKademy Held in Porto Alegre"
+msgstr ""
+
+#: content/_index.md:0
+msgid "Group Photo of LaKademy 2012"
+msgstr "Foto Bersama LaKademy 2012"
+
+#: content/_index.md:0
+msgid ""
+"In April 2012, the [first meeting](https://lakademy.kde.org/lakademy12-en."
+"html) of the KDE contributors in Latin America, LaKademy, took place. The "
+"event was held in Porto Alegre, Brazil. The [second edition](https://br.kde."
+"org/lakademy-2014) took place in 2014 in São Paulo, and since then has been "
+"an annual event. So far, all editions were held in Brazil, where the highest "
+"number of contributors from the Latin American community is based."
+msgstr ""
+"Pada bulan April 2012, [pertemuan pertama](https://lakademy.kde.org/"
+"lakademy12-en.html) kontributor KDE di Amerika Latin, LaKademy, berlangsung. "
+"Acara ini diadakan di Porto Alegre, Brasil. [Edisi kedua](https://br.kde.org/"
+"lakademy-2014) diadakan pada tahun 2014 di São Paulo, dan sejak saat itu "
+"menjadi acara tahunan. Sejauh ini, semua edisi diadakan di Brasil, yang "
+"menjadi basis jumlah kontributor tertinggi dari komunitas Amerika Latin."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE Manifesto"
+msgid "KDE Manifesto Published"
+msgstr "Manifesto KDE"
+
+#: content/_index.md:0
+msgid "KDE Manifesto Art"
+msgstr "KDE Manifesto Art"
+
+#: content/_index.md:0
+msgid ""
+"[KDE Manifesto](https://manifesto.kde.org/index.html), a document that "
+"presents the benefits and obligations of a KDE project, was released. It "
+"also introduces the core values that guide the community: Open Governance, "
+"Free Software, Inclusivity, Innovation, Common Ownership, and End-User Focus."
+msgstr ""
+"[Manifesto KDE](https://manifesto.kde.org/index.html), sebuah dokumen yang "
+"menyajikan manfaat dan kewajiban proyek KDE, telah dirilis. Dokumen ini juga "
+"memperkenalkan nilai-nilai inti yang memandu komunitas: Tata Kelola Terbuka, "
+"Perangkat Lunak Bebas, Inklusifitas, Inovasi, Kepemilikan Bersama, dan Fokus "
+"Pengguna Akhir."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "Konqi developer"
+msgid "Konqi Get a Makeover"
+msgstr "Pengembang Konqi"
+
+#: content/_index.md:0
+msgid "Konqi redesigned"
+msgstr "Konqi didesain ulang"
+
+#: content/_index.md:0
+msgid ""
+"In December 2012, the community [launched a competition](https://dot.kde."
+"org/2012/12/08/contest-create-konqi-krita) to create a new mascot using "
+"Krita. The competition winner was Tyson Tan, who created [new looks for the "
+"Konqi and Katie](http://tysontan.deviantart.com/art/Konqi-ver-2-494267237)."
+msgstr ""
+"Pada bulan Desember 2012, komunitas ini [meluncurkan sebuah kompetisi]"
+"(https://dot.kde.org/2012/12/08/contest-create-konqi-krita) untuk membuat "
+"maskot baru menggunakan Krita. Pemenang kompetisi ini adalah Tyson Tan, yang "
+"menciptakan [penampilan baru untuk Konqi dan Katie](http://tysontan."
+"deviantart.com/art/Konqi-ver-2-494267237)."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "Release cycle change"
+msgid "Release Cycles Change"
+msgstr "Perubahan siklus rilis"
+
+#: content/_index.md:0
+msgid "Graph of the KDE technologies separated"
+msgstr "Grafik teknologi KDE yang terpisah"
+
+#: content/_index.md:0
+msgid ""
+"In September 2013, the community [announced](https://dot.kde.org/2013/09/04/"
+"kde-release-structure-evolves) changes in the release cycle of its products. "
+"Each of them, Workspaces, Applications, and Platform, now have separate "
+"releases. The change was already a reflection of the restructuring of KDE "
+"technologies. This restructuring resulted in the next generation of "
+"community products, which would be released the following year."
+msgstr ""
+"Pada bulan September 2013, komunitas ini [mengumumkan](https://dot.kde."
+"org/2013/09/04/kde-release-structure-evolves) perubahan dalam siklus rilis "
+"produknya. Masing-masing dari mereka, Workspace, Aplikasi, dan Platform, "
+"sekarang memiliki rilis terpisah. Perubahan ini merupakan cerminan dari "
+"restrukturisasi teknologi KDE. Restrukturisasi ini menghasilkan produk "
+"komunitas generasi berikutnya, yang akan dirilis pada tahun berikutnya."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "Frameworks 5"
+msgid "Frameworks 5 Released"
+msgstr "Frameworks 5"
+
+#: content/_index.md:0
+msgid "Evolution of development of KDE technologies"
+msgstr "Evolusi pengembangan teknologi KDE"
+
+#: content/_index.md:0
+msgid ""
+"The first stable version of Frameworks 5 (KF5), the successor of KDE "
+"Platform 4, [was released](https://www.kde.org/announcements/kde-"
+"frameworks-5.0.php). This new generation of the KDE libraries based on Qt 5 "
+"has made the KDE development platform more modular and facilitated cross-"
+"platform development."
+msgstr ""
+"Versi stabil pertama dari Frameworks 5 (KF5), penerus KDE Platform 4, [telah "
+"dirilis](https://www.kde.org/announcements/kde-frameworks-5.0.php). Generasi "
+"baru dari pustaka KDE yang berbasiskan Qt 5 ini telah membuat platform "
+"pengembangan KDE menjadi lebih modular dan memfasilitasi pengembangan lintas "
+"platform."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "Plasma 5 screenshot"
+msgid "Plasma 5 Released"
+msgstr "Tangkapan layar Plasma 5"
+
+#: content/_index.md:0
+msgid "Plasma 5 screenshot"
+msgstr "Tangkapan layar Plasma 5"
+
+#: content/_index.md:0
+msgid ""
+"[Release](https://www.kde.org/announcements/plasma5.0/) of the first stable "
+"version of Plasma 5. This new generation of Plasma has a new theme, Breeze. "
+"Changes include a migration to a new, fully hardware-accelerated graphics "
+"stack centered around an OpenGL(ES) scenegraph. This version of Plasma uses "
+"as base the Qt 5 and Frameworks 5."
+msgstr ""
+"[Rilis](https://www.kde.org/announcements/plasma5.0/) versi stabil pertama "
+"dari Plasma 5. Generasi baru Plasma ini memiliki tema baru, Breeze. "
+"Perubahan termasuk migrasi ke stack grafis baru yang sepenuhnya diakselerasi "
+"oleh perangkat keras yang berpusat di sekitar skenegraf OpenGL(ES). Versi "
+"Plasma ini menggunakan basis Qt 5 dan Frameworks 5."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "GCompris joins the KDE"
+msgid "GCompris Joins KDE"
+msgstr "GCompris bergabung dengan KDE"
+
+#: content/_index.md:0
+msgid "GCompris logo"
+msgstr "Logo GCompris"
+
+#: content/_index.md:0
+msgid ""
+"In December 2014, the educational software suite [GCompris joins](https://"
+"dot.kde.org/2014/12/11/gcompris-joins-kde-incubator-and-launches-fundraiser) "
+"the [project incubator of KDE community](https://community.kde.org/"
+"Incubator). Bruno Coudoin, who created the [project](http://gcompris.net/"
+"index-en.html) in 2000, decided to rewrite it in Qt Quick to facilitate its "
+"use on mobile platforms. It was originally written in GTK+."
+msgstr ""
+"Pada bulan Desember 2014, perangkat lunak pendidikan [GCompris bergabung]"
+"(https://dot.kde.org/2014/12/11/gcompris-joins-kde-incubator-and-launches-"
+"fundraiser) dengan [inkubator proyek komunitas KDE](https://community.kde."
+"org/Incubator). Bruno Coudoin, yang menciptakan [proyek GCompris](http://"
+"gcompris.net/index-en.html) pada tahun 2000, memutuskan untuk menulis ulang "
+"dalam Qt Quick untuk memfasilitasi penggunaannya pada platform mobile. Pada "
+"awalnya ditulis dalam GTK+."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "Plasma Mobile"
+msgid "Plasma Mobile Announced"
+msgstr "Plasma Mobile"
+
+#: content/_index.md:0
+msgid "Plasma Mobile photo"
+msgstr "Foto Plasma Mobile"
+
+#: content/_index.md:0
+msgid ""
+"The community [announced Plasma Mobile](https://dot.kde.org/2015/07/25/"
+"plasma-mobile-free-mobile-platform), an interface for smartphones that uses "
+"Qt, Frameworks 5 and Plasma Shell technologies."
+msgstr ""
+"Komunitas [mengumumkan Plasma Mobile](https://dot.kde.org/2015/07/25/plasma-"
+"mobile-free-mobile-platform), sebuah antarmuka untuk smartphone yang "
+"menggunakan teknologi Qt, Frameworks 5 dan Plasma Shell."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "Plasma on Wayland"
+msgid "Plasma on Wayland Released"
+msgstr "Plasma di Wayland"
+
+#: content/_index.md:0
+msgid "KWin on Wayland"
+msgstr "KWin di Wayland"
+
+#: content/_index.md:0
+msgid ""
+"The [first live image](https://dot.kde.org/2015/12/18/first-plasma-wayland-"
+"live-image) of Plasma running on Wayland was made available for download. "
+"Since 2011, the community works in support of Wayland by KWin, the "
+"Compositor of Plasma, and the Window Manager."
+msgstr ""
+"[Live image pertama](https://dot.kde.org/2015/12/18/first-plasma-wayland-"
+"live-image) dari Plasma yang berjalan di Wayland tersedia untuk diunduh. "
+"Sejak tahun 2011, komunitas ini bekerja untuk mendukung Wayland oleh KWin - "
+"Compositor Plasma, dan Window Manager."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "Plasma 5.5 screenshot"
+msgid "Plasma 5.5 Released"
+msgstr "Tangkapan layar Plasma 5.5"
+
+#: content/_index.md:0
+msgid "Plasma 5.5 screenshot"
+msgstr "Tangkapan layar Plasma 5.5"
+
+#: content/_index.md:0
+msgid ""
+"Version 5.5 is [announced](https://www.kde.org/announcements/plasma-5.5.0."
+"php) with several new features: new icons added to the Breeze theme, support "
+"for OpenGL ES in KWin, progress to support Wayland, a new default font "
+"(Noto), a new design."
+msgstr ""
+"Versi 5.5 telah [diumumkan](https://www.kde.org/announcements/plasma-5.5.0."
+"php) dengan beberapa fitur baru: ikon baru yang ditambahkan pada tema "
+"Breeze, dukungan untuk OpenGL ES pada KWin, kemajuan untuk mendukung "
+"Wayland, font default baru (Noto) dengan desain baru."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE Neon"
+msgid "KDE Neon Published"
+msgstr "KDE Neon"
+
+#: content/_index.md:0
+msgid "Neon 5.6 screenshot"
+msgstr "Tangkapan layar Neon 5.6"
+
+#: content/_index.md:0
+msgid ""
+"The community [announced](https://dot.kde.org/2016/01/30/fosdem-announcing-"
+"kde-neon) the inclusion of another project in its incubator, [KDE Neon]"
+"(https://neon.kde.org/), based on Ubuntu. Developers, testers, artists, "
+"translators and early adopters can get fresh code from git as it is "
+"committed by the KDE community."
+msgstr ""
+"Komunitas ini [mengumumkan](https://dot.kde.org/2016/01/30/fosdem-announcing-"
+"kde-neon) penyertaan proyek lain dalam inkubatornya, [KDE Neon](https://neon."
+"kde.org/), yang berbasis Ubuntu. Para pengembang, penguji, seniman, "
+"penerjemah, dan pengguna awal dapat memperoleh kode baru dari git yang telah "
+"di-committ oleh komunitas KDE."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "Akademy 2016 part of QtCon"
+msgid "Akademy 2016 Held as Part of QtCon"
+msgstr "Akademy 2016 bagian dari QtCon"
+
+#: content/_index.md:0
+msgid "QtCon banner"
+msgstr "Banner QtCon"
+
+#: content/_index.md:0
+msgid ""
+"[Akademy 2016](https://akademy.kde.org/2016) took place as a part of [QtCon]"
+"(http://qtcon.org/) in September 2016 in Berlin, Germany. The event brought "
+"together the Qt, [FSFE](https://fsfe.org/), [VideoLAN](http://www.videolan."
+"org/) and KDE communities. It celebrated 20 years of KDE, 20 years of VLC, "
+"and 15 years of FSFE."
+msgstr ""
+"[Akademy 2016](https://akademy.kde.org/2016) berlangsung sebagai bagian dari "
+"[QtCon](http://qtcon.org/) pada bulan September 2016 di Berlin, Jerman. "
+"Acara ini mempertemukan komunitas Qt, [FSFE](https://fsfe.org/), [VideoLAN]"
+"(http://www.videolan.org/) dan KDE. Acara ini merayakan 20 tahun KDE, 20 "
+"tahun VLC, dan 15 tahun FSFE."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "Kirigami UI"
+msgid "Kirigami UI Released"
+msgstr "Kirigami UI"
+
+#: content/_index.md:0
+msgid "Kirigami logo"
+msgstr "Logo Kirigami"
+
+#: content/_index.md:0
+msgid ""
+"[Kirigami is released](https://dot.kde.org/2016/03/30/kde-proudly-presents-"
+"kirigami-ui), a set of QML components to develop applications based on Qt "
+"for mobile or desktop devices."
+msgstr ""
+"[Kirigami dirilis](https://dot.kde.org/2016/03/30/kde-proudly-presents-"
+"kirigami-ui), satu set komponen QML untuk mengembangkan aplikasi berbasis Qt "
+"untuk perangkat mobile atau desktop."
+
+#: content/_index.md:0
+msgid "KDE presents its Vision for the future"
+msgstr "KDE memaparkan Visinya untuk masa depan"
+
+#: content/_index.md:0
+msgid ""
+"In early 2016, as a result of a survey and open discussions among community "
+"members, [KDE has published a document outlining its vision for the future]"
+"(https://dot.kde.org/2016/04/05/kde-presents-its-vision-future). This vision "
+"represents the values that its members consider most important: \"A world in "
+"which everyone has control over their digital life and enjoys freedom and "
+"privacy.\" The idea in defining this vision was to make clear what are the "
+"main motivations that drive the community."
+msgstr ""
+"Pada awal tahun 2016, sebagai hasil dari survei dan diskusi terbuka di "
+"antara anggota komunitas, [KDE telah menerbitkan dokumen yang menguraikan "
+"visinya untuk masa depan](https://dot.kde.org/2016/04/05/kde-presents-its-"
+"vision-future). Visi ini mewakili nilai-nilai yang dianggap paling penting "
+"oleh para anggotanya: \"Sebuah dunia di mana setiap orang memiliki kendali "
+"atas kehidupan digital mereka dan menikmati kebebasan dan privasi.\" Gagasan "
+"dalam mendefinisikan visi ini adalah untuk memperjelas motivasi utama yang "
+"mendorong komunitas."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE was announced"
+msgid "KDE 's Advisory Board Announced"
+msgstr "KDE diumumkan"
+
+#: content/_index.md:0
+msgid ""
+"In order to formalize the cooperation among the community and the "
+"organizations that have been its allies, [KDE e.V. announced the Advisory "
+"Board](https://dot.kde.org/2016/09/26/announcing-kde-advisory-board). "
+"Through the Advisory Board, organizations can provide feedback on community "
+"activities and decisions, to participate in regular meetings with KDE e.V., "
+"and to attend to Akademy and community sprints."
+msgstr ""
+"Dalam rangka memformalkan kerja sama antara komunitas dan organisasi yang "
+"telah menjadi mitra, [KDE e.V. mengumumkan Dewan Penasihat](https://dot.kde."
+"org/2016/09/26/announcing-kde-advisory-board). Melalui Dewan Penasihat, "
+"organisasi-organisasi dapat memberikan umpan balik mengenai kegiatan dan "
+"keputusan komunitas, berpartisipasi dalam pertemuan rutin dengan KDE e.V., "
+"dan menghadiri Akademy dan sprint komunitas."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE celebrated 20 years"
+msgid "KDE Celebrates 20 Years"
+msgstr "KDE merayakan 20 tahun"
+
+#: content/_index.md:0
+msgid "KDE 20 years art by Elias Silveira"
+msgstr "Karya seni 20 tahun KDE oleh Elias Silveira"
+
+#: content/_index.md:0
+msgid ""
+"On October 14, KDE celebrated its 20th birthday. The project that started as "
+"a desktop environment for Unix systems, today is a community that incubates "
+"ideas and projects which go far beyond desktop technologies. To celebrate "
+"its anniversary the community [published a book](https://20years.kde.org/"
+"book/) written by its contributors. [We also had parties](https://community."
+"kde.org/Promo/Events/Parties/KDE_20_Anniversary) been held in eight "
+"countries."
+msgstr ""
+"Pada tanggal 14 Oktober, KDE merayakan ulang tahunnya yang ke-20. Proyek "
+"yang dimulai sebagai lingkungan desktop untuk sistem Unix, saat ini menjadi "
+"sebuah komunitas yang menginkubasi ide dan proyek yang jauh melampaui "
+"teknologi desktop. Untuk merayakan hari jadinya, komunitas ini [menerbitkan "
+"sebuah buku](https://20years.kde.org/book/) yang ditulis oleh para "
+"kontributornya. [Kami juga mengadakan pesta](https://community.kde.org/Promo/"
+"Events/Parties/KDE_20_Anniversary) di delapan negara."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE Slimbook is announced"
+msgid "KDE Slimbook Announced"
+msgstr "KDE Slimbook diumumkan"
+
+#: content/_index.md:0
+msgid "KDE Slimbook"
+msgstr "KDE Slimbook"
+
+#: content/_index.md:0
+msgid ""
+"In partnership with a Spanish laptop retailer [the community announced the "
+"launch of the KDE Slimbook](https://dot.kde.org/2017/01/26/kde-and-slimbook-"
+"release-laptop-kde-fans), a ultrabook that comes with the KDE Plasma and KDE "
+"Applications pre-installed. The laptop offers a pre-installed version of KDE "
+"Neon and [can be purchased from the retailer's website](https://slimbook.es/"
+"en/store/slimbook-kde)."
+msgstr ""
+"Dalam kemitraan dengan peritel laptop asal Spanyol [komunitas ini "
+"mengumumkan peluncuran KDE Slimbook](https://dot.kde.org/2017/01/26/kde-and-"
+"slimbook-release-laptop-kde-fans), sebuah ultrabook yang telah dilengkapi "
+"dengan KDE Plasma dan Aplikasi KDE yang telah terinstal. Laptop ini "
+"menawarkan versi pra-instalasi KDE Neon dan [dapat dibeli dari situs web "
+"penjual](https://slimbook.es/en/store/slimbook-kde)."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "QtCon Brasil is announced"
+msgid "QtCon Brasil Announced"
+msgstr "QtCon Brasil diumumkan"
+
+#: content/_index.md:0
+msgid ""
+"Inspired by QtCon 2016, which took place in Berlin and brought together the "
+"KDE, VLC, Qt and FSFE communities, [KDE community in Brazil hosted QtCon "
+"Brasil in 2017](https://br.qtcon.org/2017/). The event was held in São Paulo "
+"and brought together Qt experts from Brazil and abroad in two days of talks "
+"and one day of training."
+msgstr ""
+"Terinspirasi oleh QtCon 2016, yang berlangsung di Berlin dan mempertemukan "
+"komunitas KDE, VLC, Qt dan FSFE, [komunitas KDE di Brasil menyelenggarakan "
+"QtCon Brasil pada tahun 2017](https://br.qtcon.org/2017/). Acara ini "
+"diadakan di São Paulo dan mempertemukan para ahli Qt dari Brasil dan luar "
+"negeri dalam dua hari pembicaraan dan satu hari pelatihan."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE set goals"
+msgid "KDE Sets Goals"
+msgstr "KDE menetapkan tujuan"
+
+#: content/_index.md:0
+msgid ""
+"[KDE sets its goals for the next four years](https://dot.kde.org/2017/11/30/"
+"kdes-goals-2018-and-beyond). As part of an effort undertaken by its members "
+"since 2015, the community has defined three main objectives for the coming "
+"years: to improve the usability and productivity of its software, to ensure "
+"that its software helps to preserve the privacy of users and to facilitate "
+"the contribution and integration of new collaborators."
+msgstr ""
+"[KDE menetapkan tujuan untuk empat tahun ke depan](https://dot.kde."
+"org/2017/11/30/kdes-goals-2018-and-beyond). Sebagai bagian dari upaya yang "
+"dilakukan oleh para anggotanya sejak tahun 2015, komunitas ini telah "
+"menetapkan tiga tujuan utama untuk tahun-tahun mendatang: untuk meningkatkan "
+"kegunaan dan produktivitas perangkat lunaknya, untuk memastikan bahwa "
+"perangkat lunaknya membantu menjaga privasi pengguna dan untuk memfasilitasi "
+"kontribusi dan integrasi kolaborator baru."
+
+#: content/_index.md:0
+msgid "Debian Joins KDE Advisory Board"
+msgstr "Debian Bergabung dengan Dewan Penasihat KDE"
+
+#: content/_index.md:0
+msgid "Debian Community"
+msgstr "Komunitas Debian"
+
+#: content/_index.md:0
+msgid ""
+"Debian, the famous Linux distribution founded in 1993, [joined KDE's "
+"Advisory Board](https://dot.kde.org/2018/07/12/debian-joins-kdes-advisory-"
+"board) to further deepen the collaboration between both communities. With "
+"this, we expect both communities to grow even stronger and to keep working "
+"together to build FLOSS projects."
+msgstr ""
+"Debian, distribusi Linux terkenal yang didirikan pada tahun 1993, [bergabung "
+"dengan Dewan Penasihat KDE](https://dot.kde.org/2018/07/12/debian-joins-kdes-"
+"advisory-board) untuk lebih memperdalam kolaborasi antara kedua komunitas. "
+"Dengan ini, kami berharap kedua komunitas dapat tumbuh lebih kuat lagi dan "
+"terus bekerja sama untuk membangun proyek-proyek FLOSS."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE-powered newspaper achieves world first"
+msgid "KDE-Powered Newspaper World First"
+msgstr "Surat kabar yang didukung KDE pertama di dunia"
+
+#: content/_index.md:0
+msgid ""
+"The *Janayugom* daily newspaper becomes the [first in the world](https://"
+"poddery.com/posts/4691002) to switch to a completely free software stack for "
+"its publication. The regional paper has 100,000 subscribers across Kerala, "
+"India. An event celebrating the move is attended by the state's Chief "
+"Minister. Plasma, Okular, Krita, and more are deployed on systems across 14 "
+"different offices."
+msgstr ""
+"Surat kabar harian *Janayugom* menjadi [yang pertama di dunia](https://"
+"poddery.com/posts/4691002) yang beralih sepenuhnya ke perangkat lunak bebas "
+"untuk penerbitannya. Surat kabar regional ini memiliki 100.000 pelanggan di "
+"seluruh Kerala, India. Sebuah acara untuk merayakan perpindahan ini dihadiri "
+"oleh Ketua Menteri negara bagian tersebut. Plasma, Okular, Krita, dan banyak "
+"lagi digunakan pada sistem di 14 kantor yang berbeda."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE adopts GitLab as an online development platform"
+msgid "KDE Adopts GitLab for Online Development"
+msgstr "KDE mengadopsi GitLab sebagai platform pengembangan online"
+
+#: content/_index.md:0
+msgid "KDE adopts GitLab"
+msgstr "KDE mengadopsi GitLab"
+
+#: content/_index.md:0
+msgid ""
+"In 2019, [KDE transitioned to GitLab](https://about.gitlab.com/press/"
+"releases/2019-09-17-gitlab-adopted-by-KDE.html) as our main DevOps platform. "
+"This change allowed the KDE community to work more efficiently and to lower "
+"the bar for new contributors to join us. Our GitLab instance can be found "
+"[on KDE Invent](https://invent.kde.org)."
+msgstr ""
+"Pada tahun 2019, [KDE beralih ke GitLab](https://about.gitlab.com/press/"
+"releases/2019-09-17-gitlab-adopted-by-KDE.html) sebagai platform DevOps "
+"utama kami. Perubahan ini memungkinkan komunitas KDE untuk bekerja lebih "
+"efisien dan menurunkan standar bagi kontributor baru untuk bergabung dengan "
+"kami. Instance GitLab kami dapat ditemukan [di KDE Invent](https://invent."
+"kde.org)."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "New goals for 2019"
+msgid "New Goals Set for 2019"
+msgstr "Tujuan baru untuk tahun 2019"
+
+#: content/_index.md:0
+msgid ""
+"KDE [announces](https://dot.kde.org/2019/09/07/kde-decides-three-new-"
+"challenges-wayland-consistency-and-apps) a new slate of goals for the near "
+"future at Akademy 2019. The community has whittled down  a long list of "
+"proposals and chose to prioritize a consistent user experience across all "
+"KDE software, getting KDE apps into the hands of users with the help of new "
+"packaging methods, and improving the Wayland session."
+msgstr ""
+"KDE [mengumumkan](https://dot.kde.org/2019/09/07/kde-decides-three-new-"
+"challenges-wayland-consistency-and-apps) serangkaian tujuan baru untuk waktu "
+"dekat di Akademy 2019. Komunitas telah menyusun daftar panjang proposal dan "
+"memilih untuk memprioritaskan pengalaman pengguna yang konsisten di seluruh "
+"perangkat lunak KDE, membawa aplikasi KDE ke tangan pengguna dengan bantuan "
+"metode pengemasan baru, dan meningkatkan sesi Wayland."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "KDE adopts Matrix as an Instant Messaging Platform"
+msgid "KDE Adopts Matrix for Instant Messaging"
+msgstr "KDE mengadopsi Matrix sebagai Platform Pesan Instan"
+
+#: content/_index.md:0
+msgid ""
+"[Matrix](https://community.kde.org/Matrix), an Open Source, decentralized "
+"and secure Instant Messaging platform, became the default and recommended "
+"way of communication for those who like their instant messaging graphical. "
+"Matrix allows community members to use a web-based, desktop or mobile "
+"clients, as well as native KDE clients, such as [Neochat](https://invent.kde."
+"org/network/neochat). IRC channels still exist and are bridged to Matrix, "
+"ensuring that members using different systems can communicate easily with "
+"each other. Likewise Telegram channels, although these are not considered "
+"official, as Telegram does not open source the code for its servers or "
+"encryption methods."
+msgstr ""
+"[Matrix](https://community.kde.org/Matrix), sebuah platform Pesan Instan "
+"yang bersifat Sumber Terbuka, terdesentralisasi dan aman, menjadi cara "
+"komunikasi yang standar dan direkomendasikan bagi mereka yang menyukai pesan "
+"instan dengan tampilan grafis. Matrix memungkinkan anggota komunitas untuk "
+"menggunakan klien berbasis web, desktop atau seluler, serta klien KDE asli, "
+"seperti [Neochat](https://invent.kde.org/network/neochat). Saluran IRC masih "
+"ada dan dijembatani ke Matrix, memastikan bahwa anggota yang menggunakan "
+"sistem yang berbeda dapat berkomunikasi dengan mudah satu sama lain. "
+"Demikian juga saluran Telegram, meskipun ini tidak dianggap resmi, karena "
+"Telegram tidak membuka sumber kode untuk server atau metode enkripsinya."
+
+#: content/_index.md:0
+msgid "KDE PinePhone Announced"
+msgstr "KDE PinePhone Diumumkan"
+
+#: content/_index.md:0
+msgid "KDE PinePhone"
+msgstr "KDE PinePhone"
+
+#: content/_index.md:0
+msgid ""
+"KDE's Plasma Mobile developers team up with [PINE64](https://www.pine64."
+"org/) to create the [PinePhone KDE Community Edition](https://www.pine64.org/"
+"pinephone/), a mobile phone that runs solely Free Software, is easy to hack "
+"and protects your privacy."
+msgstr ""
+"Pengembang Plasma Mobile KDE bekerja sama dengan [PINE64](https://www.pine64."
+"org/) untuk membuat [PinePhone KDE Community Edition](https://www.pine64.org/"
+"pinephone/), sebuah ponsel yang hanya menjalankan Perangkat Lunak Bebas, "
+"mudah diotak-atik dan melindungi privasi Anda."
+
+#: content/_index.md:0
+msgid "GCompris Celebrates 20th Anniversary"
+msgstr ""
+
+#: content/_index.md:0
+msgid "GCompris in Malayalam"
+msgstr "GCompris dalam bahasa Malayalam"
+
+#: content/_index.md:0
+msgid ""
+"In 2020 GCompris celebrated its 20th birthday and was also [deployed in many "
+"schools in Kerala, India](https://timotheegiet.com/blog/floss/tales-of-the-"
+"kde-network-kerala.html). KDE educational applications have been helping "
+"students around the world for decades and are part of the [KDE Educational "
+"Project](https://edu.kde.org)."
+msgstr ""
+"Pada tahun 2020, GCompris merayakan ulang tahunnya yang ke-20 dan juga "
+"[digunakan di banyak sekolah di Kerala, India](https://timotheegiet.com/blog/"
+"floss/tales-of-the-kde-network-kerala.html). Aplikasi pendidikan KDE telah "
+"membantu siswa di seluruh dunia selama beberapa dekade dan merupakan bagian "
+"dari [Proyek Pendidikan KDE](https://edu.kde.org)."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "Valve chooses KDE Plasma for Steam Deck"
+msgid "Valve Chooses KDE Plasma for Steam Deck"
+msgstr "Valve memilih KDE Plasma untuk Steam Deck"
+
+#: content/_index.md:0
+msgid "KDE Plasma running on Steam Deck"
+msgstr "KDE Plasma berjalan di Steam Deck"
+
+#: content/_index.md:0
+msgid ""
+"Valve, the creators of Steam, announced their portable gaming computer "
+"called Steam Deck has KDE Plasma as the default desktop experience. KDE "
+"developers have been working with Valve to make Plasma work well with Steam "
+"Deck."
+msgstr ""
+"Valve, pencipta Steam, mengumumkan komputer gaming portabel mereka yang "
+"disebut Steam Deck menggunakan KDE Plasma sebagai pengalaman desktop "
+"default. Para pengembang KDE telah bekerja sama dengan Valve untuk membuat "
+"Plasma dapat bekerja dengan baik dengan Steam Deck."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "First in-person post-Pandemic Akademy held in Barcelona"
+msgid "First In-Person Post-Pandemic Akademy Held in Barcelona"
+msgstr ""
+"Akademy pasca-Pandemi pertama yang diadakan secara langsung di Barcelona"
+
+#: content/_index.md:0
+msgid "Attendees to the 2022 Akademy held in Barcelona."
+msgstr "Para peserta Akademy 2022 yang diadakan di Barcelona."
+
+#: content/_index.md:0
+msgid ""
+"Akademy 2022 was held in Barcelona from the 1st to the 7th of October. it "
+"was the first time in two years Community members and guests laid out in "
+"person what had been going on within KDE's projects (and adjacent projects), "
+"the state of the art, and where things were headed."
+msgstr ""
+"Akademy 2022 diadakan di Barcelona dari tanggal 1 hingga 7 Oktober. Ini "
+"adalah pertama kalinya dalam dua tahun terakhir, para anggota komunitas dan "
+"peserta menjelaskan secara langsung apa yang telah terjadi dalam proyek-"
+"proyek KDE (dan proyek-proyek yang berdekatan), kondisi terkini, dan ke mana "
+"arahnya."
+
+#: content/_index.md:0
+msgid "KDE Wins at Fundraising"
+msgstr ""
+
+#: content/_index.md:0
+msgid "Katie and Konqi thank you for your donation."
+msgstr "Katie dan Konqi berterima kasih atas donasi Anda."
+
+#: content/_index.md:0
+msgid ""
+"KDE attempted two new fundraising initiatives in 2022. The first involved "
+"[raising funds for a specific app](https://kdenlive.org/en/fund/): Kdenlive, "
+"KDE's video editor. Our goal was to raise €15,000 to enable developers to "
+"add much-requested features and stabilize the code. The second initiative "
+"was [the end-of-year fundraiser](https://kde.org/fundraisers/yearend2022/), "
+"where we aimed to raise €20,000. Both fundraisers were massive successes, "
+"surpassing the goals we had set. This achievement stands as a testament to "
+"the generosity of community members, supporters, and users."
+msgstr ""
+"KDE mencoba dua inisiatif penggalangan dana baru pada tahun 2022. Yang "
+"pertama melibatkan [penggalangan dana untuk aplikasi tertentu](https://"
+"kdenlive.org/en/fund/): Kdenlive, editor video KDE. Tujuan kami adalah "
+"mengumpulkan €15.000 untuk memungkinkan para pengembang menambahkan fitur-"
+"fitur yang banyak diminta dan menstabilkan kodenya. Inisiatif kedua adalah "
+"[penggalangan dana akhir tahun](https://kde.org/fundraisers/yearend2022/), "
+"di mana kami bertujuan untuk mengumpulkan €20.000. Kedua penggalangan dana "
+"tersebut sukses besar, melampaui target yang kami tetapkan. Pencapaian ini "
+"merupakan bukti kemurahan hati anggota komunitas, pendukung, dan pengguna."
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "The KDE Free Qt Foundation celebrates its 25th anniversary"
+msgid "KDE Free Qt Foundation Celebrates 25th Anniversary"
+msgstr "Yayasan KDE Free Qt Foundation merayakan ulang tahunnya yang ke-25"
+
+#: content/_index.md:0
+msgid "The KDE Free Qt Foundation helps keep the Qt toolset free."
+msgstr "KDE Free Qt Foundation membantu menjaga agar perangkat Qt tetap bebas."
+
+#: content/_index.md:0
+msgid ""
+"[The Foundation](https://kde.org/community/whatiskde/kdefreeqtfoundation/) "
+"guarantees the present and future freedom of the Qt framework as it has the "
+"right to release Qt under the BSD license if necessary to ensure that Qt "
+"remains open source. This remarkable legal guarantee protects the free "
+"software community and creates trust among developers, contributors, and "
+"customers."
+msgstr ""
+"[Yayasan](https://kde.org/community/whatiskde/kdefreeqtfoundation/) menjamin "
+"kebebasan kerangka kerja Qt saat ini dan di masa depan karena memiliki hak "
+"untuk merilis Qt di bawah lisensi BSD jika diperlukan untuk memastikan bahwa "
+"Qt tetap menjadi sumber terbuka. Jaminan hukum yang luar biasa ini "
+"melindungi komunitas perangkat lunak bebas dan menciptakan kepercayaan di "
+"antara para pengembang, kontributor, dan pelanggan."
+
+#: content/_index.md:0
+msgid "KDE Launches Plasma 6"
+msgstr "KDE Meluncurkan Plasma 6"
+
+#: content/_index.md:0
+msgid "The default Plasma 6 desktop environment."
+msgstr "Lingkungan desktop Plasma 6 standar."
+
+#: content/_index.md:0
+msgid ""
+"With Plasma 6, our technology stack underwent two major upgrades: a "
+"transition to the latest version of our application framework, Qt, and a "
+"migration to the modern Linux graphics platform, Wayland. The launch was "
+"dubbed \"MegaRelease\", as new versions of KDE's apps and Frameworks, along "
+"with a new version of Plasma Mobile were all published at the same time."
+msgstr ""
+"Dengan Plasma 6, tumpukan teknologi kami mengalami dua peningkatan besar: "
+"transisi ke versi terbaru dari kerangka kerja aplikasi kami, Qt, dan migrasi "
+"ke platform grafis Linux modern, Wayland. Peluncuran ini dijuluki "
+"\"MegaRelease\", karena versi baru dari aplikasi dan kerangka kerja KDE, "
+"serta versi baru Plasma Mobile diterbitkan pada saat yang bersamaan."
+
+#: content/_index.md:0
+msgid "KDE Linux is born"
+msgstr ""
+
+#: content/_index.md:0
+msgid "Project Banana was the code name for KDE Linux."
+msgstr ""
+
+#: content/_index.md:0
+msgid ""
+"[KDE Linux](https://kde.org/linux/) is a free, open-source, user-focused "
+"operating system being built by KDE to include the best implementation of "
+"everything KDE has to offer, using the most advanced technologies."
+msgstr ""
+
+#, fuzzy
+#~| msgid "Handshake Foundation donates USD 300,000 to KDE"
+#~ msgid "Handshake Foundation Donates USD 300K to KDE"
+#~ msgstr "Handshake Foundation mendonasikan 300.000 USD kepada KDE"
+
+#~ msgid "Handshake Foundation"
+#~ msgstr "Handshake Foundation"
+
+#~ msgid ""
+#~ "In 2018, the [Handshake Foundation made a donation of USD 300,000 to KDE "
+#~ "e.V](https://dot.kde.org/2018/10/15/kde-ev-receives-sizeable-donation-"
+#~ "handshake-foundation). The money was used to finance projects, fund the "
+#~ "development of Calligra Office Suite and to continue our commitment to "
+#~ "keep creating free and open source software for users worldwide."
+#~ msgstr ""
+#~ "Pada tahun 2018, [Handshake Foundation memberikan donasi sebesar USD "
+#~ "300.000 kepada KDE e.V](https://dot.kde.org/2018/10/15/kde-ev-receives-"
+#~ "sizeable-donation-handshake-foundation). Dana tersebut digunakan untuk "
+#~ "membiayai proyek, mendanai pengembangan Calligra Office Suite, dan "
+#~ "melanjutkan komitmen kami untuk terus menciptakan perangkat lunak sumber "
+#~ "terbuka dan gratis bagi pengguna di seluruh dunia."
+
+#, fuzzy
+#~| msgid "The Pineapple fund donates USD 200,000 to KDE"
+#~ msgid "The Pineapple Fund Donates USD 200K to KDE"
+#~ msgstr "Pineapple fund menyumbangkan 200.000 USD kepada KDE"
+
+#~ msgid "Pineapple Fund"
+#~ msgstr "Pineapple Fund"
+
+#~ msgid ""
+#~ "Pineapple, an anonymous philanthropic fund, [donated USD 200,000 to KDE e."
+#~ "V](https://dot.kde.org/2018/02/19/kde-receives-200000-usd-donation-"
+#~ "pineapple-fund) in 2018. This allowed KDE to keep paying for all the "
+#~ "expenses related to our community, such as sprints and events."
+#~ msgstr ""
+#~ "Pineapple, sebuah lembaga filantropi anonim, [menyumbangkan 200.000 USD "
+#~ "kepada KDE e.V](https://dot.kde.org/2018/02/19/kde-receives-200000-usd-"
+#~ "donation-pineapple-fund) pada tahun 2018. Hal ini memungkinkan KDE untuk "
+#~ "terus membayar semua biaya yang terkait dengan komunitas kami, seperti "
+#~ "sprint dan acara."
+
+#, fuzzy
+#~| msgid "Slimbook Becomes a KDE Patron"
+#~ msgid "Slimbook Becomes KDE Patron"
+#~ msgstr "Slimbook menjadi KDE Patron"
+
+#~ msgid ""
+#~ "Alejandro López (right), CEO at Slimbook, with Adriaan de Groot from the "
+#~ "KDE e.V. board."
+#~ msgstr ""
+#~ "Alejandro López (kanan), CEO Slimbook, bersama Adriaan de Groot dari "
+#~ "dewan KDE e.V."
+
+#~ msgid ""
+#~ "Slimbook, a Linux-focused Spanish computer brand, [has joined KDE as a "
+#~ "Patron](https://dot.kde.org/2021/02/25/slimbook-becomes-kde-patron). They "
+#~ "have been offering a variety of computers with GNU/Linux and Plasma for "
+#~ "years, and continue to support KDE and open source with their "
+#~ "contributions."
+#~ msgstr ""
+#~ "Slimbook, sebuah merek komputer asal Spanyol yang berfokus pada Linux, "
+#~ "[telah bergabung dengan KDE sebagai Patron](https://dot.kde."
+#~ "org/2021/02/25/slimbook-becomes-kde-patron). Mereka telah menawarkan "
+#~ "berbagai macam komputer dengan GNU/Linux dan Plasma selama bertahun-"
+#~ "tahun, dan terus mendukung KDE dan perangkat lunak sumber terbuka dengan "
+#~ "kontribusinya."
+
+#, fuzzy
+#~| msgid "PINE64 joins KDE as a Patron"
+#~ msgid "PINE64 Joins KDE as a Patron"
+#~ msgstr "PINE64 bergabung dengan KDE sebagai Patron"
+
+#~ msgid "PinePhone - KDE Community Edition"
+#~ msgstr "PinePhone - Edisi Komunitas KDE"
+
+#~ msgid ""
+#~ "PINE64 is a company that aims to deliver affordable, high-quality phones "
+#~ "and other devices with open source software. [PINE64 has become a KDE "
+#~ "Patron](https://dot.kde.org/2021/06/02/pine64-becomes-kde-patron) after "
+#~ "years of shipping devices with KDE software."
+#~ msgstr ""
+#~ "PINE64 adalah sebuah perusahaan yang bertujuan untuk menghadirkan ponsel "
+#~ "dan perangkat lain yang terjangkau dan berkualitas tinggi dengan "
+#~ "perangkat lunak sumber terbuka. [PINE64 telah menjadi KDE Patron](https://"
+#~ "dot.kde.org/2021/06/02/pine64-becomes-kde-patron) setelah bertahun-tahun "
+#~ "menjual peranti dengan perangkat lunak KDE."
+
+#, fuzzy
+#~| msgid "TUXEDO Computers Becomes a KDE Patron"
+#~ msgid "TUXEDO Computers Becomes KDE Patron"
+#~ msgstr "TUXEDO Computers menjadi KDE Patron"
+
+#~ msgid "Herbert Feiler, CEO of TUXEDO Computers."
+#~ msgstr "Herbert Feiler, CEO TUXEDO Computers."
+
+#~ msgid ""
+#~ "TUXEDO Computers offers a variety of products with GNU/Linux and KDE "
+#~ "Plasma pre-installed. They have been supporting open source software for "
+#~ "years and now [they have become KDE Patrons](https://dot.kde."
+#~ "org/2021/09/14/tuxedo-computers-becomes-newest-kde-patron)."
+#~ msgstr ""
+#~ "TUXEDO Computers menawarkan berbagai produk dengan GNU/Linux dan KDE "
+#~ "Plasma yang sudah terinstal. Mereka telah mendukung perangkat lunak "
+#~ "sumber terbuka selama bertahun-tahun dan sekarang [mereka telah menjadi "
+#~ "KDE Patron](https://dot.kde.org/2021/09/14/tuxedo-computers-becomes-"
+#~ "newest-kde-patron)."
+
+#, fuzzy
+#~| msgid "g10 Code Becomes a KDE Patron"
+#~ msgid "g10 Code Becomes KDE Patron"
+#~ msgstr "g10 Code Menjadi KDE Patron"
+
+#~ msgid "The g10 logo."
+#~ msgstr "Logo g10."
+
+#~ msgid ""
+#~ "[g10 Code GmbH joined the ranks of KDE patrons](https://dot.kde."
+#~ "org/2023/04/25/g10-code-becomes-kde-patron). g10 Code provides custom "
+#~ "development, enhancements, and audits of cryptographic software -- in "
+#~ "particular for the popular GnuPG encryption and digital signature tools."
+#~ msgstr ""
+#~ "[g10 Code GmbH bergabung dengan jajaran KDE patron](https://dot.kde."
+#~ "org/2023/04/25/g10-code-becomes-kde-patron). g10 Code menyediakan "
+#~ "pengembangan, peningkatan, dan audit perangkat lunak kriptografi yang "
+#~ "disesuaikan dengan kebutuhan - khususnya untuk enkripsi GnuPG yang "
+#~ "populer dan alat bantu tanda tangan digital."
+
+#, fuzzy
+#~| msgid "Slimbook Becomes a KDE Patron"
+#~ msgid "MBition Becomes KDE Patron"
+#~ msgstr "Slimbook menjadi KDE Patron"
+
+#, fuzzy
+#~| msgid "The g10 logo."
+#~ msgid "The Synergy logo."
+#~ msgstr "Logo g10."
+
+#~ msgid "The beginning of Free Software"
+#~ msgstr "Awal mula Perangkat Lunak Bebas"
+
+#~ msgid "KDE Beta 1"
+#~ msgstr "KDE Beta 1"
+
+#~ msgid "KDE Desktop"
+#~ msgstr "Desktop KDE"
+
+#~ msgid "KDE Project"
+#~ msgstr "Proyek KDE"
+
+#~ msgid "KDE Women"
+#~ msgstr "KDE Women"
+
+#~ msgid "Katie, Konqi's girlfriend"
+#~ msgstr "Katie, kekasih Konqi"
+
+#~ msgid "Kastle"
+#~ msgstr "Kastle"
+
+#~ msgid "Akademy 2004"
+#~ msgstr "Akademy 2004"
+
+#~ msgid "First Akademy-Es"
+#~ msgstr "Akademy-Es Pertama"
+
+#~ msgid "Guademy"
+#~ msgstr "Guademy"
+
+#~ msgid "KDE 4"
+#~ msgstr "KDE 4"
+
+#~ msgid "Akademy-Br"
+#~ msgstr "Akademy-Br"
+
+#~ msgid "Join the Game"
+#~ msgstr "Join the Game"
+
+#~ msgid "KDE SC 4.5"
+#~ msgstr "KDE SC 4.5"
+
+#~ msgid "Calligra Suite"
+#~ msgstr "Calligra Suite"
+
+#~ msgid "Plasma Active"
+#~ msgstr "Plasma Active"
+
+#~ msgid "First LaKademy"
+#~ msgstr "LaKademy Pertama"
+
+#~ msgid "New Konqi"
+#~ msgstr "Konqi yang baru"
+
+#~ msgid "Plasma 5"
+#~ msgstr "Plasma 5"
+
+#~ msgid "Plasma 5.5"
+#~ msgstr "Plasma 5.5"
+
+#~ msgid "KDE announced the Advisory Board"
+#~ msgstr "KDE mengumumkan Dewan Penasihat"
+
+#~ msgid ""
+#~ "GCompris celebrates its 20th Anniversary and is deployed in thousands of "
+#~ "schools in Kerala, India"
+#~ msgstr ""
+#~ "GCompris merayakan hari jadinya yang ke-20 dan digunakan di ribuan "
+#~ "sekolah di Kerala, India"
+
+#~ msgid "KDE runs two consecutive fundraisers and completes them both"
+#~ msgstr ""
+#~ "KDE menjalankan dua penggalangan dana berturut-turut dan menyelesaikan "
+#~ "keduanya"

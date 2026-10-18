@@ -1,0 +1,88 @@
+# Wantoyo <wantoyek@gmail.com>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-11-17 09:01+0000\n"
+"PO-Revision-Date: 2019-08-14 20:59+0700\n"
+"Last-Translator: Wantoyo <wantoyek@gmail.com>\n"
+"Language-Team: Indonesian <kde-i18n-doc@kde.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. (itstool) path: component/name
+#: org.kde.kirogi.appdata.xml:7
+msgid "Kirogi"
+msgstr "Kirogi"
+
+#. (itstool) path: component/summary
+#: org.kde.kirogi.appdata.xml:8
+msgid "UAV (drone) ground control"
+msgstr "Kendali darat UAV (drone)"
+
+#. (itstool) path: description/p
+#: org.kde.kirogi.appdata.xml:14
+msgid ""
+"Kirogi is a ground control application for drones. Take to the skies, open "
+"source-style."
+msgstr ""
+"Kirogi adalah sebuah aplikasi kendali darat untuk drone. Terkendali sampai "
+"ke langit, gaya open source."
+
+#. (itstool) path: description/p
+#: org.kde.kirogi.appdata.xml:15
+msgid "Features:"
+msgstr "Fitur:"
+
+#. (itstool) path: ul/li
+#: org.kde.kirogi.appdata.xml:17
+msgid "Direct flight controls"
+msgstr "Mengendalikan penerbangan yang langsung"
+
+#. (itstool) path: ul/li
+#: org.kde.kirogi.appdata.xml:18
+msgid "Fly by touch on a Navigation Map"
+msgstr "Terbangkan dengan menyentuh pada sebuah Peta Navigasi"
+
+#. (itstool) path: ul/li
+#: org.kde.kirogi.appdata.xml:19
+msgid "Trigger vehicle actions (e.g. flips, trim)"
+msgstr "Pemicu aksi wahana (mis. jungkir, trim)"
+
+#. (itstool) path: ul/li
+#: org.kde.kirogi.appdata.xml:20
+msgid "Gamepad/joypad support"
+msgstr "Dukungan gamepad/joypad"
+
+#. (itstool) path: ul/li
+#: org.kde.kirogi.appdata.xml:21
+msgid "Live video"
+msgstr "Video live"
+
+#. (itstool) path: ul/li
+#: org.kde.kirogi.appdata.xml:22
+msgid "Take photo and record video"
+msgstr "Ambil foto dan rekam video"
+
+#. (itstool) path: ul/li
+#: org.kde.kirogi.appdata.xml:23
+msgid "Configure flight parameters (speed, altitude limits)"
+msgstr "Konfigurasikan parameter penerbangan (batas kecepatan, ketinggian)"
+
+#. (itstool) path: ul/li
+#: org.kde.kirogi.appdata.xml:24
+msgid ""
+"Support for Parrot (Anafi, Bebop 2) and Ryze Tello drones (more planned)"
+msgstr ""
+"Dukungan untuk drone-drone Parrot (Anafi, Bebop 2) dan Ryze Tello "
+"(direncanakan lebih banyak)"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kirogi.appdata.xml:37
+msgid "The Kirogi in-flight UI"
+msgstr "Kirogi dalam UI penerbangan"
+
+#~ msgid "KDE Kirogi Developers"
+#~ msgstr "Para Pengembang KDE Kirogi"

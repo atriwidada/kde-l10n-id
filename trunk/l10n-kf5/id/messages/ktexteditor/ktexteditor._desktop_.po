@@ -1,0 +1,64 @@
+# Wantoyo <wantoyek@gmail.com>, 2018, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-09-27 02:11+0000\n"
+"PO-Revision-Date: 2019-02-21 13:39+0700\n"
+"Last-Translator: wantoyo <wantoyek@gmail.com>\n"
+"Language-Team: Indonesian <kde-i18n-doc@kde.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/buffer/org.kde.ktexteditor.katetextbuffer.actions:2
+msgctxt "Name"
+msgid "Document Actions"
+msgstr "Aksi Dokumen"
+
+#: src/buffer/org.kde.ktexteditor.katetextbuffer.actions:54
+msgctxt "Name"
+msgid "Save Document"
+msgstr "Simpan Dokumen"
+
+#: src/buffer/org.kde.ktexteditor.katetextbuffer.actions:103
+msgctxt "Description"
+msgid "Root privileges are needed to save this document"
+msgstr "Hak istimewa root diperlukan untuk menyimpan dokumen ini"
+
+#: src/data/ktexteditor.desktop:5
+msgctxt "Comment"
+msgid "Embeddable Text Editor Component (with Doc/View Separation)"
+msgstr ""
+"Komponen Pengedit Teks Dapat Ditanamkan (dengan Doc/Tampilan Pemisahan)"
+
+#: src/data/ktexteditorplugin.desktop:5
+msgctxt "Comment"
+msgid "KTextEditor Plugin"
+msgstr "Plugin KTextEditor"
+
+#: src/part/katepart.desktop.in:2
+msgctxt "Name"
+msgid "Embedded Advanced Text Editor"
+msgstr "Pengedit Teks Canggih Tertanam"
+
+#: src/part/katepart.desktop.in:64
+msgctxt "Comment"
+msgid "Reusable text editor component"
+msgstr ""
+
+#: templates/ktexteditor-plugin/ktexteditor-plugin.kdevtemplate:3
+msgctxt "Name"
+msgid "C++"
+msgstr "C++"
+
+#: templates/ktexteditor-plugin/ktexteditor-plugin.kdevtemplate:52
+msgctxt "Comment"
+msgid ""
+"Generates a KTextEditor C++ plugin to perform special operations on text in "
+"KWrite, Kate, KDevelop etc."
+msgstr ""
+"Menghasilkan sebuah plugin KTextEditor C++ untuk melakukan operasi khusus "
+"pada teks dalam KWrite, Kate, KDevelop dll."
