@@ -1,27 +1,33 @@
+# Indonesian translation of plasma-mobile._json
+# Using same license as plasma-mobile package
+#
 # Wantoyo <wantoyek@gmail.com>, 2019, 2020.
+# Andika Triwidada <andika@gmail.com>, 2026.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: desktop files\n"
+"Project-Id-Version: plasma-mobile._json\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-05-28 00:54+0000\n"
-"PO-Revision-Date: 2020-02-24 08:28+0700\n"
-"Last-Translator: Wantoyo <wantoyek@gmail.com>\n"
+"PO-Revision-Date: 2026-10-20 10:15+0700\n"
+"Last-Translator: Andika Triwidada <andika@gmail.com>\n"
 "Language-Team: Indonesian <kde-i18n-doc@kde.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.10\n"
 
 #: containments/homescreens/folio/metadata.json
 msgctxt "Name"
 msgid "Folio"
-msgstr ""
+msgstr "Folio"
 
 #: containments/homescreens/halcyon/metadata.json
 msgctxt "Name"
 msgid "Halcyon"
-msgstr ""
+msgstr "Halcyon"
 
 #: containments/panel/metadata.json
 msgctxt "Name"
@@ -36,520 +42,490 @@ msgstr "Panel Task Ponsel"
 #: initialstart/modules/cellular/package/metadata.json
 msgctxt "Name"
 msgid "Cellular"
-msgstr ""
+msgstr "Seluler"
 
 #: initialstart/modules/finished/metadata.json
 msgctxt "Name"
 msgid "Finished"
-msgstr ""
+msgstr "Selesai"
 
 #: initialstart/modules/prepare/package/metadata.json
 msgctxt "Name"
 msgid "Prepare"
-msgstr ""
+msgstr "Persiapkan"
 
 #: initialstart/modules/systemnavigation/metadata.json
 msgctxt "Name"
 msgid "System Navigation"
-msgstr ""
+msgstr "Navigasi Sistem"
 
 #: initialstart/modules/time/package/metadata.json
 msgctxt "Name"
 msgid "Time"
-msgstr ""
+msgstr "Waktu"
 
 #: initialstart/modules/wifi/package/metadata.json
 msgctxt "Name"
 msgid "WiFi"
-msgstr ""
+msgstr "WiFi"
 
 #: kcms/info/kcm_mobile_info.json
 msgctxt "Name"
 msgid "Information"
-msgstr ""
+msgstr "Informasi"
 
 #: kcms/mobileshell/kcm_mobileshell.json
 msgctxt "Name"
 msgid "Shell"
-msgstr ""
+msgstr "Shell"
 
 #: kcms/navigation/kcm_navigation.json
 msgctxt "Name"
 msgid "Navigation"
-msgstr ""
+msgstr "Navigasi"
 
 #: kcms/time/kcm_mobile_time.json
 msgctxt "Name"
 msgid "Time and Date"
-msgstr ""
+msgstr "Waktu dan Tanggal"
 
 #: kcms/waydroidintegration/kcm_waydroidintegration.json
 msgctxt "Name"
 msgid "Waydroid Integration"
-msgstr ""
+msgstr "Integrasi Waydroid"
 
 #: kded/autodetectapn/kded_plasma_mobile_autodetectapn.json
-#, fuzzy
 #| msgctxt "Comment"
 #| msgid "Plasma Mobile by KDE"
 msgctxt "Name"
 msgid "Plasma Mobile Autodetect APNs"
-msgstr "Plasma Mobile oleh KDE"
+msgstr "Deteksi Otomatis APN Plasma Mobile"
 
 #: kded/start/kded_plasma_mobile_start.json
-#, fuzzy
 #| msgctxt "Comment"
 #| msgid "Plasma Mobile by KDE"
 msgctxt "Name"
 msgid "Plasma Mobile Start"
-msgstr "Plasma Mobile oleh KDE"
+msgstr "Mulai Plasma Mobile"
 
 #: kwin/mobiletaskswitcher/package/metadata.json
 msgctxt "Name"
 msgid "Mobile Task Switcher"
-msgstr ""
+msgstr "Pengalih Tugas Mobile"
 
 #: kwin/scripts/convergentwindows/metadata.json
 msgctxt "Name"
 msgid "Convergent Windows"
-msgstr ""
+msgstr "Jendela Konvergen"
 
 #: layout-templates/org.kde.plasma.mobile.defaultNavigationPanel/metadata.json
 msgctxt "Name"
 msgid "Default Mobile Navigation Panel"
-msgstr ""
+msgstr "Panel Navigasi Mobile Baku"
 
 #: layout-templates/org.kde.plasma.mobile.defaultStatusBar/metadata.json
 msgctxt "Name"
 msgid "Default Mobile Status Bar"
-msgstr ""
+msgstr "Bila Status Mobile Baku"
 
 #: lookandfeel/metadata.json
-#, fuzzy
 #| msgctxt "Comment"
 #| msgid "Plasma Mobile by KDE"
 msgctxt "Name"
 msgid "Plasma Mobile Breeze"
-msgstr "Plasma Mobile oleh KDE"
+msgstr "Plasma Mobile Breeze"
 
 #: quicksettings/airplanemode/metadata.json
 msgctxt "Name"
 msgid "Airplane Mode"
-msgstr ""
+msgstr "Mode Pesawat Terbang"
 
 #: quicksettings/audio/metadata.json
 msgctxt "Name"
 msgid "Audio"
-msgstr ""
+msgstr "Audio"
 
 #: quicksettings/autohidepanels/metadata.json
 msgctxt "Name"
 msgid "Auto Hide Panels"
-msgstr ""
+msgstr "Sembunyikan Otomatis Panel"
 
 #: quicksettings/battery/metadata.json
 msgctxt "Name"
 msgid "Battery"
-msgstr ""
+msgstr "Baterai"
 
 #: quicksettings/bluetooth/metadata.json
 msgctxt "Name"
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 #: quicksettings/caffeine/metadata.json
 msgctxt "Name"
 msgid "Caffeine"
-msgstr ""
+msgstr "Kafein"
 
 #: quicksettings/darkmode/metadata.json
 msgctxt "Name"
 msgid "Dark Mode"
-msgstr ""
+msgstr "Mode Gelap"
 
 #: quicksettings/docked/metadata.json
 msgctxt "Name"
 msgid "Docked Mode"
-msgstr ""
+msgstr "Mode Tertambat"
 
 #: quicksettings/donotdisturb/metadata.json
 msgctxt "Name"
 msgid "Do Not Disturb"
-msgstr ""
+msgstr "Jangan Ganggu"
 
 #: quicksettings/flashlight/package/metadata.json
 msgctxt "Name"
 msgid "Flashlight"
-msgstr ""
+msgstr "Senter"
 
 #: quicksettings/hotspot/metadata.json
 msgctxt "Name"
 msgid "Hotspot"
-msgstr ""
+msgstr "Hotspot"
 
 #: quicksettings/keyboardtoggle/metadata.json
 msgctxt "Name"
 msgid "Virtual Keyboard Toggle"
-msgstr ""
+msgstr "Jungkitkan Papan Tik Virtual"
 
 #: quicksettings/kscreenosd/package/metadata.json
 msgctxt "Name"
 msgid "Screen OSD"
-msgstr ""
+msgstr "OSD Layar"
 
 #: quicksettings/mobiledata/metadata.json
 msgctxt "Name"
 msgid "Mobile Data"
-msgstr ""
+msgstr "Data Seluler"
 
 #: quicksettings/nightcolor/package/metadata.json
 msgctxt "Name"
 msgid "Night Color"
-msgstr ""
+msgstr "Warna Malam"
 
 #: quicksettings/powermenu/package/metadata.json
 msgctxt "Name"
 msgid "Power Menu"
-msgstr ""
+msgstr "Menu Daya"
 
 #: quicksettings/record/package/metadata.json
 msgctxt "Name"
 msgid "Record Screen"
-msgstr ""
+msgstr "Rekam Layar"
 
 #: quicksettings/screenrotation/package/metadata.json
 msgctxt "Name"
 msgid "Screen rotation"
-msgstr ""
+msgstr "Rotasi layar"
 
 #: quicksettings/screenshot/package/metadata.json
 msgctxt "Name"
 msgid "Screenshot"
-msgstr ""
+msgstr "Cuplikan layar"
 
 #: quicksettings/settingsapp/metadata.json
 msgctxt "Name"
 msgid "Settings"
-msgstr ""
+msgstr "Pengaturan"
 
 #: quicksettings/waydroid/metadata.json
 msgctxt "Name"
 msgid "Waydroid"
-msgstr ""
+msgstr "Waydroid"
 
 #: quicksettings/wifi/metadata.json
 msgctxt "Name"
 msgid "Wi-Fi"
-msgstr ""
+msgstr "Wi-Fi"
 
 #: shell/metadata.json
-#, fuzzy
 #| msgctxt "Comment"
 #| msgid "Plasma Mobile by KDE"
 msgctxt "Name"
 msgid "Plasma Mobile"
-msgstr "Plasma Mobile oleh KDE"
+msgstr "Plasma Mobile"
 
 #: containments/homescreens/folio/metadata.json
 msgctxt "Description"
 msgid "Mobile homescreen with a focus on customizability."
-msgstr ""
+msgstr "Layar beranda mobile dengan fokus pada dapat disesuaikan."
 
 #: containments/homescreens/halcyon/metadata.json
 msgctxt "Description"
 msgid "A mobile homescreen focused on simplicity and ease-of-use."
-msgstr ""
+msgstr "Layar beranda mobile yang berfokus pada kesederhanaan dan kemudahan penggunaan."
 
 #: containments/panel/metadata.json
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Plasma Mobile"
 msgctxt "Description"
 msgid "Top panel for Plasma Mobile"
-msgstr "Plasma Mobile"
+msgstr "Panel puncak untuk Plasma Mobile"
 
 #: containments/taskpanel/metadata.json
 msgctxt "Description"
 msgid "Navigation panel for Plasma Mobile"
-msgstr ""
+msgstr "Panel navigasi untuk Plasma Mobile"
 
 #: initialstart/modules/cellular/package/metadata.json
 msgctxt "Description"
 msgid "Cellular initialstart module for Plasma Mobile"
-msgstr ""
+msgstr "Modul initialstart seluler untuk Plasma Mobile"
 
 #: initialstart/modules/finished/metadata.json
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Plasma Mobile"
 msgctxt "Description"
 msgid "Finished initialstart module for Plasma Mobile"
-msgstr "Plasma Mobile"
+msgstr "Selesai modul initialstart untuk Plasma Mobile"
 
 #: initialstart/modules/prepare/package/metadata.json
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Plasma Mobile"
 msgctxt "Description"
 msgid "Prepare initialstart module for Plasma Mobile"
-msgstr "Plasma Mobile"
+msgstr "Menyiapkan modul initialstart untuk Plasma Mobile"
 
 #: initialstart/modules/systemnavigation/metadata.json
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Plasma Mobile"
 msgctxt "Description"
 msgid "System navigation initialstart module for Plasma Mobile"
-msgstr "Plasma Mobile"
+msgstr "Modul initialstart navigasi sistem untuk Plasma Mobile"
 
 #: initialstart/modules/time/package/metadata.json
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Plasma Mobile"
 msgctxt "Description"
 msgid "Time initialstart module for Plasma Mobile"
-msgstr "Plasma Mobile"
+msgstr "Modul initialstart waktu untuk Plasma Mobile"
 
 #: initialstart/modules/wifi/package/metadata.json
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Plasma Mobile"
 msgctxt "Description"
 msgid "WiFi initialstart module for Plasma Mobile"
-msgstr "Plasma Mobile"
+msgstr "Modul initialstart WiFi untuk Plasma Mobile"
 
 #: kcms/info/kcm_mobile_info.json
 msgctxt "Description"
 msgid "Software Versions"
-msgstr ""
+msgstr "Versi Perangkat Lunak"
 
 #: kcms/mobileshell/kcm_mobileshell.json
 msgctxt "Description"
 msgid "Configure the system shell"
-msgstr ""
+msgstr "Konfigurasikan shell sistem"
 
 #: kcms/navigation/kcm_navigation.json
 msgctxt "Description"
 msgid "Configure System Navigation"
-msgstr ""
+msgstr "Konfigurasikan Navigasi Sistem"
 
 #: kcms/time/kcm_mobile_time.json
 msgctxt "Description"
 msgid "Timezone, Date Display"
-msgstr ""
+msgstr "Zona Waktu, Tampilan Tanggal"
 
 #: kcms/waydroidintegration/kcm_waydroidintegration.json
 msgctxt "Description"
 msgid "Waydroid configuration"
-msgstr ""
+msgstr "Konfigurasi Waydroid"
 
 #: kded/autodetectapn/kded_plasma_mobile_autodetectapn.json
 msgctxt "Description"
 msgid "Autodetect cellular APNs in Plasma Mobile"
-msgstr ""
+msgstr "Deteksi otomatis APN seluler dalam Plasma Mobile"
 
 #: kded/start/kded_plasma_mobile_start.json
 msgctxt "Description"
 msgid "Run initial tasks for Plasma Mobile during session startup"
-msgstr ""
+msgstr "Jalankan tugas awal untuk Plasma Mobile selama awal mula sesi"
 
 #: kwin/mobiletaskswitcher/package/metadata.json
 msgctxt "Description"
 msgid "Allows you to switch between running tasks with a mobile interface."
-msgstr ""
+msgstr "Mengizinkan Anda beralih antara tugas-tugas yang sedang berjalan dengan suatu antarmuka mobile."
 
 #: kwin/scripts/convergentwindows/metadata.json
 msgctxt "Description"
-msgid ""
-"Removes window decorations and maximizes windows on the first screen only."
-msgstr ""
+msgid "Removes window decorations and maximizes windows on the first screen only."
+msgstr "Menyingkirkan dekorasi jendela dan memaksimalkan jendela hanya pada layar pertama."
 
 #: layout-templates/org.kde.plasma.mobile.defaultNavigationPanel/metadata.json
 msgctxt "Description"
 msgid "Default navigation panel for mobile"
-msgstr ""
+msgstr "Panel navigasi baku bagi mobile"
 
 #: layout-templates/org.kde.plasma.mobile.defaultStatusBar/metadata.json
 msgctxt "Description"
 msgid "Default status bar for mobile"
-msgstr ""
+msgstr "Bilah status baku bagi mobile"
 
 #: lookandfeel/metadata.json
-#, fuzzy
 #| msgctxt "Comment"
 #| msgid "Plasma shell for phones"
 msgctxt "Description"
 msgid "Plasma for mobile devices"
-msgstr "Shell Plasma untuk ponsel"
+msgstr "Plasma untuk perangkat seluler"
 
 #: quicksettings/airplanemode/metadata.json
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Plasma Mobile"
 msgctxt "Description"
 msgid "Airplane mode quick setting for Plasma Mobile"
-msgstr "Plasma Mobile"
+msgstr "Pengaturan cepat mode pesawat terbang bagi Plasma Mobile"
 
 #: quicksettings/audio/metadata.json
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Plasma Mobile"
 msgctxt "Description"
 msgid "Audio quick setting for Plasma Mobile"
-msgstr "Plasma Mobile"
+msgstr "Pengaturan cepat audio bagi Plasma Mobile"
 
 #: quicksettings/autohidepanels/metadata.json
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Plasma Mobile"
 msgctxt "Description"
 msgid "Auto Hide Panels quick setting for Plasma Mobile"
-msgstr "Plasma Mobile"
+msgstr "Pengaturan cepat Sembunyikan Otomatis Panel bagi Plasma Mobile"
 
 #: quicksettings/battery/metadata.json
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Plasma Mobile"
 msgctxt "Description"
 msgid "Battery quick setting for Plasma Mobile"
-msgstr "Plasma Mobile"
+msgstr "Pengaturan cepat baterai bagi Plasma Mobile"
 
 #: quicksettings/bluetooth/metadata.json
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Plasma Mobile"
 msgctxt "Description"
 msgid "Bluetooth quick setting for Plasma Mobile"
-msgstr "Plasma Mobile"
+msgstr "Pengaturan cepat bluetooth bagi Plasma Mobile"
 
 #: quicksettings/caffeine/metadata.json
 msgctxt "Description"
 msgid "Quick setting to suspend system sleep for Plasma Mobile"
-msgstr ""
+msgstr "Pengaturan cepat untuk mensuspensi tidur sistem bagi Plasma Mobile"
 
 #: quicksettings/darkmode/metadata.json
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Plasma Mobile"
 msgctxt "Description"
 msgid "Dark Mode quick setting for Plasma Mobile"
-msgstr "Plasma Mobile"
+msgstr "Pengaturan cepat Mode Gelap bagi Plasma Mobile"
 
 #: quicksettings/docked/metadata.json
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Plasma Mobile"
 msgctxt "Description"
 msgid "Quick setting to toggle docked mode for Plasma Mobile"
-msgstr "Plasma Mobile"
+msgstr "Pengaturan cepat untuk menjungkitkan mode tertambat bagi Plasma Mobile"
 
 #: quicksettings/donotdisturb/metadata.json
 msgctxt "Description"
 msgid "Quick setting to toggle do not disturb mode for Plasma Mobile"
-msgstr ""
+msgstr "Pengaturan cepat untuk menjungkitkan mode jangan ganggu bagi Plasma Mobile"
 
 #: quicksettings/flashlight/package/metadata.json
 msgctxt "Description"
 msgid "Flashlight quick setting for Plasma Mobile"
-msgstr ""
+msgstr "Pengaturan cepat senter bagi Plasma Mobile"
 
 #: quicksettings/hotspot/metadata.json
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Plasma Mobile"
 msgctxt "Description"
 msgid "Hotspot quick setting for Plasma Mobile"
-msgstr "Plasma Mobile"
+msgstr "Pengaturan cepat hotspot bagi Plasma Mobile"
 
 #: quicksettings/keyboardtoggle/metadata.json
 msgctxt "Description"
 msgid "Quick setting for keyboard toggle for Plasma Mobile"
-msgstr ""
+msgstr "Pengaturan cepat untuk penjungkitan papan tik bagi Plasma Mobile"
 
 #: quicksettings/kscreenosd/package/metadata.json
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Plasma Mobile"
 msgctxt "Description"
 msgid "Screen setup OSD quick setting for Plasma Mobile"
-msgstr "Plasma Mobile"
+msgstr "Pengaturan cepat OSD penyiapan layar bagi Plasma Mobile"
 
 #: quicksettings/mobiledata/metadata.json
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Plasma Mobile"
 msgctxt "Description"
 msgid "Location quick setting for Plasma Mobile"
-msgstr "Plasma Mobile"
+msgstr "Pengaturan cepat lokasi bagi Plasma Mobile"
 
 #: quicksettings/nightcolor/package/metadata.json
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Plasma Mobile"
 msgctxt "Description"
 msgid "Night color quick setting for Plasma Mobile"
-msgstr "Plasma Mobile"
+msgstr "Pengaturan cepat warna malam bagi Plasma Mobile"
 
 #: quicksettings/powermenu/package/metadata.json
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Plasma Mobile"
 msgctxt "Description"
 msgid "Power menu quick setting for Plasma Mobile"
-msgstr "Plasma Mobile"
+msgstr "Pengaturan cepat menu daya bagi Plasma Mobile"
 
 #: quicksettings/record/package/metadata.json
 msgctxt "Description"
 msgid "Screen recording quick setting for Plasma Mobile"
-msgstr ""
+msgstr "Pengaturan cepat perekaman layar bagi Plasma Mobile"
 
 #: quicksettings/screenrotation/package/metadata.json
 msgctxt "Description"
 msgid "Screen rotation quick setting for Plasma Mobile"
-msgstr ""
+msgstr "Pengaturan cepat rotasi layar bagi Plasma Mobile"
 
 #: quicksettings/screenshot/package/metadata.json
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Plasma Mobile"
 msgctxt "Description"
 msgid "Screenshot quick setting for Plasma Mobile"
-msgstr "Plasma Mobile"
+msgstr "Pengaturan cepat cuplikan layar bagi Plasma Mobile"
 
 #: quicksettings/settingsapp/metadata.json
 msgctxt "Description"
 msgid "Settings application quick setting for Plasma Mobile"
-msgstr ""
+msgstr "Pengaturan cepat aplikasi pengaturan bagi Plasma Mobile"
 
 #: quicksettings/waydroid/metadata.json
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Plasma Mobile"
 msgctxt "Description"
 msgid "Waydroid quick setting for Plasma Mobile"
-msgstr "Plasma Mobile"
+msgstr "Pengaturan cepat waydroid bagi Plasma Mobile"
 
 #: quicksettings/wifi/metadata.json
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Plasma Mobile"
 msgctxt "Description"
 msgid "Wi-Fi quick setting for Plasma Mobile"
-msgstr "Plasma Mobile"
+msgstr "Pengaturan cepat Wi-Fi bagi Plasma Mobile"
 
 #: shell/metadata.json
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Plasma shell for phones"
 msgctxt "Description"
 msgid "Plasma shell for mobile devices"
-msgstr "Shell Plasma untuk ponsel"
+msgstr "Shell Plasma untuk perangkat seluler"
 
 #: containments/homescreens/folio/metadata.json
 #: containments/panel/metadata.json containments/taskpanel/metadata.json
 msgctxt "Authors Name"
 msgid "Marco Martin"
-msgstr ""
+msgstr "Marco Martin"
 
 #: containments/homescreens/halcyon/metadata.json
 #: initialstart/modules/cellular/package/metadata.json
@@ -575,182 +551,80 @@ msgstr ""
 #: shell/metadata.json
 msgctxt "Authors Name"
 msgid "Devin Lin"
-msgstr ""
+msgstr "Devin Lin"
 
 #: kcms/navigation/kcm_navigation.json
 msgctxt "Authors Name"
 msgid "Luis Büchi"
-msgstr ""
+msgstr "Luis Büchi"
 
 #: kcms/waydroidintegration/kcm_waydroidintegration.json
 #: quicksettings/darkmode/metadata.json quicksettings/waydroid/metadata.json
 msgctxt "Authors Name"
 msgid "Florian RICHER"
-msgstr ""
+msgstr "Florian RICHER"
 
 #: kwin/scripts/convergentwindows/metadata.json
 msgctxt "Authors Name"
 msgid "Plata Hill"
-msgstr ""
+msgstr "Plata Hill"
 
 #: lookandfeel/metadata.json
 msgctxt "Authors Name"
 msgid "KDE Visual Design Group"
-msgstr ""
+msgstr "Grup Disain Visual KDE"
 
 #: quicksettings/airplanemode/metadata.json
 msgctxt "Authors Name"
 msgid "Bhushan Shah"
-msgstr ""
+msgstr "Bhushan Shah"
 
 #: quicksettings/autohidepanels/metadata.json
 msgctxt "Authors Name"
 msgid "Micah Stanley"
-msgstr ""
+msgstr "Micah Stanley"
 
 #: quicksettings/hotspot/metadata.json
 msgctxt "Authors Name"
 msgid "Yari Polla"
-msgstr ""
+msgstr "Yari Polla"
 
 #: quicksettings/kscreenosd/package/metadata.json
 msgctxt "Authors Name"
 msgid "Sebastian Kügler"
-msgstr ""
+msgstr "Sebastian Kügler"
 
 #: quicksettings/nightcolor/package/metadata.json
 msgctxt "Authors Name"
 msgid "Aleix Pol"
-msgstr ""
+msgstr "Aleix Pol"
 
 #: quicksettings/record/package/metadata.json
 msgctxt "Authors Name"
 msgid "Aleix Pol i Gonzalez"
-msgstr ""
+msgstr "Aleix Pol i Gonzalez"
 
 #: kcms/info/kcm_mobile_info.json
 msgctxt "X-KDE-Keywords"
 msgid "info, distro, system"
-msgstr ""
+msgstr "info,distro,sistem"
 
 #: kcms/mobileshell/kcm_mobileshell.json
 msgctxt "X-KDE-Keywords"
 msgid "system,shell,panel"
-msgstr ""
+msgstr "sistem,shell,panel"
 
 #: kcms/navigation/kcm_navigation.json
 msgctxt "X-KDE-Keywords"
 msgid "system,shell,panel,navigation,gesture"
-msgstr ""
+msgstr "sistem,shell,panel,navigasi,gestur"
 
 #: kcms/time/kcm_mobile_time.json
 msgctxt "X-KDE-Keywords"
 msgid "theme, look, feel"
-msgstr ""
+msgstr "tema,tampilan,gaya"
 
 #: kcms/waydroidintegration/kcm_waydroidintegration.json
 msgctxt "X-KDE-Keywords"
 msgid "waydroid"
-msgstr ""
-
-#~ msgctxt "Name"
-#~ msgid "Phone"
-#~ msgstr "Ponsel"
-
-#~ msgctxt "Name"
-#~ msgid "Phone Homescreen"
-#~ msgstr "Homescreen Ponsel"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Plasma Mobile"
-#~ msgctxt "Name"
-#~ msgid "Plasma Mobile (Development)"
-#~ msgstr "Plasma Mobile"
-
-#~ msgctxt "Comment"
-#~ msgid "Plasma workspace for smartphones"
-#~ msgstr "Kerangka kerja Plasma untuk smartphone"
-
-#~ msgctxt "Keywords"
-#~ msgid "Phone, Workspace, Look and Feel"
-#~ msgstr "Ponsel, Kerangkakerja, Nuansa dan Suasana"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Plasma Phone"
-#~ msgctxt "Name"
-#~ msgid "Plasma"
-#~ msgstr "Ponsel Plasma"
-
-#~ msgctxt "Name"
-#~ msgid "Plasma Phone"
-#~ msgstr "Ponsel Plasma"
-
-#~ msgctxt "Name"
-#~ msgid "Phone Activities"
-#~ msgstr "Aktivitas Ponsel"
-
-#~ msgctxt "Comment"
-#~ msgid "Activity switcher for the phone"
-#~ msgstr "Pengalih aktivitas untuk ponsel"
-
-#~ msgctxt "Name"
-#~ msgid "Search And Run"
-#~ msgstr "Cari Dan Jalankan"
-
-#~ msgctxt "Comment"
-#~ msgid "Search and run Applications and services"
-#~ msgstr "Cari dan jalankan Aplikasi dan layanan"
-
-#~ msgctxt "Name"
-#~ msgid "Touch Test"
-#~ msgstr "Uji Sentuh"
-
-#~ msgctxt "GenericName"
-#~ msgid "Terminal"
-#~ msgstr "Terminal"
-
-#~ msgctxt "Name"
-#~ msgid "Clock"
-#~ msgstr "Jam"
-
-#~ msgctxt "Comment"
-#~ msgid "Time displayed in a digital format"
-#~ msgstr "Waktu ditampilkan dalam format digital"
-
-#~ msgctxt "Name"
-#~ msgid "Phone multitask"
-#~ msgstr "Multitask ponsel"
-
-#~ msgctxt "Comment"
-#~ msgid "Multitasking user interface for Phone devices"
-#~ msgstr "Antarmuka pengguna multitasking untuk perangkat Ponsel"
-
-#~ msgctxt "Name"
-#~ msgid "Plasma Phone Lockers"
-#~ msgstr "Pengunci Ponsel Plasma"
-
-#~ msgctxt "Comment"
-#~ msgid "Plasma phone dialer"
-#~ msgstr "Pendial ponsel Plasma"
-
-#~ msgctxt "Comment"
-#~ msgid "Phone"
-#~ msgstr "Ponsel"
-
-#~ msgctxt "Name"
-#~ msgid "Missed Call"
-#~ msgstr "Miskol"
-
-#~ msgctxt "Comment"
-#~ msgid "A call has been missed"
-#~ msgstr "Sebuah panggilan yang tidak terjawab"
-
-#~ msgctxt "Name"
-#~ msgid "Ringing"
-#~ msgstr "Berdering"
-
-#~ msgctxt "Comment"
-#~ msgid "The phone is ringing"
-#~ msgstr "Ponsel berdering"
+msgstr "waydroid"
