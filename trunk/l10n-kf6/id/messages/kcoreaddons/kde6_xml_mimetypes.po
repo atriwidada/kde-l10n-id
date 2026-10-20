@@ -2,21 +2,22 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Wantoyo <wantoyek@gmail.com>, 2018, 2019, 2020, 2022.
 # Aziz Adam Adrian <4.adam.adrian@gmail.com>, 2022.
+# Andika Triwidada <andika@gmail.com>, 2026.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: kde6_xml_mimetypes\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-11-17 11:49+0000\n"
-"PO-Revision-Date: 2022-06-10 10:44+0700\n"
-"Last-Translator: Aziz Adam Adrian <4.adam.adrian@gmail.com>\n"
+"PO-Revision-Date: 2026-10-20 11:36+0700\n"
+"Last-Translator: Andika Triwidada <andika@gmail.com>\n"
 "Language-Team: Indonesian <kde-i18n-doc@kde.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 21.12.3\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.10\n"
 
 #: kde6.xml.podir/kde6.xml.in.h:1
 msgctxt "comment"
@@ -31,12 +32,12 @@ msgstr "Audio CD"
 #: kde6.xml.podir/kde6.xml.in.h:3
 msgctxt "comment"
 msgid "SNF bitmap font"
-msgstr "Fon bitmap SNF"
+msgstr "Fonta bitmap SNF"
 
 #: kde6.xml.podir/kde6.xml.in.h:4
 msgctxt "comment"
 msgid "Java applet"
-msgstr "Applet Java"
+msgstr "Aplet Java"
 
 #: kde6.xml.podir/kde6.xml.in.h:5
 msgctxt "comment"
@@ -66,22 +67,22 @@ msgstr "Tema SuperKaramba"
 #: kde6.xml.podir/kde6.xml.in.h:11
 msgctxt "comment"
 msgid "Calligra Plan project management document"
-msgstr "Dokumen pengelolaan projek Calligra Plan"
+msgstr "Dokumen pengelolaan proyek Calligra Plan"
 
 #: kde6.xml.podir/kde6.xml.in.h:12
 msgctxt "comment"
 msgid "Calligra Plan work package document"
-msgstr "Dokumen pemaketan kerja Calligra Plan"
+msgstr "Dokumen paket kerja Calligra Plan"
 
 #: kde6.xml.podir/kde6.xml.in.h:13
 msgctxt "comment"
 msgid "KPlato project management document"
-msgstr "Dokumen pengelolaan projek KPlato"
+msgstr "Dokumen pengelolaan proyek KPlato"
 
 #: kde6.xml.podir/kde6.xml.in.h:14
 msgctxt "comment"
 msgid "KPlato project management work package"
-msgstr "Paket kerja pengelolaan projek KPlato"
+msgstr "Paket kerja pengelolaan proyek KPlato"
 
 #: kde6.xml.podir/kde6.xml.in.h:15
 msgctxt "comment"
@@ -116,22 +117,22 @@ msgstr "Format citra raw KDE"
 #: kde6.xml.podir/kde6.xml.in.h:23
 msgctxt "comment"
 msgid "Intel® hexadecimal object file"
-msgstr "File objek heksadesimal Intel®"
+msgstr "Berkas objek heksadesimal Intel®"
 
 #: kde6.xml.podir/kde6.xml.in.h:24
 msgctxt "comment"
 msgid "Kate file list loader plugin list"
-msgstr "Daftar file Kate pemuat daftar plugin"
+msgstr "Daftar plugin pemuat daftar berkas Kate"
 
 #: kde6.xml.podir/kde6.xml.in.h:25
 msgctxt "comment"
 msgid "abc musical notation file"
-msgstr "File notasi musikal abc"
+msgstr "Berkas notasi musik abc"
 
 #: kde6.xml.podir/kde6.xml.in.h:26
 msgctxt "comment"
 msgid "fonts package"
-msgstr "Paket font"
+msgstr "paket fonta"
 
 #: kde6.xml.podir/kde6.xml.in.h:27
 msgctxt "comment"
@@ -146,7 +147,7 @@ msgstr "Workgroup Windows"
 #: kde6.xml.podir/kde6.xml.in.h:30
 msgctxt "comment"
 msgid "KDE system monitor"
-msgstr "Pemantau Sistem KDE"
+msgstr "Pemantau sistem KDE"
 
 #: kde6.xml.podir/kde6.xml.in.h:31
 msgctxt "comment"
@@ -161,12 +162,12 @@ msgstr "Proyek Quanta"
 #: kde6.xml.podir/kde6.xml.in.h:33
 msgctxt "comment"
 msgid "Kommander file"
-msgstr "File kommander"
+msgstr "Berkas Kommander"
 
 #: kde6.xml.podir/kde6.xml.in.h:34
 msgctxt "comment"
 msgid "potato"
-msgstr "kentang"
+msgstr "Berkas permainan potato"
 
 #: kde6.xml.podir/kde6.xml.in.h:35
 msgctxt "comment"
@@ -176,7 +177,7 @@ msgstr "Simpanan permainan Kolf"
 #: kde6.xml.podir/kde6.xml.in.h:36
 msgctxt "comment"
 msgid "Kolf course"
-msgstr "Haluan Kolf"
+msgstr "Berkas Lapangan Kolf"
 
 #: kde6.xml.podir/kde6.xml.in.h:37
 msgctxt "comment"
@@ -216,7 +217,7 @@ msgstr "dokumen pelatih kosakata"
 #: kde6.xml.podir/kde6.xml.in.h:44
 msgctxt "comment"
 msgid "KmPlot file"
-msgstr "File KmPlot"
+msgstr "Berkas KmPlot"
 
 #: kde6.xml.podir/kde6.xml.in.h:45
 msgctxt "comment"
@@ -226,12 +227,12 @@ msgstr "Kosakata KWordQuiz"
 #: kde6.xml.podir/kde6.xml.in.h:46
 msgctxt "comment"
 msgid "Cachegrind/Callgrind profile dump"
-msgstr "Gardu profil Cachegrind/Callgrind"
+msgstr "Curahan profil Cachegrind/Callgrind"
 
 #: kde6.xml.podir/kde6.xml.in.h:47
 msgctxt "comment"
 msgid "Umbrello UML Modeller file"
-msgstr "File Umbrello UML Modeller"
+msgstr "Berkas Umbrello UML Modeller"
 
 #: kde6.xml.podir/kde6.xml.in.h:48
 msgctxt "comment"
@@ -246,7 +247,7 @@ msgstr "Daftar unduhan KGet"
 #: kde6.xml.podir/kde6.xml.in.h:50
 msgctxt "comment"
 msgid "Kopete emoticons archive"
-msgstr "Arsip emosikon Kopete"
+msgstr "Arsip emotikon Kopete"
 
 #: kde6.xml.podir/kde6.xml.in.h:51
 msgctxt "comment"
@@ -266,7 +267,7 @@ msgstr "Dokumen Turtle RDF"
 #: kde6.xml.podir/kde6.xml.in.h:57
 msgctxt "comment"
 msgid "Softimage PIC image"
-msgstr "Citra Softimage PIC "
+msgstr "Citra PIC Softimage"
 
 #: kde6.xml.podir/kde6.xml.in.h:58
 msgctxt "comment"
@@ -292,43 +293,3 @@ msgstr "Deklarasi KNotification"
 msgctxt "comment"
 msgid "KCrash Report"
 msgstr "Laporan KCrash"
-
-#~ msgctxt "comment"
-#~ msgid "RealAudio plugin file"
-#~ msgstr "File Plugin RealAudio"
-
-#~ msgctxt "comment"
-#~ msgid "Kugar report template"
-#~ msgstr "Template laporan Kugar"
-
-#~ msgctxt "comment"
-#~ msgid "KHTML Extension Adaptor"
-#~ msgstr "Adaptor Ekstensi KHTML"
-
-#~ msgctxt "comment"
-#~ msgid "Qt Markup Language file"
-#~ msgstr "File Language Markup Qt"
-
-#~ msgid "Metalink download"
-#~ msgstr "Metalink unduh"
-
-#~ msgid "mime encapsulated web archive"
-#~ msgstr "Arsip web tertudung mime"
-
-#~ msgid "NewzBin usenet index"
-#~ msgstr "Indeks usenet NewzBin"
-
-#~ msgid "AAC sound"
-#~ msgstr "Suara AAC"
-
-#~ msgid "Objective-C header"
-#~ msgstr "Tajuk Objective-C"
-
-#~ msgid "TriG RDF document"
-#~ msgstr "Dokumen TriG RDF"
-
-#~ msgid "Mobipocket e-book"
-#~ msgstr "E-book Mobipocket"
-
-#~ msgid "WebP image"
-#~ msgstr "Citra WebP"
