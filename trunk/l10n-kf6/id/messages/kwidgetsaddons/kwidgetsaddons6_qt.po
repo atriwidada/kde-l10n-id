@@ -1125,12 +1125,12 @@ msgstr "Pilih sebuah blok yang akan ditampilkan"
 #: kcharselect.cpp:490
 msgctxt "KCharSelect|@info:tooltip"
 msgid "Set font"
-msgstr "Atur fonta"
+msgstr "Atur fon"
 
 #: kcharselect.cpp:497
 msgctxt "KCharSelect|@info:tooltip"
 msgid "Set font size"
-msgstr "Atur ukuran fonta"
+msgstr "Atur ukuran fon"
 
 #: kcharselect.cpp:799
 msgctxt "KCharSelect|"
@@ -1637,7 +1637,7 @@ msgstr "Pindah ke &Bawah"
 #: kfontchooser.cpp:160
 msgctxt "KFontChooser|@title:group"
 msgid "Requested Font"
-msgstr "Fonta yang Diminta"
+msgstr "Fon yang Diminta"
 
 #: kfontchooser.cpp:208
 msgctxt "KFontChooser|@item font"

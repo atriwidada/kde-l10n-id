@@ -92,7 +92,7 @@ msgstr "Penampilan & Gaya"
 #: categories/settings-appearance-font.desktop:8
 msgctxt "Name"
 msgid "Text & Fonts"
-msgstr "Teks & Fonta"
+msgstr "Teks & Fon"
 
 #: categories/settings-appearance-themes.desktop:9
 msgctxt "Name"

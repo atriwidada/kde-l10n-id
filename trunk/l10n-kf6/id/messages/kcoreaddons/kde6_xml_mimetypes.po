@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: kde6_xml_mimetypes\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-11-17 11:49+0000\n"
-"PO-Revision-Date: 2026-10-20 11:36+0700\n"
+"PO-Revision-Date: 2026-10-20 17:08+0700\n"
 "Last-Translator: Andika Triwidada <andika@gmail.com>\n"
 "Language-Team: Indonesian <kde-i18n-doc@kde.org>\n"
 "Language: id\n"
@@ -32,7 +32,7 @@ msgstr "Audio CD"
 #: kde6.xml.podir/kde6.xml.in.h:3
 msgctxt "comment"
 msgid "SNF bitmap font"
-msgstr "Fonta bitmap SNF"
+msgstr "Fon bitmap SNF"
 
 #: kde6.xml.podir/kde6.xml.in.h:4
 msgctxt "comment"
@@ -132,7 +132,7 @@ msgstr "Berkas notasi musik abc"
 #: kde6.xml.podir/kde6.xml.in.h:26
 msgctxt "comment"
 msgid "fonts package"
-msgstr "paket fonta"
+msgstr "paket fon"
 
 #: kde6.xml.podir/kde6.xml.in.h:27
 msgctxt "comment"
