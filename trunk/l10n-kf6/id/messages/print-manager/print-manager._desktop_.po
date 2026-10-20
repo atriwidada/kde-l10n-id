@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-10-18 00:57+0000\n"
+"POT-Creation-Date: 2026-10-20 01:00+0000\n"
 "PO-Revision-Date: 2022-03-19 07:56+0700\n"
 "Last-Translator: Linerly <linerly@protonmail.com>\n"
 "Language-Team: Indonesian <kde-i18n-doc@kde.org>\n"
@@ -40,12 +40,12 @@ msgctxt "Name"
 msgid "Printer Status Warning"
 msgstr ""
 
-#: src/kded/printmanager.notifyrc:155
+#: src/kded/printmanager.notifyrc:156
 msgctxt "Name"
 msgid "Low Ink/Toner Levels"
 msgstr ""
 
-#: src/kded/printmanager.notifyrc:201
+#: src/kded/printmanager.notifyrc:202
 msgctxt "Name"
 msgid "The New Printer was added"
 msgstr "Printer Baru telah ditambahkan"
@@ -58,7 +58,7 @@ msgctxt "Name"
 msgid "Plasma Print Queue Manager"
 msgstr "Print Manager"
 
-#: src/print-queue/org.kde.plasma.printqueue.desktop:38
+#: src/print-queue/org.kde.plasma.printqueue.desktop:39
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Print Queue"
@@ -66,7 +66,7 @@ msgctxt "GenericName"
 msgid "Print Queue"
 msgstr "Antrean Cetak"
 
-#: src/print-queue/org.kde.plasma.printqueue.desktop:74
+#: src/print-queue/org.kde.plasma.printqueue.desktop:76
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "View the print jobs"
